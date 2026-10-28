@@ -1,0 +1,5 @@
+# Páginas descargadas (pesadas y con contenido de terceros)
+scraper/raw/
+__pycache__/
+node_modules/
+.env
