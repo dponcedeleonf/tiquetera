@@ -72,6 +72,10 @@ Ideas en bruto para trabajar. Nada de esto está decidido todavía.
 
 ## 9. Problemas colaterales que podemos resolver (más allá de las entradas)
 
+> Prioridad baja: guardadas, pero con poca fe por ahora. Observaciones:
+> - Quien recibe la plata quiere control financiero y no repartirla en el momento. Alternativa: calcular el borderó y entregar el reporte, sin repartir el dinero.
+> - Facturación: verificar que la boleta se emita al instante de la compra y quién es el emisor (si nosotros vendemos por cuenta propia, podríamos cargar con el IGV de toda la entrada; ver con un contador).
+
 Para salas:
 
 - **Borderó automático**: el reparto de taquilla entre sala y compañía (por ejemplo, 60/40) calculado y pagado solo, con pagos divididos para que cada uno reciba su parte directo.
@@ -100,7 +104,24 @@ Para productores:
 - Lo que no hace falta cargar: adelantos y devoluciones de comisión para ganar exclusividades, puntos de venta físicos, infraestructura para megaconciertos.
 - Pendiente: calculadora de costos por transacción comparando pasarelas y plazos.
 
-## 11. Pendientes
+## 11. Por qué tienen éxito algunas tiqueteras
+
+- **Joinnus (Perú)**: ganó la venta de un partido de la selección después de que Teleticket colapsara en el repechaje (servidor caído, colas, crisis en redes). Lección: la confiabilidad en el momento de mayor demanda es reputación; una caída mata la marca.
+- **Eventbrite, Sympla (Brasil), Passline (Chile)**: autoservicio para cualquier organizador y gratis para eventos gratuitos. Cada asistente ve la marca y luego organiza su propio evento con ella. Crecen por la cola larga.
+- **DICE (Reino Unido)**: empezó como guía de conciertos (descubrimiento) y después vendió entradas. Precio final sin sorpresas, entradas solo en la app (anti-reventa), descubrimiento personalizado. Su público fiel es lo que convence a las salas. Crítica: el organizador no se queda con los datos de su público.
+- **Fever**: usa los datos de lo que la gente busca para crear y programar experiencias propias (como los conciertos Candlelight) en espacios poco usados. Compró DICE en 2025. Analogía directa con "llenar salas".
+- **Tiqueteras grandes (Teleticket, Ticketmaster)**: exclusivas con grandes promotores y alianzas con bancos y marcas (preventas para clientes de un banco).
+
+Ideas que salen de esto:
+
+- Infraestructura que no se caiga, sobre todo en preventas.
+- Gratis para eventos gratuitos y "a la gorra": crecimiento por la cola larga y la capa solidaria.
+- Precio final transparente desde el primer vistazo.
+- A diferencia de DICE, el productor sí se queda con los datos de su público (diferenciador).
+- **Datos de demanda como producto**: lo que la gente busca y no encuentra ("martes en Cusco, algo tranquilo") le dice a salas y productores qué programar y dónde. Base para el negocio futuro de llenar salas.
+- **Alianzas con marcas y bancos** que financien descuentos o preventas: plata para el productor que hoy no tiene acceso a eso.
+
+## 12. Pendientes
 
 - Entender mejor a productores y salas: conversaciones con 5 a 10 de la red de contactos.
 - Prototipo para convencer a la socia, enfocado en el productor: publicar en 2 minutos pegando el afiche, compra en un clic, ventas en tiempo real, aviso a seguidores, sombrero virtual.
