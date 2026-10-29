@@ -26,6 +26,11 @@ def clave_sala(nombre):
     return s
 
 
+def clave_persona(nombre):
+    """Une variantes de escritura: 'Yvonne Fraysinett' e 'Ivonne Frayssinet' dan la misma clave."""
+    return re.sub(r"(.)\1+", r"\1", slug(nombre).replace("y", "i"))
+
+
 def imagenes():
     img = {}
     for r in json.load(open(DATA / "teleticket.json")):
@@ -93,12 +98,12 @@ def main():
         nombre = " ".join((nombre or "").split())
         if len(nombre) < 3:
             return None
-        clave = slug(nombre)
-        p = personas.setdefault(clave, {"slug": clave, "nombre": nombre, "roles": [], "obras": []})
+        clave = clave_persona(nombre)
+        p = personas.setdefault(clave, {"slug": slug(nombre), "nombre": nombre, "roles": [], "obras": []})
         roles_persona[clave].add(rol)
         if obra_slug not in p["obras"]:
             p["obras"].append(obra_slug)
-        return clave
+        return p["slug"]
 
     def agregar_obra(base, ev):
         titulo = base["titulo"]
