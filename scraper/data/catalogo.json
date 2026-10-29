@@ -862,15 +862,68 @@
    "horario_texto": "Sáb 10, jue 15 y sáb 17 de octubre, 7:30 p. m.",
    "temporada": {
     "inicio": "2026-10-10",
-    "fin": "2026-10-17"
+    "fin": "2026-11-22"
    },
    "precio_desde": null,
-   "productora": null,
-   "funciones": [],
+   "productora": "A Tu Mama Le Dicen S.A.C.",
+   "funciones": [
+    {
+     "fecha": "2026-11-07",
+     "hora": "19:30",
+     "disponible": true,
+     "precios": [],
+     "sala": "teatro-canout"
+    },
+    {
+     "fecha": "2026-11-12",
+     "hora": "19:30",
+     "disponible": true,
+     "precios": [],
+     "sala": "teatro-canout"
+    },
+    {
+     "fecha": "2026-11-15",
+     "hora": "19:30",
+     "disponible": true,
+     "precios": [],
+     "sala": "teatro-canout"
+    },
+    {
+     "fecha": "2026-11-22",
+     "hora": "19:30",
+     "disponible": true,
+     "precios": [],
+     "sala": "teatro-canout"
+    }
+   ],
    "fuentes": [
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/hablando-huevadas-2026",
+     "sala": "teatro-canout",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/hablando-huevadas",
+     "sala": "teatro-canout",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/hablandohuevadas",
+     "sala": "teatro-canout",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/hh-hablandohuevadas",
+     "sala": "teatro-canout",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/hablandohuevadas-hh",
      "sala": "teatro-canout",
      "url_compra": null
     }
@@ -1614,7 +1667,7 @@
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/hid142_rs.jpg",
    "duracion_min": 180,
    "edad_minima": 14,
-   "horario_texto": "Sáb 14 nov, 8 p. m.",
+   "horario_texto": "Vie 6 nov",
    "temporada": {
     "inicio": "2026-10-28",
     "fin": "2026-11-24"
@@ -1631,8 +1684,26 @@
     },
     {
      "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/chapa-tu-money-6nov-2026",
+     "sala": "teatro-canout",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/chapa-tu-money-11nov-2026",
+     "sala": "teatro-canout",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
      "url": "https://teleticket.com.pe/chapa-tu-money-chiclayo-2026",
      "sala": "auditorio-de-la-universidad-senor-de-sipan",
+     "url_compra": null
+    },
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/chapa-tu-money-18nov-2026",
+     "sala": "teatro-canout",
      "url_compra": null
     },
     {
@@ -7155,57 +7226,6 @@
    ]
   },
   {
-   "slug": "chapa-tu-money",
-   "titulo": "Chapa tu money",
-   "tipo": "show",
-   "generos": [
-    "comedia",
-    "improvisación"
-   ],
-   "sinopsis": "Show de humor, retos e improvisación que sale de YouTube al teatro, con Mateo Garrido Lecca y todo el elenco. Va por su octava temporada.",
-   "sala": "teatro-canout",
-   "salas": [
-    "teatro-canout"
-   ],
-   "ciudad": "Lima",
-   "imagen": "https://cdn.teleticket.com.pe/images/eventos/hid143_rs.jpg",
-   "duracion_min": null,
-   "edad_minima": 14,
-   "horario_texto": "Vie 6 nov",
-   "temporada": {
-    "inicio": "2026-11-06",
-    "fin": "2026-11-18"
-   },
-   "precio_desde": 49.9,
-   "productora": null,
-   "funciones": [],
-   "fuentes": [
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/chapa-tu-money-6nov-2026",
-     "sala": "teatro-canout",
-     "url_compra": null
-    },
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/chapa-tu-money-11nov-2026",
-     "sala": "teatro-canout",
-     "url_compra": null
-    },
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/chapa-tu-money-18nov-2026",
-     "sala": "teatro-canout",
-     "url_compra": null
-    }
-   ],
-   "elenco": [],
-   "ficha": [],
-   "artistas": [
-    "mateo-garrido-lecca"
-   ]
-  },
-  {
    "slug": "divas-del-rock-y-pop-en-ingles-vol-2",
    "titulo": "Divas Del Rock Y Pop En Ingles Vol. 2",
    "tipo": "concierto",
@@ -7958,93 +7978,6 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
-  },
-  {
-   "slug": "hablando-huevadas",
-   "titulo": "Hablando huevadas",
-   "tipo": "show",
-   "generos": [
-    "humor",
-    "conversación"
-   ],
-   "sinopsis": "Función en vivo del dúo detrás del popular programa de YouTube Hablando Huevadas, con humor y conversación en el escenario.",
-   "sala": "teatro-canout",
-   "salas": [
-    "teatro-canout"
-   ],
-   "ciudad": "Lima",
-   "imagen": "https://cdn.teleticket.com.pe/images/eventos/ATM030_md.jpg?v=1792190182",
-   "duracion_min": null,
-   "edad_minima": null,
-   "horario_texto": "Sáb 7 nov, 7:30 p. m.",
-   "temporada": {
-    "inicio": "2026-11-07",
-    "fin": "2026-11-22"
-   },
-   "precio_desde": null,
-   "productora": "A Tu Mama Le Dicen S.A.C.",
-   "funciones": [
-    {
-     "fecha": "2026-11-07",
-     "hora": "19:30",
-     "disponible": true,
-     "precios": [],
-     "sala": "teatro-canout"
-    },
-    {
-     "fecha": "2026-11-12",
-     "hora": "19:30",
-     "disponible": true,
-     "precios": [],
-     "sala": "teatro-canout"
-    },
-    {
-     "fecha": "2026-11-15",
-     "hora": "19:30",
-     "disponible": true,
-     "precios": [],
-     "sala": "teatro-canout"
-    },
-    {
-     "fecha": "2026-11-22",
-     "hora": "19:30",
-     "disponible": true,
-     "precios": [],
-     "sala": "teatro-canout"
-    }
-   ],
-   "fuentes": [
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/evento/hablando-huevadas",
-     "sala": "teatro-canout",
-     "url_compra": null
-    },
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/evento/hablandohuevadas",
-     "sala": "teatro-canout",
-     "url_compra": null
-    },
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/evento/hh-hablandohuevadas",
-     "sala": "teatro-canout",
-     "url_compra": null
-    },
-    {
-     "fuente": "teleticket",
-     "url": "https://teleticket.com.pe/evento/hablandohuevadas-hh",
-     "sala": "teatro-canout",
-     "url_compra": null
-    }
-   ],
-   "elenco": [],
-   "ficha": [],
-   "artistas": [
-    "ricardo-mendoza",
-    "jorge-luna"
-   ]
   },
   {
    "slug": "jose-feliciano-la-experiencia-15-anos",
@@ -9607,31 +9540,37 @@
    "artistas": []
   },
   {
-   "slug": "orquesta-filarmonica-de-lima-italiana-y-tragica",
-   "titulo": "Orquesta Filarmónica de Lima: Italiana y Trágica",
+   "slug": "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo",
+   "titulo": "Orquesta Filarmónica de Lima: Sinfonía n.º 9 del Nuevo Mundo",
    "tipo": "concierto",
    "generos": [
     "clásico",
     "sinfónico"
    ],
-   "sinopsis": "El sexto concierto de la temporada 2026 de la Filarmónica reúne dos sinfonías románticas, de Mendelssohn y Schubert, bajo la batuta del maestro invitado Matteo Pagliari.",
+   "sinopsis": "El octavo concierto de la temporada 2026 de la Orquesta Filarmónica de Lima está dedicado a la sinfonía de Dvořák. Se ofrece en el Gran Salón del Club de la Unión.",
    "sala": "gran-salon-del-club-de-la-union",
    "salas": [
     "gran-salon-del-club-de-la-union"
    ],
    "ciudad": "Lima",
-   "imagen": "https://cdn.getcrowder.com/images/2e5dacb3-327d-44d3-b1a2-df5f0aad5b5e-icono-del-evento.png",
+   "imagen": "https://cdn.getcrowder.com/images/39b6c768-0f19-4054-a7e6-45698b9eace7-icono-del-evento.jpg",
    "duracion_min": null,
    "edad_minima": 8,
-   "horario_texto": "Dom 8 de noviembre, 5 p. m.",
+   "horario_texto": "Vie 11 de diciembre, 8 p. m.",
    "temporada": {
     "inicio": "2026-11-08",
-    "fin": "2026-11-08"
+    "fin": "2026-12-11"
    },
    "precio_desde": 50,
    "productora": "Perudarnik E.I.R.L.",
    "funciones": [],
    "fuentes": [
+    {
+     "fuente": "ticketmaster",
+     "url": "https://www.ticketmaster.pe/event/orquesta-filarmnica-de-lima-sinfonia-n-9-del-nuevo-mundo",
+     "sala": "gran-salon-del-club-de-la-union",
+     "url_compra": null
+    },
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/orquesta-filarmonica-de-lima-italiana-tragica-venta-general",
@@ -9641,6 +9580,10 @@
    ],
    "elenco": [],
    "ficha": [
+    {
+     "persona": "antonin-dvorak",
+     "rol": "música"
+    },
     {
      "persona": "matteo-pagliari",
      "rol": "dirección"
@@ -16275,50 +16218,6 @@
    "artistas": []
   },
   {
-   "slug": "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo",
-   "titulo": "Orquesta Filarmónica de Lima: Sinfonía n.º 9 del Nuevo Mundo",
-   "tipo": "concierto",
-   "generos": [
-    "clásico",
-    "sinfónico"
-   ],
-   "sinopsis": "El octavo concierto de la temporada 2026 de la Orquesta Filarmónica de Lima está dedicado a la sinfonía de Dvořák. Se ofrece en el Gran Salón del Club de la Unión.",
-   "sala": "gran-salon-del-club-de-la-union",
-   "salas": [
-    "gran-salon-del-club-de-la-union"
-   ],
-   "ciudad": "Lima",
-   "imagen": "https://cdn.getcrowder.com/images/39b6c768-0f19-4054-a7e6-45698b9eace7-icono-del-evento.jpg",
-   "duracion_min": null,
-   "edad_minima": 8,
-   "horario_texto": "Vie 11 de diciembre, 8 p. m.",
-   "temporada": {
-    "inicio": "2026-12-11",
-    "fin": "2026-12-11"
-   },
-   "precio_desde": 50,
-   "productora": "Perudarnik E.I.R.L.",
-   "funciones": [],
-   "fuentes": [
-    {
-     "fuente": "ticketmaster",
-     "url": "https://www.ticketmaster.pe/event/orquesta-filarmnica-de-lima-sinfonia-n-9-del-nuevo-mundo",
-     "sala": "gran-salon-del-club-de-la-union",
-     "url_compra": null
-    }
-   ],
-   "elenco": [],
-   "ficha": [
-    {
-     "persona": "antonin-dvorak",
-     "rol": "música"
-    }
-   ],
-   "artistas": [
-    "orquesta-filarmonica-de-lima"
-   ]
-  },
-  {
    "slug": "entre-el-criollismo-y-la-salsa",
    "titulo": "Entre El Criollismo Y La Salsa",
    "tipo": "concierto",
@@ -21473,41 +21372,6 @@
    ]
   },
   {
-   "slug": "teatro-canout",
-   "nombre": "Teatro Canout",
-   "distrito": "Miraflores",
-   "ciudad": "Lima",
-   "direccion": "Av. Petit Thouars 4550, Miraflores",
-   "tipo": "comercial",
-   "aforo_aprox": 1000,
-   "descripcion_corta": "Antiguo cine de 1954 convertido en teatro en 1979; hoy es uno de los escenarios más activos de comedia, stand-up y teatro comercial.",
-   "web": null,
-   "instagram": "https://www.instagram.com/teatrocanoutpe/",
-   "ticketera": [
-    "Teleticket"
-   ],
-   "coordenadas": {
-    "lat": -12.10807,
-    "lng": -77.02998
-   },
-   "obras": [
-    "hablando-huevadas-nueva-temporada",
-    "chapa-tu-money-octava-temporada",
-    "la-manada",
-    "chapa-tu-money",
-    "hablando-huevadas",
-    "antes-de-partir",
-    "brutalidad-politica-100-dias-de-keiko",
-    "led-varela-popular",
-    "no-seas-sapo",
-    "jaime-ferraro-fraude",
-    "navidad-maricarmen-10-anos",
-    "chungo",
-    "leyendas-del-rock-edicion-halloween",
-    "trio-los-panchos-nostalgia-tour"
-   ]
-  },
-  {
    "slug": "la-estacion-de-barranco",
    "nombre": "La Estación de Barranco",
    "distrito": "Barranco",
@@ -21540,6 +21404,39 @@
     "oriana-montero-8vo-aniversario-tributo-a-mon-laferte",
     "la-ultima-rumba-tributo-gilberto-santa-rosa-y-hector-lavoe",
     "giuliana-taddei-the-blackstars"
+   ]
+  },
+  {
+   "slug": "teatro-canout",
+   "nombre": "Teatro Canout",
+   "distrito": "Miraflores",
+   "ciudad": "Lima",
+   "direccion": "Av. Petit Thouars 4550, Miraflores",
+   "tipo": "comercial",
+   "aforo_aprox": 1000,
+   "descripcion_corta": "Antiguo cine de 1954 convertido en teatro en 1979; hoy es uno de los escenarios más activos de comedia, stand-up y teatro comercial.",
+   "web": null,
+   "instagram": "https://www.instagram.com/teatrocanoutpe/",
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": {
+    "lat": -12.10807,
+    "lng": -77.02998
+   },
+   "obras": [
+    "hablando-huevadas-nueva-temporada",
+    "chapa-tu-money-octava-temporada",
+    "la-manada",
+    "antes-de-partir",
+    "brutalidad-politica-100-dias-de-keiko",
+    "led-varela-popular",
+    "no-seas-sapo",
+    "jaime-ferraro-fraude",
+    "navidad-maricarmen-10-anos",
+    "chungo",
+    "leyendas-del-rock-edicion-halloween",
+    "trio-los-panchos-nostalgia-tour"
    ]
   },
   {
@@ -22354,16 +22251,6 @@
    ]
   },
   {
-   "slug": "gran-salon-del-club-de-la-union",
-   "nombre": "Gran Salón del Club de la Unión",
-   "distrito": "Cercado de Lima",
-   "ciudad": "Lima",
-   "obras": [
-    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo",
-    "orquesta-filarmonica-de-lima-italiana-y-tragica"
-   ]
-  },
-  {
    "slug": "teatro-la-plaza",
    "nombre": "Teatro La Plaza",
    "distrito": "Miraflores",
@@ -22803,6 +22690,15 @@
    "ciudad": "Trujillo",
    "obras": [
     "o-kulta-north-tour-homenaje-a-beethoven"
+   ]
+  },
+  {
+   "slug": "gran-salon-del-club-de-la-union",
+   "nombre": "Gran Salón del Club de la Unión",
+   "distrito": "Cercado de Lima",
+   "ciudad": "Lima",
+   "obras": [
+    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo"
    ]
   },
   {
@@ -23299,7 +23195,6 @@
    "obras": [
     "hablando-huevadas-nueva-temporada",
     "hablando-huevadas-gira-nacional",
-    "hablando-huevadas",
     "antes-de-partir",
     "cazadores-de-historias",
     "formula-menos-1",
@@ -23315,7 +23210,6 @@
    "obras": [
     "hablando-huevadas-nueva-temporada",
     "hablando-huevadas-gira-nacional",
-    "hablando-huevadas",
     "antes-de-partir",
     "formula-menos-1",
     "hablando-huevadas-el-ultimo-show-del-ano"
@@ -23333,19 +23227,6 @@
     "gala-de-campeones",
     "voces-del-amor",
     "noche-de-reinas-isabel-pantoja-y-christina-aguilera"
-   ]
-  },
-  {
-   "slug": "mateo-garrido-lecca",
-   "nombre": "Mateo Garrido Lecca",
-   "roles": [
-    "artista"
-   ],
-   "obras": [
-    "chapa-tu-money-octava-temporada",
-    "chapa-tu-money",
-    "antes-de-partir",
-    "formula-menos-1"
    ]
   },
   {
@@ -23421,6 +23302,18 @@
     "jugando-con-el-lobo-feroz",
     "los-tres-cerditos-del-rock",
     "la-liebre-y-la-tortuga"
+   ]
+  },
+  {
+   "slug": "mateo-garrido-lecca",
+   "nombre": "Mateo Garrido Lecca",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "chapa-tu-money-octava-temporada",
+    "antes-de-partir",
+    "formula-menos-1"
    ]
   },
   {
@@ -23753,17 +23646,6 @@
    "obras": [
     "los-hombres-no-lloran",
     "la-mujer-de-negro-woman-in-black"
-   ]
-  },
-  {
-   "slug": "orquesta-filarmonica-de-lima",
-   "nombre": "Orquesta Filarmónica de Lima",
-   "roles": [
-    "artista"
-   ],
-   "obras": [
-    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo",
-    "orquesta-filarmonica-de-lima-italiana-y-tragica"
    ]
   },
   {
@@ -25250,7 +25132,7 @@
     "música"
    ],
    "obras": [
-    "orquesta-filarmonica-de-lima-italiana-y-tragica"
+    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo"
    ]
   },
   {
@@ -25430,7 +25312,7 @@
     "música"
    ],
    "obras": [
-    "orquesta-filarmonica-de-lima-italiana-y-tragica"
+    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo"
    ]
   },
   {
@@ -27097,7 +26979,7 @@
     "dirección"
    ],
    "obras": [
-    "orquesta-filarmonica-de-lima-italiana-y-tragica"
+    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo"
    ]
   },
   {
@@ -27408,6 +27290,16 @@
    ],
    "obras": [
     "fusion-lirica-d-angelo-diaz-y-son-caliente-de-erick-yaipen"
+   ]
+  },
+  {
+   "slug": "orquesta-filarmonica-de-lima",
+   "nombre": "Orquesta Filarmónica de Lima",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo"
    ]
   },
   {

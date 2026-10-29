@@ -78,6 +78,7 @@ def main():
     indice_salas, salas_investigadas = cargar_salas_investigadas()
 
     obras, salas, personas = {}, {}, {}
+    por_titulo_corto = {}
     roles_persona = defaultdict(set)
 
     def registrar_sala(nombre, distrito, ciudad):
@@ -133,6 +134,10 @@ def main():
         # Una obra = una producción. Las giras y las fuentes repetidas se juntan por título;
         # cada función recuerda en qué sala es.
         obra_slug = slug(titulo)
+        # Variantes del mismo título en la misma sala ("Chapa tu money" y "Chapa tu money: octava
+        # temporada") son la misma producción.
+        corto = (slug(titulo.split(":")[0]), sala["slug"])
+        obra_slug = por_titulo_corto.get(corto, obra_slug)
         funciones = [{**f, "sala": sala["slug"]} for f in ev.get("funciones", [])]
         fuente = {"fuente": ev["fuente"], "url": ev["url"], "sala": sala["slug"], "url_compra": base.get("url_compra")}
         obra = obras.get(obra_slug)
@@ -173,6 +178,7 @@ def main():
                 "elenco": [], "ficha": [], "artistas": [],
             }
             obras[obra_slug] = obra
+            por_titulo_corto[corto] = obra_slug
             sumar_personas(obra, base)
         if obra_slug not in sala["obras"]:
             sala["obras"].append(obra_slug)
@@ -182,10 +188,12 @@ def main():
         if ev and x.get("incluir", True) and x.get("titulo"):
             agregar_obra(x, ev)
 
-    # Cartelera publicada en las webs de las propias salas (ver salas_web/).
-    ruta_salas_web = DATA / "extraido" / "salas_web.json"
-    if ruta_salas_web.exists():
-        for x in json.load(open(ruta_salas_web)):
+    # Cartelera publicada en las webs de las propias salas (salas_web/) y la que completamos
+    # con agendas municipales, del Ministerio de Cultura y prensa (salas_complemento/).
+    for ruta in (DATA / "extraido" / "salas_web.json", DATA / "extraido" / "salas_complemento.json"):
+        if not ruta.exists():
+            continue
+        for x in json.load(open(ruta)):
             if x.get("incluir", True) and x.get("titulo"):
                 agregar_obra(x, {"fuente": x["fuente"], "url": x["url"], "lugar": x["sala"], "funciones": []})
 
