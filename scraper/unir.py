@@ -22,7 +22,7 @@ def slug(texto):
 def clave_sala(nombre):
     """Clave tolerante: 'TEATRO PERUANO JAPONES' y 'Teatro Peruano Japonés' dan lo mismo."""
     s = slug(nombre)
-    s = re.sub(r"^(teatro|auditorio|centro-cultural|c-c)-", "", s)
+    s = re.sub(r"^(teatro|auditorio|centro-cultural|centro-de-convenciones|c-c|cc)-", "", s)
     return s
 
 
