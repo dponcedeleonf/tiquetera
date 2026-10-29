@@ -1,0 +1,1350 @@
+[
+  {
+    "id": "tt-TES048",
+    "incluir": true,
+    "titulo": "Hablando huevadas: nueva temporada",
+    "tipo": "show",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "El dúo de YouTube formado por Ricardo Mendoza y Jorge Luna lleva su programa de humor al escenario del Teatro Canout, con funciones en octubre.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 10, jue 15 y sáb 17 de octubre, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-10",
+      "fin": "2026-10-17"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-TES049",
+    "incluir": true,
+    "titulo": "Hablando huevadas: gira nacional",
+    "tipo": "show",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Ricardo Mendoza y Jorge Luna llevan su show de humor por varias ciudades del país, con funciones en Huancayo, Piura, Trujillo, Ayacucho, Lima y Arequipa.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": null,
+    "sala": "Varias sedes",
+    "distrito": null,
+    "ciudad": "Varias ciudades",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Del 10 al 16 de febrero, 7:30 p. m. (8 p. m. el 16 en Arequipa)",
+    "temporada": {
+      "inicio": "2026-02-10",
+      "fin": "2026-02-16"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-HID142",
+    "incluir": true,
+    "titulo": "Chapa tu money: octava temporada",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Show de retos e improvisación nacido en YouTube, conducido por Mateo Garrido Lecca junto a su elenco, en el que el público también puede ganar dinero.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mateo Garrido Lecca"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-28",
+      "fin": "2026-10-28"
+    },
+    "precio_desde": 49.9
+  },
+  {
+    "id": "tt-IOI001",
+    "incluir": true,
+    "titulo": "Los hombres no lloran",
+    "tipo": "musical",
+    "generos": [
+      "comedia",
+      "musical"
+    ],
+    "sinopsis": "Cuatro amigos vuelven a juntarse en escena en un show musical con humor sobre la amistad, el amor y los desamores.",
+    "elenco": [
+      {
+        "nombre": "Gabriel Calvo",
+        "personaje": null
+      },
+      {
+        "nombre": "Rodrigo Sánchez Patiño",
+        "personaje": null
+      },
+      {
+        "nombre": "Nicolás Galindo",
+        "personaje": null
+      },
+      {
+        "nombre": "Pablo Saldarriaga",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "In On It S.A.C.",
+    "sala": "Teatro Municipal de Surco",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Mié 28 de octubre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-28",
+      "fin": "2026-10-28"
+    },
+    "precio_desde": 42
+  },
+  {
+    "id": "tt-MVG048",
+    "incluir": true,
+    "titulo": "Hogar dulce hogar",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "drama familiar"
+    ],
+    "sinopsis": "Una familia que aún lleva el duelo por la muerte del padre se reúne en Navidad, y las tensiones por la nueva pareja de la madre salen a la luz entre situaciones cómicas.",
+    "elenco": [
+      {
+        "nombre": "Haydeé Cáceres",
+        "personaje": null
+      },
+      {
+        "nombre": "Carlos Victoria",
+        "personaje": null
+      },
+      {
+        "nombre": "Pedro Olórtegui",
+        "personaje": null
+      },
+      {
+        "nombre": "Jeffrie Fuster",
+        "personaje": null
+      },
+      {
+        "nombre": "Liz Roggero",
+        "personaje": null
+      },
+      {
+        "nombre": "Patricia Moncada",
+        "personaje": null
+      },
+      {
+        "nombre": "Gianfranco Mejía",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Cultural Ricardo Palma",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 10,
+    "horario_texto": "Mié 28 y jue 29 de octubre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-28",
+      "fin": "2026-10-29"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-HVP028",
+    "incluir": true,
+    "titulo": "Mónica Cabrejos, Doctora Bandida: Terapia de choque",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Mónica Cabrejos presenta un show de humor sobre las parejas pasadas, los traumas y el amor propio, pensado como una terapia colectiva para reír.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mónica Cabrejos"
+    ],
+    "productora": null,
+    "sala": "La Estación de Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Miércoles 8 p. m. (28 oct, 4, 11 y 25 nov)",
+    "temporada": {
+      "inicio": "2026-10-28",
+      "fin": "2026-11-25"
+    },
+    "precio_desde": 39.9
+  },
+  {
+    "id": "tt-PRO014",
+    "incluir": true,
+    "titulo": "La cabaña",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "romance",
+      "suspenso"
+    ],
+    "sinopsis": "En la Inglaterra de 1923, una pareja de amantes citada en una cabaña ve su plan trastocado por la llegada de personajes inesperados. Comedia de enredos con toques de misterio.",
+    "elenco": [
+      {
+        "nombre": "Joaquín de Orbegoso",
+        "personaje": null
+      },
+      {
+        "nombre": "Lilian Schiappa",
+        "personaje": null
+      },
+      {
+        "nombre": "Oscar Beltrán",
+        "personaje": null
+      },
+      {
+        "nombre": "Sandra Muente",
+        "personaje": null
+      },
+      {
+        "nombre": "Germán Loero",
+        "personaje": null
+      },
+      {
+        "nombre": "Mane Acosta",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Sandy Rustin",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Rodrigo Falla Brousset",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Makhy Arana",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Marsano",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-28",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-CTA099",
+    "incluir": true,
+    "titulo": "Nosotras que nos queremos tanto",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "drama"
+    ],
+    "sinopsis": "Cuatro hermanas se reúnen para vender el departamento de su madre y, entre viejos resentimientos y mucho humor, terminan reencontrándose.",
+    "elenco": [
+      {
+        "nombre": "Yvonne Fraysinett",
+        "personaje": null
+      },
+      {
+        "nombre": "Cecilia Tosso",
+        "personaje": null
+      },
+      {
+        "nombre": "Mónica Domínguez",
+        "personaje": null
+      },
+      {
+        "nombre": "Patricia Fraysinett",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 18,
+    "horario_texto": "Funciones a las 8:30 p. m. (28 oct, 13 y 20 nov)",
+    "temporada": {
+      "inicio": "2026-10-28",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": 80
+  },
+  {
+    "id": "tt-AAR001",
+    "incluir": false,
+    "titulo": "Observación de ballenas en Los Órganos",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Muelle Los Órganos",
+    "distrito": null,
+    "ciudad": "Piura",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-LXP032",
+    "incluir": false,
+    "titulo": "Tour reserva nacional de paracas - + islas ballestas",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Oficina Like Xplorer Perú",
+    "distrito": "Paracas",
+    "ciudad": "Pisco",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2027-01-09"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-LXP030",
+    "incluir": false,
+    "titulo": "Tour islas ballestas en paracas - salida desde el boulevard de paracas",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Oficina Like Xplorer Perú",
+    "distrito": "Paracas",
+    "ciudad": "Pisco",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2027-01-06"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-LXP031",
+    "incluir": false,
+    "titulo": "Paseo en dune buggy por la reserva nacional de paracas - +playa roja + desierto lunar",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Oficina Like Xplorer Perú",
+    "distrito": "Paracas",
+    "ciudad": "Pisco",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2027-01-09"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-LXP033",
+    "incluir": false,
+    "titulo": "Tour reserva nacional de paracas - + playa la mina",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Oficina Like Xplorer Perú",
+    "distrito": "Paracas",
+    "ciudad": "Pisco",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2027-01-09"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-PDP009",
+    "incluir": true,
+    "titulo": "Un océano para todos",
+    "tipo": "infantil",
+    "generos": [
+      "aventura",
+      "familiar"
+    ],
+    "sinopsis": "Obra para niños sobre un pequeño pez payaso que se pierde y un padre que recorre el océano para encontrarlo, con mensajes sobre amistad y perseverancia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Peruano Japonés",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": null,
+    "horario_texto": "Jue 29 y vie 30 de octubre, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-PCJ005",
+    "incluir": true,
+    "titulo": "Mensajes del alma",
+    "tipo": "show",
+    "generos": [
+      "espiritualidad"
+    ],
+    "sinopsis": "Espectáculo en vivo e interactivo de mediumnidad y conexión espiritual, presentado en el Teatro Segura.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "44 Arcángeles",
+    "sala": "Teatro Segura",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": null,
+    "horario_texto": "Jue 29 de octubre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-10-29"
+    },
+    "precio_desde": 268
+  },
+  {
+    "id": "tt-DHR026",
+    "incluir": true,
+    "titulo": "Voces de oro",
+    "tipo": "concierto",
+    "generos": [
+      "tributo",
+      "música latina"
+    ],
+    "sinopsis": "Concierto con intérpretes de Yo Soy que rinden tributo a figuras como Raphael, Julio Iglesias, Nino Bravo, Pedro Infante e Isabel Pantoja.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Josué Rivaldo",
+      "Marco Hurtado",
+      "Sebastián Hormazabal",
+      "Jesús Zavaleta",
+      "Paulina Villalobos"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Maracaná",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": null,
+    "horario_texto": "Jue 29 de octubre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-10-29"
+    },
+    "precio_desde": 64
+  },
+  {
+    "id": "tt-PRE033",
+    "incluir": true,
+    "titulo": "Annie, el musical",
+    "tipo": "musical",
+    "generos": [
+      "familiar",
+      "aventura",
+      "clásico"
+    ],
+    "sinopsis": "La huérfana Annie escapa del orfanato en la Nueva York de los años treinta para buscar a sus padres y termina encontrando una nueva familia. Musical para toda la familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Municipal de Surco",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue, vie y sáb 8 p. m.; sáb 4 p. m.; dom 12 m. y 4 p. m.",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": 39
+  },
+  {
+    "id": "tt-PSM012",
+    "incluir": true,
+    "titulo": "Yaco y el Loco",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Dos amigos de la infancia comparten anécdotas y puntos de vista sobre la vida, con humor e interacción con el público.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Yaco",
+      "El Loco"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 8 p. m. (29 oct, 19 y 26 nov)",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-11-26"
+    },
+    "precio_desde": 86
+  },
+  {
+    "id": "tt-JFB009",
+    "incluir": true,
+    "titulo": "Comedy Sessions",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia",
+      "magia"
+    ],
+    "sinopsis": "Noche de stand-up y magia en un ambiente íntimo, para unas 50 personas, que se puede disfrutar con café o cena.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Jorge Begazo",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Luoxo Hotel",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": null,
+    "horario_texto": "Vie y sáb 8 p. m. (más jue 29 oct)",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-12-19"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-CTA101",
+    "incluir": true,
+    "titulo": "Pareja abierta",
+    "tipo": "teatro",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Una pareja decide abrir su relación y, desde ese momento, todo puede pasar. Comedia de enredos sobre el amor y los acuerdos.",
+    "elenco": [
+      {
+        "nombre": "Ivonne Fraysinett",
+        "personaje": null
+      },
+      {
+        "nombre": "Marcelo Oxenford",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 18,
+    "horario_texto": "Jue 29 de octubre, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-10-29"
+    },
+    "precio_desde": 80
+  },
+  {
+    "id": "tt-MTS059",
+    "incluir": true,
+    "titulo": "El jefe del jefe",
+    "tipo": "teatro",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Un empresario inventa un presidente ficticio para evitar decisiones difíciles y, cuando debe presentarlo, contrata a un actor desempleado. La mentira se le va de las manos.",
+    "elenco": [
+      {
+        "nombre": "Miguel Iza",
+        "personaje": "Gabriel"
+      },
+      {
+        "nombre": "Sergio Galliani",
+        "personaje": "Cristian"
+      },
+      {
+        "nombre": "Joaquín Escobar",
+        "personaje": null
+      },
+      {
+        "nombre": "Andrea Aguirre",
+        "personaje": null
+      },
+      {
+        "nombre": "Franco Iza",
+        "personaje": null
+      },
+      {
+        "nombre": "Airam Galliani",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Diego Oria",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Jack McNamara",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Lars von Trier",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Multiteatro Movistar, Sala 3",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": 40
+  },
+  {
+    "id": "tt-DEA077",
+    "incluir": true,
+    "titulo": "Las irresponsables",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "drama"
+    ],
+    "sinopsis": "Tras una ruptura, tres amigas se refugian en una casa y hacen un pacto que las lleva a dejar de ser las mujeres correctas que todos esperan.",
+    "elenco": [
+      {
+        "nombre": "Claudia Berninzon",
+        "personaje": null
+      },
+      {
+        "nombre": "Norma Martínez",
+        "personaje": null
+      },
+      {
+        "nombre": "Johanna San Miguel",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Javier Daulte",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Doris Espinoza",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": "DEA Teatro",
+    "sala": "Teatro Nos PUCP",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-12-07"
+    },
+    "precio_desde": 48.4
+  },
+  {
+    "id": "tt-RIP156",
+    "incluir": false,
+    "titulo": "Full Day Lunahuaná",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP150",
+    "incluir": false,
+    "titulo": "Tour Lunahuaná + Cerro Azul 2D/1N",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-QMJ007",
+    "incluir": true,
+    "titulo": "Festival Arpa Perú",
+    "tipo": "concierto",
+    "generos": [
+      "música andina"
+    ],
+    "sinopsis": "Concierto de arpa ayacuchana con el maestro Luciano Quispe, intérprete de Puquio que difunde la música tradicional peruana.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Luciano Quispe"
+    ],
+    "productora": null,
+    "sala": "Teatro San Camilo",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 300,
+    "edad_minima": 5,
+    "horario_texto": "Vie 30 de octubre, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": 86
+  },
+  {
+    "id": "tt-PSM026",
+    "incluir": true,
+    "titulo": "Yaco y el Loco",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Dos amigos de la infancia comparten anécdotas y puntos de vista sobre la vida, con humor e interacción con el público.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Yaco",
+      "El Loco"
+    ],
+    "productora": null,
+    "sala": "Multiteatro Movistar, Sala 1",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 30 de octubre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": 87
+  },
+  {
+    "id": "tt-LAX009",
+    "incluir": true,
+    "titulo": "El adivino: una comedia terrorífica",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "terror",
+      "misterio"
+    ],
+    "sinopsis": "Un mentalista divertido y su público reciben la visita de un personaje misterioso que busca respuestas, y la comedia se vuelve una historia intrigante para la temporada de Halloween.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Capital Restobar",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Vie y sáb 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 38
+  },
+  {
+    "id": "tt-CTA105",
+    "incluir": true,
+    "titulo": "Radojka",
+    "tipo": "teatro",
+    "generos": [
+      "comedia negra"
+    ],
+    "sinopsis": "Dos cuidadoras descubren la muerte de su jefa serbia y deciden ocultarla para no perder el trabajo, lo que desata una cadena de situaciones absurdas.",
+    "elenco": [
+      {
+        "nombre": "Ivonne Frayssinet",
+        "personaje": null
+      },
+      {
+        "nombre": "Pilar Brescia",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Fernando Schmidt",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Christian Ibarzábal",
+        "rol": "dramaturgia"
+      }
+    ],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 18,
+    "horario_texto": "Vie 30 de octubre, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": 70
+  },
+  {
+    "id": "tt-GLD031",
+    "incluir": true,
+    "titulo": "Diego Gupioc: Fuera de control",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Función de stand-up del comediante Diego Gupioc en Lima Comedy Club.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Diego Gupioc"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Vie 30 de octubre, 9:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP158",
+    "incluir": false,
+    "titulo": "Tour Huancaya 1N/1D",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP146",
+    "incluir": false,
+    "titulo": "Tour Nevado Raura 1N/1D",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-06"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP159",
+    "incluir": false,
+    "titulo": "Tour Nevado Rajuntay 1N/1D",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP148",
+    "incluir": false,
+    "titulo": "Full Day Playa La Mina",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP155",
+    "incluir": false,
+    "titulo": "Full Day San Mateo de Otao",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP152",
+    "incluir": false,
+    "titulo": "Full Day Churín",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP163",
+    "incluir": false,
+    "titulo": "Tour Churín 2D/1N",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-12-19"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP153",
+    "incluir": false,
+    "titulo": "Full Day Cordillera de la Viuda",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP145",
+    "incluir": false,
+    "titulo": "Full Day Lomas de Lachay",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP154",
+    "incluir": false,
+    "titulo": "Full Day Machu Picchu Limeño",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP144",
+    "incluir": false,
+    "titulo": "Tour Rúpac 2D/1N",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-12-05"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RIP149",
+    "incluir": false,
+    "titulo": "Full Day Antioquía",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Tour turístico; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": null,
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-LAC018",
+    "incluir": false,
+    "titulo": "Hallowine",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Evento de cata de vinos y destilados con música en vivo; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "La Alcoholería",
+    "distrito": "Pachacámac",
+    "ciudad": "Lima",
+    "duracion_min": 300,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 31 de octubre, desde la 1 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-PAT089",
+    "incluir": true,
+    "titulo": "Los 3 cerditos",
+    "tipo": "infantil",
+    "generos": [
+      "cuento",
+      "familiar"
+    ],
+    "sinopsis": "Versión teatral del cuento de los tres cerditos que construyen sus casas y enfrentan al lobo, con una enseñanza sobre el esfuerzo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Arlequín Teatro",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Sáb 31 de octubre, 2:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-CTP003",
+    "incluir": true,
+    "titulo": "Toy Story Live",
+    "tipo": "infantil",
+    "generos": [
+      "familiar",
+      "musical"
+    ],
+    "sinopsis": "Espectáculo familiar con música, baile y efectos especiales en el que Woody, Buzz Lightyear, Jessie y sus amigos viven una aventura sobre la amistad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "C.C. Parque de la Amistad",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 27.3
+  },
+  {
+    "id": "tt-PAR054",
+    "incluir": true,
+    "titulo": "Truco o trato: Halloween para niños",
+    "tipo": "infantil",
+    "generos": [
+      "musical",
+      "fantasía",
+      "familiar"
+    ],
+    "sinopsis": "Espectáculo musical teatral de Halloween con música en vivo, personajes y coreografías, más juegos, magia y concurso de disfraces para toda la familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "La Cúpula de las Artes",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 45
+  },
+  {
+    "id": "tt-CHI001",
+    "incluir": true,
+    "titulo": "Dulce o truco: Halloween para niños",
+    "tipo": "infantil",
+    "generos": [
+      "familiar",
+      "magia"
+    ],
+    "sinopsis": "Tarde de Halloween para niños con show infantil, espectáculo de magia, bocaditos temáticos y premio a los mejores disfraces.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Comercial Las Terrazas",
+    "distrito": "Magdalena del Mar",
+    "ciudad": "Lima",
+    "duracion_min": 240,
+    "edad_minima": null,
+    "horario_texto": "Sáb 31 de octubre, 3 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 160
+  }
+]

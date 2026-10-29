@@ -1,0 +1,1438 @@
+[
+  {
+    "id": "tt-MOD001",
+    "incluir": true,
+    "titulo": "Una torta y 3 velas: show de stand up comedy",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Una noche de stand up en la que Karla Valenzuela celebra su cumpleaños junto a un grupo de comediantes. Habrá rutinas, invitados, sorteos y mucho humor en vivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Karla Valenzuela",
+      "Emanuel Ramirez",
+      "Diego Mere",
+      "Nagib Reeves",
+      "Alina",
+      "Chapasa",
+      "Diego Ramos"
+    ],
+    "productora": "Primerizos Anónimos",
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 14 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-AEE005",
+    "incluir": true,
+    "titulo": "Gala de campeones",
+    "tipo": "concierto",
+    "generos": [
+      "tributo",
+      "música"
+    ],
+    "sinopsis": "Cuatro artistas rinden homenaje en el escenario a Adrián Barilari, Isabel Pantoja, Ricky Martin y Christina Aguilera. Es una noche de canciones conocidas para cantar y bailar.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mr. Nik",
+      "Paulina Villalobos",
+      "Favio Enríquez",
+      "Sasha"
+    ],
+    "productora": "Apolo Entertainment",
+    "sala": "C.C. Jorge Basadre Grohmann",
+    "distrito": null,
+    "ciudad": "Tacna",
+    "duracion_min": 180,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 14 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 78
+  },
+  {
+    "id": "tt-HID139",
+    "incluir": true,
+    "titulo": "Chapa tu money: octava temporada",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Un show de humor, retos e improvisación donde puede pasar cualquier cosa y los participantes compiten por llevarse dinero. Llega en su octava temporada con un elenco de conocidos creadores de YouTube.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mateo Garrido Lecca",
+      "Goncho Iglesias",
+      "Saskia Bernaola",
+      "Gisela Ponce de León"
+    ],
+    "productora": null,
+    "sala": "Auditorio de la Universidad Señor de Sipán",
+    "distrito": null,
+    "ciudad": "Chiclayo",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 14 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 69.9
+  },
+  {
+    "id": "tt-ABD012",
+    "incluir": true,
+    "titulo": "Ni tóxica ni mensa sin filtro: 2.ª temporada",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Angie Denegri presenta una segunda temporada de su stand up en formato de coaching grupal, con personajes, historias y situaciones de pareja y de la vida diaria. Hay mucha interacción con el público.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Angie Denegri"
+    ],
+    "productora": null,
+    "sala": "Roble de Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 14 nov y vie 18 dic, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-12-18"
+    },
+    "precio_desde": 49
+  },
+  {
+    "id": "tt-PVF006",
+    "incluir": true,
+    "titulo": "Un día a la vez: especial de stand up",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Cuarto especial de Hectod, que propone reírse de la ansiedad, la rabia y la depresión. Una hora y media de humor sobre la salud mental.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Hectod"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 14 nov, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 30
+  },
+  {
+    "id": "tt-ARP060",
+    "incluir": true,
+    "titulo": "Ser como Blippi tour",
+    "tipo": "infantil",
+    "generos": [
+      "musical",
+      "familiar"
+    ],
+    "sinopsis": "Espectáculo oficial de Blippi para los más pequeños, con canciones, juegos y actividades. Llega por primera vez a Lima como parte de su gira mundial 2026.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Blippi"
+    ],
+    "productora": null,
+    "sala": "Auditorio del Colegio San Agustín",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 2,
+    "horario_texto": "Dom 15 nov, 3 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 39
+  },
+  {
+    "id": "tt-CTA109",
+    "incluir": true,
+    "titulo": "Pinocho",
+    "tipo": "infantil",
+    "generos": [
+      "clásico",
+      "familiar"
+    ],
+    "sinopsis": "Versión teatral del clásico del muñeco de madera que debe elegir entre el bien y el mal para convertirse en un niño de verdad. Una función pensada para disfrutar en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Auditorio San Antonio de Padua",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 80,
+    "edad_minima": 2,
+    "horario_texto": "Dom 15 nov, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 32
+  },
+  {
+    "id": "tt-AEE004",
+    "incluir": true,
+    "titulo": "Gala de campeones",
+    "tipo": "concierto",
+    "generos": [
+      "tributo",
+      "música"
+    ],
+    "sinopsis": "Cuatro artistas rinden homenaje en el escenario a Adrián Barilari, Isabel Pantoja, Ricky Martin y Christina Aguilera. Es una noche de canciones conocidas para cantar y bailar.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mr. Nik",
+      "Paulina Villalobos",
+      "Favio Enríquez",
+      "Sasha"
+    ],
+    "productora": "Apolo Entertainment",
+    "sala": "Teatro Plaza Norte",
+    "distrito": "Independencia",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 4,
+    "horario_texto": "Dom 15 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 75
+  },
+  {
+    "id": "tt-ATM031",
+    "incluir": true,
+    "titulo": "Hablando huevadas",
+    "tipo": "comedia",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Función en vivo del dúo conocido por su programa de YouTube, formado por Ricardo Mendoza y Jorge Luna. Una noche de conversación y humor en el Teatro Canout.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 15 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-ARP062",
+    "incluir": true,
+    "titulo": "Katseye: The Tribute Experience Tour",
+    "tipo": "concierto",
+    "generos": [
+      "tributo",
+      "pop"
+    ],
+    "sinopsis": "Concierto tributo que recrea la música de Katseye con seis artistas en escena, coreografías y efectos visuales. Pensado para cantar y bailar durante toda la función.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Auditorio del Colegio San Agustín",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Dom 15 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 40
+  },
+  {
+    "id": "tt-MVG054",
+    "incluir": true,
+    "titulo": "Caos en familia",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "familiar"
+    ],
+    "sinopsis": "Tras la muerte de don Máximo, una familia distanciada se reúne para repartirse la herencia y las viejas rivalidades salen a la luz. Una comedia de enredos entre reproches, ironía y situaciones absurdas.",
+    "elenco": [
+      {
+        "nombre": "Ramón García",
+        "personaje": null
+      },
+      {
+        "nombre": "Pedro Olórtegui",
+        "personaje": null
+      },
+      {
+        "nombre": "Paola Miñán",
+        "personaje": null
+      },
+      {
+        "nombre": "Jeffrie Fuster",
+        "personaje": null
+      },
+      {
+        "nombre": "Lorena Reynoso",
+        "personaje": null
+      },
+      {
+        "nombre": "Alexis Arteaga",
+        "personaje": null
+      },
+      {
+        "nombre": "Renato Babilonia",
+        "personaje": null
+      },
+      {
+        "nombre": "Daniela Barraza",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 10,
+    "horario_texto": "Dom 15 nov, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 45
+  },
+  {
+    "id": "tt-HID146",
+    "incluir": true,
+    "titulo": "Antes de partir",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "música"
+    ],
+    "sinopsis": "Un show de No Somos TV que da el escenario a cantantes mayores de 75 años para cumplir su sueño de presentarse en vivo. Lo acompañan en la conducción cuatro conocidos humoristas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jorge Luna",
+      "Ricardo Mendoza",
+      "Mateo Garrido Lecca",
+      "Gisela Ponce de León"
+    ],
+    "productora": "No Somos TV",
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Lun 16 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-16",
+      "fin": "2026-11-16"
+    },
+    "precio_desde": 29.9
+  },
+  {
+    "id": "tt-HID149",
+    "incluir": true,
+    "titulo": "Chapa tu money",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Función de este show de humor en el Teatro Canout. La página no ofrece más detalles sobre el programa de esa fecha.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-11-18",
+      "fin": "2026-11-18"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-HOS002",
+    "incluir": true,
+    "titulo": "Hosanna, magia en el escenario",
+    "tipo": "teatro",
+    "generos": [
+      "aventura",
+      "familiar"
+    ],
+    "sinopsis": "Montaje del Colegio Hosanna sobre Aladino, que descubre una lámpara mágica y vive una aventura con música y baile. Habla de la amistad, la honestidad y la generosidad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Colegio Hosanna",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": null,
+    "horario_texto": "Vie 20 y sáb 21 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-20",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 30
+  },
+  {
+    "id": "tt-AMV003",
+    "incluir": true,
+    "titulo": "Led Varela: Popular",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Stand up del comediante venezolano-uruguayo Led Varela, que presenta su gira en Lima. Humor observacional y de ritmo ágil.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Led Varela"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Vie 20 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-20",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": 106
+  },
+  {
+    "id": "tt-MHA008",
+    "incluir": true,
+    "titulo": "Eso no es nada",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia",
+      "interactivo"
+    ],
+    "sinopsis": "El Chato Raúl invita al público a contar sus anécdotas más increíbles o vergonzosas, y responde a cada una con su clásico remate. Un show de comedia en el que las historias de los asistentes son las protagonistas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "El Chato Raúl"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Vie 20 nov, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-11-20",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": 45
+  },
+  {
+    "id": "tt-PAT096",
+    "incluir": true,
+    "titulo": "Caperucita Roja",
+    "tipo": "infantil",
+    "generos": [
+      "clásico",
+      "familiar"
+    ],
+    "sinopsis": "Arlequín Teatro lleva a escena el cuento de la niña que cruza el bosque para visitar a su abuela y se encuentra con un lobo astuto. Función corta para el público más pequeño.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Arlequín Teatro",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 2,
+    "horario_texto": "Sáb 21 y dom 22 nov, 2:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 25
+  },
+  {
+    "id": "tt-CRU001",
+    "incluir": true,
+    "titulo": "El sastrecito valiente",
+    "tipo": "infantil",
+    "generos": [
+      "aventura",
+      "familiar"
+    ],
+    "sinopsis": "Un joven sastre se embarca en una aventura donde descubre que la valentía también es creer en uno mismo y trabajar en equipo. Una obra familiar con música, baile y humor.",
+    "elenco": [
+      {
+        "nombre": "Ronald Malca",
+        "personaje": "El Sastrecito Valiente"
+      },
+      {
+        "nombre": "Gabriela del Pilar",
+        "personaje": "Valentina, la Princesa"
+      },
+      {
+        "nombre": "Paul Ramírez",
+        "personaje": "Toribio"
+      },
+      {
+        "nombre": "Edwin Vásquez",
+        "personaje": "Crispín"
+      },
+      {
+        "nombre": "Pedro Olórtegui",
+        "personaje": "El Rey"
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Beto Sánchez",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Beto Sánchez",
+        "rol": "adaptación"
+      }
+    ],
+    "artistas": [],
+    "productora": "CRZ Producciones",
+    "sala": "Auditorio Juana Alarco de Dammert",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 2,
+    "horario_texto": "Sáb 21 y sáb 28 nov, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 35
+  },
+  {
+    "id": "tt-TCE007",
+    "incluir": true,
+    "titulo": "Los Trostes en vivo: Los 20' vs. Los 30'",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Chiquiwilo, la Chinita Kim y Brayan Stiven comparan la vida a los veinte y a los treinta con juegos, debates y confesiones. El público también participa.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Chiquiwilo",
+      "La Chinita Kim",
+      "Brayan Stiven"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 21 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-FEM090",
+    "incluir": true,
+    "titulo": "Eva Ayllón: 55 años de vida artística",
+    "tipo": "concierto",
+    "generos": [
+      "música peruana"
+    ],
+    "sinopsis": "Eva Ayllón celebra sus 55 años de carrera con un concierto de gala acompañada de orquesta y coros. Repasa los temas más queridos de su trayectoria.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Eva Ayllón"
+    ],
+    "productora": null,
+    "sala": "Teatro Municipal del Cusco",
+    "distrito": null,
+    "ciudad": "Cusco",
+    "duracion_min": 60,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 21 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 128
+  },
+  {
+    "id": "tt-GVJ002",
+    "incluir": true,
+    "titulo": "Tributo a Bruno Mars por Jason Guerra",
+    "tipo": "concierto",
+    "generos": [
+      "tributo",
+      "pop"
+    ],
+    "sinopsis": "Jason Guerra interpreta las canciones de Bruno Mars en una velada íntima en el Lima Comedy Club.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jason Guerra"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 10,
+    "horario_texto": "Sáb 21 nov, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 93
+  },
+  {
+    "id": "tt-MTS062",
+    "incluir": true,
+    "titulo": "Nadie dice nada en Perú",
+    "tipo": "show",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "El equipo del programa Nadie Dice Nada se presenta por primera vez en Perú con un show en vivo en el Duomo de Costa 21.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Nico",
+      "Flor",
+      "Santi",
+      "Momi",
+      "Martin",
+      "Ángela",
+      "Marcos"
+    ],
+    "productora": null,
+    "sala": "Duomo Costa 21",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 16,
+    "horario_texto": "Dom 22 nov, 5:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-22",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 149
+  },
+  {
+    "id": "tt-TCE008",
+    "incluir": true,
+    "titulo": "Los Trostes en vivo: Los 20' vs. Los 30'",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Chiquiwilo, la Chinita Kim y Brayan Stiven comparan la vida a los veinte y a los treinta con juegos, debates y confesiones. Segunda fecha de este show.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Chiquiwilo",
+      "La Chinita Kim",
+      "Brayan Stiven"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 22 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-22",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-ATM032",
+    "incluir": true,
+    "titulo": "Hablando huevadas",
+    "tipo": "comedia",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Función en vivo del dúo conocido por su programa de YouTube, formado por Ricardo Mendoza y Jorge Luna. Una noche de conversación y humor en el Teatro Canout.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 22 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-22",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-HID150",
+    "incluir": true,
+    "titulo": "Antes de partir",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "música"
+    ],
+    "sinopsis": "Un show de No Somos TV que da el escenario a cantantes mayores de 75 años para cumplir su sueño de presentarse en vivo. Lo acompañan en la conducción cuatro conocidos humoristas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jorge Luna",
+      "Ricardo Mendoza",
+      "Mateo Garrido Lecca",
+      "Gisela Ponce de León"
+    ],
+    "productora": "No Somos TV",
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Lun 23 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-23",
+      "fin": "2026-11-23"
+    },
+    "precio_desde": 29.9
+  },
+  {
+    "id": "tt-HID147",
+    "incluir": true,
+    "titulo": "Chapa tu money: octava temporada",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Un show de humor, retos e improvisación donde puede pasar cualquier cosa y los participantes compiten por llevarse dinero. Mateo Garrido Lecca lidera el elenco en el Teatro Canout.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mateo Garrido Lecca"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-11-24",
+      "fin": "2026-11-24"
+    },
+    "precio_desde": 49.9
+  },
+  {
+    "id": "tt-MMC009",
+    "incluir": true,
+    "titulo": "No seas sapo",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "podcast"
+    ],
+    "sinopsis": "El podcast peruano No Seas Sapo lleva su humor irreverente al Teatro Canout con un show en vivo lleno de chisme, dinámicas y parodia. Manolo, Manolito y Renatito toman el escenario.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Manolo",
+      "Manolito",
+      "Renatito"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Jue 26 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-26",
+      "fin": "2026-11-26"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-VCR001",
+    "incluir": true,
+    "titulo": "Rosaflor: Mestiza",
+    "tipo": "concierto",
+    "generos": [
+      "música peruana"
+    ],
+    "sinopsis": "Rosaflor celebra 46 años de carrera con un espectáculo musical que recorre el vals, el huayno, la cumbia, el festejo y la salsa. Una mirada a la identidad de la Lima de hoy.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Rosaflor"
+    ],
+    "productora": null,
+    "sala": "Teatro Principal Manuel A. Segura",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": null,
+    "horario_texto": "Sáb 28 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 54
+  },
+  {
+    "id": "tt-ASV021",
+    "incluir": true,
+    "titulo": "Peruanazas: festival de stand up comedy de mujeres",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Un festival que reúne a comediantes de la escena limeña en una misma noche, cada una con su estilo y su propia mirada del humor. Celebra la diversidad de voces femeninas en el stand up peruano.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Norka Gaspar",
+      "Carolina Silva Santisteban",
+      "La Michilala",
+      "Milagros Porturas",
+      "Maribel Gastulo",
+      "Carla Torres",
+      "Janeth Cachay"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 28 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-CLU153",
+    "incluir": false,
+    "titulo": "Estacionamiento Greeicy",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Servicio de estacionamiento para un concierto en la Arena Monumental; no es un espectáculo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Arena Monumental",
+    "distrito": "Ate",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-PAR056",
+    "incluir": true,
+    "titulo": "El Cascanueces: Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "ballet"
+    ],
+    "sinopsis": "El Russian Classical Ballet presenta El Cascanueces, el clásico navideño con música de Tchaikovsky, danzas de copos de nieve y juguetes que cobran vida. Una función pensada para disfrutar en familia.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Teatro Moline",
+    "distrito": null,
+    "ciudad": "Chiclayo",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-JNL004",
+    "incluir": true,
+    "titulo": "Papá Cholo",
+    "tipo": "comedia",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Función en el Lima Comedy Club. La página no da más detalles del contenido del espectáculo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 28 nov, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 48
+  },
+  {
+    "id": "tt-PAR057",
+    "incluir": true,
+    "titulo": "El Cascanueces: Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "ballet"
+    ],
+    "sinopsis": "El Russian Classical Ballet presenta El Cascanueces, el clásico navideño con música de Tchaikovsky, danzas de copos de nieve y juguetes que cobran vida. Una función pensada para disfrutar en familia.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Auditorio M. Moncloa y Ferreyra",
+    "distrito": null,
+    "ciudad": "Piura",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-01",
+      "fin": "2026-12-01"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-ABM027",
+    "incluir": true,
+    "titulo": "Cascanueces",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "ballet"
+    ],
+    "sinopsis": "El Ballet Municipal de Lima presenta El Cascanueces en el Teatro Municipal de Lima durante la temporada navideña, con funciones especiales con orquesta en vivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Municipalidad Metropolitana de Lima",
+    "sala": "Teatro Municipal de Lima",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Con orquesta en vivo: sáb 12 y dom 13 dic, 6 p. m.; vie 18 dic, 7:30 p. m.; sáb 19 dic, 6 p. m.; mié 23 dic, 7:30 p. m.; vie 25 dic, 6 p. m.",
+    "temporada": {
+      "inicio": "2026-12-04",
+      "fin": "2026-12-27"
+    },
+    "precio_desde": 20
+  },
+  {
+    "id": "tt-FEM093",
+    "incluir": true,
+    "titulo": "Eva Ayllón: 55 años de vida artística",
+    "tipo": "concierto",
+    "generos": [
+      "música peruana"
+    ],
+    "sinopsis": "Eva Ayllón celebra sus 55 años de carrera con una noche dedicada a la música y la tradición peruanas. Interpretará los temas más importantes de su trayectoria.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Eva Ayllón"
+    ],
+    "productora": null,
+    "sala": "Teatro Fénix",
+    "distrito": null,
+    "ciudad": "Arequipa",
+    "duracion_min": 60,
+    "edad_minima": 18,
+    "horario_texto": "Vie 4 dic, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-04",
+      "fin": "2026-12-04"
+    },
+    "precio_desde": 85
+  },
+  {
+    "id": "tt-PAR058",
+    "incluir": true,
+    "titulo": "El Cascanueces: Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "ballet"
+    ],
+    "sinopsis": "El Russian Classical Ballet presenta El Cascanueces, el clásico navideño con música de Tchaikovsky, danzas de copos de nieve y juguetes que cobran vida. Una función pensada para disfrutar en familia.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Coliseo Gran Chimú",
+    "distrito": null,
+    "ciudad": "Trujillo",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-04",
+      "fin": "2026-12-05"
+    },
+    "precio_desde": 40
+  },
+  {
+    "id": "tt-LBE002",
+    "incluir": true,
+    "titulo": "Dudas eternas: el último baile",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "podcast"
+    ],
+    "sinopsis": "Los integrantes del podcast Dudas Eternas se reúnen una última vez para despedirse, contar anécdotas inéditas y comentar la actualidad política. Una función de cierre para su público.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Gianfranco Hereña",
+      "Merlín Chambi",
+      "Kevin Zavaleta"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 5 dic, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-12-05",
+      "fin": "2026-12-05"
+    },
+    "precio_desde": 64
+  },
+  {
+    "id": "tt-MGL002",
+    "incluir": true,
+    "titulo": "Silvio Rodríguez sinfónico: volumen 2",
+    "tipo": "concierto",
+    "generos": [
+      "trova",
+      "sinfónico"
+    ],
+    "sinopsis": "Segunda entrega de un homenaje a Silvio Rodríguez con versiones sinfónicas de sus canciones más queridas. Participan Franco Cáceres, Cassiopea y músicos sinfónicos.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Franco Cáceres",
+      "Cassiopea"
+    ],
+    "productora": null,
+    "sala": "Teatro Municipal del Cusco",
+    "distrito": null,
+    "ciudad": "Cusco",
+    "duracion_min": 140,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 5 dic, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-05",
+      "fin": "2026-12-05"
+    },
+    "precio_desde": 54
+  },
+  {
+    "id": "tt-GAZ001",
+    "incluir": true,
+    "titulo": "Ya vuelta les cuento",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Mario El Charapa estrena su nuevo show de stand up, en el que cuenta anécdotas de su vida, desde las buenas hasta las más vergonzosas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mario El Charapa"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 5 dic, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-12-05",
+      "fin": "2026-12-05"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-PAR059",
+    "incluir": true,
+    "titulo": "El Cascanueces: Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "ballet"
+    ],
+    "sinopsis": "El Russian Classical Ballet presenta El Cascanueces, el clásico navideño con música de Tchaikovsky, danzas de copos de nieve y juguetes que cobran vida. Una función pensada para disfrutar en familia.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Teatro Municipal del Cusco",
+    "distrito": null,
+    "ciudad": "Cusco",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-06",
+      "fin": "2026-12-08"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-PRE036",
+    "incluir": true,
+    "titulo": "Elf: el musical",
+    "tipo": "musical",
+    "generos": [
+      "comedia",
+      "navideño",
+      "familiar"
+    ],
+    "sinopsis": "Buddy, un joven criado como elfo en el Polo Norte, viaja a Nueva York para buscar a su padre y se propone contagiar el espíritu navideño. Una comedia musical para disfrutar en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Municipal de Surco",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 5,
+    "horario_texto": "Lun 7 dic, 5:30 p. m. o 8 p. m., según la entrada",
+    "temporada": {
+      "inicio": "2026-12-07",
+      "fin": "2026-12-07"
+    },
+    "precio_desde": 43
+  },
+  {
+    "id": "tt-PAR060",
+    "incluir": true,
+    "titulo": "El Cascanueces: Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "ballet"
+    ],
+    "sinopsis": "El Russian Classical Ballet presenta El Cascanueces, el clásico navideño con música de Tchaikovsky, danzas de copos de nieve y juguetes que cobran vida. Una función pensada para disfrutar en familia.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Teatro Municipal de Arequipa",
+    "distrito": null,
+    "ciudad": "Arequipa",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-09",
+      "fin": "2026-12-10"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-MMC007",
+    "incluir": true,
+    "titulo": "Jaime Ferraro: Fraude",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Jaime Ferraro vuelve al Teatro Canout con su nuevo show, en el que plantea que todos, él incluido, somos un poco un fraude.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jaime Ferraro"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 10 dic, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-10",
+      "fin": "2026-12-10"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-HID148",
+    "incluir": true,
+    "titulo": "Fórmula Menos 1",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "competencia"
+    ],
+    "sinopsis": "Segunda edición de esta competencia de carreras con humor, en un circuito renovado y con nuevos competidores. Jorge Luna, Ricardo Mendoza y Mateo Garrido Lecca se disputan el título de campeón.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jorge Luna",
+      "Ricardo Mendoza",
+      "Mateo Garrido Lecca"
+    ],
+    "productora": null,
+    "sala": "Ronex Park",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 12 dic, 12 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 49.9
+  },
+  {
+    "id": "tt-TOT001",
+    "incluir": true,
+    "titulo": "Navidad Maricarmen: 10 años",
+    "tipo": "infantil",
+    "generos": [
+      "navideño",
+      "familiar"
+    ],
+    "sinopsis": "Show familiar basado en el álbum de villancicos Navidad Maricarmen, que celebra diez años y llega por primera vez al teatro. Maricarmen y sus amigos viven una aventura musical para salvar la magia de la Navidad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-13"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tt-MMC008",
+    "incluir": true,
+    "titulo": "Jaime Ferraro: Fraude",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Jaime Ferraro llega a Trujillo con su nuevo show, en el que plantea que todos, él incluido, somos un poco un fraude.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jaime Ferraro"
+    ],
+    "productora": null,
+    "sala": "C.C. Los Conquistadores",
+    "distrito": null,
+    "ciudad": "Trujillo",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 12 dic, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": null
+  }
+]

@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "tm-ouija-fest-gene-loves-jezebel-invitados-venta-general",
+    "incluir": true,
+    "titulo": "Ouija Fest",
+    "tipo": "concierto",
+    "generos": [
+      "rock gótico",
+      "darkwave",
+      "postpunk"
+    ],
+    "sinopsis": "Noche dedicada a la música oscura, con la banda británica Gene Loves Jezebel como figura principal y tres bandas invitadas de Perú y Chile. También habrá sesiones de DJ.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Gene Loves Jezebel",
+      "A Través del Manto",
+      "Eviterna",
+      "Flores del Mal"
+    ],
+    "productora": "Artemisa Producciones",
+    "sala": "Teatro Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 31 oct, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 145
+  },
+  {
+    "id": "tm-pasteles-verdes-29-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Pasteles Verdes",
+    "tipo": "concierto",
+    "generos": [
+      "música en vivo"
+    ],
+    "sinopsis": "Presentación en vivo de Pasteles Verdes en un bar de Jesús María, en horario de almuerzo dominical. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Pasteles Verdes"
+    ],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Dom 29 nov, 1 p. m.",
+    "temporada": {
+      "inicio": "2026-11-29",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": 32
+  },
+  {
+    "id": "tm-pe6gorillaz-659-home-tw-5678",
+    "incluir": true,
+    "titulo": "Gorillaz",
+    "tipo": "concierto",
+    "generos": [
+      "pop alternativo",
+      "rock alternativo"
+    ],
+    "sinopsis": "La banda virtual creada por Damon Albarn y Jamie Hewlett se presenta por primera vez en Lima, con canciones de su nuevo álbum \"The Mountain\" y sus éxitos de siempre.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Gorillaz"
+    ],
+    "productora": null,
+    "sala": "Lurin Live",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Lun 23 nov, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-23",
+      "fin": "2026-11-23"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-pera-lolanta-home",
+    "incluir": true,
+    "titulo": "Iolanta",
+    "tipo": "opera",
+    "generos": [
+      "clásico",
+      "romántico"
+    ],
+    "sinopsis": "Estreno en el Perú de la última ópera de Tchaikovsky, una historia de luz y esperanza interpretada por solistas rusos invitados y dirigida por Elena Ananitcheva.",
+    "elenco": [
+      {
+        "nombre": "Elena Ananitcheva",
+        "personaje": "Iolanta"
+      },
+      {
+        "nombre": "Ian Gerasimov",
+        "personaje": "Vodemon"
+      },
+      {
+        "nombre": "Maksim Shabanov",
+        "personaje": "Duque Roberto"
+      },
+      {
+        "nombre": "Maksim Papulov",
+        "personaje": "Ebn-Hakía"
+      },
+      {
+        "nombre": "Ivan Grigorev",
+        "personaje": "Rey René"
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Elena Ananitcheva",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Pyotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Instituto de Arte (Escuela de Música) de la USMP",
+    "sala": "Teatro Municipal de Lima",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "19 y 21 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-19",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-peru-criollo-con-lucia-de-la-cruz-venta-general",
+    "incluir": true,
+    "titulo": "Perú criollo con Lucía de la Cruz",
+    "tipo": "folklore",
+    "generos": [
+      "música criolla",
+      "familiar"
+    ],
+    "sinopsis": "Noche de valses y festejos con la voz de Lucía de la Cruz, acompañada por Los Quipus y Los Embajadores Criollos, para celebrar el Día de la Canción Criolla.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Lucía de la Cruz",
+      "Los Quipus",
+      "Los Embajadores Criollos"
+    ],
+    "productora": "Ludena Producciones EIRL",
+    "sala": "Teatro Plaza Norte",
+    "distrito": "Independencia",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 4,
+    "horario_texto": "Sáb 31 oct, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 86
+  },
+  {
+    "id": "tm-piruetta-circo-de-salon-un-espectculo-para-toda-la-familia-home",
+    "incluir": true,
+    "titulo": "Piruetta, circo de salón",
+    "tipo": "circo",
+    "generos": [
+      "familiar",
+      "payasos"
+    ],
+    "sinopsis": "Tres payasos viven en un circo sin carpa, hasta que un barrendero del olvido llega a su puerta. Un espectáculo de piruetas, música y fantasía para ir en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Ricardo Blume",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 75,
+    "edad_minima": 5,
+    "horario_texto": "Sáb y dom 4 p. m.",
+    "temporada": {
+      "inicio": "2026-09-12",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": 35
+  },
+  {
+    "id": "tm-placebo-home",
+    "incluir": true,
+    "titulo": "Placebo - 30th Anniversary Tour",
+    "tipo": "concierto",
+    "generos": [
+      "rock alternativo"
+    ],
+    "sinopsis": "La banda británica vuelve a Lima tras 13 años con una gira por sus 30 años de trayectoria, centrada en sus primeros álbumes.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Placebo"
+    ],
+    "productora": "Move Concerts y Masterlive",
+    "sala": "Arena 1",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 9 mar 2027, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-03-09",
+      "fin": "2027-03-09"
+    },
+    "precio_desde": 145
+  },
+  {
+    "id": "tm-planchando-el-despecho-todas-vuelven-tu-tambien-arequipa-venta-general",
+    "incluir": true,
+    "titulo": "Planchando el despecho: Todas vuelven… ¡Tú también!",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "música",
+      "nostalgia"
+    ],
+    "sinopsis": "Cinco actrices y cantantes repasan canciones que marcaron generaciones en una noche de humor, nostalgia y emoción, tras el éxito de su temporada en Lima.",
+    "elenco": [
+      {
+        "nombre": "Almendra Gomelsky",
+        "personaje": null
+      },
+      {
+        "nombre": "Rebeca Escribens",
+        "personaje": null
+      },
+      {
+        "nombre": "Gianella Neyra",
+        "personaje": null
+      },
+      {
+        "nombre": "Maricarmen Marín",
+        "personaje": null
+      },
+      {
+        "nombre": "Katia Condos",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Total Show S.A.C.",
+    "sala": "Palacio Metropolitano de las Bellas Artes",
+    "distrito": "Arequipa",
+    "ciudad": "Arequipa",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 28 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tm-planchando-el-despecho-todas-vuelven-tu-tambien-trujillo-home",
+    "incluir": true,
+    "titulo": "Planchando el despecho: Todas vuelven… ¡Tú también!",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "música",
+      "nostalgia"
+    ],
+    "sinopsis": "Cinco actrices y cantantes repasan canciones que marcaron generaciones en una noche de humor, nostalgia y emoción, tras el éxito de su temporada en Lima.",
+    "elenco": [
+      {
+        "nombre": "Almendra Gomelsky",
+        "personaje": null
+      },
+      {
+        "nombre": "Rebeca Escribens",
+        "personaje": null
+      },
+      {
+        "nombre": "Gianella Neyra",
+        "personaje": null
+      },
+      {
+        "nombre": "Maricarmen Marín",
+        "personaje": null
+      },
+      {
+        "nombre": "Katia Condos",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Total Show S.A.C.",
+    "sala": "Teatro UPAO",
+    "distrito": "Trujillo",
+    "ciudad": "Trujillo",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 21 nov, 5 p. m. y 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tm-planchando-el-despecho-todas-vuelven-tu-tambien",
+    "incluir": true,
+    "titulo": "Planchando el despecho: Todas vuelven… ¡Tú también!",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "música",
+      "nostalgia"
+    ],
+    "sinopsis": "Cinco actrices y cantantes repasan canciones que marcaron generaciones en una noche de humor, nostalgia y emoción, tras el éxito de su temporada en Lima. Cuenta con la participación especial de Raúl Suazo.",
+    "elenco": [
+      {
+        "nombre": "Almendra Gomelsky",
+        "personaje": null
+      },
+      {
+        "nombre": "Rebeca Escribens",
+        "personaje": null
+      },
+      {
+        "nombre": "Gianella Neyra",
+        "personaje": null
+      },
+      {
+        "nombre": "Maricarmen Marín",
+        "personaje": null
+      },
+      {
+        "nombre": "Katia Condos",
+        "personaje": null
+      },
+      {
+        "nombre": "Raúl Suazo",
+        "personaje": "Participación especial"
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Total Show S.A.C.",
+    "sala": "Anfiteatro del Parque de la Exposición",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 13 y sáb 14 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-13",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 69.9
+  },
+  {
+    "id": "tm-queriamos-cambiarlo-todo-home",
+    "incluir": true,
+    "titulo": "Queríamos cambiarlo todo",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "comedia",
+      "memoria política"
+    ],
+    "sinopsis": "Un grupo de teatro de mujeres celebra sus 20 años y repasa, entre risas y canciones, las promesas y fracasos de la democracia peruana de inicios del siglo XXI. Cuenta con subtitulado descriptivo y una función con audiodescripción.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Ricardo Blume",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 80,
+    "edad_minima": 10,
+    "horario_texto": "Mié y jue 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-14",
+      "fin": "2026-10-29"
+    },
+    "precio_desde": 30
+  },
+  {
+    "id": "tm-quiet-riot-metal-health-latin-american-tour-2027-venta-general-7679",
+    "incluir": true,
+    "titulo": "Quiet Riot - Metal Health Latin American Tour",
+    "tipo": "concierto",
+    "generos": [
+      "heavy metal",
+      "hard rock"
+    ],
+    "sinopsis": "La banda estadounidense regresa a Lima tras casi 30 años para celebrar el legado de su disco \"Metal Health\" con sus clásicos de los años ochenta.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Quiet Riot"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Leguía",
+    "distrito": "Santa Beatriz",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Dom 18 abr 2027, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-04-18",
+      "fin": "2027-04-18"
+    },
+    "precio_desde": 213.75
+  },
+  {
+    "id": "tm-rallymobil-super-prime-trofeo-de-campeones-venta-general",
+    "incluir": false,
+    "titulo": "RallyMobil Super Prime - Trofeo de Campeones",
+    "tipo": "otro",
+    "generos": [
+      "automovilismo"
+    ],
+    "sinopsis": "Competencia de rally con los mejores pilotos en un circuito preparado en Ronex Park, pensada para toda la familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Atomic Investment SAC",
+    "sala": "Ronex Park",
+    "distrito": "Pachacámac",
+    "ciudad": "Lima",
+    "duracion_min": 360,
+    "edad_minima": 0,
+    "horario_texto": "Sáb 21 nov, desde las 10 a. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 45
+  },
+  {
+    "id": "tm-red-bull-batalla-final-internacional-per-202627-home",
+    "incluir": true,
+    "titulo": "Red Bull Batalla Final Internacional Perú 2026/27",
+    "tipo": "show",
+    "generos": [
+      "freestyle",
+      "hip hop"
+    ],
+    "sinopsis": "Final peruana de Red Bull Batalla, la competencia de improvisación rapeada, en la Plaza de Toros de Acho.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Plaza de Toros de Acho",
+    "distrito": "Rímac",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 2,
+    "horario_texto": "Sáb 20 mar 2027, 6 p. m.",
+    "temporada": {
+      "inicio": "2027-03-20",
+      "fin": "2027-03-20"
+    },
+    "precio_desde": 105
+  },
+  {
+    "id": "tm-reencuentro-de-egresados-de-pregrado-2026-venta-general",
+    "incluir": false,
+    "titulo": "Reencuentro de egresados de pregrado",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Encuentro anual con música en vivo, comida y bebidas para egresados de pregrado de la Universidad del Pacífico.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "DJ Dunk",
+      "Orquesta Fallo Muñoz",
+      "Combinación de La Habana"
+    ],
+    "productora": "Universidad del Pacífico",
+    "sala": "Universidad del Pacífico",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 12 dic, 12 a 7 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 150
+  },
+  {
+    "id": "tm-robbie-williams-britpop-world-tour-nvu-home-",
+    "incluir": true,
+    "titulo": "Robbie Williams - Britpop World Tour",
+    "tipo": "concierto",
+    "generos": [
+      "pop",
+      "britpop"
+    ],
+    "sinopsis": "El cantante británico se presenta en Lima con su nuevo disco \"Britpop\" y un repertorio de grandes éxitos como \"Angels\" y \"Let Me Entertain You\".",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Robbie Williams"
+    ],
+    "productora": null,
+    "sala": "Estadio San Marcos",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 12 dic, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 185
+  },
+  {
+    "id": "tm-rock-y-cumbia-21-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Rock y cumbia",
+    "tipo": "concierto",
+    "generos": [
+      "rock",
+      "cumbia"
+    ],
+    "sinopsis": "Noche de música en vivo en un bar de Jesús María, con repertorio que mezcla rock y cumbia. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 21 nov, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 27
+  },
+  {
+    "id": "tm-rock-y-cumbia-argentina---07-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Rock y cumbia argentina",
+    "tipo": "concierto",
+    "generos": [
+      "rock",
+      "cumbia argentina"
+    ],
+    "sinopsis": "Noche de música en vivo en un bar de Jesús María, con rock y cumbia argentina. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 7 nov, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": 27
+  },
+  {
+    "id": "tm-rock-y-salsa---28-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Rock y salsa",
+    "tipo": "concierto",
+    "generos": [
+      "rock",
+      "salsa"
+    ],
+    "sinopsis": "Noche de música en vivo en un bar de Jesús María, con rock y salsa para bailar y cantar. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 28 nov, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 27
+  },
+  {
+    "id": "tm-rock-y-salsa-14-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Rock y salsa",
+    "tipo": "concierto",
+    "generos": [
+      "rock",
+      "salsa"
+    ],
+    "sinopsis": "Noche de música en vivo en un bar de Jesús María, con rock y salsa para bailar y cantar. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 14 nov, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 27
+  },
+  {
+    "id": "tm-selvamonos2027",
+    "incluir": true,
+    "titulo": "Festival Selvámonos Oxapampa",
+    "tipo": "concierto",
+    "generos": [
+      "festival",
+      "música en vivo"
+    ],
+    "sinopsis": "Festival de música y cultura de dos días en plena selva central, con conciertos, camping, gastronomía local y actividades al aire libre durante el feriado largo de junio.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Espectáculos Peruanos SAC",
+    "sala": "Fundo Selvámonos",
+    "distrito": "Oxapampa",
+    "ciudad": "Oxapampa",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 5 y dom 6 jun 2027, desde las 12 p. m.",
+    "temporada": {
+      "inicio": "2027-06-05",
+      "fin": "2027-06-06"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-soen-venta-general",
+    "incluir": true,
+    "titulo": "Soen",
+    "tipo": "concierto",
+    "generos": [
+      "metal progresivo"
+    ],
+    "sinopsis": "La banda sueca de metal progresivo llega a Lima con su sonido envolvente y una puesta en escena potente.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Soen"
+    ],
+    "productora": "Xaria Music EIRL",
+    "sala": "Teatro Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 18,
+    "horario_texto": "Vie 30 abr 2027, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-04-30",
+      "fin": "2027-04-30"
+    },
+    "precio_desde": 248
+  },
+  {
+    "id": "tm-solo-cosas-geniales-de-duncan-macmillan-y-johnny-donahoe-home",
+    "incluir": true,
+    "titulo": "Solo cosas geniales",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "drama"
+    ],
+    "sinopsis": "Una actriz sola en escena, con ayuda del público, cuenta la historia de una mujer que desde niña hace una lista de cosas por las que vale la pena vivir para animar a su madre. Una comedia sobre el amor familiar y la salud mental.",
+    "elenco": [
+      {
+        "nombre": "Norma Martínez",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Duncan Macmillan",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Johnny Donahoe",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Norma Martínez",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Lucho Tuesta",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Fiorella Pennano",
+        "rol": "producción"
+      },
+      {
+        "nombre": "Juan Sebastián Domínguez",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Lucho Tuesta",
+        "rol": "iluminación"
+      }
+    ],
+    "artistas": [],
+    "productora": "La Productora",
+    "sala": "Teatro Ricardo Blume",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 14,
+    "horario_texto": "Mar 17 y mié 18 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-17",
+      "fin": "2026-11-18"
+    },
+    "precio_desde": 28
+  },
+  {
+    "id": "tm-soy-luna-home",
+    "incluir": true,
+    "titulo": "Soy Luna - Tour, el último show",
+    "tipo": "show",
+    "generos": [
+      "pop",
+      "juvenil"
+    ],
+    "sinopsis": "El elenco de la serie Soy Luna se reúne en el escenario con canciones, baile y recuerdos de la historia, en dos funciones en Lima.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Karol Sevilla",
+      "Michael Ronda",
+      "Ruggero Pasquarelli",
+      "Malena Ratner",
+      "Gastón Vietto"
+    ],
+    "productora": null,
+    "sala": "Arena 1 Park",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 19 y vie 20 nov, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-19",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-super-cup-ifa7-home",
+    "incluir": false,
+    "titulo": "Super Cup IFA7",
+    "tipo": "otro",
+    "generos": [
+      "fútbol 7"
+    ],
+    "sinopsis": "Torneo internacional de fútbol 7 con cuatro clubes en la rama masculina y cuatro selecciones en la femenina.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Oled Sport E.I.R.L.",
+    "sala": "Estadio Municipal Andrés Bedoya Díaz",
+    "distrito": "Ate",
+    "ciudad": "Lima",
+    "duracion_min": 360,
+    "edad_minima": 12,
+    "horario_texto": "Del 4 al 8 nov (mié desde 3 p. m., jue y vie desde 4 p. m., dom desde 9 a. m.)",
+    "temporada": {
+      "inicio": "2026-11-04",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-taller-de-apnea-para-la-infancia-noviembre-venta-general",
+    "incluir": false,
+    "titulo": "Taller de apnea para la infancia",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Taller acuático con juegos, respiración y adaptación progresiva al agua para niños y adolescentes.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "FEDEPASA",
+    "sala": "UNI - Puerta 5",
+    "distrito": "Rímac",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-11-03",
+      "fin": "2026-11-30"
+    },
+    "precio_desde": 300
+  },
+  {
+    "id": "tm-tardes-de-folklore-sabados-y-domingos-en-la-candelaria-2026-venta-general",
+    "incluir": true,
+    "titulo": "Tardes de folklore",
+    "tipo": "folklore",
+    "generos": [
+      "danzas peruanas",
+      "música en vivo",
+      "familiar"
+    ],
+    "sinopsis": "Espectáculo de danzas de la costa, sierra y selva con orquesta en vivo y maestro de ceremonias, para disfrutar en familia con almuerzo opcional.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Cultural La Candelaria",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb y dom, 1 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-12-27"
+    },
+    "precio_desde": 20
+  },
+  {
+    "id": "tm-the-last-five-years-de-jason-robert-brown-home",
+    "incluir": true,
+    "titulo": "The Last Five Years",
+    "tipo": "musical",
+    "generos": [
+      "romance",
+      "drama"
+    ],
+    "sinopsis": "Musical íntimo sobre dos jóvenes neoyorquinos que cuentan, cada uno en sentido contrario, cómo se enamoraron y se desenamoraron en cinco años. Se presenta en inglés con subtítulos en español y banda en vivo.",
+    "elenco": [
+      {
+        "nombre": "English Bernhardt",
+        "personaje": null
+      },
+      {
+        "nombre": "Italo Maldonado",
+        "personaje": null
+      },
+      {
+        "nombre": "Pamela Valdivia",
+        "personaje": null
+      },
+      {
+        "nombre": "Diego Urcia",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Jason Robert Brown",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "KS Productions Peru",
+    "sala": "Teatro Ricardo Blume",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 3 y vie 4 dic 8 p. m.; sáb 5 dic 4 y 8 p. m.; dom 6 dic 4 y 7 p. m.; mié 9 y jue 10 dic 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-03",
+      "fin": "2026-12-10"
+    },
+    "precio_desde": 35
+  },
+  {
+    "id": "tm-the-strokes",
+    "incluir": true,
+    "titulo": "The Strokes",
+    "tipo": "concierto",
+    "generos": [
+      "rock",
+      "indie"
+    ],
+    "sinopsis": "La banda neoyorquina llega a Lima con su gira de regreso, con las canciones que marcaron el rock desde su debut en 2001.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "The Strokes"
+    ],
+    "productora": "Bizarro Entertainment y Servicios Perú S.A.C.",
+    "sala": "Estadio San Marcos",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Vie 20 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-20",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-theodora-de-georg-friedrich-handel-home",
+    "incluir": true,
+    "titulo": "Theodora, de Georg Friedrich Handel",
+    "tipo": "concierto",
+    "generos": [
+      "barroco",
+      "clásico"
+    ],
+    "sinopsis": "El Monteverdi Choir y los English Baroque Soloists interpretan el oratorio de Händel sobre la fe y la resistencia en los primeros tiempos del cristianismo, en una única función.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Georg Friedrich Händel",
+        "rol": "música"
+      }
+    ],
+    "artistas": [
+      "Monteverdi Choir",
+      "English Baroque Soloists"
+    ],
+    "productora": "TQ Producciones",
+    "sala": "Teatro Segura",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 6 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-06",
+      "fin": "2026-11-06"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-tierra-santa-venta-general",
+    "incluir": true,
+    "titulo": "Tierra Santa - Un viaje épico",
+    "tipo": "concierto",
+    "generos": [
+      "heavy metal"
+    ],
+    "sinopsis": "La banda española de heavy metal vuelve a Lima con su gira \"Un viaje épico\", con la banda peruana Armagedón como invitada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Tierra Santa",
+      "Armagedón"
+    ],
+    "productora": "Xaria Music EIRL",
+    "sala": "Teatro Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 15,
+    "horario_texto": "Vie 13 nov, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-13",
+      "fin": "2026-11-13"
+    },
+    "precio_desde": 220
+  },
+  {
+    "id": "tm-vastion-pres-dont-let-daddy-know-2026",
+    "incluir": true,
+    "titulo": "Vastion pres. Don't Let Daddy Know",
+    "tipo": "concierto",
+    "generos": [
+      "música electrónica"
+    ],
+    "sinopsis": "El festival de música electrónica nacido en Ámsterdam regresa a Perú con una producción de gran escala y propuesta audiovisual.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Vastion Group",
+    "sala": "Club Cultural Lima",
+    "distrito": "Chorrillos",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 19 dic, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-19",
+      "fin": "2026-12-19"
+    },
+    "precio_desde": 159.9
+  },
+  {
+    "id": "tm-victor-kuppers-mentes-expertas-vivir-con-alegria",
+    "incluir": true,
+    "titulo": "Mentes expertas: Vivir con alegría",
+    "tipo": "otro",
+    "generos": [
+      "charla",
+      "desarrollo personal"
+    ],
+    "sinopsis": "Víctor Küppers presenta una charla en vivo con humor y reflexión sobre la actitud, la gratitud y las relaciones personales.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Víctor Küppers"
+    ],
+    "productora": null,
+    "sala": "Convexia",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 10 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-10",
+      "fin": "2026-11-10"
+    },
+    "precio_desde": 49
+  },
+  {
+    "id": "tm-viva-mexico-cabrones-venta-general",
+    "incluir": true,
+    "titulo": "Viva México Cabrones",
+    "tipo": "show",
+    "generos": [
+      "tributo",
+      "música"
+    ],
+    "sinopsis": "Homenaje a Alejandra Guzmán, Gloria Trevi y Fher de Maná a cargo de tres imitadores del programa Yo Soy. Hay mesas compartidas y consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Melissa Ángeles",
+      "Leonor Vargas",
+      "Jonathan Espinoza"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bianca",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 10,
+    "horario_texto": "Sáb 5 dic, 10:30 p. m.",
+    "temporada": {
+      "inicio": "2026-12-05",
+      "fin": "2026-12-05"
+    },
+    "precio_desde": 44
+  }
+]
