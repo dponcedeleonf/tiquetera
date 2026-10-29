@@ -1,0 +1,4249 @@
+[
+ {
+  "id": "mfl-teatro-la-plaza-prima-facie",
+  "fuente": "web de la sala",
+  "url": "https://laplaza.com.pe/obras-archive/prima-facie-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Prima Facie",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "unipersonal"
+  ],
+  "sinopsis": "Unipersonal sobre una abogada penalista que, tras vivir una agresión, descubre desde el otro lado las grietas del sistema que defendía. Una pieza intensa sobre justicia, verdad y consentimiento.",
+  "elenco": [
+   {
+    "nombre": "Wendy Vásquez Larraín",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Juan Carlos Fisher",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Rómulo Assereto",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Analucía Rodríguez",
+    "rol": "otro"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro La Plaza",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": 90,
+  "edad_minima": 16,
+  "horario_texto": "Mar a sáb 8 p. m.; dom 7 p. m.",
+  "temporada": {
+   "inicio": "2026-08-11",
+   "fin": "2026-09-27"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-la-plaza-perseo-dos-reinas-y-un-funeral",
+  "fuente": "web de la sala",
+  "url": "https://laplaza.com.pe/obras-archive/perseo-dos-reinas-y-un-funeral/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Perseo (dos reinas y un funeral)",
+  "tipo": "comedia",
+  "generos": [
+   "comedia negra",
+   "trasnoche"
+  ],
+  "sinopsis": "Comedia negra de trasnoche en la que dos leyendas del café teatro quedan atrapadas en la discoteca donde empezaron y deben salvar el pellejo. Un homenaje desenfadado a la memoria queer limeña.",
+  "elenco": [
+   {
+    "nombre": "Coco Marusix",
+    "personaje": null
+   },
+   {
+    "nombre": "Naamin Timoyco",
+    "personaje": null
+   },
+   {
+    "nombre": "La Langosta",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Mario Saldaña",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Mario Saldaña",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Ernesto Pimentel",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Sandra Begué",
+    "rol": "coreografía"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro La Plaza",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Vie y sáb 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-08-28",
+   "fin": "2026-09-26"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-la-plaza-sala-de-parto-2026-lecturas-dramatizadas",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/temporal/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Sala de Parto 2026: lecturas dramatizadas",
+  "tipo": "teatro",
+  "generos": [
+   "dramaturgia peruana",
+   "lectura dramatizada"
+  ],
+  "sinopsis": "Cinco noches del encuentro de dramaturgia de La Plaza con lecturas de textos nuevos: Temporal, Cómo nombrar un ave palestina, La ideología de la ornitorrinca, Mor y Amor eterno. Entrada libre.",
+  "elenco": [],
+  "ficha": [
+   {
+    "nombre": "Caro Black Tam",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Verony Centeno",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Camila Abufom Saba",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Malu Gil",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Patricia Romero Figueroa",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Patricia Romero Figueroa",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Carenn Cabrera",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Emmy Linnéa",
+    "rol": "dramaturgia"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro La Plaza",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "29 sep al 3 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-29",
+   "fin": "2026-10-03"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-auditorio-britanico-miraflores-victoria-un-nuevo-musical",
+  "fuente": "web de la sala",
+  "url": "https://britanico.edu.pe/cultural/eventos/victoria-un-nuevo-musical/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Victoria, un nuevo musical",
+  "tipo": "musical",
+  "generos": [
+   "musical",
+   "drama"
+  ],
+  "sinopsis": "Musical de canciones originales sobre una mujer que levantó un imperio en un mundo de hombres y ve cómo su pasado amenaza con derrumbarlo. Protagoniza Cynthia Bravo.",
+  "elenco": [
+   {
+    "nombre": "Cynthia Bravo",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Malu Gil",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Ángela Mesa",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Sebastián Abad",
+    "rol": "música"
+   },
+   {
+    "nombre": "Malu Gil",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Alessandra Rodríguez",
+    "rol": "música"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Auditorio Británico Miraflores",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 16,
+  "horario_texto": "Jue a sáb 8:30 p. m.; dom 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-17",
+   "fin": "2026-09-27"
+  },
+  "precio_desde": 45,
+  "imagen": null
+ },
+ {
+  "id": "mfl-auditorio-britanico-miraflores-el-nino-cuentahistorias",
+  "fuente": "web de la sala",
+  "url": "https://britanico.edu.pe/cultural/eventos/el-nino-cuentahistorias/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El niño cuentahistorias",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "teatro infantil"
+  ],
+  "sinopsis": "Un niño armado con una libreta les cuenta sus historias a una roca, un ratón y una lluvia llorona, y en ese juego va asomando su propia historia. Obra familiar ganadora del Premio Nacional de Dramaturgia 2025.",
+  "elenco": [
+   {
+    "nombre": "Luisa Caldas",
+    "personaje": null
+   },
+   {
+    "nombre": "Ethel Requejo",
+    "personaje": null
+   },
+   {
+    "nombre": "Aries Córdova",
+    "personaje": null
+   },
+   {
+    "nombre": "Miranda Valenza",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Henry Sotomayor",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Henry Sotomayor",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Fantasía Guevara",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Paulo Ramírez",
+    "rol": "música"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Auditorio Británico Miraflores",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 2,
+  "horario_texto": "Sáb y dom 4 p. m.",
+  "temporada": {
+   "inicio": "2026-09-26",
+   "fin": "2026-10-11"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cultural-station-britanico-octubre-criollo-blanca-galdos",
+  "fuente": "web de la sala",
+  "url": "https://britanico.edu.pe/cultural/eventos/octubre-criollo-concierto/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Octubre criollo: Blanca Galdos",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Concierto gratuito por el mes de la canción criolla en el que Blanca Galdos repasa clásicos del cancionero peruano con guitarra y percusión.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Blanca Galdos",
+   "Juan Briceño",
+   "Carlos Octavio Ticona Alfaro"
+  ],
+  "productora": null,
+  "sala": "Cultural Station (Británico)",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 10,
+  "horario_texto": "Mié 28 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-28",
+   "fin": "2026-10-28"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-britanico-el-reino-de-dios-esta-entre-los-arboles",
+  "fuente": "web de la sala",
+  "url": "https://britanico.edu.pe/cultural/eventos/el-reino-de-dios-esta-entre-los-arboles/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El Reino de Dios está entre los árboles",
+  "tipo": "concierto",
+  "generos": [
+   "canción de autor"
+  ],
+  "sinopsis": "La cantautora La Lá presenta en vivo su quinto álbum, un disco que decidió no publicar en plataformas y que solo puede escucharse en concierto.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "La Lá",
+   "Tate Passaro",
+   "César Gabriel Riveros",
+   "Daira Bismark",
+   "Leo Barraza",
+   "Junior Pacora"
+  ],
+  "productora": null,
+  "sala": "Teatro Británico",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 13 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-13",
+   "fin": "2026-11-13"
+  },
+  "precio_desde": 45,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cultural-station-britanico-danza-de-la-esperanza",
+  "fuente": "web de la sala",
+  "url": "https://britanico.edu.pe/cultural/eventos/danza-de-la-esperanza-noviembre/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Danza de la Esperanza",
+  "tipo": "danza",
+  "generos": [
+   "danza contemporánea"
+  ],
+  "sinopsis": "Función de fin de año del programa Danza de la Esperanza, en la que niños y jóvenes bailan danza contemporánea acompañados por la Orquesta Sinfónica del Británico. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Danza de la Esperanza",
+   "Orquesta Sinfónica del BRITÁNICO"
+  ],
+  "productora": null,
+  "sala": "Cultural Station (Británico)",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 21 nov, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-11-21",
+   "fin": "2026-11-21"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-de-la-alianza-francesa-de-lima-las-bodas-de-figaro",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/cultura/las-bodas-de-figaro-llega-a-lima-exodo-teatro-presenta-el-clasico-frances-de-beaumarchais-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Las bodas de Fígaro",
+  "tipo": "teatro",
+  "generos": [
+   "comedia",
+   "clásico"
+  ],
+  "sinopsis": "Éxodo Teatro monta la comedia de Beaumarchais: un día de enredos en el castillo del conde Almaviva, donde los sirvientes conspiran para frustrar sus avances sobre la novia de Fígaro.",
+  "elenco": [
+   {
+    "nombre": "Fernando Luque",
+    "personaje": "Fígaro"
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Pierre-Augustin de Beaumarchais",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Jean Pierre Gamarra",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Lorenzo Albani",
+    "rol": "escenografía"
+   }
+  ],
+  "artistas": [],
+  "productora": "Éxodo Teatro",
+  "sala": "Teatro de la Alianza Francesa de Lima",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": 110,
+  "edad_minima": 12,
+  "horario_texto": "Jue a sáb 8 p. m.",
+  "temporada": {
+   "inicio": "2026-08-13",
+   "fin": "2026-09-26"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-de-la-alianza-francesa-de-lima-el-percusionista-ciego",
+  "fuente": "web de la sala",
+  "url": "https://aflima.org.pe/evento/el-percusionista-ciego/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El percusionista ciego",
+  "tipo": "teatro",
+  "generos": [
+   "teatro sonoro",
+   "música en vivo"
+  ],
+  "sinopsis": "Un músico que se orienta por el sonido y conversa con el mar ve alterado su mundo por una presencia inesperada. Teatro con percusión en vivo y paisaje sonoro, en la Sala Lumière.",
+  "elenco": [
+   {
+    "nombre": "Lucho Ramírez",
+    "personaje": null
+   },
+   {
+    "nombre": "Gabriel Mujica",
+    "personaje": null
+   },
+   {
+    "nombre": "Lina Fuentes",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Lucho Ramírez",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Lucho Ramírez",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Manongo Mujica",
+    "rol": "música"
+   },
+   {
+    "nombre": "Terje Evensen",
+    "rol": "música"
+   },
+   {
+    "nombre": "Juan José Salazar",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Víctor Checa",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Arabela Bartra",
+    "rol": "producción"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro de la Alianza Francesa de Lima",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "6, 7, 12 y 13 oct, 8 p. m. (Sala Lumière)",
+  "temporada": {
+   "inicio": "2026-10-06",
+   "fin": "2026-10-13"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-de-la-alianza-francesa-de-lima-ciclo-de-jazz-europeo-nuevo-peru",
+  "fuente": "web de la sala",
+  "url": "https://aflima.org.pe/evento/ciclo-de-jazz-europeo/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Ciclo de Jazz Europeo: Nuevo Perú",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "fusión peruana"
+  ],
+  "sinopsis": "Jean Pierre Magnet, Chino Figueroa y César Ballumbrosio abren el Ciclo de Jazz Europeo con un concierto que cruza el jazz con ritmos de la costa y los Andes. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Jean Pierre Magnet",
+   "Chino Figueroa",
+   "César Ballumbrosio"
+  ],
+  "productora": null,
+  "sala": "Teatro de la Alianza Francesa de Lima",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 28 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-28",
+   "fin": "2026-10-28"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-de-la-alianza-francesa-de-lima-babel",
+  "fuente": "web de la sala",
+  "url": "https://aflima.org.pe/evento/novtec-x-festival-de-arte-y-cultura-digital/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "BABEL",
+  "tipo": "concierto",
+  "generos": [
+   "audiovisual",
+   "electrónica"
+  ],
+  "sinopsis": "Cierre del festival NOVTEC: concierto audiovisual inmersivo de la compañía francesa ENTER.black sobre la comunicación entre culturas, con un episodio creado para el Perú junto a Chaska Paucar. En el Espacio Libertad de la Alianza.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "ENTER.black",
+   "Fanny Fortage",
+   "Harry Clunet-Farlow",
+   "Chaska Paucar"
+  ],
+  "productora": null,
+  "sala": "Teatro de la Alianza Francesa de Lima",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": 60,
+  "edad_minima": 12,
+  "horario_texto": "Sáb 21 nov, 8 p. m. (Espacio Libertad)",
+  "temporada": {
+   "inicio": "2026-11-21",
+   "fin": "2026-11-21"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-icpna-miraflores-auditorio-danza-del-fuego",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/danza-del-fuego/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Danza del fuego",
+  "tipo": "danza",
+  "generos": [
+   "danza contemporánea",
+   "performance"
+  ],
+  "sinopsis": "Performance de danza inspirada en la muestra «Soñar con fuego» de María Abaddon, que explora el cuerpo fragmentado y la violencia con guiños a la ciencia ficción. Entrada libre.",
+  "elenco": [
+   {
+    "nombre": "María José Hernández",
+    "personaje": null
+   },
+   {
+    "nombre": "Joel Astacio",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Juan Pablo Rodríguez",
+    "rol": "coreografía"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "ICPNA Miraflores (Auditorio)",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 19 set, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-09-19",
+   "fin": "2026-09-19"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-de-lucia-i-d-i-o-t-a",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/cultura/sandra-bernasconi-y-armando-machuca-protagonizan-idiota-fechas-y-entradas-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "I.D.I.O.T.A.",
+  "tipo": "teatro",
+  "generos": [
+   "thriller",
+   "humor negro"
+  ],
+  "sinopsis": "Un hombre en apuros acepta una prueba psicológica bien pagada y termina atrapado en un juego de reglas cambiantes con una psicóloga enigmática. Thriller con humor negro de Jordi Casanovas.",
+  "elenco": [
+   {
+    "nombre": "Sandra Bernasconi",
+    "personaje": null
+   },
+   {
+    "nombre": "Armando Machuca",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Jordi Casanovas",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "David Carrillo",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro de Lucía",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue a sáb 8 p. m.; dom 7 p. m.",
+  "temporada": {
+   "inicio": "2026-08-20",
+   "fin": "2026-09-20"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-de-lucia-la-eternidad-en-tus-ojos",
+  "fuente": "prensa",
+  "url": "https://caretas.pe/entretenimiento/eternidad-en-tus-ojos-teatro-de-lucia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "La eternidad en tus ojos",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "romance"
+  ],
+  "sinopsis": "Vuelve la obra de Eduardo Adrianzén sobre el amor secreto entre una profesora y su alumno, que atraviesa los años de violencia en Lima y regresa décadas después. Seis funciones.",
+  "elenco": [
+   {
+    "nombre": "Milena Alva",
+    "personaje": null
+   },
+   {
+    "nombre": "Alejandra Saba",
+    "personaje": null
+   },
+   {
+    "nombre": "Jano Baca",
+    "personaje": null
+   },
+   {
+    "nombre": "Joel Calderón",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Eduardo Adrianzén",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Giovanni Arce",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Alejandra Saba",
+    "rol": "producción"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro de Lucía",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Lun a mié 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-23",
+   "fin": "2026-12-02"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-nuevo-teatro-julieta-lo-nunca-visto",
+  "fuente": "prensa",
+  "url": "https://enlima.pe/agenda-cultural/artes-escenicas/lo-nunca-visto",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Lo nunca visto",
+  "tipo": "teatro",
+  "generos": [
+   "comedia",
+   "teatro del absurdo"
+  ],
+  "sinopsis": "Una profesora de danza a punto de cerrar su escuela convoca a dos exalumnas en mal momento para montar un último espectáculo. Comedia con toques de absurdo, debut de Fiorella Pennano como directora.",
+  "elenco": [
+   {
+    "nombre": "Claudia Berninzon",
+    "personaje": null
+   },
+   {
+    "nombre": "Kareen Spano",
+    "personaje": null
+   },
+   {
+    "nombre": "Tamara Jhiareth",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "José Troncoso",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Fiorella Pennano",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": "Animalien",
+  "sala": "Nuevo Teatro Julieta",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": 75,
+  "edad_minima": null,
+  "horario_texto": "8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-24",
+   "fin": "2026-10-11"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-nuevo-teatro-julieta-99-consejos",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/cultura/obra-99-consejos-desde-el-22-de-octubre-en-el-nuevo-teatro-julieta-noticia/",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-99-consejos-78847",
+  "incluir": true,
+  "titulo": "99 consejos",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "drama familiar"
+  ],
+  "sinopsis": "Una autora de autoayuda a punto de lanzar su libro sobre maternidad ve tambalear su propia familia cuando sale a la luz un secreto. Tragicomedia de Eduardo Adrianzén.",
+  "elenco": [
+   {
+    "nombre": "Ximena Arroyo",
+    "personaje": null
+   },
+   {
+    "nombre": "Sebastián Monteghirfo",
+    "personaje": null
+   },
+   {
+    "nombre": "Haysen Percovich",
+    "personaje": null
+   },
+   {
+    "nombre": "Gia Rosalino",
+    "personaje": null
+   },
+   {
+    "nombre": "Leandro Hernández",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Eduardo Adrianzén",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Haysen Percovich",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Marco Paulo Meléndez",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": "Asociación Cultural La Pasión",
+  "sala": "Nuevo Teatro Julieta",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue a dom 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-22",
+   "fin": "2026-11-08"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-nuevo-teatro-julieta-frankenstein",
+  "fuente": "prensa",
+  "url": "https://www.infobae.com/peru/2026/10/23/agenda-cultural-en-lima-del-23-al-30-de-octubre-ferias-musica-criolla-y-propuestas-de-halloween/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Frankenstein",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "halloween"
+  ],
+  "sinopsis": "Versión familiar de la novela de Mary Shelley para Halloween: una niña le pide a su padre que le cuente la historia, con humor y un mensaje sobre aceptar al diferente.",
+  "elenco": [
+   {
+    "nombre": "Bruno Odar",
+    "personaje": null
+   },
+   {
+    "nombre": "Matías Spitzer",
+    "personaje": null
+   },
+   {
+    "nombre": "Bianca Bazo",
+    "personaje": null
+   }
+  ],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Nuevo Teatro Julieta",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb y dom 4 p. m.",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-11-01"
+  },
+  "precio_desde": 45,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-ricardo-palma-los-enganos-de-escapin",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/cultura/teatro-los-enganos-de-escapin-la-comedia-de-moliere-que-vuelve-al-teatro-con-enredos-y-humor-obra-ricardo-palma-centro-cultural-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Los engaños de Escapín",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "clásico"
+  ],
+  "sinopsis": "La comedia de Molière sobre dos jóvenes enamorados y un sirviente astuto que estafa a sus padres tacaños para salvarlos de matrimonios arreglados.",
+  "elenco": [
+   {
+    "nombre": "Martín Velásquez",
+    "personaje": null
+   },
+   {
+    "nombre": "Angelita Velásquez",
+    "personaje": null
+   },
+   {
+    "nombre": "Mario Velásquez",
+    "personaje": null
+   },
+   {
+    "nombre": "Juan Carlos Díaz",
+    "personaje": null
+   },
+   {
+    "nombre": "Víctor Acurio",
+    "personaje": null
+   },
+   {
+    "nombre": "Sergio Delgado",
+    "personaje": null
+   },
+   {
+    "nombre": "Alexandra Garcés",
+    "personaje": null
+   },
+   {
+    "nombre": "Verónica Infantes",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Molière",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Omar Velásquez",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Centro Cultural Ricardo Palma",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie a lun 8 p. m.; dom 7 p. m.",
+  "temporada": {
+   "inicio": null,
+   "fin": "2026-09-28"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-ricardo-palma-palmo-a-palma-tradiciones-a-la-criolla",
+  "fuente": "prensa",
+  "url": "https://caretas.pe/entretenimiento/palmo-a-palma-tradiciones-ricardo-palma-musica-criolla/",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-palmo-a-palma-tradiciones-a-la-criolla-78933",
+  "incluir": true,
+  "titulo": "Palmo a Palma: tradiciones a la criolla",
+  "tipo": "musical",
+  "generos": [
+   "musical",
+   "música criolla"
+  ],
+  "sinopsis": "Espectáculo musical que convierte quince Tradiciones Peruanas de Ricardo Palma en canciones criollas originales, con el propio Palma como narrador en escena.",
+  "elenco": [
+   {
+    "nombre": "Paco Varela",
+    "personaje": "Ricardo Palma"
+   },
+   {
+    "nombre": "Lúa Rodríguez",
+    "personaje": "Clemencia"
+   },
+   {
+    "nombre": "Taís Egúsquiza",
+    "personaje": null
+   },
+   {
+    "nombre": "Rodrigo Terry",
+    "personaje": null
+   },
+   {
+    "nombre": "Santiago Srebo",
+    "personaje": null
+   },
+   {
+    "nombre": "Gianella Tellez",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Carlos Fuller",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Carlos Fuller",
+    "rol": "música"
+   },
+   {
+    "nombre": "Carlos Fuller",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Santiago Linares",
+    "rol": "música"
+   },
+   {
+    "nombre": "Ximena Fernandini",
+    "rol": "coreografía"
+   },
+   {
+    "nombre": "Jordan Saldaña",
+    "rol": "coreografía"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Centro Cultural Ricardo Palma",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": 110,
+  "edad_minima": null,
+  "horario_texto": "16 funciones del 2 al 26 oct (Sala Julio Ramón Ribeyro)",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-26"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-teatro-canout-walls-el-dia-que-me-olvides-tour",
+  "fuente": "prensa",
+  "url": "https://caretas.pe/entretenimiento/walls-llega-lima-primera-vez-concierto-octubre/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Walls: El día que me olvides tour",
+  "tipo": "concierto",
+  "generos": [
+   "pop rock"
+  ],
+  "sinopsis": "Primer concierto en el Perú del cantautor español Walls, con el pop rock noventero de su gira «El día que me olvides».",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Walls"
+  ],
+  "productora": null,
+  "sala": "Teatro Canout",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 11 oct",
+  "temporada": {
+   "inicio": "2026-10-11",
+   "fin": "2026-10-11"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-asociacion-cultural-campo-abierto-el-acustico-del-lobo-feroz",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/el-acustico-del-lobo-feroz",
+  "url_compra": "https://teleticket.com.pe/evento/el-acustico-del-lobo-feroz",
+  "incluir": true,
+  "titulo": "El acústico del Lobo Feroz",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "música"
+  ],
+  "sinopsis": "Concierto acústico para niños: el lobo Lobualdo Ferozino y el cerdito Pepo intentan tocar para todo el bosque mientras otros personajes no dejan de interrumpir.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Asociación Cultural Campo Abierto",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": 60,
+  "edad_minima": null,
+  "horario_texto": "Dom 5 p. m.",
+  "temporada": {
+   "inicio": "2026-11-08",
+   "fin": "2026-11-29"
+  },
+  "precio_desde": 28,
+  "imagen": null
+ },
+ {
+  "id": "mfl-lima-comedy-club-gran-gala-internacional",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/gran-gala-internacional",
+  "url_compra": "https://teleticket.com.pe/evento/gran-gala-internacional",
+  "incluir": true,
+  "titulo": "Gran Gala Internacional",
+  "tipo": "stand-up",
+  "generos": [
+   "stand-up",
+   "magia"
+  ],
+  "sinopsis": "Noche que mezcla stand-up y magia con tres artistas de España, Perú y México. Consumo mínimo en el local.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Adrián Lima",
+   "Jhony Jackson",
+   "Christian Allen"
+  ],
+  "productora": null,
+  "sala": "Lima Comedy Club",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 10,
+  "horario_texto": "Sáb 20 feb, 7 p. m.",
+  "temporada": {
+   "inicio": "2027-02-20",
+   "fin": "2027-02-20"
+  },
+  "precio_desde": 85,
+  "imagen": null
+ },
+ {
+  "id": "mfl-club-de-teatro-de-lima-nosotros-lo-hicimos-bien",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/cultura/obra-teatral-nosotros-lo-hicimos-bien-se-estrena-en-lima-fechas-horario-y-entradas-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Nosotros lo hicimos bien",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "comedia"
+  ],
+  "sinopsis": "Tres parejas comparten una velada con vino y, entre conversaciones, salen a flote miedos al compromiso y rutinas desgastadas. Parte del público se sienta en mesas dentro de la escena.",
+  "elenco": [
+   {
+    "nombre": "Diego Bronstein",
+    "personaje": null
+   },
+   {
+    "nombre": "Raúl Castagneto",
+    "personaje": null
+   },
+   {
+    "nombre": "Isabel Chappell",
+    "personaje": null
+   },
+   {
+    "nombre": "Eliana Fry García-Pacheco",
+    "personaje": null
+   },
+   {
+    "nombre": "Wenddy Nishimazuruga",
+    "personaje": null
+   },
+   {
+    "nombre": "Patricio Villavicencio",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Renato Fernández Vasallo",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Renato Fernández Vasallo",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Renato Fernández Vasallo",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Oskaranibal O'Higgins",
+    "rol": "producción"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Club de Teatro de Lima",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 4 p. m.",
+  "temporada": {
+   "inicio": "2026-09-06",
+   "fin": "2026-09-27"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-casa-tovar-el-origen-del-mundo",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/el-origen-del-mundo/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El origen del mundo",
+  "tipo": "teatro",
+  "generos": [
+   "teatro breve",
+   "surrealismo"
+  ],
+  "sinopsis": "Obra breve en la que una pareja amanece convertida en los primeros habitantes de la Tierra, en un cruce de sueño y realidad con humor y erotismo. Ingreso libre.",
+  "elenco": [
+   {
+    "nombre": "Valeria Argandoña",
+    "personaje": null
+   },
+   {
+    "nombre": "Marcelo Espinoza",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Bruno Villarreal",
+    "rol": "dramaturgia"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Casa Tovar",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 22 set, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-09-22",
+   "fin": "2026-09-22"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-lugar-de-la-memoria-lum-erase-una-mujer-sin-huayruros",
+  "fuente": "web de la sala",
+  "url": "https://lum.cultura.pe/actividades/agenda-septiembre-2026",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Érase una mujer sin huayruros",
+  "tipo": "teatro",
+  "generos": [
+   "unipersonal",
+   "memoria"
+  ],
+  "sinopsis": "Unipersonal que acompaña a una mujer víctima de feminicidio en un tránsito entre la vida y la muerte, guiada por voces femeninas que la ayudan a resignificar su historia. Ingreso libre.",
+  "elenco": [],
+  "ficha": [
+   {
+    "nombre": "Huandy Laguna Ibarra",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Lugar de la Memoria (LUM)",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 15,
+  "horario_texto": "Vie 25 set, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-09-25",
+   "fin": "2026-09-25"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-anfiteatro-chabuca-granda-parque-kennedy-punk-en-el-kennedy",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/punk-en-el-kennedy/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Punk en el Kennedy",
+  "tipo": "concierto",
+  "generos": [
+   "punk"
+  ],
+  "sinopsis": "Tarde gratuita de punk en el anfiteatro del Parque Kennedy con Aero*pajitas, 40 gramos y los uruguayos Trotsky Vengarán.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Aero*pajitas",
+   "40 gramos",
+   "Trotsky Vengarán"
+  ],
+  "productora": null,
+  "sala": "Anfiteatro Chabuca Granda (Parque Kennedy)",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 10 oct, 4 p. m.",
+  "temporada": {
+   "inicio": "2026-10-10",
+   "fin": "2026-10-10"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-ritual-virtual-la-pena-de-los-sintes",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/la-pena-de-los-sintes-5/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "La peña de los sintes",
+  "tipo": "concierto",
+  "generos": [
+   "electrónica",
+   "experimental"
+  ],
+  "sinopsis": "Encuentro de música electrónica experimental con micro recitales y sesiones abiertas: se puede ir a escuchar o llevar el propio sintetizador. Entrada libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Ritual Virtual",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 3 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-03",
+   "fin": "2026-11-03"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-nunamanta",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/nunamanta/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Nunamanta",
+  "tipo": "concierto",
+  "generos": [
+   "lírico",
+   "folklore"
+  ],
+  "sinopsis": "La soprano Airam Aquino Portales se une a la orquesta de instrumentos populares Qallay y a los bailarines de Sumaq Tusuy Perú en un concierto que mezcla canto lírico y tradición andina. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Airam Aquino Portales",
+   "Qallay",
+   "Sumaq Tusuy Perú"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 24 set, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-24",
+   "fin": "2026-09-24"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-aquarela-brasileira",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/aquarela-brasileira/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Aquarela Brasileira",
+  "tipo": "concierto",
+  "generos": [
+   "música brasileña"
+  ],
+  "sinopsis": "La cantante Cristhiane de Lis y su grupo recorren la música popular de Brasil con invitados brasileños. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Cristhiane de Lis",
+   "Diego Varillas",
+   "Paulo Chávez",
+   "Jesús Ruiz",
+   "Lucía Seijas",
+   "Tiago Abreu",
+   "Karllos Neon"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 30 set, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-30",
+   "fin": "2026-09-30"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-nuestras-voces",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/nuestras-voces/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Nuestras voces",
+  "tipo": "concierto",
+  "generos": [
+   "coral"
+  ],
+  "sinopsis": "Concierto del coro de la Universidad Nacional de Folklore José María Arguedas, formado por estudiantes y cantantes invitados. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Coro de la Universidad Nacional de Folklore José María Arguedas"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 1 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-01",
+   "fin": "2026-10-01"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-cuarteto-armonia",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/cuarteto-armonia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Cuarteto Armonía",
+  "tipo": "concierto",
+  "generos": [
+   "música de cámara",
+   "clásica"
+  ],
+  "sinopsis": "El cuarteto de cuerdas Armonía presenta un programa con obras de Haydn y Brahms. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Carlos Costa",
+   "María Elena Pacheco",
+   "Roberto González",
+   "Christian Requejo"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 6 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-06",
+   "fin": "2026-10-06"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-saco-un-homenaje-al-jazz-peruano",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/saco-un-homenaje-al-jazz-peruano/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Saco: un homenaje al jazz peruano",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "vals"
+  ],
+  "sinopsis": "Banjo y violín recrean la Lima de los años veinte a través de la obra de Carlos A. Saco, cuando el vals, el ragtime y el jazz empezaban a mezclarse. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 21 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-21",
+   "fin": "2026-10-21"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-paalo-en-concierto",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/paalo-en-concierto/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Paalo en concierto",
+  "tipo": "concierto",
+  "generos": [
+   "clásica",
+   "piano"
+  ],
+  "sinopsis": "Paalo toca sus composiciones para piano y cuerdas junto a obras peruanas poco difundidas rescatadas por su ONG Flores Lunares. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Paalo"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 22 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-22",
+   "fin": "2026-10-22"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-senorio-de-la-zarzuela",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/senorio-de-la-zarzuela/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Señorío de la Zarzuela",
+  "tipo": "concierto",
+  "generos": [
+   "zarzuela",
+   "lírico"
+  ],
+  "sinopsis": "Velada de zarzuela con humor y nostalgia a cargo de la agrupación El Señorío de la Zarzuela. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "El Señorío de la Zarzuela"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 23 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-orquesta-filarmonica-infanto-juvenil",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/orquesta-filarmonica-infanto-juvenil/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Orquesta Filarmónica Infanto-Juvenil",
+  "tipo": "concierto",
+  "generos": [
+   "orquesta",
+   "clásica"
+  ],
+  "sinopsis": "Concierto de la orquesta de 55 músicos de 11 a 18 años dirigida por Lila Arroyo Torres. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Orquesta Filarmónica Infanto-Juvenil del Perú",
+   "Lila Arroyo Torres"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 24 oct, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-10-24"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-centro-cultural-cayetano-heredia-esquinas-brillantes-bebop-en-lima",
+  "fuente": "prensa",
+  "url": "https://entradalibre.me/event/esquinas-brillantes-bebop-en-lima/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Esquinas Brillantes: bebop en Lima",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "bebop"
+  ],
+  "sinopsis": "Quinteto de músicos de la escena limeña que revisita las composiciones de Thelonious Monk. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Diego Arcadio",
+   "Sergio Cardozo",
+   "Julio Flavio Maza",
+   "Jerónimo Morán",
+   "Carlos Santiago"
+  ],
+  "productora": null,
+  "sala": "Centro Cultural Cayetano Heredia",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 27 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-27",
+   "fin": "2026-10-27"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-4u-tributo-a-u2",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/4u-tributo-a-u2-concierto-vertigo/",
+  "url_compra": "https://wa.link/tvst36",
+  "incluir": true,
+  "titulo": "4U: tributo a U2",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Banda tributo que recorre clásicos de U2 en el formato de la gira Vértigo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "4U"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 2 oct, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-02"
+  },
+  "precio_desde": 40.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-banda-cocodrilo-una-banda-mil-ritmos",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/banda-cocodrilo-una-banda-mil-ritmos-nov/",
+  "url_compra": "https://wa.link/sgxvyw",
+  "incluir": true,
+  "titulo": "Banda Cocodrilo: una banda, mil ritmos",
+  "tipo": "concierto",
+  "generos": [
+   "fusión",
+   "bailable"
+  ],
+  "sinopsis": "La banda residente de la casa mezcla salsa, cumbia, rock y reggae en un set bailable.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Banda Cocodrilo"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "29 set; 17 oct; 13 nov; 8 p. m. y 11 p. m.",
+  "temporada": {
+   "inicio": "2026-09-29",
+   "fin": "2026-11-13"
+  },
+  "precio_desde": 0.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-99-toto-el-tributo",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/99-toto-el-tributo-lo-mejor-de-toto-2/",
+  "url_compra": "https://wa.link/6a5muw",
+  "incluir": true,
+  "titulo": "99 ToTo: el tributo",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Siete músicos de la escena local recrean los éxitos de Toto, de «Africa» a «Rosanna», en formato íntimo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "99"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "17 set; 26 nov; 9 p. m.",
+  "temporada": {
+   "inicio": "2026-09-17",
+   "fin": "2026-11-26"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-glammers-one-hit-wonders",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/glammers-one-hits-wonder-2-fiesta-80s-y-90s/",
+  "url_compra": "https://wa.link/ogp5j7",
+  "incluir": true,
+  "titulo": "Glammers: One Hit Wonders",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop",
+   "tributo"
+  ],
+  "sinopsis": "La banda Glammers repasa canciones que hicieron famosos a sus autores con un solo éxito y luego arma fiesta de rock y pop.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Glammers"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "18 set; 20 nov; 11 p. m. y 11:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-18",
+   "fin": "2026-11-20"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-agi-tc-rock-a-las-8",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/agi-tc-rock-a-las-8/",
+  "url_compra": "https://wa.link/z025sv",
+  "incluir": true,
+  "titulo": "AGI-TC: Rock a las 8",
+  "tipo": "concierto",
+  "generos": [
+   "pop rock"
+  ],
+  "sinopsis": "AGI-TC Antes de Usar propone un viernes temprano de rock en vivo para empezar el fin de semana.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "AGI-TC Antes de Usar"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 18 set, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-18",
+   "fin": "2026-09-18"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-letal-lo-mejor-del-rock-and-roll",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/letal-rock-and-roll-presenta-lo-mejor-del-rock-and-roll/",
+  "url_compra": "https://wa.link/186ppz",
+  "incluir": true,
+  "titulo": "Letal: lo mejor del rock and roll",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Letal repasa el rock de los setenta y ochenta con canciones de Heart, Blondie, Kiss, AC/DC y Van Halen.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Letal"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "19 set; 14 nov; 8 p. m. y 11 p. m.",
+  "temporada": {
+   "inicio": "2026-09-19",
+   "fin": "2026-11-14"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-flashback-vuelven-los-buenos-tiempos",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/flashback-vuelven-los-buenos-tiempos-3/",
+  "url_compra": "https://wa.link/pape3w",
+  "incluir": true,
+  "titulo": "Flashback: vuelven los buenos tiempos",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Banda de covers con himnos de Queen, ABBA, Soda Stereo, The Beatles y otros clásicos para cantar de principio a fin.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Flashback"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "19 set; 17 y 30 oct; 7 y 20 nov; 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-19",
+   "fin": "2026-11-20"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-contraband-a-classic-rock-experience",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/contraband-a-classic-rock-experience/",
+  "url_compra": "https://wa.link/eucnly",
+  "incluir": true,
+  "titulo": "Contraband: a classic rock experience",
+  "tipo": "concierto",
+  "generos": [
+   "rock clásico",
+   "tributo"
+  ],
+  "sinopsis": "Grandes temas de Aerosmith, Toto, Deep Purple, Queen y Cream en una noche de rock clásico.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Contraband"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 23 set, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-09-23",
+   "fin": "2026-09-23"
+  },
+  "precio_desde": 40.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-moncho-calderon-corazon-mio",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/moncho-calderon-corazon-mio/",
+  "url_compra": "https://wa.link/08gcy4",
+  "incluir": true,
+  "titulo": "Moncho Calderón: Corazón mío",
+  "tipo": "concierto",
+  "generos": [
+   "pop rock",
+   "cantautor"
+  ],
+  "sinopsis": "El cantautor Moncho Calderón presenta sus canciones y estrena en vivo «Corazón mío» junto a su autor, Willy Noriega.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Moncho Calderón",
+   "Willy Noriega"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 24 set, 9:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-24",
+   "fin": "2026-09-24"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-deoderwan-rock-n-roll",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/deoderwan-rock-n-roll/",
+  "url_compra": "https://wa.link/eucnly",
+  "incluir": true,
+  "titulo": "Deoderwan: rock n' roll",
+  "tipo": "concierto",
+  "generos": [
+   "rock and roll"
+  ],
+  "sinopsis": "Koki Bonilla y su banda tocan rock and roll de autor con espíritu clásico.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Deoderwan",
+   "Koki Bonilla"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 25 set, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-25",
+   "fin": "2026-09-25"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-imperdibles-convocatoria-80-s",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/imperdibles-convocatoria-80s-la-marcha-del-rock-comienza/",
+  "url_compra": "https://wa.link/f45vvq",
+  "incluir": true,
+  "titulo": "Imperdibles: Convocatoria 80's",
+  "tipo": "concierto",
+  "generos": [
+   "rock en español"
+  ],
+  "sinopsis": "Noche de rock en español de los ochenta y noventa a cargo de Imperdibles.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Imperdibles"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "25 set; 27 nov; 11 p. m.",
+  "temporada": {
+   "inicio": "2026-09-25",
+   "fin": "2026-11-27"
+  },
+  "precio_desde": 45.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-la-sonora-paez-fiesta-cubana",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/la-sonora-paez-fiesta-cubana-en-el-corazon-de-miraflores-3/",
+  "url_compra": "https://wa.link/ohai8f",
+  "incluir": true,
+  "titulo": "La Sonora Páez: fiesta cubana",
+  "tipo": "concierto",
+  "generos": [
+   "salsa",
+   "son cubano"
+  ],
+  "sinopsis": "Salsa, rumba y chachachá en vivo para bailar sin pausa.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "La Sonora Páez"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "26 set; 24 oct; 28 nov; 9 p. m.",
+  "temporada": {
+   "inicio": "2026-09-26",
+   "fin": "2026-11-28"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-banda-venus-exitos-del-pop-rock-y-disco",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/banda-venus-grandes-exitos-del-pop-rock-disco/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-venus-pop-rock-disco-2-oct-cocodrilo-verde-79353",
+  "incluir": true,
+  "titulo": "Banda Venus: éxitos del pop, rock y disco",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "disco"
+  ],
+  "sinopsis": "Melanie Craff y Banda Venus cantan a Donna Summer, Cyndi Lauper, Madonna y Alaska y Dinarama.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Banda Venus",
+   "Melanie Craff"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 2 oct, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-02"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-alessandra-panizo-una-noche-tropical",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/una-noche-tropical-con-alessandra-panizo/",
+  "url_compra": "https://wa.link/uumzg9",
+  "incluir": true,
+  "titulo": "Alessandra Panizo: una noche tropical",
+  "tipo": "concierto",
+  "generos": [
+   "tropical"
+  ],
+  "sinopsis": "Alessandra Panizo vuelve a los escenarios tras trece años con un show de música tropical.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Alessandra Panizo"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 2 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-02"
+  },
+  "precio_desde": 60.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-homenaje-a-los-beatles-y-canciones-de-mi-vida",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/homenaje-a-los-beatles-y-canciones-de-mi-vida/",
+  "url_compra": "https://wa.link/9y7reb",
+  "incluir": true,
+  "titulo": "Homenaje a los Beatles y canciones de mi vida",
+  "tipo": "concierto",
+  "generos": [
+   "pop rock",
+   "tributo"
+  ],
+  "sinopsis": "Recital que rescata canciones menos conocidas de The Beatles junto a composiciones propias.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 30 set, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-09-30",
+   "fin": "2026-09-30"
+  },
+  "precio_desde": 40.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-nicolle-la-rumba-el-origen",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/nicolle-la-rumba-en-concierto/",
+  "url_compra": "https://wa.link/175hus",
+  "incluir": true,
+  "titulo": "Nicolle La Rumba: El origen",
+  "tipo": "concierto",
+  "generos": [
+   "salsa",
+   "balada"
+  ],
+  "sinopsis": "Nicolle La Rumba estrena un show personal que repasa su camino musical entre salsa, pop y baladas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Nicolle La Rumba"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 1 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-01",
+   "fin": "2026-10-01"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-randy-feijoo-romantico",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/randy-feijoo-romantico-4-4/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-romantico-78619",
+  "incluir": true,
+  "titulo": "Randy Feijoo: Romántico",
+  "tipo": "concierto",
+  "generos": [
+   "balada",
+   "romántica"
+  ],
+  "sinopsis": "Baladas y canciones románticas en formato acústico para cantar y dedicar.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Randy Feijoo"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "6 y 13 oct; 8 p. m., 9 p. m. y 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-06",
+   "fin": "2026-10-13"
+  },
+  "precio_desde": 70.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-alfredo-galvez-castellanazos",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/alfredo-galvez-castellanazos/",
+  "url_compra": "https://wa.link/loyoag",
+  "incluir": true,
+  "titulo": "Alfredo Gálvez: Castellanazos",
+  "tipo": "concierto",
+  "generos": [
+   "rock en español"
+  ],
+  "sinopsis": "El locutor Alfredo Gálvez canta himnos del rock en español y cuenta las historias detrás de ellos.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Alfredo Gálvez"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 7 oct, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-10-07",
+   "fin": "2026-10-07"
+  },
+  "precio_desde": 75.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-aria-bohemia-tributo-a-la-balada-rock-en-espanol",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/aria-bohemia-tributo-a-la-balada-rock-en-espanol/",
+  "url_compra": "https://wa.link/qz5ta2",
+  "incluir": true,
+  "titulo": "Aria Bohemia: tributo a la balada rock en español",
+  "tipo": "concierto",
+  "generos": [
+   "balada",
+   "rock"
+  ],
+  "sinopsis": "Repertorio de baladas en español de José José a La Oreja de Van Gogh.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Aria Bohemia"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 8 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-08",
+   "fin": "2026-10-08"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-cielo-gris-wave-lo-mejor-del-new-wave",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/cielo-gris-wave-presenta-lo-mejor-del-new-wave-y-los-80s/",
+  "url_compra": "https://wa.link/giwpvp",
+  "incluir": true,
+  "titulo": "Cielo Gris Wave: lo mejor del new wave",
+  "tipo": "concierto",
+  "generos": [
+   "new wave",
+   "ochentas"
+  ],
+  "sinopsis": "Éxitos del new wave y los ochenta en vivo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Cielo Gris Wave"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 9 oct, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-10-09",
+   "fin": "2026-10-09"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-screaming-chicks-la-maquina-del-tiempo",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/screaming-chicks-la-maquina-del-tiempo/",
+  "url_compra": "https://wa.link/721unx",
+  "incluir": true,
+  "titulo": "Screaming Chicks: La máquina del tiempo",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Clásicos de rock y pop de los ochenta con una banda liderada por dos voces femeninas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Screaming Chicks"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 9 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-09",
+   "fin": "2026-10-09"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-rubik-para-grandes-y-chicos",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/rubik-para-grandes-y-chicos/",
+  "url_compra": "https://wa.link/iwu1oq",
+  "incluir": true,
+  "titulo": "Rubik para grandes y chicos",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Rock y pop de los ochenta con un bloque de canciones de series de televisión.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Rubik"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 10 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-10",
+   "fin": "2026-10-10"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-copas-mias-sofia-con-z",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/copas-mias-sofia-con-z/",
+  "url_compra": "https://wa.link/12qwjd",
+  "incluir": true,
+  "titulo": "Copas mías: Sofía con Z",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Sofía con Z mezcla repertorio criollo e internacional con un homenaje a Pepe Villalobos.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Sofía con Z"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 10 oct, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-10-10",
+   "fin": "2026-10-10"
+  },
+  "precio_desde": 60.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-agi-tc-tributo-a-guns-n-roses-y-ac-dc",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/agi-tc-tributo-a-guns-n-roses-ac-dc/",
+  "url_compra": "https://wa.link/z025sv",
+  "incluir": true,
+  "titulo": "AGI-TC: tributo a Guns N' Roses y AC/DC",
+  "tipo": "concierto",
+  "generos": [
+   "hard rock",
+   "tributo"
+  ],
+  "sinopsis": "Los himnos de Guns N' Roses y AC/DC en versión de la banda AGI-TC.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "AGI-TC Antes de Usar"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 6 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-06",
+   "fin": "2026-11-06"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-agi-tc-pop-rock",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/agi-tc-pop-rock-2/",
+  "url_compra": "https://wa.link/z025sv",
+  "incluir": true,
+  "titulo": "AGI-TC: pop rock",
+  "tipo": "concierto",
+  "generos": [
+   "pop rock"
+  ],
+  "sinopsis": "Set de pop rock clásico y actual a cargo de AGI-TC.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "AGI-TC Antes de Usar"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 6 nov, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-11-06",
+   "fin": "2026-11-06"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-326-salsa-lo-mejor-de-la-salsa",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/326-salsa-lo-mejor-de-la-salsa/",
+  "url_compra": "https://wa.link/y1v4zi",
+  "incluir": true,
+  "titulo": "326 Salsa: lo mejor de la salsa",
+  "tipo": "concierto",
+  "generos": [
+   "salsa"
+  ],
+  "sinopsis": "Salsa de la época dorada con temas de Oscar de León, Grupo Niche y El Gran Combo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "326 Salsa"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 7 nov, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-11-07",
+   "fin": "2026-11-07"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-alejandra-reyes-mi-voz-en-un-sueno-4-anos",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/alejandra-reyes-mi-voz-en-un-sueno-4-anos-solo-bailables/",
+  "url_compra": "https://wa.link/10d8tx",
+  "incluir": true,
+  "titulo": "Alejandra Reyes: Mi voz en un sueño, 4 años",
+  "tipo": "concierto",
+  "generos": [
+   "cumbia",
+   "salsa"
+  ],
+  "sinopsis": "Alejandra Reyes celebra cuatro años de su show con una noche solo de música bailable.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Alejandra Reyes"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 11 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-11",
+   "fin": "2026-11-11"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-mariella-kohn-en-concierto",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/mariella-kohn-en-concierto/",
+  "url_compra": "https://wa.link/v7om6c",
+  "incluir": true,
+  "titulo": "Mariella Köhn en concierto",
+  "tipo": "concierto",
+  "generos": [
+   "fusión",
+   "música peruana"
+  ],
+  "sinopsis": "Recital acústico de Mariella Köhn entre vals, landó, bossa nova, jazz y bolero.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Mariella Köhn"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 12 nov, 9:30 p. m.",
+  "temporada": {
+   "inicio": "2026-11-12",
+   "fin": "2026-11-12"
+  },
+  "precio_desde": 100.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-room-66-grandes-hits-de-los-80-y-90",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/room-66-grandes-hits-de-los-80s-90s-y-mas/",
+  "url_compra": "https://wa.link/5txrak",
+  "incluir": true,
+  "titulo": "Room 66: grandes hits de los 80 y 90",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Rock y pop en inglés y español de los ochenta a los dos mil.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Room 66"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 14 nov, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-11-14",
+   "fin": "2026-11-14"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-danitse-concierto-de-camara",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/danitse-concierto-de-camara/",
+  "url_compra": "https://saund.live/danitse/danitse-cuarteto-de-cuerdas",
+  "incluir": true,
+  "titulo": "Danitse: concierto de cámara",
+  "tipo": "concierto",
+  "generos": [
+   "canción de autor",
+   "indie folk"
+  ],
+  "sinopsis": "Danitse repasa veinte años de carrera con arreglos de cámara y temas de su álbum «Augurio».",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Danitse"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 18 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-18",
+   "fin": "2026-11-18"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-aliens-en-concierto",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/aliens-en-concierto-pop-y-rock-70s-80s-y-mas-en-vivo/",
+  "url_compra": "https://wa.link/10gx18",
+  "incluir": true,
+  "titulo": "Aliens en concierto",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "rock"
+  ],
+  "sinopsis": "Pop y rock clásico en inglés y español, de The Eagles a Pedro Suárez-Vértiz.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Aliens"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 21 nov, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-11-21",
+   "fin": "2026-11-21"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-amenopausica",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/amenopausica-fabiola-arteaga-03nov/",
+  "url_compra": "https://www.joinnus.com/events/stand-up/lima-amenopausica-79138",
+  "incluir": true,
+  "titulo": "Amenopaúsica",
+  "tipo": "stand-up",
+  "generos": [
+   "stand-up",
+   "humor"
+  ],
+  "sinopsis": "Fabiola Arteaga convierte la menopausia en tema de stand-up, entre la risa y la información.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Fabiola Arteaga"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "3, 10, 17 y 24 nov; 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-03",
+   "fin": "2026-11-24"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-matias-canales-y-los-descabellados-melancolia-y-ruido-bello",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/matias-canales-y-los-descabellados-melancolia-y-ruido-bello/",
+  "url_compra": "https://wa.link/lhhzqd",
+  "incluir": true,
+  "titulo": "Matías Canales y Los Descabellados: Melancolía y ruido bello",
+  "tipo": "concierto",
+  "generos": [
+   "indie pop"
+  ],
+  "sinopsis": "La banda presenta las canciones de su último disco y algunas sorpresas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Matías Canales y Los Descabellados"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 27 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-27",
+   "fin": "2026-11-27"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-screaming-chicks-esta-cancion-me-la-se",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/screaming-chicks-presenta-esta-cancion-me-la-se/",
+  "url_compra": "https://wa.link/721unx",
+  "incluir": true,
+  "titulo": "Screaming Chicks: ¡Esta canción me la sé!",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Temas de rock y pop en inglés y español pensados para corear.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Screaming Chicks"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 13 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-13",
+   "fin": "2026-11-13"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-pilar-de-la-hoz-dias-de-cine",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/pilar-de-la-hoz-dias-de-cine/",
+  "url_compra": "https://wa.link/7kdebx",
+  "incluir": true,
+  "titulo": "Pilar de la Hoz: Días de cine",
+  "tipo": "concierto",
+  "generos": [
+   "bandas sonoras"
+  ],
+  "sinopsis": "Pilar de la Hoz canta temas de películas con piano, batería y bajo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Pilar de la Hoz"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 14 oct, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-10-14",
+   "fin": "2026-10-14"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-saurio-lo-mejor-del-rock-en-ingles-y-espanol",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/saurio-lo-mejor-del-rock-en-ingles-y-espanol-2/",
+  "url_compra": "https://wa.link/111ymi",
+  "incluir": true,
+  "titulo": "Saurio: lo mejor del rock en inglés y español",
+  "tipo": "concierto",
+  "generos": [
+   "rock clásico"
+  ],
+  "sinopsis": "Rock de los ochenta y noventa, de Depeche Mode a AC/DC.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Saurio"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 15 oct, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-10-15",
+   "fin": "2026-10-15"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-the-doors-homenaje",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/the-doors-homenaje/",
+  "url_compra": "https://wa.link/dyta3e",
+  "incluir": true,
+  "titulo": "The Doors: homenaje",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Noche dedicada a los grandes éxitos de The Doors.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-onda-rocks-la-musica-de-tu-vida",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/onda-rocks-la-musica-de-tu-vida-con-la-mejor-onda/",
+  "url_compra": "https://wa.link/eyfpxu",
+  "incluir": true,
+  "titulo": "Onda Rocks: la música de tu vida",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Clásicos del rock y pop de los setenta, ochenta y noventa.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Onda Rocks"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 oct, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-vr-5-y-sus-amigos",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/vr-5-y-sus-amigos-ingreso-libre/",
+  "url_compra": "https://wa.link/9timjz",
+  "incluir": true,
+  "titulo": "VR-5 y sus amigos",
+  "tipo": "concierto",
+  "generos": [
+   "rock en español"
+  ],
+  "sinopsis": "Rock de los ochenta y pachanga con VR-5 y la banda invitada The Remakers. Ingreso libre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "VR-5",
+   "The Remakers"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 29 oct, 9 p. m.",
+  "temporada": {
+   "inicio": "2026-10-29",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": 0.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-amor-despecho-y-mucha-salsa",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/amor-despecho-y-mucha-salsa/",
+  "url_compra": "https://wa.link/7wft96",
+  "incluir": true,
+  "titulo": "Amor, despecho y mucha salsa",
+  "tipo": "concierto",
+  "generos": [
+   "salsa"
+  ],
+  "sinopsis": "Salsa y canciones de despecho para cantar y bailar.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 19 nov, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-11-19",
+   "fin": "2026-11-19"
+  },
+  "precio_desde": 80.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-timeline-lo-mejor-de-los-70-y-80-del-rock",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/timeline-presenta-un-viaje-hacia-lo-mejor-de-los-70s-y-80s-del-rock/",
+  "url_compra": "https://wa.link/h2y23o",
+  "incluir": true,
+  "titulo": "Timeline: lo mejor de los 70 y 80 del rock",
+  "tipo": "concierto",
+  "generos": [
+   "rock clásico"
+  ],
+  "sinopsis": "The Timeline Band enfrenta el rock clásico de los setenta con el dance rock de los ochenta.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "The Timeline Band"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 4 nov, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-11-04",
+   "fin": "2026-11-04"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-criollo-goes-jazz",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/criollo-goes-jazz-agustin-rojas-y-carlos-enrique/",
+  "url_compra": "https://wa.link/ms4xwk",
+  "incluir": true,
+  "titulo": "Criollo goes jazz",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "música criolla"
+  ],
+  "sinopsis": "Agustín Rojas y Carlos Enrique arreglan valses y clásicos criollos con improvisación jazzística.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Agustín Rojas",
+   "Carlos Enrique"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 20 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-20",
+   "fin": "2026-10-20"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-los-mancilla-el-legado",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/los-mancilla-el-legado/",
+  "url_compra": "https://wa.link/op1avz",
+  "incluir": true,
+  "titulo": "Los Mancilla: el legado",
+  "tipo": "concierto",
+  "generos": [
+   "bolero",
+   "balada"
+  ],
+  "sinopsis": "Padre e hijo cantan baladas, boleros y canciones del recuerdo a dúo y en solitario.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Julio César Mancilla",
+   "César Mancilla"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 21 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-21",
+   "fin": "2026-10-21"
+  },
+  "precio_desde": 70.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-silvio-a-la-carta",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/silvio-a-la-carta-lo-mejor-de-silvio-rodriguez/",
+  "url_compra": "https://wa.link/0urg05",
+  "incluir": true,
+  "titulo": "Silvio a la carta",
+  "tipo": "concierto",
+  "generos": [
+   "trova"
+  ],
+  "sinopsis": "Recorrido por las canciones de Silvio Rodríguez y la canción latinoamericana.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 22 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-22",
+   "fin": "2026-10-22"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-imaginary-friends-con-luis-loz",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/luis-loz-imaginary-friends/",
+  "url_compra": "https://wa.link/44k904",
+  "incluir": true,
+  "titulo": "Imaginary Friends con Luis Loz",
+  "tipo": "concierto",
+  "generos": [
+   "rock alternativo",
+   "indie"
+  ],
+  "sinopsis": "La banda chilena Imaginary Friends toca por primera vez en el Perú; abre Luis Loz.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Imaginary Friends",
+   "Luis Loz"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 23 oct, 9:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-glammers-especial-de-the-beatles",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/glammers-especial-de-the-beatles-exitos-80s-y-90s-del-rock-pop/",
+  "url_compra": "https://wa.link/ogp5j7",
+  "incluir": true,
+  "titulo": "Glammers: especial de The Beatles",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Glammers dedica la noche a The Beatles y cierra con éxitos de rock y pop de los ochenta y noventa.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Glammers"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 30 oct, 11:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-30",
+   "fin": "2026-10-30"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-jam-afroperuano-dia-de-la-cancion-criolla",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/jam-afroperuano-dia-de-la-cancion-criolla/",
+  "url_compra": "https://wa.link/8k8ax4",
+  "incluir": true,
+  "titulo": "Jam afroperuano: Día de la Canción Criolla",
+  "tipo": "concierto",
+  "generos": [
+   "afroperuano",
+   "música criolla"
+  ],
+  "sinopsis": "Pepe Santa Cruz dirige una jam de música afroperuana y criolla con improvisación.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Pepe Santa Cruz",
+   "Lessia Limas"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 31 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-willy-terry-y-su-conjunto",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/willy-terry-y-su-conjunto/",
+  "url_compra": "https://wa.link/btsnbg",
+  "incluir": true,
+  "titulo": "Willy Terry y su conjunto",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Valses, polkas y festejos para celebrar el Día de la Canción Criolla.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Willy Terry"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 31 oct, 11 p. m.",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": 70.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-cocodrilo-verde-del-vals-al-bolero",
+  "fuente": "web de la sala",
+  "url": "https://cocodriloverde.com/conciertos/del-vals-al-bolero-2/",
+  "url_compra": "https://wa.link/wbj3ce",
+  "incluir": true,
+  "titulo": "Del vals al bolero",
+  "tipo": "concierto",
+  "generos": [
+   "bolero",
+   "vals criollo"
+  ],
+  "sinopsis": "Valses criollos, boleros clásicos y son en una noche de música del recuerdo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Mariella Fonseca",
+   "Abel Páez"
+  ],
+  "productora": null,
+  "sala": "Cocodrilo Verde",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 28 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-28",
+   "fin": "2026-10-28"
+  },
+  "precio_desde": 50.0,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-the-beatles-y-paul-mccartney-tributo-con-carlos-guerrero",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/rock/the-beatles-paul-mccartney-tributo-en-vivo-con-carlos-guerrero-en-miraflores",
+  "incluir": true,
+  "titulo": "The Beatles y Paul McCartney: tributo con Carlos Guerrero",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Carlos Guerrero repasa los clásicos de The Beatles y de la carrera solista de Paul McCartney.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Carlos Guerrero"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 18 set, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-18",
+   "fin": "2026-09-18"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-tributo-a-zoe-y-especial-leon-larregui",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/rock/tributo-a-zoe-y-especial-a-leon-larregui-en-miraflores",
+  "incluir": true,
+  "titulo": "Tributo a Zoé y especial León Larregui",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Noche de rock dedicada a Zoé y a la carrera solista de León Larregui.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 19 set, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-19",
+   "fin": "2026-09-19"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-lo-mejor-de-charly-garcia",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Lo mejor de Charly García",
+  "tipo": "concierto",
+  "generos": [
+   "rock en español",
+   "tributo"
+  ],
+  "sinopsis": "El Hijo de la Lágrima recorre los clásicos de Charly García con un bloque dedicado a Serú Girán, Sui Generis y La Máquina de Hacer Pájaros.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "El Hijo de la Lágrima"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 26 set, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-26",
+   "fin": "2026-09-26"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-charly-garcia-75-la-fiesta-continua",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Charly García 75: la fiesta continúa",
+  "tipo": "concierto",
+  "generos": [
+   "rock en español",
+   "tributo"
+  ],
+  "sinopsis": "El Hijo de la Lágrima vuelve para celebrar los 75 años de Charly García con un repertorio pensado para la fiesta.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "El Hijo de la Lágrima"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 13 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-13",
+   "fin": "2026-11-13"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-jazz-afroperuano-con-gabriel-alegria-sexteto",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://jazzperu.org/",
+  "incluir": true,
+  "titulo": "Jazz afroperuano con Gabriel Alegría Sexteto",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "afroperuano"
+  ],
+  "sinopsis": "Cada jueves el sexteto de Gabriel Alegría toca jazz afroperuano en dos funciones, una cita fija del club.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Gabriel Alegría Sexteto"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "1, 15, 22 y 29 oct; 8 p. m., 10 p. m. y 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-01",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": 65,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-lo-mejor-de-the-beatles-y-del-rock-clasico-en-ingles",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Lo mejor de The Beatles y del rock clásico en inglés",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "La Banda del Sargento toca clásicos de The Beatles y del rock en inglés.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "La Banda del Sargento"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 2 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-02"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-the-country-music-tribute",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/conciertos/the-country-music-tribute-billy-ray-cyrus-johnny-cash-hank-williams-y-mas-en-miraflores",
+  "incluir": true,
+  "titulo": "The Country Music Tribute",
+  "tipo": "concierto",
+  "generos": [
+   "country",
+   "rock clásico"
+  ],
+  "sinopsis": "La International Blues Band rinde homenaje a Johnny Cash, Hank Williams, Kenny Rogers y otras leyendas del country y el rock clásico.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "International Blues Band"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "2 y 10 oct; 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-10"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-extrana-pareja",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Extraña pareja",
+  "tipo": "teatro",
+  "generos": [
+   "comedia"
+  ],
+  "sinopsis": "Comedia sobre un matrimonio de muchos años al que una propuesta del marido pone de cabeza, entre celos, manipulación y cambios de humor.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "3 y 18 oct; 7 p. m.",
+  "temporada": {
+   "inicio": "2026-10-03",
+   "fin": "2026-10-18"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-se-acabaron-las-ex-cusas",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://teleticket.com.pe/evento/se-acabaron-las-excusas-jazz-zone-2026",
+  "incluir": true,
+  "titulo": "Se acabaron las ex-cusas",
+  "tipo": "stand-up",
+  "generos": [
+   "stand-up"
+  ],
+  "sinopsis": "El comediante Alex Román cuenta en clave de humor cómo dejó todo para dedicarse al arte.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Alex Román"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 3 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-03",
+   "fin": "2026-10-03"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-lima-jazz-fest-2026",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://www.joinnus.com/events/festivales/lima-lima-jazz-fest-2026-78390",
+  "incluir": true,
+  "titulo": "Lima Jazz Fest 2026",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "latin jazz"
+  ],
+  "sinopsis": "Semana de festival con un concierto por noche: Óscar Barcelli, Defensores del Morro con Jonathan Montes, Raúl Pineda, Latinandó con Elías Coutinho y Los Jazzy Bros con Aníbal Seminario.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Óscar Barcelli",
+   "Defensores del Morro",
+   "Jonathan Montes",
+   "Raúl Pineda",
+   "Latinandó",
+   "Elías Coutinho",
+   "Los Jazzy Bros",
+   "Aníbal Seminario"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "5, 6, 7, 8 y 9 oct; 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-05",
+   "fin": "2026-10-09"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-cafe-sin-azucar",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Café sin azúcar",
+  "tipo": "teatro",
+  "generos": [
+   "comedia",
+   "drama familiar"
+  ],
+  "sinopsis": "Una abuela, su nieto y una herencia inesperada dan pie a una historia familiar agridulce.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "11 y 12 oct; 7 p. m. y 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-11",
+   "fin": "2026-10-12"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-marco-musical-estelar",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Marco Musical Estelar",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "El Centro Cultural Musical Miraflores presenta a su grupo estelar en una noche de música en vivo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Alejandro Velásquez",
+   "Wayo Álvarez",
+   "Edson Rosales",
+   "Carlos Zaga"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 13 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-13",
+   "fin": "2026-10-13"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-el-efecto-ja",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El efecto Ja",
+  "tipo": "stand-up",
+  "generos": [
+   "stand-up"
+  ],
+  "sinopsis": "Show de graduación del taller de stand-up de Humor en Serio, con comediantes que debutan.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 14 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-14",
+   "fin": "2026-10-14"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-jam-afroperuano",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Jam afroperuano",
+  "tipo": "concierto",
+  "generos": [
+   "afroperuano"
+  ],
+  "sinopsis": "Los miércoles, una jam de música afroperuana donde el público puede sumarse a tocar.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "14, 21 y 28 oct; 10 p. m.",
+  "temporada": {
+   "inicio": "2026-10-14",
+   "fin": "2026-10-28"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-catarsis-el-festival",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Catarsis ¡el festival!",
+  "tipo": "show",
+  "generos": [
+   "rock",
+   "stand-up"
+  ],
+  "sinopsis": "Noche que junta un tributo a los noventa, el rock de Dudó y el stand-up musical del Dr. Medina.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Dudó",
+   "Dr. Medina"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 oct, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-indie-rock-festival-2026",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/conciertos/indie-rock-festival-2026-en-miraflores",
+  "incluir": true,
+  "titulo": "Indie Rock Festival 2026",
+  "tipo": "concierto",
+  "generos": [
+   "indie rock"
+  ],
+  "sinopsis": "Los Fasos tocan canciones de The Strokes, The Killers, Arctic Monkeys, Tame Impala y otras bandas indie.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Los Fasos"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 oct, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-banda-sonora-de-nuestras-vidas",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Banda sonora de nuestras vidas",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "baladas"
+  ],
+  "sinopsis": "Universo Voz reúne a varios cantantes para recorrer canciones que marcaron época.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Universo Voz"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 17 oct, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-10-17",
+   "fin": "2026-10-17"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-el-versus-de-la-salsa-con-afinke-orquesta",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://wa.link/do2oo9",
+  "incluir": true,
+  "titulo": "El versus de la salsa con Afinke Orquesta",
+  "tipo": "concierto",
+  "generos": [
+   "salsa"
+  ],
+  "sinopsis": "Afinke Orquesta enfrenta la salsa dura con la salsa romántica en una noche para bailar.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Afinke Orquesta"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 17 oct, 10:45 p. m.",
+  "temporada": {
+   "inicio": "2026-10-17",
+   "fin": "2026-10-17"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-los-bardos-de-america",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Los Bardos de América",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Grupo de música criolla llegado de Miami, presentado por el Centro Cultural Musical Miraflores.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Los Bardos de América"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 20 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-20",
+   "fin": "2026-10-20"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-el-sonido-de-la-musica",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El sonido de la música",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "baladas"
+  ],
+  "sinopsis": "Show con canciones en inglés, del recuerdo y contemporáneas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 23 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": 35,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-salsa-dura-rumbon-sabroso",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "http://wa.me/51998675432",
+  "incluir": true,
+  "titulo": "Salsa dura: rumbón sabroso",
+  "tipo": "concierto",
+  "generos": [
+   "salsa"
+  ],
+  "sinopsis": "La Efectiva toca salsa dura para bailarines avanzados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "La Efectiva"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 23 oct, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-homenaje-a-george-harrison",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-homenaje-a-george-harrison-79391",
+  "incluir": true,
+  "titulo": "Homenaje a George Harrison",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "Los Harrisongs recorren la obra de George Harrison con The Beatles, como solista y con los Traveling Wilburys.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Los Harrisongs"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 24 oct, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-10-24"
+  },
+  "precio_desde": 35,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-dia-de-la-cancion-criolla-con-el-centro-cultural-musical-miraflores",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Día de la Canción Criolla con el Centro Cultural Musical Miraflores",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Velada de música criolla por el Día de la Canción Criolla.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 27 oct, 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-27",
+   "fin": "2026-10-27"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-noches-con-andres-prado",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Noches con Andrés Prado",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "música latinoamericana"
+  ],
+  "sinopsis": "El guitarrista Andrés Prado presenta su disco «Barranquino» entre jazz, música popular latinoamericana e improvisación.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Andrés Prado"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 28 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-28",
+   "fin": "2026-10-28"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-feliz-cumpleanos-john-lennon",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/rock/feliz-cumpleanos-john-lennon-en-miraflores",
+  "incluir": true,
+  "titulo": "Feliz cumpleaños John Lennon",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "tributo"
+  ],
+  "sinopsis": "We All Together celebra a John Lennon con lo mejor de su obra y de The Beatles.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "We All Together"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 30 oct, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-30",
+   "fin": "2026-10-30"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-fuerza-gigante-orquesta",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/conciertos/juan-nunez-fuerza-gigante-orquesta-en-miraflores",
+  "incluir": true,
+  "titulo": "Fuerza Gigante Orquesta",
+  "tipo": "concierto",
+  "generos": [
+   "salsa"
+  ],
+  "sinopsis": "Juan Núñez y Fuerza Gigante Orquesta tocan sus éxitos de salsa.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Fuerza Gigante Orquesta",
+   "Juan Núñez"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 30 oct, 10 p. m.",
+  "temporada": {
+   "inicio": "2026-10-30",
+   "fin": "2026-10-30"
+  },
+  "precio_desde": 55,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-salsa-de-rompe-y-raja",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://wa.link/do2oo9",
+  "incluir": true,
+  "titulo": "Salsa de rompe y raja",
+  "tipo": "concierto",
+  "generos": [
+   "salsa",
+   "música criolla"
+  ],
+  "sinopsis": "Afinke Orquesta mezcla salsa con un bloque de música criolla para cerrar octubre.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Afinke Orquesta"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 31 oct, 10:45 p. m.",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-quinteto-de-kevin-zuniga",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Quinteto de Kevin Zúñiga",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "latin jazz"
+  ],
+  "sinopsis": "Concierto central de la gira peruana de Kevin Zúñiga con nuevos arreglos de jazz y latin jazz.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Kevin Zúñiga"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 3 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-03",
+   "fin": "2026-11-03"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-salsa-andina-orquesta-segovia",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://ticketya.pe/events/info/4",
+  "incluir": true,
+  "titulo": "Salsa andina: Orquesta Segovia",
+  "tipo": "concierto",
+  "generos": [
+   "salsa",
+   "folklore"
+  ],
+  "sinopsis": "Segovia Orquesta presenta su producción que cruza salsa y folclor; invitado, Cosa Nuestra de Tito Manrique.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Segovia Orquesta",
+   "Cosa Nuestra"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 4 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-04",
+   "fin": "2026-11-04"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-yo-soy-los-panchos",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/conciertos/noche-de-boleros-tributo-a-los-panchos-trio-los-cox-y-a-rafael-en-jazz-zone-miraflores",
+  "incluir": true,
+  "titulo": "Yo soy Los Panchos",
+  "tipo": "concierto",
+  "generos": [
+   "bolero",
+   "tributo"
+  ],
+  "sinopsis": "Homenaje al bolero con el trío Los Cox y una aparición de Yo Soy Rafael.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Trío Los Cox"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 6 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-06",
+   "fin": "2026-11-06"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-yo-soy-matt-bellamy-muse",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": "https://vaope.com/eventos/rock/yo-soy-matt-bellamy-tributo-a-muse-en-jazz-zone-miraflores",
+  "incluir": true,
+  "titulo": "Yo soy Matt Bellamy: Muse",
+  "tipo": "concierto",
+  "generos": [
+   "rock alternativo",
+   "tributo"
+  ],
+  "sinopsis": "Show tributo a Muse.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 6 nov, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-11-06",
+   "fin": "2026-11-06"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-mujeres-en-el-cabaret",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Mujeres en el cabaret",
+  "tipo": "musical",
+  "generos": [
+   "musical",
+   "comedia"
+  ],
+  "sinopsis": "Musical entre drama, comedia y burlesque: en un burdel del Centro de Lima el dueño aparece muerto y tres mujeres son sospechosas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": "Vicky Paz Producciones",
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 15 nov, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-11-15",
+   "fin": "2026-11-15"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "mfl-jazz-zone-back-to-the-80-s",
+  "fuente": "web de la sala",
+  "url": "https://www.jazzzoneperu.com/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Back to the 80's",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "ochentas"
+  ],
+  "sinopsis": "Carlitos Mendoza canta himnos del rock ochentero.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Carlitos Mendoza"
+  ],
+  "productora": null,
+  "sala": "Jazz Zone",
+  "distrito": "Miraflores",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 18 nov, 7:30 p. m.",
+  "temporada": {
+   "inicio": "2026-11-18",
+   "fin": "2026-11-18"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ }
+]
