@@ -96,6 +96,8 @@ Para productores:
 ## 10. Costos y tarifas
 
 - El cargo al comprador es **por transacción**, no por entrada.
+- **Esquema propuesto:** el comprador paga un cargo fijo por pedido (≈ S/ 1–1,50) que cubre el monto fijo de la pasarela y nuestro margen; un sol por transacción no le molesta a nadie. El productor paga solo un porcentaje bajo (pasarela + margen chico). Así, para elegir pasarela importan el porcentaje (sobre todo en Yape/Plin), el plazo de abono, los pagos divididos y el respaldo antifraude, no el monto fijo.
+- Izipay (fuentes no oficiales): tarjeta peruana 3,44% + IGV, extranjera 3,95% + IGV, Yape/Plin ~1,5% (por confirmar). Yape Empresas cobra 2,95% desde abril de 2024. Pedir cotización formal a Izipay, Culqi y Niubiz.
 - La única cosa que no desaparece es la pasarela. Mercado Pago, según fuentes no oficiales: ~3,49% + S/ 1,00 + IGV con cobro inmediato, ~3,29% + S/ 1,00 + IGV a 14 días. Confirmar en su panel y cotizar Culqi, Izipay, Niubiz.
 - Yape/Plin no es gratis: sin validación automática es trabajo manual y riesgo; con validación, cuesta parecido a la tarjeta.
 - Fraude y contracargos: estándar de mercado, no se ahorra ahí.
