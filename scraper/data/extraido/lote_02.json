@@ -1,0 +1,1488 @@
+[
+  {
+    "id": "tt-PYA010",
+    "incluir": true,
+    "titulo": "La magia de ser diferentes",
+    "tipo": "infantil",
+    "generos": [
+      "musical",
+      "educativo"
+    ],
+    "sinopsis": "Musical original para toda la familia sobre un grupo de niños que descubre que cada uno tiene habilidades propias. Habla de la empatía, el respeto y la neurodivergencia con humor y fantasía.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Mario Vargas Llosa",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Sáb 31 oct y dom 1 nov, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": 35.0
+  },
+  {
+    "id": "tt-ARP061",
+    "incluir": true,
+    "titulo": "Las Guardianas KPop",
+    "tipo": "infantil",
+    "generos": [
+      "musical",
+      "pop"
+    ],
+    "sinopsis": "Espectáculo musical familiar que recorre canciones muy queridas con coreografías, vestuarios y efectos visuales. Llega a Lima como parte de una gira internacional.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "C.C. Parque de la Amistad",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 39.0
+  },
+  {
+    "id": "tt-PAT093",
+    "incluir": true,
+    "titulo": "Aladino y la lámpara maravillosa",
+    "tipo": "infantil",
+    "generos": [
+      "aventura",
+      "clásico",
+      "familiar"
+    ],
+    "sinopsis": "Versión teatral del cuento de Aladino, un ladronzuelo que busca una lámpara mágica para conquistar a la princesa Jazmín. En el camino conoce al Genio y vive una gran aventura.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Arlequín Teatro",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Sáb y dom 5:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 25.0
+  },
+  {
+    "id": "tt-DHR025",
+    "incluir": true,
+    "titulo": "Voces de oro en Ica",
+    "tipo": "concierto",
+    "generos": [
+      "tributo",
+      "música romántica"
+    ],
+    "sinopsis": "Concierto en el que cuatro voces de Yo Soy rinden homenaje a Raphael, Julio Iglesias, Nino Bravo y Pedro Infante. Una noche de grandes baladas en Ica.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Josué Rivaldo",
+      "Marco Hurtado",
+      "Sebastián Hormazabal",
+      "Jesús Zavaleta"
+    ],
+    "productora": null,
+    "sala": "Coliseo del Colegio San Vicente de Paul",
+    "distrito": null,
+    "ciudad": "Ica",
+    "duracion_min": 180,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 64.0
+  },
+  {
+    "id": "tt-LBE001",
+    "incluir": true,
+    "titulo": "Insomnio: casos inexplicables",
+    "tipo": "show",
+    "generos": [
+      "misterio",
+      "paranormal"
+    ],
+    "sinopsis": "Edición de Halloween del espacio Insomnio, con dos investigadores de lo inexplicable que comparten y analizan casos de fenómenos paranormales. Para quienes disfrutan del misterio y la discusión.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Doctor Misterio",
+      "Francisco Adrianzén"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 64.0
+  },
+  {
+    "id": "tt-CAA032",
+    "incluir": true,
+    "titulo": "Yo fui candidato",
+    "tipo": "comedia",
+    "generos": [
+      "sátira política",
+      "humor"
+    ],
+    "sinopsis": "El humorista Carlos Álvarez regresa a escena con anécdotas y personajes de su paso por las elecciones de 2026. Una velada de humor con algo de reflexión.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Carlos Álvarez"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bianca",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-27"
+    },
+    "precio_desde": 112.0
+  },
+  {
+    "id": "tt-HJP004",
+    "incluir": true,
+    "titulo": "Macho",
+    "tipo": "stand-up",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "Show de stand-up con tres comediantes que reúnen humor y solidaridad, ya que parte de la taquilla se destina a un grupo de rescate de perros callejeros.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Chapasa",
+      "Lee Amaya",
+      "José Araujo"
+    ],
+    "productora": null,
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 31 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 43.0
+  },
+  {
+    "id": "tt-LGG004",
+    "incluir": true,
+    "titulo": "El baile del olvido",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "drama"
+    ],
+    "sinopsis": "Seis antiguos actores vuelven al teatro donde empezó su historia antes de que lo demuelan. Una comedia tierna sobre la soledad y la dignidad de la tercera edad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Cultural CAFAE-SE",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": 75,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 31 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-CMA042",
+    "incluir": true,
+    "titulo": "Nos casamos la cagamos",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia",
+      "pareja"
+    ],
+    "sinopsis": "Una pareja de esposos, padres y comediantes cuenta con humor las peripecias de la vida conyugal. Es un espectáculo con muchos años en cartelera.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Maribel",
+      "Jaime"
+    ],
+    "productora": null,
+    "sala": "Jazz Zone",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 65.0
+  },
+  {
+    "id": "tt-STN002",
+    "incluir": true,
+    "titulo": "Super Tono Noventero - Edición Halloween",
+    "tipo": "show",
+    "generos": [
+      "fiesta",
+      "música de los 90"
+    ],
+    "sinopsis": "Fiesta temática de Halloween dedicada a la música de los años 90, con ambientación especial, artistas invitados y concursos. Se invita al público a asistir disfrazado.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Super Tono Noventero Entertainment",
+    "sala": "Zentro Convenciones",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 480,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 53.0
+  },
+  {
+    "id": "tt-AEE001",
+    "incluir": true,
+    "titulo": "Ídolos del amor - Almuerzo show",
+    "tipo": "concierto",
+    "generos": [
+      "música romántica",
+      "tributo"
+    ],
+    "sinopsis": "Tarde de música romántica con imitadores de la temporada de Yo Soy que recrean a Isabel Pantoja, Los Panchos y Leo Dan. Se disfruta durante un almuerzo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Paulina Villalobos",
+      "Los Cox",
+      "Piero Torbillo"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bolívar",
+    "distrito": "Pueblo Libre",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 5,
+    "horario_texto": "Dom 1 nov, 1 p. m.",
+    "temporada": {
+      "inicio": "2026-11-01",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": 75.0
+  },
+  {
+    "id": "tt-JEP111",
+    "incluir": true,
+    "titulo": "Jugando con el lobo feroz",
+    "tipo": "infantil",
+    "generos": [
+      "interactivo",
+      "cuentos"
+    ],
+    "sinopsis": "Lobualdo Ferozino se queda sin compañía en el bosque y propone a los niños y sus familias darles vida a los cuentos. Un espectáculo interactivo donde el público participa.",
+    "elenco": [
+      {
+        "nombre": "Lobualdo Ferozino",
+        "personaje": null
+      },
+      {
+        "nombre": "Christopher Pacheco",
+        "personaje": null
+      },
+      {
+        "nombre": "Lizet Estrada",
+        "personaje": null
+      },
+      {
+        "nombre": "Oscar Kid",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Alexander Pacheco",
+        "rol": "dramaturgia"
+      }
+    ],
+    "artistas": [],
+    "productora": "Ayepotámono Teatro",
+    "sala": "Asociación Cultural Campo Abierto",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Dom 1 nov, 4 p. m. y 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-01",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-JEP109",
+    "incluir": true,
+    "titulo": "Los tres cerditos del rock",
+    "tipo": "infantil",
+    "generos": [
+      "musical",
+      "cuentos"
+    ],
+    "sinopsis": "Tras un tornado que derriba dos de sus casitas, tres cerditos se refugian con un lobo músico que los anima a formar una banda de rock. Teatro familiar con aire de cuento clásico.",
+    "elenco": [
+      {
+        "nombre": "Lobualdo Ferozino",
+        "personaje": null
+      },
+      {
+        "nombre": "Juan Carlos Díaz",
+        "personaje": null
+      },
+      {
+        "nombre": "Ruth Vasquez",
+        "personaje": null
+      },
+      {
+        "nombre": "Leito Monteverde",
+        "personaje": null
+      },
+      {
+        "nombre": "Christopher Pacheco",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Alexander Pacheco",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Alexander Pacheco",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Lizet Estrada",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": "Ayepotámono Teatro",
+    "sala": "Asociación Cultural Campo Abierto",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "A las 4 p. m.",
+    "temporada": {
+      "inicio": "2026-11-01",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-JEP110",
+    "incluir": true,
+    "titulo": "La liebre y la tortuga",
+    "tipo": "infantil",
+    "generos": [
+      "fábula",
+      "familiar"
+    ],
+    "sinopsis": "La presumida liebre, estrella del bosque, acepta el reto de una carrera con la tortuga. Una fábula para ver en familia.",
+    "elenco": [
+      {
+        "nombre": "Juan Carlos Díaz",
+        "personaje": null
+      },
+      {
+        "nombre": "Leito Monteverde",
+        "personaje": null
+      },
+      {
+        "nombre": "Ruth Vasquez",
+        "personaje": null
+      },
+      {
+        "nombre": "Christopher Pacheco",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Alexander Pacheco",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Lizet Estrada",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": "Ayepotámono Teatro",
+    "sala": "Asociación Cultural Campo Abierto",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Dom 15 nov, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-01",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-CTA100",
+    "incluir": true,
+    "titulo": "El club de las viudas",
+    "tipo": "teatro",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Tres amigas de toda la vida deciden vivir juntas tras quedar viudas, hasta que un joven vecino les cambia la rutina y las ilusiones. Una comedia sobre la amistad y el amor a cualquier edad.",
+    "elenco": [
+      {
+        "nombre": "Sonia Oquendo",
+        "personaje": null
+      },
+      {
+        "nombre": "Cecilia Tosso",
+        "personaje": null
+      },
+      {
+        "nombre": "Patricia Frayssinet",
+        "personaje": null
+      },
+      {
+        "nombre": "Estefano Tosso",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Marco García-Tizón",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Marco García-Tizón",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 18,
+    "horario_texto": "Mié 4, sáb 14 y vie 27 nov, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-04",
+      "fin": "2026-11-27"
+    },
+    "precio_desde": 80.0
+  },
+  {
+    "id": "tt-MTS061",
+    "incluir": true,
+    "titulo": "Felipe Avello",
+    "tipo": "stand-up",
+    "generos": [
+      "humor",
+      "improvisación"
+    ],
+    "sinopsis": "El humorista chileno Felipe Avello presenta su espectáculo más reciente en Lima, con humor, improvisación y mucho contacto con el público.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Felipe Avello"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 5 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-05",
+      "fin": "2026-11-05"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-SPU001",
+    "incluir": true,
+    "titulo": "La Manada",
+    "tipo": "show",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "Función de La Manada en el Teatro Canout, con tres figuras de la televisión peruana en escena. Una noche de entretenimiento para adultos.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Laura Spoya",
+      "Gerardo Pe",
+      "Mario Irivarren"
+    ],
+    "productora": "Satélite Plus",
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Jue 5 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-05",
+      "fin": "2026-11-05"
+    },
+    "precio_desde": 55.0
+  },
+  {
+    "id": "tt-MTS056",
+    "incluir": true,
+    "titulo": "Poly Díaz",
+    "tipo": "stand-up",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "La comediante venezolana Poly Díaz presenta un show de stand-up sobre las crisis de la adultez, el amor moderno y las citas fallidas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Poly Díaz"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 6 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-06",
+      "fin": "2026-11-06"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-HID143",
+    "incluir": true,
+    "titulo": "Chapa tu money",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Show de humor, retos e improvisación que sale de YouTube al teatro, con Mateo Garrido Lecca y todo el elenco. Va por su octava temporada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mateo Garrido Lecca"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Vie 6 nov",
+    "temporada": {
+      "inicio": "2026-11-06",
+      "fin": "2026-11-06"
+    },
+    "precio_desde": 49.9
+  },
+  {
+    "id": "tt-CTA110",
+    "incluir": true,
+    "titulo": "Los inoxidables",
+    "tipo": "teatro",
+    "generos": [
+      "comedia"
+    ],
+    "sinopsis": "Tres grandes actores del teatro peruano protagonizan una comedia sobre la amistad y el paso del tiempo, con humor criollo y momentos entrañables.",
+    "elenco": [
+      {
+        "nombre": "Carlos Victoria",
+        "personaje": null
+      },
+      {
+        "nombre": "Carlos Thornton",
+        "personaje": null
+      },
+      {
+        "nombre": "Luis Menezes",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Renato Piaggio",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Renato Piaggio",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Piero Lévano",
+        "rol": "dramaturgia"
+      }
+    ],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 18,
+    "horario_texto": "Vie 6 y 20 nov, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-06",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": 80.0
+  },
+  {
+    "id": "tt-DEA081",
+    "incluir": true,
+    "titulo": "Los dioses del teatro",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "sátira"
+    ],
+    "sinopsis": "Dos actores que fueron muy admirados viven de sus recuerdos mientras buscan seguir vigentes con una obra que puede salvarlos o hundirlos. Una comedia ácida sobre el miedo a convertirse en lo que uno fue.",
+    "elenco": [
+      {
+        "nombre": "César Ritter",
+        "personaje": null
+      },
+      {
+        "nombre": "Gonzalo Torres",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Mario Vargas Llosa",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-11-06",
+      "fin": "2026-12-06"
+    },
+    "precio_desde": 41.0
+  },
+  {
+    "id": "tt-JAL003",
+    "incluir": true,
+    "titulo": "TDH, trastorno de hombre",
+    "tipo": "stand-up",
+    "generos": [
+      "humor negro"
+    ],
+    "sinopsis": "Show de humor negro que se ríe de la ansiedad, el sobrepensar y lo difícil que resulta existir hoy. Para reconocerse y sentirse menos solo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 16,
+    "horario_texto": "Vie 6 nov, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-11-06",
+      "fin": "2026-11-06"
+    },
+    "precio_desde": 80.0
+  },
+  {
+    "id": "tt-PAT095",
+    "incluir": true,
+    "titulo": "Ricitos de oro",
+    "tipo": "infantil",
+    "generos": [
+      "cuentos",
+      "clásico"
+    ],
+    "sinopsis": "La historia de la niña curiosa que entra a la casa de una familia de osos y se queda dormida en la cama del osito. Teatro para los más pequeños.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Arlequín Teatro",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Sáb y dom 2:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 25.0
+  },
+  {
+    "id": "tt-PAT097",
+    "incluir": true,
+    "titulo": "Pinocho",
+    "tipo": "infantil",
+    "generos": [
+      "cuentos",
+      "clásico"
+    ],
+    "sinopsis": "Geppetto fabrica una marioneta que cobra vida gracias al Hada Azul, y Pepito Grillo intenta guiar a Pinocho para que se convierta en un niño de verdad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Arlequín Teatro",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": null,
+    "horario_texto": "Sáb y dom 4 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 25.0
+  },
+  {
+    "id": "tt-TBS003",
+    "incluir": true,
+    "titulo": "Los Rocosaurios y el misterio de Rocolandia",
+    "tipo": "infantil",
+    "generos": [
+      "musical",
+      "aventura",
+      "familiar"
+    ],
+    "sinopsis": "Nueva aventura de Los Rocosaurios: tres niños y su maestra viajan a Rocolandia, un mundo donde la música está en peligro. Con canciones, dinosaurios y un mensaje sobre ser diferentes.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 4 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-ARR002",
+    "incluir": true,
+    "titulo": "Música, humor y pecado",
+    "tipo": "show",
+    "generos": [
+      "música en vivo",
+      "humor"
+    ],
+    "sinopsis": "Noche de banda en vivo, chistes y stand-up para cantar y reír con los pequeños pecados de cada uno.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 7 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": 35.0
+  },
+  {
+    "id": "tt-TED003",
+    "incluir": true,
+    "titulo": "Gran homenaje Ayacucho en mi corazón",
+    "tipo": "folklore",
+    "generos": [
+      "música de tuna",
+      "homenaje"
+    ],
+    "sinopsis": "Concierto cultural de la Tuna Mayor San Cristóbal de Huamanga, que difunde la música de tuna y el folklore nacional e internacional.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Tuna Mayor San Cristóbal de Huamanga"
+    ],
+    "productora": null,
+    "sala": "Auditorio Derrama Magisterial",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 6,
+    "horario_texto": "Sáb 7 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": 43.0
+  },
+  {
+    "id": "tt-ATM030",
+    "incluir": true,
+    "titulo": "Hablando huevadas",
+    "tipo": "show",
+    "generos": [
+      "humor",
+      "conversación"
+    ],
+    "sinopsis": "Función en vivo del dúo detrás del popular programa de YouTube Hablando Huevadas, con humor y conversación en el escenario.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": "A Tu Mama Le Dicen S.A.C.",
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 7 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-RPA052",
+    "incluir": true,
+    "titulo": "Mujer que no jode es hombre - Edición 2026",
+    "tipo": "stand-up",
+    "generos": [
+      "humor",
+      "ironía"
+    ],
+    "sinopsis": "Show de stand-up que recorre las distintas versiones de la mujer: madre, maestra, amiga, novia, esposa, amante y suegra. Humor e ironía para reconocerse.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Milagros"
+    ],
+    "productora": null,
+    "sala": "La Estación de Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 45.0
+  },
+  {
+    "id": "tt-CTA111",
+    "incluir": true,
+    "titulo": "Las eternas",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "amistad"
+    ],
+    "sinopsis": "Tres amigas se reúnen a celebrar la vida y, al abrir una vieja caja, salen a la luz cartas y secretos de los años 70. Una comedia sobre una amistad que resiste al tiempo.",
+    "elenco": [
+      {
+        "nombre": "Bettina Oneto",
+        "personaje": null
+      },
+      {
+        "nombre": "Susan León",
+        "personaje": null
+      },
+      {
+        "nombre": "Amparo Brambilla",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Renato Piaggio",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Renato Piaggio",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 7 y 28 nov, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 80.0
+  },
+  {
+    "id": "tt-RBL013",
+    "incluir": true,
+    "titulo": "La casa de Timoteo: qué lío",
+    "tipo": "infantil",
+    "generos": [
+      "música",
+      "magia",
+      "comedia"
+    ],
+    "sinopsis": "Timoteo y el Profesor Otto llegan a Chiclayo con una aventura entre épocas, con música, juegos, magia y humor para toda la familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Timoteo",
+      "Profesor Otto"
+    ],
+    "productora": null,
+    "sala": "Auditorio del Colegio San José",
+    "distrito": null,
+    "ciudad": "Chiclayo",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 8 nov, 3 p. m. y 6 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": 37.0
+  },
+  {
+    "id": "tt-CTA093",
+    "incluir": true,
+    "titulo": "Los tres chanchitos y el lobo feroz",
+    "tipo": "infantil",
+    "generos": [
+      "cuentos",
+      "clásico"
+    ],
+    "sinopsis": "Tres chanchitos construyen sus casas y un lobo insistente intenta derribarlas. Un clásico sobre el esfuerzo y las buenas decisiones, para ver en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Auditorio San Antonio de Padua",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 80,
+    "edad_minima": null,
+    "horario_texto": "Dom 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 32.0
+  },
+  {
+    "id": "tt-PSM028",
+    "incluir": true,
+    "titulo": "Según distritos",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Claudio Revatta mezcla stand-up e improvisación con dos personajes, un pituco y un chalaco, que comparan los distritos donde ha vivido. El público interactúa con ambos.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Claudio Revatta"
+    ],
+    "productora": "Punch Studio Management",
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 44.0
+  },
+  {
+    "id": "tt-CTA112",
+    "incluir": true,
+    "titulo": "Las eternas",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "amistad"
+    ],
+    "sinopsis": "Tres amigas se reúnen a celebrar la vida y, al abrir una vieja caja, salen a la luz cartas y secretos de los años 70. Una comedia sobre una amistad que resiste al tiempo.",
+    "elenco": [
+      {
+        "nombre": "Bettina Oneto",
+        "personaje": null
+      },
+      {
+        "nombre": "Susan León",
+        "personaje": null
+      },
+      {
+        "nombre": "Amparo Brambilla",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Renato Piaggio",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Renato Piaggio",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": "Compañía de Teatro Arturo Escalante",
+    "sala": "Auditorio San Antonio de Padua",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 18,
+    "horario_texto": "Dom 8 nov, 7 p. m.; sáb 21 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 32.0
+  },
+  {
+    "id": "tt-LUM017",
+    "incluir": true,
+    "titulo": "Chicago el musical",
+    "tipo": "musical",
+    "generos": [
+      "drama",
+      "crimen"
+    ],
+    "sinopsis": "Montaje del taller de teatro musical de Luminus Casa Cultural sobre Roxie Hart y Velma Kelly, dos mujeres acusadas de asesinato que buscan la fama. Con jazz, baile y voces en vivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Luminus Casa Cultural",
+    "sala": "Teatro Auditorio del Centro Cultural Jesús María",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Dom 8 y 15 nov, 8 p. m.; dom 22 nov, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-MVG052",
+    "incluir": true,
+    "titulo": "La herencia",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "familia"
+    ],
+    "sinopsis": "Un padre que sabe que le queda poco tiempo reúne a sus hijos para anunciar el reparto de sus bienes, y los conflictos y secretos familiares salen a la superficie.",
+    "elenco": [
+      {
+        "nombre": "Carlos Victoria",
+        "personaje": null
+      },
+      {
+        "nombre": "Paco Varela",
+        "personaje": null
+      },
+      {
+        "nombre": "Paola Miñán",
+        "personaje": null
+      },
+      {
+        "nombre": "Luis Menezes",
+        "personaje": null
+      },
+      {
+        "nombre": "Ena Luna",
+        "personaje": null
+      },
+      {
+        "nombre": "Sebastián Cavero",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Auditorio Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 60,
+    "edad_minima": 18,
+    "horario_texto": "Dom 8 nov, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": 40.0
+  },
+  {
+    "id": "tt-HID145",
+    "incluir": true,
+    "titulo": "Antes de partir",
+    "tipo": "show",
+    "generos": [
+      "música",
+      "humor"
+    ],
+    "sinopsis": "Show de No Somos TV en el que cantantes mayores de 75 años cumplen el sueño de subir a un escenario, acompañados por cuatro conocidos animadores y humoristas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jorge Luna",
+      "Ricardo Mendoza",
+      "Mateo Garrido Lecca",
+      "Gisela Ponce de León"
+    ],
+    "productora": "No Somos TV",
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Lun 9 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-09",
+      "fin": "2026-11-09"
+    },
+    "precio_desde": 29.9
+  },
+  {
+    "id": "tt-ECG001",
+    "incluir": true,
+    "titulo": "Gran gala lírica - Solistas de la ópera del Teatro Colón",
+    "tipo": "opera",
+    "generos": [
+      "lírico",
+      "gala"
+    ],
+    "sinopsis": "Gala con solistas del Teatro Colón de Buenos Aires que se presentan por primera vez en el Perú, entre ellos la soprano Laura Rizzo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Laura Rizzo"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 10 nov",
+    "temporada": {
+      "inicio": "2026-11-10",
+      "fin": "2026-11-10"
+    },
+    "precio_desde": 45.0
+  },
+  {
+    "id": "tt-RIM003",
+    "incluir": true,
+    "titulo": "Cazadores de historias",
+    "tipo": "show",
+    "generos": [
+      "humor",
+      "conversación"
+    ],
+    "sinopsis": "Programa en vivo donde el público y los panelistas comentan chismes e historias con hipótesis disparatadas y mucho humor.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Job Mansilla",
+      "Guille Neyra",
+      "Brayan Estiven"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Mar 10 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-10",
+      "fin": "2026-11-10"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-HID144",
+    "incluir": true,
+    "titulo": "Chapa tu money",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "improvisación"
+    ],
+    "sinopsis": "Show de humor, retos e improvisación que sale de YouTube al teatro, con Mateo Garrido Lecca y todo el elenco. Va por su octava temporada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Mateo Garrido Lecca"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Mié 11 nov",
+    "temporada": {
+      "inicio": "2026-11-11",
+      "fin": "2026-11-11"
+    },
+    "precio_desde": 49.9
+  },
+  {
+    "id": "tt-KAB001",
+    "incluir": true,
+    "titulo": "¿Ahora qué?",
+    "tipo": "musical",
+    "generos": [
+      "juvenil",
+      "drama"
+    ],
+    "sinopsis": "Musical sobre cuatro adolescentes en su último año de colegio, entre amores, amistades y presiones, con éxitos de los años 2000 y banda en vivo.",
+    "elenco": [
+      {
+        "nombre": "Valeria Pflucker",
+        "personaje": null
+      },
+      {
+        "nombre": "Alan Newman",
+        "personaje": null
+      },
+      {
+        "nombre": "Keki Rojas",
+        "personaje": null
+      },
+      {
+        "nombre": "Bruno Rivera",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Antonio Banderas",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 14,
+    "horario_texto": "Jue 12 y 19 nov, 5 p. m. y 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-12",
+      "fin": "2026-11-19"
+    },
+    "precio_desde": 34.0
+  },
+  {
+    "id": "tt-ATM033",
+    "incluir": true,
+    "titulo": "Hablando huevadas",
+    "tipo": "show",
+    "generos": [
+      "humor",
+      "conversación"
+    ],
+    "sinopsis": "Función en vivo del dúo detrás del popular programa de YouTube Hablando Huevadas, con humor y conversación en el escenario.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": "A Tu Mama Le Dicen S.A.C.",
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 12 nov, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-12",
+      "fin": "2026-11-12"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-ACD017",
+    "incluir": true,
+    "titulo": "Se busca amor (urgente)",
+    "tipo": "teatro",
+    "generos": [
+      "comedia",
+      "romance"
+    ],
+    "sinopsis": "Soledad está cansada de las citas desastrosas y quiere cambiar su suerte en el amor, pero en la búsqueda se encuentra consigo misma. Una comedia romántica con canciones noventeras.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Multiteatro Movistar",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue y vie 8:30 p. m., sáb 6 p. m. y 8:30 p. m., dom 6 p. m.",
+    "temporada": {
+      "inicio": "2026-11-12",
+      "fin": "2026-12-13"
+    },
+    "precio_desde": 50.0
+  },
+  {
+    "id": "tt-MTS048",
+    "incluir": true,
+    "titulo": "El Trinche - Martín Dardik: Probando gambetas",
+    "tipo": "stand-up",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "El comediante argentino Martín Dardik, El Trinche, debuta en Lima Comedy Club con un show íntimo de humor ácido y observaciones cotidianas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Martín Dardik"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 13 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-13",
+      "fin": "2026-11-13"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-NDG019",
+    "incluir": true,
+    "titulo": "Brutalidad política: 100 días de Keiko",
+    "tipo": "comedia",
+    "generos": [
+      "sátira política",
+      "humor"
+    ],
+    "sinopsis": "Show de sátira política en el que Curwen repasa con ironía los primeros 100 días de gobierno. Humor, opinión y mirada irreverente.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Curwen"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 14 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 84.0
+  },
+  {
+    "id": "tt-MTS053",
+    "incluir": true,
+    "titulo": "El Trinche - Martín Dardik: Probando gambetas",
+    "tipo": "stand-up",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "El comediante argentino Martín Dardik, El Trinche, vuelve a Lima Comedy Club con un show íntimo de humor ácido y observaciones cotidianas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Martín Dardik"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 14 nov, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": null
+  }
+]

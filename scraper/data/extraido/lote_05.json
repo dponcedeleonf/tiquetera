@@ -1,0 +1,1344 @@
+[
+  {
+    "id": "tm-flow-lima-venta-general",
+    "incluir": true,
+    "titulo": "Flow Lima",
+    "tipo": "concierto",
+    "generos": [
+      "electrónica"
+    ],
+    "sinopsis": "Noche de música electrónica al aire libre en Lurín Live, para público adulto. La información disponible no detalla el cartel de artistas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "ADM Eventos y Producciones S.A.C.",
+    "sala": "Lurín Live",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 12 de diciembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 168.8
+  },
+  {
+    "id": "tm-foo-fighters",
+    "incluir": true,
+    "titulo": "Foo Fighters",
+    "tipo": "concierto",
+    "generos": [
+      "rock"
+    ],
+    "sinopsis": "La banda estadounidense de rock vuelve a escena con su gira mundial de 2027 y hace parada en Lima. Repasará canciones de sus más de treinta años de carrera y de su disco más reciente.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Foo Fighters"
+    ],
+    "productora": null,
+    "sala": "Estadio San Marcos",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Mié 3 de marzo, 8 p. m.",
+    "temporada": {
+      "inicio": "2027-03-03",
+      "fin": "2027-03-03"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-fusin-lrica-dangelo-diaz-y-son-caliente-de-erick-yaipen-orquesta-filarmonica-aura-venta-general",
+    "incluir": true,
+    "titulo": "Fusión lírica: D'Angelo Díaz y Son Caliente de Erick Yaipén",
+    "tipo": "concierto",
+    "generos": [
+      "lírico",
+      "cumbia",
+      "sinfónico"
+    ],
+    "sinopsis": "Un concierto que une la voz de un tenor, la cumbia peruana y una orquesta sinfónica en una sola noche. El repertorio mezcla clásicos internacionales con canciones populares peruanas en versiones sinfónicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "D'Angelo Díaz",
+      "Son Caliente de Erick Yaipén",
+      "Orquesta Filarmónica Aura"
+    ],
+    "productora": null,
+    "sala": "Teatro Municipal de Lima",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Jue 12 de noviembre, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-12",
+      "fin": "2026-11-12"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-get-out-2026-venta-general",
+    "incluir": true,
+    "titulo": "Get Out",
+    "tipo": "concierto",
+    "generos": [
+      "electrónica"
+    ],
+    "sinopsis": "Festival de música electrónica en Lurín, de tarde y noche, pensado para público mayor de edad. El texto disponible no menciona los artistas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "ADM Eventos y Producciones S.A.C.",
+    "sala": "Lurín Live",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 21 de noviembre, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-21"
+    },
+    "precio_desde": 163.2
+  },
+  {
+    "id": "tm-ghost-dance-en-lima",
+    "incluir": true,
+    "titulo": "Ghost Dance",
+    "tipo": "concierto",
+    "generos": [
+      "rock gótico",
+      "post-punk"
+    ],
+    "sinopsis": "La banda británica de rock gótico y post-punk se presenta por primera vez en Lima, dentro de su gira por Sudamérica por sus cuarenta años de trayectoria. El concierto forma parte del aniversario de la productora Tumbas Eternas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ghost Dance"
+    ],
+    "productora": "Tumbas Eternas",
+    "sala": "Teatro Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 14 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-14",
+      "fin": "2026-11-14"
+    },
+    "precio_desde": 169
+  },
+  {
+    "id": "tm-giant-rooks-home",
+    "incluir": true,
+    "titulo": "Giant Rooks",
+    "tipo": "concierto",
+    "generos": [
+      "indie pop"
+    ],
+    "sinopsis": "La banda alemana de indie pop regresa a Lima como parte de su gira latinoamericana. Presentará su sencillo más reciente junto a sus canciones más conocidas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Giant Rooks"
+    ],
+    "productora": "Move Concerts",
+    "sala": "Centro de Convenciones Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Dom 6 de diciembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-06",
+      "fin": "2026-12-06"
+    },
+    "precio_desde": 175
+  },
+  {
+    "id": "tm-gran-gala-lrica-rusa-con-orquesta-y-piano-home",
+    "incluir": true,
+    "titulo": "Gran gala lírica rusa con orquesta y piano",
+    "tipo": "opera",
+    "generos": [
+      "lírico",
+      "clásico"
+    ],
+    "sinopsis": "Cuatro solistas rusos, entre barítonos, tenor y bajo, interpretan fragmentos célebres de ópera y canciones del folklore ruso junto a una orquesta en vivo. Una noche de canto lírico en el Teatro Municipal.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Vladimir Guzmán",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [
+      "Maksim Shabanov",
+      "Maksim Papulov",
+      "Ian Gerasimov",
+      "Ivan Grigorev"
+    ],
+    "productora": null,
+    "sala": "Teatro Municipal de Lima",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 6,
+    "horario_texto": "Lun 23 de noviembre, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-23",
+      "fin": "2026-11-23"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-halloween-rock-y-salsa---31-de-octubre-venta-general",
+    "incluir": true,
+    "titulo": "Halloween rock y salsa",
+    "tipo": "show",
+    "generos": [
+      "rock",
+      "salsa"
+    ],
+    "sinopsis": "Fiesta de Halloween con música de rock y salsa en un bar de Jesús María. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 31 de octubre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 27
+  },
+  {
+    "id": "tm-hammerfall-glory-to-the-brave-n-hymns",
+    "incluir": true,
+    "titulo": "Hammerfall - Glory to the Brave & Hymns",
+    "tipo": "concierto",
+    "generos": [
+      "heavy metal",
+      "power metal"
+    ],
+    "sinopsis": "La banda sueca de power metal celebra los treinta años de su primer disco con un repertorio de himnos que no tocaba hace tiempo. Una noche de heavy metal clásico en Lima.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Hammerfall"
+    ],
+    "productora": "Vivo y Ruidoso Producciones EIRL",
+    "sala": "Teatro Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 1 de mayo, 8 p. m.",
+    "temporada": {
+      "inicio": "2027-05-01",
+      "fin": "2027-05-01"
+    },
+    "precio_desde": 222
+  },
+  {
+    "id": "tm-happy-music-live-home",
+    "incluir": true,
+    "titulo": "Happy Music Live",
+    "tipo": "concierto",
+    "generos": [
+      "salsa",
+      "pop latino",
+      "urbano"
+    ],
+    "sinopsis": "Festival de música latina que reúne a cuatro artistas de salsa, pop y música urbana en el Estadio Nacional. Una larga noche de éxitos para cantar en conjunto.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Marc Anthony",
+      "Fonseca",
+      "Manuel Turizo",
+      "Kapo"
+    ],
+    "productora": null,
+    "sala": "Estadio Nacional",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 4 de diciembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-12-04",
+      "fin": "2026-12-04"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-haunted-superclub-dia-2-pres-adam-beyer-venta-general",
+    "incluir": true,
+    "titulo": "Haunted Superclub, día 2: Adam Beyer",
+    "tipo": "concierto",
+    "generos": [
+      "electrónica",
+      "techno"
+    ],
+    "sinopsis": "Segunda noche del Haunted Superclub en Lurín, con el DJ sueco Adam Beyer en el cartel. Música electrónica de club para mayores de edad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Adam Beyer"
+    ],
+    "productora": "ADM Eventos y Producciones S.A.C.",
+    "sala": "Lurín Live",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 31 de octubre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 112.5
+  },
+  {
+    "id": "tm-haunted-superclub-octubre-2026-venta-general",
+    "incluir": true,
+    "titulo": "Haunted Superclub: Carl Cox y Guy J",
+    "tipo": "concierto",
+    "generos": [
+      "electrónica",
+      "house"
+    ],
+    "sinopsis": "Primera noche del Haunted Superclub en Lurín, con Carl Cox y Guy J como figuras de la jornada. Música electrónica de club para mayores de edad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Carl Cox",
+      "Guy J"
+    ],
+    "productora": "ADM Eventos y Producciones S.A.C.",
+    "sala": "Lurín Live",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Vie 30 de octubre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": 202.5
+  },
+  {
+    "id": "tm-hellripper-en-lima-venta-general",
+    "incluir": true,
+    "titulo": "Hellripper",
+    "tipo": "concierto",
+    "generos": [
+      "speed metal",
+      "black metal"
+    ],
+    "sinopsis": "La banda escocesa de speed metal con toques de black metal debuta en Lima con un show de entrada limitada. Una cita para quienes siguen el metal extremo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Hellripper"
+    ],
+    "productora": "Peru Music Concerts EIRL",
+    "sala": "Vichama Conciertos",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Jue 21 de enero, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-01-21",
+      "fin": "2027-01-21"
+    },
+    "precio_desde": 151.25
+  },
+  {
+    "id": "tm-hermanos-castro-15-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Hermanos Castro",
+    "tipo": "show",
+    "generos": [],
+    "sinopsis": "Presentación de la agrupación Hermanos Castro en un bar de Jesús María, con consumo mínimo incluido en la entrada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Hermanos Castro"
+    ],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Dom 15 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 32
+  },
+  {
+    "id": "tm-ill-nino-en-lima-venta-general",
+    "incluir": true,
+    "titulo": "Ill Niño",
+    "tipo": "concierto",
+    "generos": [
+      "nu metal",
+      "metal"
+    ],
+    "sinopsis": "La banda de nu metal celebra el aniversario de su disco Revolution Revolución con un concierto en Lima. Los acompañan (hed) p.e. y Primer 55 como invitados.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ill Niño",
+      "(hed) p.e.",
+      "Primer 55"
+    ],
+    "productora": "511 Underground EIRL",
+    "sala": "Yield Rock",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Mar 10 de noviembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-10",
+      "fin": "2026-11-10"
+    },
+    "precio_desde": 189
+  },
+  {
+    "id": "tm-informe-para-una-academia-de-franz-kafka-home",
+    "incluir": true,
+    "titulo": "Informe para una academia",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "sátira",
+      "clásico"
+    ],
+    "sinopsis": "Un mono que ha aprendido a comportarse como humano cuenta ante una academia científica cómo fue su camino hacia esa nueva vida. Monólogo basado en el relato de Kafka, con una mirada irónica sobre la identidad y la libertad.",
+    "elenco": [
+      {
+        "nombre": "Bruno Odar",
+        "personaje": "Rotpeter"
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Franz Kafka",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Lucho Tuesta",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Lucho Tuesta",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Lucho Tuesta",
+        "rol": "iluminación"
+      },
+      {
+        "nombre": "Lucho Tuesta",
+        "rol": "escenografía"
+      },
+      {
+        "nombre": "Walter Vásquez",
+        "rol": "vestuario"
+      },
+      {
+        "nombre": "Mirella Carbone",
+        "rol": "coreografía"
+      },
+      {
+        "nombre": "Flavia Puglianini",
+        "rol": "producción"
+      },
+      {
+        "nombre": "Mateo Chiarella Viale",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": "Aranwa Teatro",
+    "sala": "Teatro Ricardo Blume",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 65,
+    "edad_minima": 14,
+    "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-02",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": 40
+  },
+  {
+    "id": "tm-jorge-drexler-venta-general",
+    "incluir": true,
+    "titulo": "Jorge Drexler",
+    "tipo": "concierto",
+    "generos": [
+      "cantautor",
+      "candombe"
+    ],
+    "sinopsis": "El cantautor uruguayo presenta en Lima Taracá, su disco más reciente, de raíz candombera, además de sus canciones más queridas. El concierto es al aire libre.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jorge Drexler"
+    ],
+    "productora": null,
+    "sala": "Anfiteatro del Parque de la Exposición",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Vie 12 de febrero, 8 p. m.",
+    "temporada": {
+      "inicio": "2027-02-12",
+      "fin": "2027-02-12"
+    },
+    "precio_desde": 208
+  },
+  {
+    "id": "tm-kanonenfieber-weltensturm-lateinamerika-venta-general",
+    "incluir": true,
+    "titulo": "Kanonenfieber - Weltensturm Lateinamerika",
+    "tipo": "concierto",
+    "generos": [
+      "black metal",
+      "death metal"
+    ],
+    "sinopsis": "Primera visita a Lima de esta banda alemana de black y death metal, cuyas canciones narran historias de soldados de la Primera Guerra Mundial. Una puesta en escena de estética militar.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Kanonenfieber"
+    ],
+    "productora": "Peru Music Concerts EIRL",
+    "sala": "Yield Rock",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Dom 18 de abril, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-04-18",
+      "fin": "2027-04-18"
+    },
+    "precio_desde": 178
+  },
+  {
+    "id": "tm-kreator-latin-american-tour-2026-venta-general",
+    "incluir": true,
+    "titulo": "Kreator - Latin American Tour 2026",
+    "tipo": "concierto",
+    "generos": [
+      "thrash metal"
+    ],
+    "sinopsis": "La banda alemana de thrash metal vuelve a Lima con su gira latinoamericana, liderada por Mille Petrozza. Habrá entradas para el primer piso y para el balcón.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Kreator"
+    ],
+    "productora": "Peru Music Concerts EIRL",
+    "sala": "Centro de Convenciones Leguía",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Mar 8 de diciembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-08",
+      "fin": "2026-12-08"
+    },
+    "precio_desde": 220
+  },
+  {
+    "id": "tm-la-candelaria-home",
+    "incluir": false,
+    "titulo": "La Candelaria",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Página de acceso al centro cultural, sin información de un espectáculo en particular.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Cultural La Candelaria",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": null,
+      "fin": null
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-la-fiestacha-presenta-fresto-el-sonero-del-amor-venta-general",
+    "incluir": true,
+    "titulo": "La Fiestacha presenta: Fresto, el sonero del amor",
+    "tipo": "concierto",
+    "generos": [
+      "salsa",
+      "música latina"
+    ],
+    "sinopsis": "Primera edición de La Fiestacha, una noche de música latina para cantar y bailar, con Fresto como figura principal y Amy Gutiérrez como invitada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Fresto",
+      "Amy Gutiérrez"
+    ],
+    "productora": "Irisls S.A.C.",
+    "sala": "Centro de Convenciones Scencia",
+    "distrito": "La Molina",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Mié 9 de diciembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-09",
+      "fin": "2026-12-09"
+    },
+    "precio_desde": 139
+  },
+  {
+    "id": "tm-la-huaka-2027-home",
+    "incluir": true,
+    "titulo": "La Huaka",
+    "tipo": "concierto",
+    "generos": [
+      "festival"
+    ],
+    "sinopsis": "Festival de música en la playa, con ingreso por tramos horarios y distintas zonas. El texto disponible no detalla el cartel de artistas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "ADM Eventos y Producciones S.A.C.",
+    "sala": "Playa Asia",
+    "distrito": "Asia",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 10,
+    "horario_texto": "Sáb 9 de enero, 1 p. m.",
+    "temporada": {
+      "inicio": "2027-01-09",
+      "fin": "2027-01-09"
+    },
+    "precio_desde": 174.4
+  },
+  {
+    "id": "tm-la-joaqui",
+    "incluir": true,
+    "titulo": "La Joaqui",
+    "tipo": "concierto",
+    "generos": [
+      "urbano",
+      "trap",
+      "cumbia"
+    ],
+    "sinopsis": "La artista argentina de música urbana debuta en Lima con un concierto que mezcla RKT, cumbia y trap. Una noche para el público joven.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "La Joaqui"
+    ],
+    "productora": "Top Entertainment S.A.C.",
+    "sala": "Centro de Convenciones Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 10,
+    "horario_texto": "Jue 17 de diciembre, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-12-17",
+      "fin": "2026-12-17"
+    },
+    "precio_desde": 226.65
+  },
+  {
+    "id": "tm-la-noche-dorada-edicion-2026",
+    "incluir": false,
+    "titulo": "La Noche Dorada - Edición 2026",
+    "tipo": "otro",
+    "generos": [
+      "boxeo",
+      "entretenimiento"
+    ],
+    "sinopsis": "Evento de boxeo entre creadores de contenido y streamers, con presentaciones musicales e invitados especiales. Dura alrededor de seis horas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Vastion Group",
+    "sala": "Coliseo Dibós",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": 360,
+    "edad_minima": 12,
+    "horario_texto": "Sáb 28 de noviembre, 3 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 103.5
+  },
+  {
+    "id": "tm-lenny-tavarez-y-justin-quiles-gira-super-arte-venta-general",
+    "incluir": true,
+    "titulo": "Gira Super Arte: Lenny Tavárez y Justin Quiles",
+    "tipo": "concierto",
+    "generos": [
+      "reguetón",
+      "urbano"
+    ],
+    "sinopsis": "Noche de reguetón y música urbana con dos figuras del género y la participación de Jerry Di y Adso como invitados.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Lenny Tavárez",
+      "Justin Quiles",
+      "Jerry Di",
+      "Adso"
+    ],
+    "productora": "Santa Cecilia Entertainment SAC",
+    "sala": "Arena 1 Park",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 2,
+    "horario_texto": "Sáb 12 de diciembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 118
+  },
+  {
+    "id": "tm-leyendas-del-criollismo-venta-general",
+    "incluir": true,
+    "titulo": "Leyendas del criollismo",
+    "tipo": "folklore",
+    "generos": [
+      "criollo",
+      "música peruana"
+    ],
+    "sinopsis": "Tarde de música criolla por el Día de la Canción Criolla, con Manuel Donayre y Los Ardiles, acompañados de danzas afroperuanas y criollas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Manuel Donayre",
+      "Los Ardiles"
+    ],
+    "productora": null,
+    "sala": "Brisas del Titicaca",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 3,
+    "horario_texto": "Dom 1 de noviembre, 1 p. m.",
+    "temporada": {
+      "inicio": "2026-11-01",
+      "fin": "2026-11-01"
+    },
+    "precio_desde": 81
+  },
+  {
+    "id": "tm-lima-challenger-presented-by-visa-home",
+    "incluir": false,
+    "titulo": "Lima Challenger",
+    "tipo": "otro",
+    "generos": [
+      "deporte"
+    ],
+    "sinopsis": "Torneo internacional de tenis del circuito ATP Challenger, con siete días de competencia en el Club Las Terrazas de Miraflores.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "IGMA Sports y Events S.A.C.",
+    "sala": "Club Tennis Las Terrazas de Miraflores",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Del 9 al 15 de noviembre, desde las 10 a. m.",
+    "temporada": {
+      "inicio": "2026-11-09",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 76
+  },
+  {
+    "id": "tm-lima-latin-duo-juan-luis-guerra-y-carlos-vives-en-peru-2026",
+    "incluir": true,
+    "titulo": "Lima Latin Dúo: Juan Luis Guerra y Carlos Vives",
+    "tipo": "concierto",
+    "generos": [
+      "tropical",
+      "pop latino"
+    ],
+    "sinopsis": "Dos figuras de la música latinoamericana comparten escenario en el Estadio San Marcos, con sus canciones más populares y una colaboración reciente. Hay una opción de experiencia con beneficios adicionales.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Juan Luis Guerra",
+      "Carlos Vives"
+    ],
+    "productora": null,
+    "sala": "Estadio San Marcos",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 7 de noviembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-lima-latin-duo-vol2",
+    "incluir": true,
+    "titulo": "Lima Latin Duo Vol. 2: Olga Tañón y Tito el Bambino",
+    "tipo": "concierto",
+    "generos": [
+      "música latina",
+      "reguetón"
+    ],
+    "sinopsis": "Segunda edición de este ciclo de encuentros latinos, ahora con la cantante puertorriqueña Olga Tañón y el reguetonero Tito el Bambino en un mismo escenario.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Olga Tañón",
+      "Tito el Bambino"
+    ],
+    "productora": "F&M Entertainment",
+    "sala": "Arena 1",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 10 de abril, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-04-10",
+      "fin": "2027-04-10"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-los-ardiles-somos-mirones-jarana-de-barrio-venta-general",
+    "incluir": true,
+    "titulo": "Somos mirones: jarana de barrio",
+    "tipo": "folklore",
+    "generos": [
+      "criollo",
+      "música peruana"
+    ],
+    "sinopsis": "Los Ardiles llevan al escenario el ambiente de las jaranas criollas de antaño, con valses, marineras y más de treinta artistas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Los Ardiles"
+    ],
+    "productora": "Nadale Producciones",
+    "sala": "Teatro Peruano Japonés",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 31 de octubre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tm-luis-fonsi-mar-infinito-tour",
+    "incluir": true,
+    "titulo": "Luis Fonsi - Mar Infinito World Tour",
+    "tipo": "concierto",
+    "generos": [
+      "pop latino",
+      "balada"
+    ],
+    "sinopsis": "El cantante puertorriqueño regresa al Perú tras cinco años con su gira Mar Infinito. Repasará canciones de distintas etapas de su carrera junto a su banda.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Luis Fonsi"
+    ],
+    "productora": null,
+    "sala": "Arena 1",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 23 de abril, 8 p. m.",
+    "temporada": {
+      "inicio": "2027-04-23",
+      "fin": "2027-04-23"
+    },
+    "precio_desde": 220
+  },
+  {
+    "id": "tm-manuel-donayre-tradicion-y-sabor-venta-general",
+    "incluir": true,
+    "titulo": "Manuel Donayre: Tradición y sabor",
+    "tipo": "concierto",
+    "generos": [
+      "criollo",
+      "salsa"
+    ],
+    "sinopsis": "El cantante criollo presenta sus éxitos junto a Wilmer Cartagena y su orquesta de salsa. Función con mesas compartidas y consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Manuel Donayre",
+      "Wilmer Cartagena"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bianca",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Vie 30 de octubre, 10:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": 43
+  },
+  {
+    "id": "tm-marc-almond-venta-general",
+    "incluir": true,
+    "titulo": "Marc Almond",
+    "tipo": "concierto",
+    "generos": [
+      "synthpop",
+      "new wave"
+    ],
+    "sinopsis": "El cantante británico, conocido por su trabajo con Soft Cell, se presenta por primera vez en Lima con un repaso de su carrera solista y sus éxitos de synthpop.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Marc Almond"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Leguía",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Vie 27 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-27",
+      "fin": "2026-11-27"
+    },
+    "precio_desde": 291
+  },
+  {
+    "id": "tm-marco-antonio-solis-2025",
+    "incluir": true,
+    "titulo": "Marco Antonio Solís",
+    "tipo": "concierto",
+    "generos": [
+      "balada",
+      "grupero"
+    ],
+    "sinopsis": "El cantautor mexicano llega a Lima con su gira Más Cerca de Ti, con canciones de su etapa solista y de Los Bukis. Hay una opción de experiencia con beneficios adicionales.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Marco Antonio Solís"
+    ],
+    "productora": "Shows y Sports Entertainment S.A.C.",
+    "sala": "Arena 1",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 7 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-martin-garrix-americas-tour",
+    "incluir": true,
+    "titulo": "Martin Garrix Americas Tour",
+    "tipo": "concierto",
+    "generos": [
+      "electrónica"
+    ],
+    "sinopsis": "El DJ neerlandés vuelve a Lima con visuales y producción de gran formato, y sus temas más conocidos de música electrónica. El artista principal sale pasada la medianoche.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Martin Garrix"
+    ],
+    "productora": null,
+    "sala": "Arena Monumental",
+    "distrito": "Ate",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 10,
+    "horario_texto": "Lun 7 de diciembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-07",
+      "fin": "2026-12-07"
+    },
+    "precio_desde": 135
+  },
+  {
+    "id": "tm-my-dying-bride",
+    "incluir": true,
+    "titulo": "My Dying Bride",
+    "tipo": "concierto",
+    "generos": [
+      "doom metal",
+      "death metal"
+    ],
+    "sinopsis": "Pioneros británicos del doom y death metal, que tocan clásicos de su discografía junto a temas de su disco más reciente. Una noche de metal sombrío y melancólico.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "My Dying Bride"
+    ],
+    "productora": "Peru Music Concerts EIRL",
+    "sala": "Yield Rock",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Dom 22 de noviembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-22",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 163.5
+  },
+  {
+    "id": "tm-narcosis-venta-general",
+    "incluir": true,
+    "titulo": "Narcosis",
+    "tipo": "concierto",
+    "generos": [
+      "rock"
+    ],
+    "sinopsis": "La banda Narcosis vuelve a los escenarios con un único show en el Centro de Lima, con Aeropajitas como banda invitada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Narcosis",
+      "Aeropajitas"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Festiva",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 8,
+    "horario_texto": "Sáb 12 de diciembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 89
+  },
+  {
+    "id": "tm-noche-de-campeones-segunda-edicion-venta-general",
+    "incluir": true,
+    "titulo": "Noche de campeones, segunda edición",
+    "tipo": "concierto",
+    "generos": [
+      "rock",
+      "tributo"
+    ],
+    "sinopsis": "Cierre de gira de un espectáculo con tres cantantes que rinden homenaje a bandas de rock, acompañados de banda en vivo y un artista sorpresa. Mesas compartidas y consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Martin",
+      "Fer Sosa",
+      "Gael Garcia"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bianca",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 28 de noviembre, 10:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 98
+  },
+  {
+    "id": "tm-noche-de-cumbia-y-halloween---31-de-octubre-venta-general",
+    "incluir": true,
+    "titulo": "Noche de cumbia y Halloween",
+    "tipo": "show",
+    "generos": [
+      "cumbia"
+    ],
+    "sinopsis": "Fiesta de Halloween con cumbia en un bar de Jesús María. La entrada incluye un consumo mínimo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 31 de octubre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 37
+  },
+  {
+    "id": "tm-noche-de-folklore-en-brisas-del-titicaca-2026-venta-general",
+    "incluir": true,
+    "titulo": "Noches de folklore",
+    "tipo": "folklore",
+    "generos": [
+      "folklore",
+      "danza"
+    ],
+    "sinopsis": "Espectáculo de danzas de distintas regiones del Perú con orquesta en vivo, todos los viernes y sábados. Se disfruta en mesas, con consumo aparte.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Brisas del Titicaca",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 1,
+    "horario_texto": "Vie y sáb, show 9 p. m. (puertas 8 p. m.)",
+    "temporada": {
+      "inicio": "2026-01-01",
+      "fin": "2026-12-26"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tm-noche-de-reinas-isabel-pantoja-y-christina-aguilera-venta-general",
+    "incluir": true,
+    "titulo": "Noche de reinas: Isabel Pantoja y Christina Aguilera",
+    "tipo": "show",
+    "generos": [
+      "tributo",
+      "música latina"
+    ],
+    "sinopsis": "Dos cantantes rinden homenaje a Isabel Pantoja y a Christina Aguilera con sus grandes éxitos y banda en vivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Paulina Villalobos",
+      "Sasha"
+    ],
+    "productora": "Apolo Entertainment",
+    "sala": "Teatro Plaza Norte",
+    "distrito": "Independencia",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 4,
+    "horario_texto": "Vie 30 de octubre, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-10-30"
+    },
+    "precio_desde": 69
+  },
+  {
+    "id": "tm-noches-de-folklore---jueves-viernes-y-sabados-en-la-candelaria-2026-venta-general",
+    "incluir": true,
+    "titulo": "Noches de folklore",
+    "tipo": "folklore",
+    "generos": [
+      "folklore",
+      "danza"
+    ],
+    "sinopsis": "Espectáculo de danzas de la costa, sierra y selva con orquesta en vivo y maestro de ceremonias, con opción de cena. Funciones jueves, viernes y sábados.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Cultural La Candelaria",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 2,
+    "horario_texto": "Jue, vie y sáb",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-12-26"
+    },
+    "precio_desde": 40
+  },
+  {
+    "id": "tm-o-kulta-trujillo",
+    "incluir": true,
+    "titulo": "O-Kulta (North Tour): homenaje a Beethoven",
+    "tipo": "concierto",
+    "generos": [
+      "clásico",
+      "cámara"
+    ],
+    "sinopsis": "Solistas de la Orquesta Filarmónica de Lima ofrecen un concierto íntimo dedicado a la obra de Beethoven, en Trujillo. Hay una cata de vinos opcional.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Solistas de la Orquesta Filarmónica de Lima"
+    ],
+    "productora": "LN-Producciones",
+    "sala": "Auditorio del Colegio de Abogados",
+    "distrito": null,
+    "ciudad": "Trujillo",
+    "duracion_min": 75,
+    "edad_minima": 18,
+    "horario_texto": "Vie 4 de diciembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-04",
+      "fin": "2026-12-04"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tm-omar-courtz",
+    "incluir": true,
+    "titulo": "Omar Courtz",
+    "tipo": "concierto",
+    "generos": [
+      "reguetón",
+      "trap"
+    ],
+    "sinopsis": "El cantante puertorriqueño de reguetón y trap presenta en Lima su gira Por Si Mañana No Estoy, con un repaso de sus éxitos.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Omar Courtz"
+    ],
+    "productora": null,
+    "sala": "Arena 1 Park",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 28 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-orquesta-filarmnica-de-lima-sinfonia-n-9-del-nuevo-mundo",
+    "incluir": true,
+    "titulo": "Orquesta Filarmónica de Lima: Sinfonía n.º 9 del Nuevo Mundo",
+    "tipo": "concierto",
+    "generos": [
+      "clásico",
+      "sinfónico"
+    ],
+    "sinopsis": "El octavo concierto de la temporada 2026 de la Orquesta Filarmónica de Lima está dedicado a la sinfonía de Dvořák. Se ofrece en el Gran Salón del Club de la Unión.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Antonín Dvořák",
+        "rol": "música"
+      }
+    ],
+    "artistas": [
+      "Orquesta Filarmónica de Lima"
+    ],
+    "productora": "Perudarnik E.I.R.L.",
+    "sala": "Gran Salón del Club de la Unión",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Vie 11 de diciembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-11",
+      "fin": "2026-12-11"
+    },
+    "precio_desde": 50
+  },
+  {
+    "id": "tm-orquesta-filarmonica-de-lima-italiana-tragica-venta-general",
+    "incluir": true,
+    "titulo": "Orquesta Filarmónica de Lima: Italiana y Trágica",
+    "tipo": "concierto",
+    "generos": [
+      "clásico",
+      "sinfónico"
+    ],
+    "sinopsis": "El sexto concierto de la temporada 2026 de la Filarmónica reúne dos sinfonías románticas, de Mendelssohn y Schubert, bajo la batuta del maestro invitado Matteo Pagliari.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Matteo Pagliari",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Felix Mendelssohn",
+        "rol": "música"
+      },
+      {
+        "nombre": "Franz Schubert",
+        "rol": "música"
+      }
+    ],
+    "artistas": [
+      "Orquesta Filarmónica de Lima"
+    ],
+    "productora": "Perudarnik E.I.R.L.",
+    "sala": "Gran Salón del Club de la Unión",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Dom 8 de noviembre, 5 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": 50
+  }
+]

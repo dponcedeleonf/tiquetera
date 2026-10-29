@@ -1,0 +1,1395 @@
+[
+  {
+    "id": "tt-HAN009",
+    "incluir": true,
+    "titulo": "Legato",
+    "tipo": "musical",
+    "generos": [
+      "familiar",
+      "navidad",
+      "amistad"
+    ],
+    "sinopsis": "Un gatito callejero y desconfiado conoce a una perrita alegre que poco a poco le enseña a confiar en los demás. Mezcla música coral, teatro y movimiento en un espectáculo navideño para toda la familia.",
+    "elenco": [
+      {
+        "nombre": "Joaquín Escobar",
+        "personaje": null
+      },
+      {
+        "nombre": "Gina Yangali",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Claudia Rheineck",
+        "rol": "música"
+      },
+      {
+        "nombre": "Paola Vicente",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Paola Vicente",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Raúl Romero",
+        "rol": "coreografía"
+      }
+    ],
+    "artistas": [
+      "Voces del Sol"
+    ],
+    "productora": null,
+    "sala": "Teatro Segura",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-13"
+    },
+    "precio_desde": 47
+  },
+  {
+    "id": "tt-PAR061",
+    "incluir": true,
+    "titulo": "El Cascanueces - Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "navidad",
+      "familiar"
+    ],
+    "sinopsis": "Versión del ballet clásico ruso sobre la fantasía navideña de Tchaikovsky, con tres bailarines internacionales como figuras centrales. Una propuesta pensada para ver en familia durante las fiestas.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Centro Cultural Jorge Basadre",
+    "distrito": null,
+    "ciudad": "Tacna",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-13"
+    },
+    "precio_desde": 52
+  },
+  {
+    "id": "tt-PAR062",
+    "incluir": true,
+    "titulo": "El Cascanueces - Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "navidad",
+      "familiar"
+    ],
+    "sinopsis": "Versión del ballet clásico ruso sobre la fantasía navideña de Tchaikovsky, con tres bailarines internacionales como figuras centrales. Una propuesta pensada para ver en familia durante las fiestas.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "Auditorio del Colegio Andino",
+    "distrito": null,
+    "ciudad": "Huancayo",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-16",
+      "fin": "2026-12-17"
+    },
+    "precio_desde": 52
+  },
+  {
+    "id": "tt-PSM027",
+    "incluir": true,
+    "titulo": "El cumpleaños de Yaco y el Loco",
+    "tipo": "comedia",
+    "generos": [
+      "humor",
+      "conversación"
+    ],
+    "sinopsis": "Dos amigos de la infancia celebran un año de su espectáculo contando anécdotas y puntos de vista muy distintos sobre la vida. Humor cercano, con espacio para la interacción con el público.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Yaco",
+      "El Loco"
+    ],
+    "productora": null,
+    "sala": "Duomo de Multiespacio Costa 21",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 18 de diciembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-18",
+      "fin": "2026-12-18"
+    },
+    "precio_desde": 87
+  },
+  {
+    "id": "tt-PAR055",
+    "incluir": true,
+    "titulo": "El Cascanueces - Russian Classical Ballet",
+    "tipo": "danza",
+    "generos": [
+      "clásico",
+      "navidad",
+      "familiar"
+    ],
+    "sinopsis": "Versión del ballet clásico ruso sobre la fantasía navideña de Tchaikovsky, con tres bailarines internacionales como figuras centrales. Una propuesta pensada para ver en familia durante las fiestas.",
+    "elenco": [
+      {
+        "nombre": "Artemiy Pyzhov",
+        "personaje": null
+      },
+      {
+        "nombre": "Marina Fadeeva",
+        "personaje": null
+      },
+      {
+        "nombre": "Dmitry Zhukov",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Piotr Ilich Tchaikovsky",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": "Prodartes",
+    "sala": "La Cúpula de las Artes",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-18",
+      "fin": "2026-12-27"
+    },
+    "precio_desde": 60
+  },
+  {
+    "id": "tt-SPE076",
+    "incluir": true,
+    "titulo": "Voces del amor",
+    "tipo": "concierto",
+    "generos": [
+      "romántico",
+      "bolero",
+      "música del recuerdo"
+    ],
+    "sinopsis": "Noche de música romántica en Ica con tres propuestas: un tributo a Isabel Pantoja, éxitos del recuerdo y boleros al estilo de Los Panchos. Pensada para disfrutar en pareja o con amigos.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Paulina Villalobos",
+      "Tony Cam",
+      "Trío Los Cox"
+    ],
+    "productora": null,
+    "sala": "Peña El Álamo",
+    "distrito": null,
+    "ciudad": "Ica",
+    "duracion_min": 180,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 19 de diciembre, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-12-19",
+      "fin": "2026-12-19"
+    },
+    "precio_desde": 68
+  },
+  {
+    "id": "tt-ATM029",
+    "incluir": true,
+    "titulo": "Hablando huevadas: el último show del año",
+    "tipo": "comedia",
+    "generos": [
+      "humor",
+      "conversación"
+    ],
+    "sinopsis": "El dúo detrás del popular programa de YouTube lleva su conversación humorística al escenario para despedir el año. Una noche de risas con dos comunicadores que ya llenan teatros.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ricardo Mendoza",
+      "Jorge Luna"
+    ],
+    "productora": null,
+    "sala": "Duomo de Multiespacio Costa 21",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Dom 27 de diciembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-12-27",
+      "fin": "2026-12-27"
+    },
+    "precio_desde": 79.9
+  },
+  {
+    "id": "tt-MCL001",
+    "incluir": true,
+    "titulo": "Memorias del corazón",
+    "tipo": "show",
+    "generos": [
+      "espiritual",
+      "hipnosis"
+    ],
+    "sinopsis": "Encuentro de corte espiritual con una primera parte de hipnosis y una segunda de mensajes canalizados por una médium. Es solo para mayores de edad.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Patronato del Centro de la Amistad Peruano China",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Mar 29 de diciembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-12-29",
+      "fin": "2026-12-29"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-DIN005",
+    "incluir": true,
+    "titulo": "El fiestón de Año Nuevo 2027",
+    "tipo": "show",
+    "generos": [
+      "fiesta",
+      "música tropical"
+    ],
+    "sinopsis": "Fiesta de Año Nuevo con cena show, cotillón y la presentación del cantante panameño Gabino Pampini, que repasa sus grandes éxitos. Para recibir el 2027 bailando.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Gabino Pampini"
+    ],
+    "productora": null,
+    "sala": "Barley Bar - Centro de Convenciones Bolívar",
+    "distrito": "Pueblo Libre",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Jue 31 de diciembre, puertas 10 p. m., show 11:45 p. m.",
+    "temporada": {
+      "inicio": "2026-12-31",
+      "fin": "2026-12-31"
+    },
+    "precio_desde": 53
+  },
+  {
+    "id": "tt-PAG001",
+    "incluir": true,
+    "titulo": "Magic Men Australia",
+    "tipo": "show",
+    "generos": [
+      "baile",
+      "entretenimiento"
+    ],
+    "sinopsis": "Espectáculo de baile para mujeres con coreografías individuales y grupales de estilo Broadway, encabezado por Will Parfitt. Incluye zona VIP con encuentro con el artista.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Will Parfitt",
+      "Magic Men Australia"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bianca",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": 240,
+    "edad_minima": 18,
+    "horario_texto": "Jue 14 de enero, 8 p. m.",
+    "temporada": {
+      "inicio": "2027-01-14",
+      "fin": "2027-01-14"
+    },
+    "precio_desde": 128
+  },
+  {
+    "id": "tt-MTS050",
+    "incluir": true,
+    "titulo": "Lucho Miranda",
+    "tipo": "stand-up",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "El comediante argentino regresa a Lima con una rutina renovada sobre su vida y su discapacidad, contada con humor cercano y sin tabúes.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Lucho Miranda"
+    ],
+    "productora": null,
+    "sala": "Multiteatro Movistar",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 23 de enero, 8 p. m.",
+    "temporada": {
+      "inicio": "2027-01-23",
+      "fin": "2027-01-23"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tt-TON009",
+    "incluir": true,
+    "titulo": "El invencible verano de Liliana",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "testimonial"
+    ],
+    "sinopsis": "Una hermana reconstruye, a través de cartas y diarios, la vida de una joven cuya historia fue truncada por la violencia de género. Un monólogo íntimo sobre la memoria y la búsqueda de justicia.",
+    "elenco": [
+      {
+        "nombre": "Cecilia Suárez",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Cristina Rivera Garza",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Nos PUCP",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2027-01-28",
+      "fin": "2027-01-31"
+    },
+    "precio_desde": 52
+  },
+  {
+    "id": "tt-PIP001",
+    "incluir": true,
+    "titulo": "Chungo",
+    "tipo": "comedia",
+    "generos": [
+      "humor",
+      "monólogo"
+    ],
+    "sinopsis": "El actor Luis Zahera sube al escenario en clave de monólogo cómico, con anécdotas de su vida personal y profesional y mucha autoparodia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Luis Zahera"
+    ],
+    "productora": null,
+    "sala": "Teatro Canout",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 90,
+    "edad_minima": 14,
+    "horario_texto": "Vie y sáb 8:30 p. m.",
+    "temporada": {
+      "inicio": "2027-02-19",
+      "fin": "2027-02-20"
+    },
+    "precio_desde": 171
+  },
+  {
+    "id": "tt-SCE002",
+    "incluir": true,
+    "titulo": "El unipersonal de Lucho Mellera",
+    "tipo": "stand-up",
+    "generos": [
+      "humor"
+    ],
+    "sinopsis": "El comediante argentino presenta su show unipersonal en Lima, con humor de stand-up y una larga trayectoria en escenarios de varios países.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Lucho Mellera"
+    ],
+    "productora": null,
+    "sala": "Teatro Peruano Japonés",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Jue a sáb 8 p. m.",
+    "temporada": {
+      "inicio": "2027-02-25",
+      "fin": "2027-02-27"
+    },
+    "precio_desde": 139
+  },
+  {
+    "id": "tt-ELS001",
+    "incluir": true,
+    "titulo": "Dalia Gutmann: ¡No me calmo nada!",
+    "tipo": "stand-up",
+    "generos": [
+      "humor",
+      "unipersonal"
+    ],
+    "sinopsis": "Show unipersonal que convierte la vida cotidiana de una madre de adolescentes y pareja de larga data en comedia y catarsis. Humor desde el punto de vista de las mujeres.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Dalia Gutmann"
+    ],
+    "productora": null,
+    "sala": "Lima Comedy Club",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 70,
+    "edad_minima": 16,
+    "horario_texto": "Sáb 10 de abril, 7 p. m.",
+    "temporada": {
+      "inicio": "2027-04-10",
+      "fin": "2027-04-10"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-agua-marina-gracias-por-todo",
+    "incluir": true,
+    "titulo": "Agua Marina - Gracias por Todo",
+    "tipo": "concierto",
+    "generos": [
+      "cumbia"
+    ],
+    "sinopsis": "La agrupación de cumbia celebra sus 50 años de trayectoria con un gran reencuentro con su público en el estadio.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Agua Marina"
+    ],
+    "productora": null,
+    "sala": "Estadio San Marcos",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 12,
+    "horario_texto": "Sáb 28 de noviembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-alcest-venta-general",
+    "incluir": true,
+    "titulo": "Alcest",
+    "tipo": "concierto",
+    "generos": [
+      "metal atmosférico",
+      "blackgaze",
+      "post-metal"
+    ],
+    "sinopsis": "La banda francesa de blackgaze y metal atmosférico llega a Lima con un concierto de paisajes sonoros intensos y envolventes.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Alcest"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Sáb 13 de febrero, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-02-13",
+      "fin": "2027-02-13"
+    },
+    "precio_desde": 190
+  },
+  {
+    "id": "tm-almuerzo-show-en-brisas-del-titicaca-2026-venta-general",
+    "incluir": true,
+    "titulo": "Almuerzo show en Brisas del Titicaca",
+    "tipo": "folklore",
+    "generos": [
+      "danzas peruanas",
+      "almuerzo show"
+    ],
+    "sinopsis": "Almuerzo con comida criolla y un espectáculo de danzas de distintas regiones del Perú, pensado para ir en familia o con amigos.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Asociación Cultural Brisas del Titicaca",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": null,
+    "horario_texto": "Vie, sáb y dom, 2 a 5 p. m. (puertas 1 p. m.)",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-12-26"
+    },
+    "precio_desde": 55
+  },
+  {
+    "id": "tm-alta-gama-liquorfest-2026-home",
+    "incluir": false,
+    "titulo": "Alta Gama Liquorfest",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Feria de degustación de licores y destilados; no es un espectáculo de artes escénicas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Country Club Hotel",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": null,
+      "fin": null
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-amy-gutierrez-mi-primer-gran-teatro-home",
+    "incluir": true,
+    "titulo": "Amy Gutiérrez - Mi primer Gran Teatro",
+    "tipo": "concierto",
+    "generos": [
+      "tropical",
+      "balada",
+      "criolla"
+    ],
+    "sinopsis": "La cantante peruana debuta en el Gran Teatro Nacional con un concierto que une música tropical, baladas, criolla y arreglos sinfónicos, con más de veinte artistas en escena.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Amy Gutiérrez"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 7 de noviembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-ana-gabriel-claro-de-luna-tour-2027",
+    "incluir": true,
+    "titulo": "Ana Gabriel - Claro de Luna Tour 2027",
+    "tipo": "concierto",
+    "generos": [
+      "balada",
+      "música mexicana"
+    ],
+    "sinopsis": "La cantante mexicana vuelve a Lima con un recorrido por sus canciones más queridas de más de cinco décadas de carrera.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Ana Gabriel"
+    ],
+    "productora": null,
+    "sala": "Arena 1",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mié 21 de abril, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-04-21",
+      "fin": "2027-04-21"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-animal-venta-general",
+    "incluir": true,
+    "titulo": "A.N.I.M.A.L.",
+    "tipo": "concierto",
+    "generos": [
+      "metal"
+    ],
+    "sinopsis": "La banda argentina de metal celebra los 30 años de su disco El nuevo camino del hombre, con Serial Asesino como banda invitada.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "A.N.I.M.A.L.",
+      "Serial Asesino"
+    ],
+    "productora": null,
+    "sala": "Yield Rock",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 180,
+    "edad_minima": 14,
+    "horario_texto": "Vie 20 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-20",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": 244
+  },
+  {
+    "id": "tm-aniversario-brunella-torpoco-home",
+    "incluir": true,
+    "titulo": "Aniversario Brunella Torpoco",
+    "tipo": "concierto",
+    "generos": [
+      "salsa"
+    ],
+    "sinopsis": "La cantante Brunella Torpoco celebra su aniversario artístico con una larga noche de música en vivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Brunella Torpoco"
+    ],
+    "productora": "Pro Music Production S.A.C.",
+    "sala": "Círculo Militar de Jesús María",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": 300,
+    "edad_minima": 18,
+    "horario_texto": "Vie 27 de noviembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-27",
+      "fin": "2026-11-27"
+    },
+    "precio_desde": 76
+  },
+  {
+    "id": "tm-asi-se-siente-el-per-venta-general",
+    "incluir": true,
+    "titulo": "Así se siente el Perú",
+    "tipo": "folklore",
+    "generos": [
+      "marinera",
+      "tradición",
+      "familiar"
+    ],
+    "sinopsis": "Dos días de marinera a caballo y a pie, con bailarines, jinetes y coreografías coloridas que celebran las tradiciones peruanas. Plan familiar al aire libre en Lurín.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Asociación Nacional de Criadores y Propietarios de Caballos Peruanos de Paso",
+    "sala": "La Casa del Caballo Peruano de Paso",
+    "distrito": "Lurín",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 21 y dom 22 de noviembre, desde las 9 a. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 20
+  },
+  {
+    "id": "tm-blaze-bayley",
+    "incluir": true,
+    "titulo": "Blaze Bayley",
+    "tipo": "concierto",
+    "generos": [
+      "heavy metal"
+    ],
+    "sinopsis": "El excantante de Iron Maiden ofrece un set dedicado a su etapa en la banda, con temas de The X Factor y Virtual XI.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Blaze Bayley"
+    ],
+    "productora": "Cartel Live Entertainment SAC",
+    "sala": "Centro de Convenciones Festiva",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 18,
+    "horario_texto": "Dom 17 de enero, 7 p. m.",
+    "temporada": {
+      "inicio": "2027-01-17",
+      "fin": "2027-01-17"
+    },
+    "precio_desde": 199
+  },
+  {
+    "id": "tm-blessd-home",
+    "incluir": true,
+    "titulo": "Blessd",
+    "tipo": "concierto",
+    "generos": [
+      "urbano",
+      "reguetón"
+    ],
+    "sinopsis": "El cantante colombiano de música urbana se presenta por primera vez en Lima con su gira El Peor Hombre del Mundo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Blessd"
+    ],
+    "productora": null,
+    "sala": "Arena 1",
+    "distrito": "San Miguel",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue 29 de octubre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-29",
+      "fin": "2026-10-29"
+    },
+    "precio_desde": 83
+  },
+  {
+    "id": "tm-boda-lyniel-home",
+    "incluir": true,
+    "titulo": "Boda Lyniel",
+    "tipo": "show",
+    "generos": [
+      "comedia",
+      "musical",
+      "familiar"
+    ],
+    "sinopsis": "Espectáculo teatral y musical en el que el público es invitado a una boda llena de enredos, con música en vivo, baile e interacción. Pensado para ir en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Lyna Vallejos",
+      "Dani Morro"
+    ],
+    "productora": "Shows & Sports Entertainment S.A.C.",
+    "sala": "Anfiteatro del Parque de la Exposición",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 2,
+    "horario_texto": "Mié 25 de noviembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-25",
+      "fin": "2026-11-25"
+    },
+    "precio_desde": 156
+  },
+  {
+    "id": "tm-bratty-lima-venta-general",
+    "incluir": true,
+    "titulo": "Bratty",
+    "tipo": "concierto",
+    "generos": [],
+    "sinopsis": "Concierto de la banda Bratty en Lima, en un recinto de pie y balcón.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Bratty"
+    ],
+    "productora": "Vichama EIRL",
+    "sala": "Centro de Convenciones Leguía",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 120,
+    "edad_minima": 18,
+    "horario_texto": "Vie 16 de abril, 9 p. m.",
+    "temporada": {
+      "inicio": "2027-04-16",
+      "fin": "2027-04-16"
+    },
+    "precio_desde": 129
+  },
+  {
+    "id": "tm-brisas-del-titicaca-home",
+    "incluir": false,
+    "titulo": "Brisas del Titicaca",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Página de redirección del local, sin información de un espectáculo concreto.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Asociación Cultural Brisas del Titicaca",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": null,
+      "fin": null
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-broadway-in-concert-from-spain-live-in-lima-home",
+    "incluir": true,
+    "titulo": "Broadway In Concert From Spain - Live in Lima",
+    "tipo": "musical",
+    "generos": [
+      "teatro musical",
+      "broadway"
+    ],
+    "sinopsis": "Concierto de teatro musical que recorre canciones de The Greatest Showman y de grandes títulos de Broadway y el West End, con tres intérpretes internacionales, músicos en vivo, coro y cuerpo de baile.",
+    "elenco": [
+      {
+        "nombre": "Judith Tobella",
+        "personaje": null
+      },
+      {
+        "nombre": "Manu Pilas",
+        "personaje": null
+      },
+      {
+        "nombre": "Pablo Turturiello",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Unifé",
+    "distrito": "La Molina",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 15 de noviembre, 11:30 a. m., 4 p. m. y 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-15",
+      "fin": "2026-11-15"
+    },
+    "precio_desde": 42
+  },
+  {
+    "id": "tm-canta-corazon-jean-paul-strauss-home",
+    "incluir": true,
+    "titulo": "Canta Corazón",
+    "tipo": "concierto",
+    "generos": [],
+    "sinopsis": "Concierto del cantante Jean Paul Strauss en Surco.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Jean Paul Strauss"
+    ],
+    "productora": null,
+    "sala": "Magitek",
+    "distrito": "Santiago de Surco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 12,
+    "horario_texto": "Sáb 7 de noviembre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": 88.6
+  },
+  {
+    "id": "tm-celebra-el-da-de-la-cancin-criolla-2026-venta-general",
+    "incluir": true,
+    "titulo": "Celebra el Día de la Canción Criolla",
+    "tipo": "folklore",
+    "generos": [
+      "criolla",
+      "danzas folklóricas"
+    ],
+    "sinopsis": "Noche temática por el Día de la Canción Criolla, con danzas folklóricas, orquesta en vivo, animador y comida peruana.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Harero S.A.C.",
+    "sala": "Centro Cultural La Candelaria",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 31 de octubre, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 130
+  },
+  {
+    "id": "tm-chayanne-bailemos-otra-vez-tour-2026-home",
+    "incluir": true,
+    "titulo": "Chayanne - Bailemos Otra Vez Tour 2026",
+    "tipo": "concierto",
+    "generos": [
+      "pop latino"
+    ],
+    "sinopsis": "El cantante puertorriqueño regresa al Estadio Nacional con el cierre de su gira mundial, entre sus grandes éxitos y temas de su nuevo disco.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Chayanne"
+    ],
+    "productora": null,
+    "sala": "Estadio Nacional",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mié 2 de diciembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-12-02",
+      "fin": "2026-12-02"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-circo-de-la-alegra-de-pitillo-julicirco-en-huancayo-home",
+    "incluir": true,
+    "titulo": "Circo de la Alegría de Pitillo: Julicirco",
+    "tipo": "circo",
+    "generos": [
+      "circo",
+      "familiar",
+      "humor"
+    ],
+    "sinopsis": "Temporada renovada del circo de Pitillo en Huancayo, con humor, música, números circenses y actos sorpresa para toda la familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Pitillo",
+      "Doni Donnito"
+    ],
+    "productora": null,
+    "sala": "Explanada Cámara de Comercio",
+    "distrito": null,
+    "ciudad": "Huancayo",
+    "duracion_min": 120,
+    "edad_minima": null,
+    "horario_texto": "Lun a vie 6 y 8 p. m.; sáb, dom y feriados 4, 6 y 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-23",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 27
+  },
+  {
+    "id": "tm-circuito-de-horror-horrorland-dark-xperience-2026-venta-general",
+    "incluir": true,
+    "titulo": "Circuito de Horror Horrorland Dark Xperience",
+    "tipo": "otro",
+    "generos": [
+      "terror",
+      "inmersivo"
+    ],
+    "sinopsis": "Recorrido inmersivo de Halloween con más de veinte personajes, escenarios temáticos y un espectáculo de circo de terror. Apto para quienes buscan sustos en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Circuito Mágico del Agua",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Desde las 5 p. m.",
+    "temporada": {
+      "inicio": "2026-10-02",
+      "fin": "2026-11-02"
+    },
+    "precio_desde": 20
+  },
+  {
+    "id": "tm-con-guitarra-y-cajon-eva-ayllon-dic-home",
+    "incluir": true,
+    "titulo": "Con guitarra y cajón: Eva Ayllón",
+    "tipo": "concierto",
+    "generos": [
+      "criolla",
+      "música afroperuana"
+    ],
+    "sinopsis": "Dos noches íntimas con la cantante de música criolla y afroperuana, acompañada de su banda, en un repertorio de valses, festejos y marineras.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Eva Ayllón"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Bianca",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Jue 17 y vie 18 de diciembre, 10 p. m.",
+    "temporada": {
+      "inicio": "2026-12-17",
+      "fin": "2026-12-18"
+    },
+    "precio_desde": 60
+  },
+  {
+    "id": "tm-concierto-elefante-30-aniversario-tour-venta-general",
+    "incluir": true,
+    "titulo": "Elefante - 30 Aniversario Tour",
+    "tipo": "concierto",
+    "generos": [
+      "pop rock"
+    ],
+    "sinopsis": "La banda mexicana de pop rock celebra tres décadas de carrera con un concierto en Barranco.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Elefante"
+    ],
+    "productora": "Star Shows Producciones S.A.C.",
+    "sala": "Centro de Convenciones Barranco",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": "Mié 18 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-18",
+      "fin": "2026-11-18"
+    },
+    "precio_desde": 185
+  },
+  {
+    "id": "tm-cosi-fan-tutte-home",
+    "incluir": true,
+    "titulo": "Così fan tutte",
+    "tipo": "opera",
+    "generos": [
+      "clásico",
+      "comedia",
+      "romance"
+    ],
+    "sinopsis": "Ópera de Mozart sobre un experimento amoroso que pone a prueba la fidelidad, aquí ambientada en un balneario de la Lima de los años 60. Cuenta con reparto local e internacional, el Coro Nacional del Perú y orquesta en vivo.",
+    "elenco": [
+      {
+        "nombre": "Aleksey Kursanov",
+        "personaje": null
+      },
+      {
+        "nombre": "Alejandro Sánchez",
+        "personaje": null
+      },
+      {
+        "nombre": "Blerta Zhegu",
+        "personaje": null
+      },
+      {
+        "nombre": "Daria Semenova",
+        "personaje": null
+      },
+      {
+        "nombre": "Elizabeth Guerrero",
+        "personaje": null
+      },
+      {
+        "nombre": "Patricio Sabaté",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Lorenzo Tazzieri",
+        "rol": "música"
+      },
+      {
+        "nombre": "Javier Sunico",
+        "rol": "música"
+      },
+      {
+        "nombre": "J.A. Rodríguez Garrido",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Josefina Brivio",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": "Asociación Cultural Coppelius",
+    "sala": "Teatro Segura",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Del 11 al 17 de noviembre, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-11-11",
+      "fin": "2026-11-17"
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-curso-virtual-produccion-de-conciertos-i-por-tito-vattuone-home",
+    "incluir": false,
+    "titulo": "Curso virtual: Producción de Conciertos I",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Curso virtual en streaming, no es un espectáculo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Streaming",
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": null,
+      "fin": null
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-divas-de-la-salsa-venta-general",
+    "incluir": true,
+    "titulo": "Divas de la Salsa",
+    "tipo": "concierto",
+    "generos": [
+      "salsa",
+      "almuerzo show"
+    ],
+    "sinopsis": "Almuerzo show con Brunella Torpoco y Amy Gutiérrez, que reúnen sus voces de salsa junto a danzas peruanas y orquesta en vivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Brunella Torpoco",
+      "Amy Gutiérrez"
+    ],
+    "productora": null,
+    "sala": "Asociación Cultural Brisas del Titicaca",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 29 de noviembre, 1 p. m.",
+    "temporada": {
+      "inicio": "2026-11-29",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": 90
+  },
+  {
+    "id": "tm-donacion-liga-contra-el-cancer-pago-donacion",
+    "incluir": false,
+    "titulo": "Donación Liga Contra el Cáncer",
+    "tipo": "otro",
+    "generos": [],
+    "sinopsis": "Página de donación a una institución, no es un espectáculo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Ticketmaster",
+    "distrito": null,
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": null,
+      "fin": null
+    },
+    "precio_desde": null
+  },
+  {
+    "id": "tm-dying-fetus-venta-general",
+    "incluir": true,
+    "titulo": "Dying Fetus",
+    "tipo": "concierto",
+    "generos": [
+      "death metal"
+    ],
+    "sinopsis": "La banda estadounidense de death metal toca por primera vez en Perú, en una noche de metal extremo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Dying Fetus"
+    ],
+    "productora": null,
+    "sala": "Centro de Convenciones Kantaro",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 300,
+    "edad_minima": 14,
+    "horario_texto": "Sáb 28 de noviembre, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-28",
+      "fin": "2026-11-28"
+    },
+    "precio_desde": 274
+  },
+  {
+    "id": "tm-el-secreto-de-la-navidad-la-leyenda-nunca-antes-contada-venta-general",
+    "incluir": true,
+    "titulo": "El secreto de la Navidad: la leyenda nunca antes contada",
+    "tipo": "infantil",
+    "generos": [
+      "navidad",
+      "fantasía",
+      "familiar"
+    ],
+    "sinopsis": "Recorrido inmersivo navideño en el que Papá Noel y Krampus cuentan su versión de la Navidad. Una experiencia de fantasía para ir en familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Artistik FX Producciones",
+    "sala": "Casona San José de Cluny",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 15,
+    "edad_minima": 1,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-12-04",
+      "fin": "2026-12-06"
+    },
+    "precio_desde": 17.6
+  },
+  {
+    "id": "tm-esplendor-folkshow-peru-home",
+    "incluir": true,
+    "titulo": "Esplendor: la esencia de Folkshow",
+    "tipo": "folklore",
+    "generos": [
+      "danzas peruanas",
+      "gala"
+    ],
+    "sinopsis": "Gala de fin de año de Folkshow Perú con un recorrido por danzas de la costa, sierra y selva, acompañadas por músicos en vivo.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Wiler Gustavo Ponce Ríos",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [
+      "Melodías de Saya"
+    ],
+    "productora": "Folkshow Perú",
+    "sala": "Centro Cultural La Candelaria",
+    "distrito": "Barranco",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 2,
+    "horario_texto": "Lun 7 de diciembre, 7:30 p. m.",
+    "temporada": {
+      "inicio": "2026-12-07",
+      "fin": "2026-12-07"
+    },
+    "precio_desde": 45
+  },
+  {
+    "id": "tm-festival-andino-latinoamericano-9na-edicion-venta-general",
+    "incluir": true,
+    "titulo": "Festival Andino Latinoamericano - 9.ª edición",
+    "tipo": "concierto",
+    "generos": [
+      "música andina",
+      "festival"
+    ],
+    "sinopsis": "Festival de música andina que reúne a diez exponentes en el Anfiteatro del Parque de la Exposición.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Anfiteatro del Parque de la Exposición",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 12,
+    "horario_texto": "Sáb 12 de diciembre, 2 p. m.",
+    "temporada": {
+      "inicio": "2026-12-12",
+      "fin": "2026-12-12"
+    },
+    "precio_desde": 69
+  },
+  {
+    "id": "tm-festival-vivo-x-argentina---20-de-noviembre-venta-general",
+    "incluir": true,
+    "titulo": "Festival Vivo x Argentina",
+    "tipo": "show",
+    "generos": [],
+    "sinopsis": "Festival en un bar de Jesús María, con consumo mínimo por persona. El texto no detalla el programa.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Franquicias Peruanas MP SAC",
+    "sala": "Bar 122",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Vie 20 de noviembre, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-11-20",
+      "fin": "2026-11-20"
+    },
+    "precio_desde": 48
+  }
+]
