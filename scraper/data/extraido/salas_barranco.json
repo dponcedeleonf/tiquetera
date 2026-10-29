@@ -1,0 +1,2883 @@
+[
+ {
+  "id": "brc-teatro-barranco-el-ritmo-del-dolor",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/el-ritmo-del-dolor",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-el-ritmo-del-dolor-79711",
+  "incluir": true,
+  "titulo": "El ritmo del dolor",
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "Un montaje que parte de los dolores que cargamos sin que se noten y busca transformarlos en arte sobre el escenario.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 8 p. m. (7, 14, 21 y 28 de noviembre)",
+  "temporada": {
+   "inicio": "2026-11-07",
+   "fin": "2026-11-28"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-los-chismes-de-las-mujeres",
+  "fuente": "prensa",
+  "url": "https://diariouno.pe/2026/10/24/obra-dirigida-por-martin-velasquez-marvelat-vuelve-al-teatro-barranco/",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-los-chismes-de-las-mujeres-80012",
+  "incluir": true,
+  "titulo": "Los chismes de las mujeres",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "clásico"
+  ],
+  "sinopsis": "La comedia de Goldoni sobre un vecindario donde los rumores y los celos se enredan hasta que nadie queda a salvo, en versión de Alumbra Producciones.",
+  "elenco": [
+   {
+    "nombre": "Pau Simons",
+    "personaje": null
+   },
+   {
+    "nombre": "Angie Orihuela",
+    "personaje": null
+   },
+   {
+    "nombre": "Marcelo Prado",
+    "personaje": null
+   },
+   {
+    "nombre": "Hugo Menéndez",
+    "personaje": null
+   },
+   {
+    "nombre": "Violeta Dueñas",
+    "personaje": null
+   },
+   {
+    "nombre": "José Leonardo",
+    "personaje": null
+   },
+   {
+    "nombre": "Sophia García",
+    "personaje": null
+   },
+   {
+    "nombre": "Yaneth Gutiérrez",
+    "personaje": null
+   },
+   {
+    "nombre": "Walter Gil",
+    "personaje": null
+   },
+   {
+    "nombre": "Petronik",
+    "personaje": null
+   },
+   {
+    "nombre": "Carlos Thornton",
+    "personaje": null
+   },
+   {
+    "nombre": "Katherina Sánchez",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Carlo Goldoni",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Martín Velásquez Marvelat",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Loreley Vidal",
+    "rol": "producción"
+   }
+  ],
+  "artistas": [],
+  "productora": "Alumbra Producciones",
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 8 p. m. (15, 22 y 29 de noviembre; 6 y 13 de diciembre)",
+  "temporada": {
+   "inicio": "2026-11-15",
+   "fin": "2026-12-13"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-mamma-mia-la-fiesta",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/mamma-mia-la-fiesta",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-mamma-mia-la-fiesta-76837",
+  "incluir": true,
+  "titulo": "Mamma Mia: la fiesta",
+  "tipo": "musical",
+  "generos": [
+   "musical",
+   "familiar"
+  ],
+  "sinopsis": "Un elenco de jóvenes cantantes repasa en vivo las canciones de ABBA en un espectáculo pensado para ver en familia.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 20 de diciembre, 5 p. m.",
+  "temporada": {
+   "inicio": "2026-12-20",
+   "fin": "2026-12-20"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-mesa-tomada-2-0",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/cultura/mesa-tomada-20-llega-al-teatro-barranco-con-amores-rupturas-y-enredos-noticia/",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": true,
+  "titulo": "Mesa tomada 2.0",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "romance"
+  ],
+  "sinopsis": "En una trattoria imaginaria se cruzan parejas en crisis, citas fallidas y amores que recién empiezan, y cada mesa termina afectando a la de al lado.",
+  "elenco": [
+   {
+    "nombre": "Fernando Cáceres",
+    "personaje": null
+   },
+   {
+    "nombre": "Luisito Fernández",
+    "personaje": null
+   },
+   {
+    "nombre": "Pepe Murray",
+    "personaje": null
+   },
+   {
+    "nombre": "Andrea Chuiman",
+    "personaje": null
+   },
+   {
+    "nombre": "Christian Alden",
+    "personaje": null
+   },
+   {
+    "nombre": "Quini Gómez",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Christian Ávalos",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Christian Ávalos",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Luisito Fernández",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Christian Ávalos",
+    "rol": "adaptación"
+   }
+  ],
+  "artistas": [],
+  "productora": "Krakens Producciones y La Intensa Producción",
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 16,
+  "horario_texto": "Vie 8 p. m. (4, 11, 18 y 25 de septiembre; función promocional el 2 de octubre)",
+  "temporada": {
+   "inicio": "2026-09-04",
+   "fin": "2026-10-02"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-kortas-octubre",
+  "fuente": "passline",
+  "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": true,
+  "titulo": "Kortas: octubre",
+  "tipo": "teatro",
+  "generos": [
+   "teatro breve"
+  ],
+  "sinopsis": "Edición de octubre de Kortas, el ciclo de la sala que junta varias obras cortas de creadores emergentes en una misma noche.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 6 y mié 7 de octubre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-06",
+   "fin": "2026-10-07"
+  },
+  "precio_desde": 25,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-rodeados-de-amor",
+  "fuente": "passline",
+  "url": "https://www.passline.com/sitio-evento/rodeados-de-amor-568357",
+  "url_compra": "https://www.passline.com/sitio-evento/rodeados-de-amor-568357",
+  "incluir": true,
+  "titulo": "Rodeados de amor",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "romance",
+   "lgbtiq+"
+  ],
+  "sinopsis": "Comedia romántica de temática queer para público mayor de 16 años.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 16,
+  "horario_texto": "Jue 5 y jue 12 de noviembre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-05",
+   "fin": "2026-11-12"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-polinecios",
+  "fuente": "passline",
+  "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": false,
+  "titulo": "Polinecios",
+  "tipo": "otro",
+  "generos": [],
+  "sinopsis": "Función programada en el Teatro Barranco; el listado público de Passline no trae descripción ni ficha.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 3 de octubre, 4 p. m.",
+  "temporada": {
+   "inicio": "2026-10-03",
+   "fin": "2026-10-03"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-cuando-pienses-en-volver",
+  "fuente": "passline",
+  "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": false,
+  "titulo": "Cuando pienses en volver",
+  "tipo": "musical",
+  "generos": [],
+  "sinopsis": "Función programada en el Teatro Barranco; el listado público de Passline no trae descripción ni ficha.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 8 de octubre",
+  "temporada": {
+   "inicio": "2026-10-08",
+   "fin": "2026-10-08"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-acto-de-magia",
+  "fuente": "passline",
+  "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": false,
+  "titulo": "Acto de magia",
+  "tipo": "otro",
+  "generos": [],
+  "sinopsis": "Función programada en el Teatro Barranco; el listado público de Passline no trae descripción ni ficha.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 24 de octubre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-10-24"
+  },
+  "precio_desde": 35,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-epic-edicion-halloween",
+  "fuente": "passline",
+  "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": false,
+  "titulo": "EPIC: edición Halloween",
+  "tipo": "otro",
+  "generos": [],
+  "sinopsis": "Función programada en el Teatro Barranco; el listado público de Passline no trae descripción ni ficha.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 31 de octubre, 2 p. m.",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-barranco-canto-como-nina",
+  "fuente": "passline",
+  "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "incluir": false,
+  "titulo": "Canto como niña",
+  "tipo": "otro",
+  "generos": [],
+  "sinopsis": "Función programada en el Teatro Barranco; el listado público de Passline no trae descripción ni ficha.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 5 de noviembre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-05",
+   "fin": "2026-11-05"
+  },
+  "precio_desde": 44,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-juanita-tarnawiecki-ex-mocha-grana-la-noche-de-los-asesinos",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/la-noche-de-los-asesinos",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-la-noche-de-los-asesinos-77646",
+  "incluir": true,
+  "titulo": "La noche de los asesinos",
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "Vuelve este montaje en el que tres hermanos ensayan una y otra vez la muerte de sus padres, un juego que se va pareciendo cada vez más a un juicio.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Juanita Tarnawiecki (ex Mocha Graña)",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie y sáb 8 p. m. (30 y 31 de octubre; 6 y 7 de noviembre)",
+  "temporada": {
+   "inicio": "2026-10-30",
+   "fin": "2026-11-07"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-juanita-tarnawiecki-ex-mocha-grana-el-engranaje",
+  "fuente": "prensa",
+  "url": "https://limatimes.pe/agenda-cultural/2026/10/08/barranco-colectivo-auredia-presenta-obra-de-teatro-y-danza-el-engranaje/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El engranaje",
+  "tipo": "teatro",
+  "generos": [
+   "teatro",
+   "danza"
+  ],
+  "sinopsis": "Con teatro y danza, una joven conversa con el público sobre su vocación mientras un sistema intenta encajarla como pieza productiva a punto de test vocacional.",
+  "elenco": [
+   {
+    "nombre": "Sol Yucra Sereno",
+    "personaje": null
+   },
+   {
+    "nombre": "Natalia López",
+    "personaje": null
+   },
+   {
+    "nombre": "Suleira Antoanee",
+    "personaje": null
+   },
+   {
+    "nombre": "María Angulo",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Emilio Napan Cerro",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Emilio Napan Cerro",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": "Auredia Colectivo Teatral",
+  "sala": "Teatro Juanita Tarnawiecki (ex Mocha Graña)",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 9, sáb 10 y vie 16 de octubre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-09",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-racional-sofia-y-el-dano-que-habitamos",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/sofia-y-el-dano-que-habitamos",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-sofia-y-el-dano-que-habitamos-79726",
+  "incluir": true,
+  "titulo": "Sofía y el daño que habitamos",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "psicológico"
+  ],
+  "sinopsis": "Drama psicológico contado sin orden cronológico, que se mete con los límites de la moral familiar y el deseo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Racional",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie y sáb 8 p. m. (20, 21, 27 y 28 de noviembre)",
+  "temporada": {
+   "inicio": "2026-11-20",
+   "fin": "2026-11-28"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-quilla-barba-sangre",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/barba-sangre",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-barba-sangre-79144",
+  "incluir": true,
+  "titulo": "Barba Sangre",
+  "tipo": "teatro",
+  "generos": [
+   "terror",
+   "cuentos",
+   "música"
+  ],
+  "sinopsis": "Una sesión de cuentos de terror narrados con música, pensada para que la palabra hablada vuelva a dar escalofríos.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Sala Quilla",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie a dom (30 y 31 de octubre; 1, 6, 7 y 8 de noviembre); función del 30 a las 8:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-30",
+   "fin": "2026-11-08"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-quilla-la-caida",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/la-caida",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-la-caida-79927",
+  "incluir": true,
+  "titulo": "La caída",
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "Un recorrido simbólico guiado por el espíritu de un ave extinta, que se pregunta por el tiempo que vivimos y por otras formas posibles de convivir.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Sala Quilla",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 4 de noviembre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-04",
+   "fin": "2026-11-04"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-quilla-los-tres-cantos-del-gallo",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/los-tres-cantos-del-gallo",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-los-tres-cantos-del-gallo-79942",
+  "incluir": true,
+  "titulo": "Los tres cantos del gallo",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "teatro físico"
+  ],
+  "sinopsis": "Toma la figura del gallo, ave domesticada que aun así anuncia el amanecer, para poner en cuerpo y voz la pérdida de dignidad del ser humano.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Sala Quilla",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 5 de noviembre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-05",
+   "fin": "2026-11-05"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-teatro-esencia-hansel-y-gretel-donde-cantan-los-recuerdos",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/hansel-y-gretel-donde-cantan-los-recuerdos",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-hansel-y-gretel-donde-cantan-los-recuerdos-79375",
+  "incluir": true,
+  "titulo": "Hansel y Gretel: donde cantan los recuerdos",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "musical",
+   "cuentos"
+  ],
+  "sinopsis": "Versión musical del cuento de los hermanos perdidos en el bosque, con canciones y humor, que pone el acento en el cariño, la imaginación y el perdón.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Esencia",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 5 p. m. (1, 8 y 15 de noviembre)",
+  "temporada": {
+   "inicio": "2026-11-01",
+   "fin": "2026-11-15"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-el-dragon-de-barranco-con-ketchup-antes-de-parir",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/con-ketchup-antes-de-parir",
+  "url_compra": "https://wa.me/996503431",
+  "incluir": true,
+  "titulo": "(Con ketchup) Antes de parir",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "metateatro"
+  ],
+  "sinopsis": "A dos días de un estreno, una actriz que no logra entrar en su personaje intenta salvar el ensayo general mientras su hijo pequeño tiene hambre y quiere irse a casa.",
+  "elenco": [
+   {
+    "nombre": "Vane De la Torre",
+    "personaje": null
+   },
+   {
+    "nombre": "Ilda Polo",
+    "personaje": null
+   },
+   {
+    "nombre": "Paulo César Polo Chávez",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Paulo César Polo Chávez",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Paulo César Polo Chávez",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Fátima Producciones",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Luis Peche Alvarado",
+    "rol": "otro"
+   }
+  ],
+  "artistas": [],
+  "productora": "LSPC Creación Escénica Sensorial",
+  "sala": "El Dragón de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 3 de noviembre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-03",
+   "fin": "2026-11-03"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-el-dragon-de-barranco-space-cake",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/space-cake-en-el-dragon-de-barranco-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Space Cake",
+  "tipo": "concierto",
+  "generos": [
+   "jazz",
+   "electrónica"
+  ],
+  "sinopsis": "El trío de Diego Rodríguez Arnaiz, Andrés Landavere y Cristóbal Mujica tocó su electro jazz en una fecha del ciclo Escena Dragón.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Space Cake"
+  ],
+  "productora": "Escena Dragón",
+  "sala": "El Dragón de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 14 de octubre",
+  "temporada": {
+   "inicio": "2026-10-14",
+   "fin": "2026-10-14"
+  },
+  "precio_desde": 40,
+  "imagen": null
+ },
+ {
+  "id": "brc-payacasa-entre-clases-segunda-temporada",
+  "fuente": "prensa",
+  "url": "https://puroteatro.pe/obra-teatral/entre-clases-segunda-temporada",
+  "url_compra": "https://wa.me/991842602",
+  "incluir": true,
+  "titulo": "Entre clases (segunda temporada)",
+  "tipo": "comedia",
+  "generos": [
+   "clown",
+   "comedia"
+  ],
+  "sinopsis": "Monina, una clown muy refinada que nunca salió de su burbuja, sueña con ser profesora y descubre que en el aula tiene más que aprender que enseñar.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "PayaCasa",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb y dom (7, 8, 14 y 15 de noviembre); función del 7 a las 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-07",
+   "fin": "2026-11-15"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-casa-bulbo-miedo-a-volar",
+  "fuente": "prensa",
+  "url": "https://limatimes.pe/agenda-cultural/2026/10/08/esta-semana-estrenan-la-obra-miedo-a-volar-en-casa-bulbo-de-barranco/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Miedo a volar",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "romance"
+  ],
+  "sinopsis": "Una tormenta deja atrapados en un aeropuerto a dos desconocidos que no se soportan y que, entre discusiones, terminan hablando de lo que más les asusta.",
+  "elenco": [
+   {
+    "nombre": "Juan Carlos Díaz",
+    "personaje": null
+   },
+   {
+    "nombre": "Silvana Picco",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Federico Abrill",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Joamoc",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Casa Bulbo",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 9 p. m. (del 8 al 29 de octubre)",
+  "temporada": {
+   "inicio": "2026-10-08",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-casa-roja-peru-oculto-un-viaje-ancestral-hacia-lo-desconocido",
+  "fuente": "prensa",
+  "url": "https://limatimes.pe/agenda-cultural/2026/10/26/teatro-en-barranco-peru-oculto-un-viaje-ancestral-hacia-lo-desconocido/",
+  "url_compra": "https://www.joinnus.com/events/theater/lima-peru-oculto-un-viaje-ancentral-hacia-lo-desconocido-79775",
+  "incluir": true,
+  "titulo": "Perú oculto: un viaje ancestral hacia lo desconocido",
+  "tipo": "teatro",
+  "generos": [
+   "terror",
+   "inmersivo",
+   "leyendas"
+  ],
+  "sinopsis": "Experiencia inmersiva de terror en la que un guía lleva al público por tres espacios inspirados en las brujas de Cachiche, el Tunche y la Jarjacha.",
+  "elenco": [],
+  "ficha": [
+   {
+    "nombre": "Mario Gaviria",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Mario Gaviria",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "José Leonardo",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Melanie Malpartida",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Valeria Ramos",
+    "rol": "otro"
+   }
+  ],
+  "artistas": [],
+  "productora": "Ukupacha Producciones",
+  "sala": "La Casa Roja",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 8 y 10 p. m.; sáb 7 y 9 p. m. (del 5 al 21 de noviembre)",
+  "temporada": {
+   "inicio": "2026-11-05",
+   "fin": "2026-11-21"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-casa-roja-oney1",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/oney1-en-lima-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-oney1-en-lima-peru-77851",
+  "incluir": true,
+  "titulo": "Oney1",
+  "tipo": "concierto",
+  "generos": [
+   "urbano"
+  ],
+  "sinopsis": "Primera visita a Lima del artista argentino, que llegó tras sus shows en salas de Buenos Aires.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Oney1"
+  ],
+  "productora": null,
+  "sala": "La Casa Roja",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 19 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-19",
+   "fin": "2026-09-19"
+  },
+  "precio_desde": 75,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-casa-roja-el-perro-y-la-banda-sutil",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/el-perro-y-la-banda-sutil/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "El Perro y la Banda Sutil",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "independiente"
+  ],
+  "sinopsis": "Juan Carlos «El Perro» Calderón volvió al escenario con su Banda Sutil, en una noche compartida con La Máquina Camaleón y Cementerio Inocentes.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Juan Carlos Calderón",
+   "La Banda Sutil",
+   "La Máquina Camaleón",
+   "Cementerio Inocentes"
+  ],
+  "productora": "Vichama Conciertos",
+  "sala": "La Casa Roja",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Vie 9 de octubre",
+  "temporada": {
+   "inicio": "2026-10-09",
+   "fin": "2026-10-09"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-casa-roja-bqestia-soundsystem-10-anos",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/bqestia-soundsystem-10-anos/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "BQestia Soundsystem: 10 años",
+  "tipo": "concierto",
+  "generos": [
+   "electrónica",
+   "club"
+  ],
+  "sinopsis": "El colectivo celebra una década con una noche de club music, techno y bass a cargo de varios DJ invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Jah Chata",
+   "Jesperino",
+   "King Cholo",
+   "N3T4",
+   "Trilce",
+   "Yozty"
+  ],
+  "productora": null,
+  "sala": "La Casa Roja",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 7 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-07",
+   "fin": "2026-11-07"
+  },
+  "precio_desde": 20,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-casa-roja-diana-salas",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/diana-salas-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Diana Salas",
+  "tipo": "concierto",
+  "generos": [
+   "pop"
+  ],
+  "sinopsis": "Concierto especial en el que la cantante revelará cuál de dos temas inéditos, elegido por votación de su público, será su próximo sencillo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Diana Salas"
+  ],
+  "productora": null,
+  "sala": "La Casa Roja",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 14 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-14",
+   "fin": "2026-11-14"
+  },
+  "precio_desde": 55,
+  "imagen": null
+ },
+ {
+  "id": "brc-aforo-barranco-terapia-blanquiazvl",
+  "fuente": "prensa",
+  "url": "https://www.gatoencerrado.net/el-1-de-octubre-se-estrena-terapia-blanquiazvl-en-barranco/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Terapia Blanquiazvl",
+  "tipo": "teatro",
+  "generos": [
+   "inmersivo",
+   "música en vivo"
+  ],
+  "sinopsis": "Montaje inmersivo sobre la identidad y el sentido de pertenencia de los hinchas de Alianza Lima, con música en vivo y cierre de fiesta temática.",
+  "elenco": [
+   {
+    "nombre": "Luis José Ocampo",
+    "personaje": null
+   },
+   {
+    "nombre": "Alain Salinas",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Herbert Corimanya",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Herbert Corimanya",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [],
+  "productora": null,
+  "sala": "Aforo Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 8 p. m. (1, 8, 15, 22 y 29 de octubre)",
+  "temporada": {
+   "inicio": "2026-10-01",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-aforo-barranco-giru-mad-fleiva-mad-fleiva-tour",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/giru-mad-fleiva-en-lima-2026/",
+  "url_compra": "https://www.passline.com/eventos/mad-fleiva-tour-07-oct",
+  "incluir": true,
+  "titulo": "Giru Mad Fleiva: Mad Fleiva Tour",
+  "tipo": "concierto",
+  "generos": [
+   "urbano"
+  ],
+  "sinopsis": "Cierre en Lima de la gira de Giru Mad Fleiva, con un repaso de sus temas más conocidos y artistas invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Giru Mad Fleiva"
+  ],
+  "productora": null,
+  "sala": "Aforo Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Mié 7 de octubre",
+  "temporada": {
+   "inicio": "2026-10-07",
+   "fin": "2026-10-07"
+  },
+  "precio_desde": 35,
+  "imagen": null
+ },
+ {
+  "id": "brc-aforo-barranco-dimitri-y-las-brujas",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/dimitri-y-las-brujas-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Dimitri y las Brujas",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "rock"
+  ],
+  "sinopsis": "Debut en Lima de Dimitri y las Brujas, con un recorrido por toda su discografía y teloneros locales.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Dimitri y las Brujas",
+   "Manuel Valdez",
+   "Daniela de Izcue"
+  ],
+  "productora": null,
+  "sala": "Aforo Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 de octubre",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 100,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-se-busca-marido-cama-afuera",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/sebuscamaridocamaafuera-bianca2026",
+  "url_compra": "https://teleticket.com.pe/sebuscamaridocamaafuera-bianca2026",
+  "incluir": true,
+  "titulo": "Se busca marido cama afuera",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "música en vivo"
+  ],
+  "sinopsis": "Johanna San Miguel volvió con una edición especial de su comedia sobre reinventarse después de una caída, con anécdotas y música en vivo.",
+  "elenco": [
+   {
+    "nombre": "Johanna San Miguel",
+    "personaje": null
+   }
+  ],
+  "ficha": [],
+  "artistas": [],
+  "productora": "DEA Promotora S.A.",
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 90,
+  "edad_minima": 18,
+  "horario_texto": "Jue 8 p. m. (del 6 de agosto al 24 de septiembre)",
+  "temporada": {
+   "inicio": "2026-08-06",
+   "fin": "2026-09-24"
+  },
+  "precio_desde": 51,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-los-vilchez-en-santo-problema",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/los-vilchez-en-santo-problema-cc-bianca",
+  "url_compra": "https://teleticket.com.pe/evento/los-vilchez-en-santo-problema-cc-bianca",
+  "incluir": true,
+  "titulo": "Los Vílchez en Santo Problema",
+  "tipo": "show",
+  "generos": [
+   "comedia",
+   "música"
+  ],
+  "sinopsis": "Un show sin guion ni director en el que la familia Vílchez cuenta su vida en escena, con música de antaño y trivias con el público.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": "Danger Producciones",
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 60,
+  "edad_minima": 18,
+  "horario_texto": "Funciones a las 8:30 p. m. entre el 7 de mayo y el 23 de septiembre",
+  "temporada": {
+   "inicio": "2026-05-07",
+   "fin": "2026-09-23"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-noche-de-emociones",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/noche-de-emociones-cesar-mancilla-susan-ochoa-jeremy-gomez-centro-de-convenciones-bianca",
+  "url_compra": "https://teleticket.com.pe/evento/noche-de-emociones-cesar-mancilla-susan-ochoa-jeremy-gomez-centro-de-convenciones-bianca",
+  "incluir": true,
+  "titulo": "Noche de emociones",
+  "tipo": "concierto",
+  "generos": [
+   "balada",
+   "música romántica"
+  ],
+  "sinopsis": "Tres voces, César Mancilla, Susan Ochoa y Jeremy Gómez, compartieron escenario en una noche de canciones para corear.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "César Mancilla",
+   "Susan Ochoa",
+   "Jeremy Gómez"
+  ],
+  "productora": "Showmusic E.I.R.L.",
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 120,
+  "edad_minima": 14,
+  "horario_texto": "Vie 18 de septiembre, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-18",
+   "fin": "2026-09-18"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-jayro-tafur-mas-romantico-que-nunca",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/jayro-tafur-mas-romantico-que-nunca-cc-bianca",
+  "url_compra": "https://teleticket.com.pe/evento/jayro-tafur-mas-romantico-que-nunca-cc-bianca",
+  "incluir": true,
+  "titulo": "Jayro Tafur: más romántico que nunca",
+  "tipo": "concierto",
+  "generos": [
+   "balada",
+   "música romántica"
+  ],
+  "sinopsis": "El cantante romántico presentó sus éxitos con banda en vivo y artistas invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Jayro Tafur"
+  ],
+  "productora": "Family Productions EIRL",
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 180,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 10 de octubre, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-10",
+   "fin": "2026-10-10"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-tunantadas-de-amor",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/espectaculos/gustavo-ratto-lleva-tunantadas-de-amor-a-barranco-fecha-lugar-y-entradas-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Tunantadas de amor",
+  "tipo": "folklore",
+  "generos": [
+   "música andina",
+   "almuerzo show"
+  ],
+  "sinopsis": "Almuerzo show de Gustavo Ratto, «el arriero de la tunantada», con danzantes, banda en vivo y la agrupación Entre Manos.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Gustavo Ratto",
+   "Entre Manos"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 18 de octubre, desde la 1 p. m.",
+  "temporada": {
+   "inicio": "2026-10-18",
+   "fin": "2026-10-18"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-ricky-santos-amor-y-cumbia",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/ricky-santos-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Ricky Santos: Amor y cumbia",
+  "tipo": "concierto",
+  "generos": [
+   "cumbia"
+  ],
+  "sinopsis": "Ricky Santos presentó su show de cumbia con orquesta en vivo y artistas invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Ricky Santos"
+  ],
+  "productora": "Emiam Producciones Perú",
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 22 de octubre",
+  "temporada": {
+   "inicio": "2026-10-22",
+   "fin": "2026-10-22"
+  },
+  "precio_desde": 45,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-ellas-en-concierto-en-bianca",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/ellas-en-concierto-en-bianca-cc-bianca",
+  "url_compra": "https://teleticket.com.pe/evento/ellas-en-concierto-en-bianca-cc-bianca",
+  "incluir": true,
+  "titulo": "Ellas en concierto en Bianca",
+  "tipo": "concierto",
+  "generos": [
+   "tributo",
+   "pop latino"
+  ],
+  "sinopsis": "Cuatro ganadoras de concursos de imitación rindieron homenaje a Alejandra Guzmán, Mon Laferte, Yuri y Olga Tañón.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Melissa Ángeles",
+   "Oriana Montero",
+   "Noelia Calle",
+   "Luna Mendoza"
+  ],
+  "productora": "TYS Eventos Perú E.I.R.L.",
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 240,
+  "edad_minima": 14,
+  "horario_texto": "Vie 23 de octubre, 10 p. m.",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-cero-migajeros",
+  "fuente": "prensa",
+  "url": "https://elcomercio.pe/luces/teatro/laura-huarcayo-y-carlos-vilchez-debutan-en-el-teatro-con-la-comedia-cero-migajeros-ultimas-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Cero migajeros",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "romance"
+  ],
+  "sinopsis": "Laura Huarcayo y Carlos Vílchez debutan juntos en el teatro con una comedia sobre amores complicados y lo que pasa cuando uno acepta menos de lo que merece.",
+  "elenco": [
+   {
+    "nombre": "Laura Huarcayo",
+    "personaje": null
+   },
+   {
+    "nombre": "Carlos Vílchez",
+    "personaje": null
+   }
+  ],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 8 p. m. (18 y 25 de noviembre; 2 y 9 de diciembre)",
+  "temporada": {
+   "inicio": "2026-11-18",
+   "fin": "2026-12-09"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-bianca-barranqueando-a-nuestro-modo",
+  "fuente": "prensa",
+  "url": "https://limatimes.pe/agenda-cultural/2026/10/29/diosdado-gaitan-llega-con-su-canto-andino-a-barranco/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-barranqueando-a-nuestro-modo-79475",
+  "incluir": true,
+  "titulo": "Barranqueando a nuestro modo",
+  "tipo": "folklore",
+  "generos": [
+   "música andina",
+   "huayno"
+  ],
+  "sinopsis": "Diosdado Gaitán Castro ofrece una noche de huaynos, carnavales y caporales junto al Dúo Ayacucho y el Grupo Ocobamba.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Diosdado Gaitán Castro",
+   "Dúo Ayacucho",
+   "Grupo Ocobamba"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Bianca",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 20 de noviembre, 9:30 p. m.",
+  "temporada": {
+   "inicio": "2026-11-20",
+   "fin": "2026-11-20"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-estacion-de-barranco-migajera-nunca-mas",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/migajera-nunca-mas-la-estacion-de-barranco",
+  "url_compra": "https://teleticket.com.pe/evento/migajera-nunca-mas-la-estacion-de-barranco",
+  "incluir": true,
+  "titulo": "Migajera nunca más",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "humor"
+  ],
+  "sinopsis": "Un show de humor que mezcla historias reales para recordarle al público que nadie debería conformarse con migajas en el amor.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": "AMU Agencia de Mentes Únicas SAC",
+  "sala": "La Estación de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 14,
+  "horario_texto": "Mar 8:30 p. m. (del 1 de septiembre al 27 de octubre)",
+  "temporada": {
+   "inicio": "2026-09-01",
+   "fin": "2026-10-27"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-estacion-de-barranco-tributo-a-cristian-castro-por-daniel-rioja",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/tributo-a-cristian-castro-por-daniel-rioja-la-estacion-de-barranco",
+  "url_compra": "https://teleticket.com.pe/evento/tributo-a-cristian-castro-por-daniel-rioja-la-estacion-de-barranco",
+  "incluir": true,
+  "titulo": "Tributo a Cristian Castro por Daniel Rioja",
+  "tipo": "concierto",
+  "generos": [
+   "tributo",
+   "balada"
+  ],
+  "sinopsis": "Daniel Rioja y banda en vivo repasaron las baladas más conocidas de Cristian Castro, con artistas invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Daniel Rioja"
+  ],
+  "productora": null,
+  "sala": "La Estación de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 120,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 24 de octubre, 10:30 p. m.",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-10-24"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-capital-restobar-electro-showck-la-comedia-de-alto-voltaje",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/electro-showck-%E2%80%93-la-comedia-de-alto-voltaje-capital-restobar",
+  "url_compra": "https://teleticket.com.pe/evento/electro-showck-%E2%80%93-la-comedia-de-alto-voltaje-capital-restobar",
+  "incluir": true,
+  "titulo": "Electro Showck: la comedia de alto voltaje",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "musical"
+  ],
+  "sinopsis": "Comedia musical sobre el regreso de un cantante a los escenarios que se desbarata cuando el único técnico del show se emborracha y pierde el control de luces y sonido.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [],
+  "productora": "La X Productora S.A.C.",
+  "sala": "Capital Restobar",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 120,
+  "edad_minima": null,
+  "horario_texto": "Funciones a las 8 p. m. entre el 11 de septiembre y el 23 de octubre",
+  "temporada": {
+   "inicio": "2026-09-11",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-roble-de-barranco-feliz-dia-de-la-cancion-criolla-con-los-kipus",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/evento/feliz-dia-de-la-cancion-criolla-con-los-kipus-el-roble-de-barranco",
+  "url_compra": "https://teleticket.com.pe/evento/feliz-dia-de-la-cancion-criolla-con-los-kipus-el-roble-de-barranco",
+  "incluir": true,
+  "titulo": "Feliz Día de la Canción Criolla con Los Kipus",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla",
+   "almuerzo show"
+  ],
+  "sinopsis": "Almuerzo show por el Día de la Canción Criolla con Los Kipus y, como invitados, Manuel Donayre y Dayron Aranguren.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Los Kipus",
+   "Manuel Donayre",
+   "Dayron Aranguren"
+  ],
+  "productora": "Arte.pe E.I.R.L.",
+  "sala": "Roble de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 120,
+  "edad_minima": null,
+  "horario_texto": "Sáb 31 de octubre, 1 p. m.",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-kidd-voodoo-euforia-world-tour",
+  "fuente": "teleticket",
+  "url": "https://teleticket.com.pe/kidd-voodoo",
+  "url_compra": "https://teleticket.com.pe/kidd-voodoo",
+  "incluir": true,
+  "titulo": "Kidd Voodoo: Euforia World Tour",
+  "tipo": "concierto",
+  "generos": [
+   "urbano",
+   "trap"
+  ],
+  "sinopsis": "El chileno Kidd Voodoo trajo la gira de su disco Euforia, entre el trap y el pop alternativo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Kidd Voodoo"
+  ],
+  "productora": "Bizarro Entertainment y Servicios Perú S.A.C.",
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": 120,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 de octubre, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 115,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-tipling-rock-america-latina-tour-2026",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/tipling-rock-en-lima-2026/",
+  "url_compra": "https://www.passline.com/eventos/tipling-rock-en-lima",
+  "incluir": true,
+  "titulo": "Tipling Rock: América Latina Tour 2026",
+  "tipo": "concierto",
+  "generos": [
+   "indie pop"
+  ],
+  "sinopsis": "Primera fecha en el Perú de la banda de indie pop Tipling Rock.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Tipling Rock"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 14 de octubre",
+  "temporada": {
+   "inicio": "2026-10-14",
+   "fin": "2026-10-14"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-six-sex-ultra",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/six-sex-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Six Sex: ULTRA",
+  "tipo": "concierto",
+  "generos": [
+   "electrónica",
+   "urbano"
+  ],
+  "sinopsis": "Debut en Lima de Six Sex, que presenta su álbum ULTRA.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Six Sex"
+  ],
+  "productora": "Veltrac Music",
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Mié 21 de octubre",
+  "temporada": {
+   "inicio": "2026-10-21",
+   "fin": "2026-10-21"
+  },
+  "precio_desde": 164,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-rock-n-love-vol-3",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/rock-n-love-vol-3-2026/",
+  "url_compra": "https://www.digitalticket.pe/event/rock-n-love-vol-3",
+  "incluir": true,
+  "titulo": "Rock N’ Love Vol. 3",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "balada"
+  ],
+  "sinopsis": "Tercera edición de esta noche de baladas del rock peruano, con Mar de Copas y Pelo Madueño a la cabeza.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Mar de Copas",
+   "Pelo Madueño",
+   "Los Trece Baladas",
+   "Toño Jáuregui",
+   "Gaia",
+   "Percy Behr",
+   "Fantasmaas"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 23 de octubre",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": 99,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-jaze-qnept-tour-ii",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/jaze-en-lima-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-jaze-lima-29-de-octubre-76657",
+  "incluir": true,
+  "titulo": "Jaze: QNEPT Tour II",
+  "tipo": "concierto",
+  "generos": [
+   "rap",
+   "urbano"
+  ],
+  "sinopsis": "Dos noches de Jaze con un show que alterna momentos intensos, pasajes acústicos y freestyle.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Jaze"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 28 y jue 29 de octubre",
+  "temporada": {
+   "inicio": "2026-10-28",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": 72.5,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-saramalacara-mataderos-world-tour",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/saramalacara-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Saramalacara: Mataderos World Tour",
+  "tipo": "concierto",
+  "generos": [
+   "rap",
+   "urbano"
+  ],
+  "sinopsis": "Primera visita a Lima de la rapera argentina, que presenta su álbum Mataderos.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Saramalacara"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 12,
+  "horario_texto": "Mar 3 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-03",
+   "fin": "2026-11-03"
+  },
+  "precio_desde": 164,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-coti",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/coti-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Coti",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "rock"
+  ],
+  "sinopsis": "El cantautor argentino repasa las canciones que marcaron su carrera.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Coti"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 6 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-06",
+   "fin": "2026-11-06"
+  },
+  "precio_desde": 179,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-tim",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/timo-en-lima-2026-2/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-tim-en-lima-76127",
+  "incluir": true,
+  "titulo": "TIMØ",
+  "tipo": "concierto",
+  "generos": [
+   "pop"
+  ],
+  "sinopsis": "La agrupación colombiana vuelve a Lima con un show apto para menores acompañados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "TIMØ"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 6,
+  "horario_texto": "Dom 8 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-08",
+   "fin": "2026-11-08"
+  },
+  "precio_desde": 155,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-the-lemon-twigs",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/the-lemon-twigs-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "The Lemon Twigs",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Primera presentación en Lima de la banda estadounidense, dentro del ciclo Indiegentes 2026.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "The Lemon Twigs"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Mié 11 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-11",
+   "fin": "2026-11-11"
+  },
+  "precio_desde": 172,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-lagos-tour-2026",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/lagos-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Lagos: Tour 2026",
+  "tipo": "concierto",
+  "generos": [
+   "pop"
+  ],
+  "sinopsis": "El dúo venezolano de productores y compositores trae su gira a Lima.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Lagos"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 16,
+  "horario_texto": "Jue 10 de diciembre",
+  "temporada": {
+   "inicio": "2026-12-10",
+   "fin": "2026-12-10"
+  },
+  "precio_desde": 155,
+  "imagen": null
+ },
+ {
+  "id": "brc-centro-de-convenciones-barranco-galneryus",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/galneryus-en-lima-2027/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Galneryus",
+  "tipo": "concierto",
+  "generos": [
+   "heavy metal",
+   "power metal"
+  ],
+  "sinopsis": "Primera visita a Lima de la banda japonesa de power metal.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Galneryus"
+  ],
+  "productora": null,
+  "sala": "Centro de Convenciones Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Vie 12 de febrero de 2027",
+  "temporada": {
+   "inicio": "2027-02-12",
+   "fin": "2027-02-12"
+  },
+  "precio_desde": 249,
+  "imagen": null
+ },
+ {
+  "id": "brc-barranco-bar-gian-marco-bajo-la-manga",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/gian-marco-en-barranco-bar-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Gian Marco: Bajo la manga",
+  "tipo": "concierto",
+  "generos": [
+   "salsa"
+  ],
+  "sinopsis": "Gian Marco presenta su disco de salsa en una noche compartida con la Orquesta Bembé, María Grazia, Zaperoko y César Vega.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Gian Marco",
+   "Orquesta Bembé",
+   "María Grazia",
+   "Zaperoko",
+   "César Vega"
+  ],
+  "productora": null,
+  "sala": "Barranco Bar",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 8 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-08",
+   "fin": "2026-11-08"
+  },
+  "precio_desde": 35,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-perros-friends",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/perros-friends-perros-santos-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Perros & Friends",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Perros Santos reversionó su repertorio con varios invitados en una formación armada solo para esa noche.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Perros Santos",
+   "Andrea Martínez",
+   "Draco",
+   "Ciané",
+   "Casimismo",
+   "Nero Lvigi",
+   "Lateral",
+   "Phat Buddha",
+   "Santos de Noche"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 17 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-17",
+   "fin": "2026-09-17"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-campo-de-almas-un-adios",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/campo-de-almas-un-adios-la-noche-de-barranco-setiembre-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-un-adios-campo-de-almas-ultimos-conciertos-76336",
+  "incluir": true,
+  "titulo": "Campo de Almas: Un adiós",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Una de las fechas de despedida de Campo de Almas tras más de tres décadas en los escenarios.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Campo de Almas"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 19 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-19",
+   "fin": "2026-09-19"
+  },
+  "precio_desde": 100,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-sueno-purpura-aniversario-souvenir",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/sueno-purpura-aniversario-souvenir/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Sueño Púrpura: Aniversario Souvenir",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "independiente"
+  ],
+  "sinopsis": "La banda tocó completo y por única vez su primer disco, Souvenir.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Sueño Púrpura",
+   "Mauricio Moquillaza"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 24 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-24",
+   "fin": "2026-09-24"
+  },
+  "precio_desde": 15,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-laguna-pai-noche-de-visiones",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/laguna-pai-noche-de-visiones/",
+  "url_compra": "https://www.passline.com/eventos/laguna-pai-presenta-noche-de-visiones",
+  "incluir": true,
+  "titulo": "Laguna Pai: Noche de visiones",
+  "tipo": "concierto",
+  "generos": [
+   "reggae"
+  ],
+  "sinopsis": "Laguna Pai adelantó canciones de su próxima producción, con invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Laguna Pai"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Vie 25 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-25",
+   "fin": "2026-09-25"
+  },
+  "precio_desde": 69,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-gala-brie-ultima-parada",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/gala-brie-la-noche-de-barranco-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-gala-brie-en-la-noche-de-barranco-ultima-parada-79259",
+  "incluir": true,
+  "titulo": "Gala Brie: Última parada",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "independiente"
+  ],
+  "sinopsis": "Cierre de la gira nacional de Gala Brie, que presentó su álbum Podría besar tu sombra con banda completa.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Gala Brie",
+   "Arantxa",
+   "Yo Soy Tú"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 1 de octubre",
+  "temporada": {
+   "inicio": "2026-10-01",
+   "fin": "2026-10-01"
+  },
+  "precio_desde": 35,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-autobus-perdon-x-explotar",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/autobus-en-la-noche-de-barranco-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Autobús: Perdón x explotar",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "pop"
+  ],
+  "sinopsis": "Autobús estrenó en vivo un tema nuevo y repasó más de quince años de canciones con invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Autobús"
+  ],
+  "productora": "Pepa Entertainment",
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Vie 2 de octubre",
+  "temporada": {
+   "inicio": "2026-10-02",
+   "fin": "2026-10-02"
+  },
+  "precio_desde": 50,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-hyper-foco",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/hyper-foco-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Hyper Foco",
+  "tipo": "concierto",
+  "generos": [
+   "pop"
+  ],
+  "sinopsis": "Noche de pop con Geri The Boy, Negra Valencia y Any Uno.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Geri The Boy",
+   "Negra Valencia",
+   "Any Uno"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mar 6 de octubre",
+  "temporada": {
+   "inicio": "2026-10-06",
+   "fin": "2026-10-06"
+  },
+  "precio_desde": 15,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-bareto",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/bareto-en-la-noche-de-barranco-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Bareto",
+  "tipo": "concierto",
+  "generos": [
+   "cumbia",
+   "fusión"
+  ],
+  "sinopsis": "Show íntimo de Bareto con nuevo vocalista y estreno de canción.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Bareto"
+  ],
+  "productora": "Inti Producciones",
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Mié 7 de octubre",
+  "temporada": {
+   "inicio": "2026-10-07",
+   "fin": "2026-10-07"
+  },
+  "precio_desde": 70,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-san-humi-ii",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/san-humi-ii-san-german-homi-homi-umi-murasaki/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "San Hümi II",
+  "tipo": "concierto",
+  "generos": [
+   "independiente"
+  ],
+  "sinopsis": "Segunda edición de este encuentro de bandas emergentes.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "San Germán",
+   "Hömi Hömi",
+   "Umi Murasaki"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Jue 8 de octubre",
+  "temporada": {
+   "inicio": "2026-10-08",
+   "fin": "2026-10-08"
+  },
+  "precio_desde": 10,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-amen-trio-acustico",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/amen-trio-acustico-en-barranco-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Amén: trío acústico",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "acústico"
+  ],
+  "sinopsis": "La banda Amén en formato de trío acústico, en dos fechas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Amén"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 9 de octubre y vie 13 de noviembre",
+  "temporada": {
+   "inicio": "2026-10-09",
+   "fin": "2026-11-13"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-loncheras-de-perro-y-santino-amigo",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/loncheras-de-perro-en-la-noche-de-barranco-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Loncheras de Perro y Santino Amigo",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "independiente"
+  ],
+  "sinopsis": "Debut en el local de Loncheras de Perro, banda de la nueva escena de Lima Norte, junto a Santino Amigo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Loncheras de Perro",
+   "Santino Amigo"
+  ],
+  "productora": "Festival Bizarro",
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Jue 15 de octubre",
+  "temporada": {
+   "inicio": "2026-10-15",
+   "fin": "2026-10-15"
+  },
+  "precio_desde": 20,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-zen",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/zen-en-la-noche-de-barranco-octubre-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Zen",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Zen repasó sus clásicos y adelantó temas de su nuevo disco.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Zen",
+   "Santos de Noche"
+  ],
+  "productora": "Tres Estrellas Booking",
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Vie 16 de octubre",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": 89,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-pelo-madueno",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/pelo-madueno-en-la-noche-de-barranco-octubre-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Pelo Madueño",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Una nueva fecha de Pelo Madueño y su banda, entre clásicos solistas, temas de La Liga del Sueño y canciones nuevas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Pelo Madueño"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 17 de octubre",
+  "temporada": {
+   "inicio": "2026-10-17",
+   "fin": "2026-10-17"
+  },
+  "precio_desde": 75,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-daniel-f-acustico",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/daniel-f-en-la-noche-de-barranco-octubre-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Daniel F: acústico",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "acústico"
+  ],
+  "sinopsis": "Concierto en formato acústico de Daniel F.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Daniel F"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 23 de octubre",
+  "temporada": {
+   "inicio": "2026-10-23",
+   "fin": "2026-10-23"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-que-viva-la-criollada",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/que-viva-la-criollada-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-que-viva-la-criollada-78995",
+  "incluir": true,
+  "titulo": "Que viva la criollada",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "música criolla"
+  ],
+  "sinopsis": "Julio Pérez y Más Poder presentaron un nuevo videoclip en una noche criolla con invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Julio Pérez",
+   "Más Poder"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 24 de octubre",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-10-24"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-cris-en-la-noche",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/cris-en-la-noche-cristina-luyo-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Cris en la Noche",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "independiente"
+  ],
+  "sinopsis": "Cristina Luyo se despidió en vivo de su primer disco, Histeria, y mostró material nuevo.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Cristina Luyo"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Mar 27 de octubre",
+  "temporada": {
+   "inicio": "2026-10-27",
+   "fin": "2026-10-27"
+  },
+  "precio_desde": 39,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-greccia-fiesta-en-el-castillo-greal",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/greccia-fiesta-en-el-castillo-greal/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Greccia: Fiesta en el Castillo Greal",
+  "tipo": "concierto",
+  "generos": [
+   "pop"
+  ],
+  "sinopsis": "Greccia y su banda repasan sus canciones de debut y adelantan temas de su próximo disco.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Greccia"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 29 de octubre",
+  "temporada": {
+   "inicio": "2026-10-29",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-gaia-la-noche-del-hombre-lobo",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/gaia-la-noche-del-hombre-lobo/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Gaia: La noche del hombre lobo",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "música criolla"
+  ],
+  "sinopsis": "Fecha de Halloween de Gaia, entre rock, música criolla y disfraces.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Gaia"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 31 de octubre",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": 60,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-cecimonster-vs-donka-adult-violence",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/cecimonster-vs-donka-adult-violence/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Cecimonster vs Donka: Adult Violence",
+  "tipo": "concierto",
+  "generos": [
+   "punk",
+   "independiente"
+  ],
+  "sinopsis": "Presentación del nuevo EP del dúo, editado en vinilo, con bandas invitadas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Cecimonster vs Donka",
+   "Juan Gris",
+   "Novio",
+   "Sparx"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Vie 6 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-06",
+   "fin": "2026-11-06"
+  },
+  "precio_desde": 25,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-elisa-tokeshi",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/elisa-tokeshi-en-la-noche-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Elisa Tokeshi",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "cantautor"
+  ],
+  "sinopsis": "Último concierto del año de la cantautora, con canciones nuevas y temas que nunca tocó en vivo con banda.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Elisa Tokeshi",
+   "Lucy Pérez"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Jue 12 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-12",
+   "fin": "2026-11-12"
+  },
+  "precio_desde": 42,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-alex-ferreira",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/alex-ferreira-en-lima-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Alex Ferreira",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "cantautor"
+  ],
+  "sinopsis": "El cantautor dominicano llega a Lima con su gira 2026.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Alex Ferreira"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 25 de noviembre",
+  "temporada": {
+   "inicio": "2026-11-25",
+   "fin": "2026-11-25"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-la-noche-de-barranco-cyclo-fisherman-latam-tour-2026",
+  "fuente": "passline",
+  "url": "https://www.passline.com/venue/la-noche-de-barranco",
+  "url_compra": "https://www.passline.com/venue/la-noche-de-barranco",
+  "incluir": true,
+  "titulo": "Cyclo: Fisherman Latam Tour 2026",
+  "tipo": "concierto",
+  "generos": [
+   "electrónica"
+  ],
+  "sinopsis": "Fecha de la gira latinoamericana de Cyclo en el local de Barranco.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Cyclo"
+  ],
+  "productora": null,
+  "sala": "La Noche de Barranco",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 19 de noviembre, 10 p. m.",
+  "temporada": {
+   "inicio": "2026-11-19",
+   "fin": "2026-11-19"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-osma-fragil-serranio",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/fragil-en-sala-osma-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Frágil: Serranío",
+  "tipo": "concierto",
+  "generos": [
+   "rock progresivo"
+  ],
+  "sinopsis": "Frágil tocó completo su álbum Serranío por un nuevo aniversario del disco.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Frágil"
+  ],
+  "productora": null,
+  "sala": "Sala Osma",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 17 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-17",
+   "fin": "2026-09-17"
+  },
+  "precio_desde": 65,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-osma-marzenit-rabia",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/marzenit-rabia-sala-osma-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-marzenit-en-vivo-presenta-rabia-79318",
+  "incluir": true,
+  "titulo": "Marzenit: RABIA",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Presentación en vivo del disco debut de Marzenit, con un single nuevo e invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Marzenit"
+  ],
+  "productora": null,
+  "sala": "Sala Osma",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Jue 8 de octubre",
+  "temporada": {
+   "inicio": "2026-10-08",
+   "fin": "2026-10-08"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-osma-wan",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/wan-en-sala-osma-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "WAN",
+  "tipo": "concierto",
+  "generos": [
+   "indie rock"
+  ],
+  "sinopsis": "Noche de indie rock con WAN y Mercury Toys como invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "WAN",
+   "Mercury Toys"
+  ],
+  "productora": "We Represent Music",
+  "sala": "Sala Osma",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Jue 15 de octubre",
+  "temporada": {
+   "inicio": "2026-10-15",
+   "fin": "2026-10-15"
+  },
+  "precio_desde": 25,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-osma-daniela-de-izcue-mi-momento",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/daniela-de-izcue-mi-momento-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Daniela De Izcue: Mi momento",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "cantautor"
+  ],
+  "sinopsis": "Lanzamiento en vivo del primer álbum de Daniela De Izcue, con banda completa y estreno del corto del disco.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Daniela De Izcue"
+  ],
+  "productora": null,
+  "sala": "Sala Osma",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 22 de octubre",
+  "temporada": {
+   "inicio": "2026-10-22",
+   "fin": "2026-10-22"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "brc-sala-osma-gente-maravillosa",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/gente-maravillosa-en-sala-osma-2026/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Gente Maravillosa",
+  "tipo": "concierto",
+  "generos": [
+   "independiente"
+  ],
+  "sinopsis": "Show gratuito de Gente Maravillosa con ¿Quién Ácido?, Oscar DLC y Gala Brie.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Gente Maravillosa",
+   "¿Quién Ácido?",
+   "Oscar DLC",
+   "Gala Brie"
+  ],
+  "productora": null,
+  "sala": "Sala Osma",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 29 de octubre",
+  "temporada": {
+   "inicio": "2026-10-29",
+   "fin": "2026-10-29"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "brc-sargento-pimienta-onda-vaga-amuletos-de-cristal",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/onda-vaga-amuletos-de-cristal-lima-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-onda-vaga-presenta-amuletos-de-cristal-en-lima-78389",
+  "incluir": true,
+  "titulo": "Onda Vaga: Amuletos de cristal",
+  "tipo": "concierto",
+  "generos": [
+   "rock",
+   "folk"
+  ],
+  "sinopsis": "La banda argentina presentó en Lima su nuevo disco junto a sus clásicos.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Onda Vaga"
+  ],
+  "productora": null,
+  "sala": "Sargento Pimienta",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Jue 24 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-24",
+   "fin": "2026-09-24"
+  },
+  "precio_desde": 80,
+  "imagen": null
+ },
+ {
+  "id": "brc-sargento-pimienta-el-plan-de-la-mariposa",
+  "fuente": "prensa",
+  "url": "https://conciertosperu.com.pe/el-plan-de-la-mariposa-en-lima-2026/",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-el-plan-de-la-mariposa-en-lima-26-de-septiembre-77169",
+  "incluir": true,
+  "titulo": "El Plan de la Mariposa",
+  "tipo": "concierto",
+  "generos": [
+   "rock"
+  ],
+  "sinopsis": "Regreso a Lima de la banda argentina con un recorrido por sus canciones más conocidas.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "El Plan de la Mariposa"
+  ],
+  "productora": null,
+  "sala": "Sargento Pimienta",
+  "distrito": "Barranco",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 18,
+  "horario_texto": "Sáb 26 de septiembre",
+  "temporada": {
+   "inicio": "2026-09-26",
+   "fin": "2026-09-26"
+  },
+  "precio_desde": 129,
+  "imagen": null
+ }
+]

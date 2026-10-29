@@ -1,0 +1,641 @@
+[
+ {
+  "id": "comp-teatro-municipal-de-lima-el-lago-de-los-cisnes",
+  "fuente": "prensa",
+  "url": "https://diariouno.pe/2026/09/10/el-lago-de-los-cisnes-regresa-al-teatro-municipal-de-lima/",
+  "url_compra": "https://teleticket.com.pe/el-lago-de-los-cisnes",
+  "incluir": true,
+  "titulo": "El lago de los cisnes",
+  "tipo": "danza",
+  "generos": [
+   "ballet",
+   "clásico"
+  ],
+  "sinopsis": "El Ballet Municipal de Lima retomó el clásico de Tchaikovsky sobre el príncipe Sigfrido y Odette, la joven convertida en cisne. Cuatro funciones contaron con la orquesta del teatro en vivo.",
+  "elenco": [
+   {
+    "nombre": "Nicolai Gorodiski",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Carlos Valcárcel",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Marius Petipa",
+    "rol": "coreografía"
+   },
+   {
+    "nombre": "Lev Ivanov",
+    "rol": "coreografía"
+   },
+   {
+    "nombre": "Piotr Tchaikovsky",
+    "rol": "música"
+   },
+   {
+    "nombre": "Carlos Calleja",
+    "rol": "otro"
+   }
+  ],
+  "artistas": [
+   "Ballet Municipal de Lima",
+   "Orquesta Sinfónica del Teatro Municipal de Lima"
+  ],
+  "productora": "Ballet Municipal de Lima",
+  "sala": "Teatro Municipal de Lima",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": 5,
+  "horario_texto": "16 funciones; con orquesta: 26 y 27 set 6 p. m., 1 y 2 oct 8 p. m.",
+  "temporada": {
+   "inicio": "2026-09-11",
+   "fin": "2026-10-03"
+  },
+  "precio_desde": 20,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-municipal-de-lima-romeo-y-julieta",
+  "fuente": "prensa",
+  "url": "https://www.infobae.com/peru/2026/10/17/romeo-y-julieta-con-oscar-yepez-y-maria-grazia-gamarra-en-el-teatro-municipal-de-lima-fecha-y-precio-de-entradas/",
+  "url_compra": "https://www.passline.com/eventos/romeo-y-julieta-09-de-octubre-al-08-de-noviembre",
+  "incluir": true,
+  "titulo": "Romeo y Julieta",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "clásico",
+   "tragedia"
+  ],
+  "sinopsis": "Éxodo Teatro lleva a Shakespeare por un camino más sombrío: la historia de los amantes de Verona se cuenta desde la violencia y el azar que los rodean, más que desde el romance.",
+  "elenco": [
+   {
+    "nombre": "Óscar Yépez",
+    "personaje": "Romeo"
+   },
+   {
+    "nombre": "María Grazia Gamarra",
+    "personaje": "Julieta"
+   },
+   {
+    "nombre": "Alonso Cano",
+    "personaje": "Mercucio"
+   },
+   {
+    "nombre": "Fernando Luque",
+    "personaje": "Teobaldo"
+   },
+   {
+    "nombre": "Amaranta Kun",
+    "personaje": "Cupido"
+   },
+   {
+    "nombre": "Sebastián Rubio",
+    "personaje": "Paris"
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "William Shakespeare",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Jean Pierre Gamarra",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Lorenzo Albani",
+    "rol": "escenografía"
+   }
+  ],
+  "artistas": [],
+  "productora": "Éxodo Teatro",
+  "sala": "Teatro Municipal de Lima",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": 120,
+  "edad_minima": 12,
+  "horario_texto": "Jue a sáb 8 p. m., dom 7 p. m.",
+  "temporada": {
+   "inicio": "2026-10-09",
+   "fin": "2026-11-08"
+  },
+  "precio_desde": 10,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-municipal-de-lima-svetlana-smolina-recital-de-piano",
+  "fuente": "prensa",
+  "url": "https://diariouno.pe/2026/09/23/de-los-grandes-escenarios-del-mundo-a-lima-la-virtuosa-pianista-rusa-svetlana-smolina-llega-al-teatro-municipal/",
+  "url_compra": "https://www.ticketmaster.pe/event/la-deslumbrante-pianista-de-rusia-svetlana-smolina-home",
+  "incluir": true,
+  "titulo": "Svetlana Smolina: recital de piano",
+  "tipo": "concierto",
+  "generos": [
+   "música clásica",
+   "piano"
+  ],
+  "sinopsis": "Recital único de la pianista rusa, que asumió la fecha de la temporada internacional tras la cancelación de Daniil Trifonov.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Svetlana Smolina"
+  ],
+  "productora": "TQ Producciones",
+  "sala": "Teatro Municipal de Lima",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Lun 26 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-26",
+   "fin": "2026-10-26"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-segura-alicia-siempre-alicia-edicion-2026",
+  "fuente": "municipalidad",
+  "url": "https://www.gob.pe/institucion/munilima/noticias/1444218-entradas-desde-s-20-la-musica-y-el-legado-de-alicia-maguina-llegan-al-teatro-segura-este-20-de-setiembre",
+  "url_compra": "https://teleticket.com.pe/evento/alicia-siempre-alicia-teatro-segura-2026",
+  "incluir": true,
+  "titulo": "Alicia, siempre Alicia – Edición 2026",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla",
+   "música peruana"
+  ],
+  "sinopsis": "Una noche dedicada a las canciones de Alicia Maguiña, cuya obra fue declarada Patrimonio Cultural de la Nación, en las voces de varios intérpretes de la música peruana.",
+  "elenco": [],
+  "ficha": [
+   {
+    "nombre": "Santiago Coco Linares",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Santiago Coco Linares",
+    "rol": "producción"
+   }
+  ],
+  "artistas": [
+   "Julie Freundt",
+   "Nancy Manchego",
+   "Julio Humala",
+   "Lalo Arroyo",
+   "Jorge Luis Jasso",
+   "Blanca Galdós",
+   "Françoise Rodríguez"
+  ],
+  "productora": null,
+  "sala": "Teatro Segura",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 20 set, 6 p. m.",
+  "temporada": {
+   "inicio": "2026-09-20",
+   "fin": "2026-09-20"
+  },
+  "precio_desde": 20,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-segura-cosa-nuestra-historia-de-la-salsa-criolla",
+  "fuente": "prensa",
+  "url": "https://caretas.pe/cultura/cosa-nuestra-en-el-teatro-segura/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Cosa Nuestra: Historia de la Salsa Criolla",
+  "tipo": "concierto",
+  "generos": [
+   "salsa",
+   "música criolla"
+  ],
+  "sinopsis": "Concierto de gala con el que Cosa Nuestra repasa su mezcla de salsa y canción criolla, con varios cantantes invitados y baile en escena.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Cosa Nuestra",
+   "Tito Manrique",
+   "Carlos Mosquera",
+   "Sofía con Z",
+   "José Francisco Valdelomar",
+   "Alex Ramírez",
+   "Noelia Herencia",
+   "Celeste Manrique"
+  ],
+  "productora": null,
+  "sala": "Teatro Segura",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 24 oct, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-10-24",
+   "fin": "2026-10-24"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-segura-a-jaranear-en-el-segura",
+  "fuente": "municipalidad",
+  "url": "https://www.gob.pe/institucion/munilima/noticias/1464359-a-celebrar-la-cancion-criolla-municipalidad-de-lima-organiza-espectaculos-musicales-talleres-y-actividades-para-toda-la-familia",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-a-jaranear-en-el-segura-79394",
+  "incluir": true,
+  "titulo": "A Jaranear en el Segura",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Función por el Día de la Canción Criolla con tres nombres conocidos del género, parte de la programación municipal 'Lima de Jarana Criolla'.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Los Doltons",
+   "Marco Romero",
+   "Los Kipus"
+  ],
+  "productora": null,
+  "sala": "Teatro Segura",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 31 oct, 6 p. m.",
+  "temporada": {
+   "inicio": "2026-10-31",
+   "fin": "2026-10-31"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-segura-we-the-lion-10-anos-unplugged",
+  "fuente": "prensa",
+  "url": "https://limeo.pe/evento/we-the-lion-10-anos-unplugged-en-el-teatro-segura-2026-12-05",
+  "url_compra": "https://www.joinnus.com/events/concerts/lima-we-the-lion-10-anos-unplugged-en-el-teatro-segura-79361",
+  "incluir": true,
+  "titulo": "We The Lion 10 años – Unplugged",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "rock",
+   "acústico"
+  ],
+  "sinopsis": "La banda limeña celebra una década con un concierto acústico acompañado por un ensamble sinfónico y nuevos arreglos de sus canciones.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "We The Lion"
+  ],
+  "productora": null,
+  "sala": "Teatro Segura",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Sáb 5 dic, 4 p. m. y 8 p. m.",
+  "temporada": {
+   "inicio": "2026-12-05",
+   "fin": "2026-12-05"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-segura-concierto-de-la-orquesta-sinfonica-nacional",
+  "fuente": "ministerio de cultura",
+  "url": "https://elencos.cultura.pe/evento/concierto-teatro-segura",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Concierto de la Orquesta Sinfónica Nacional",
+  "tipo": "concierto",
+  "generos": [
+   "música sinfónica"
+  ],
+  "sinopsis": "La Orquesta Sinfónica Nacional sale del Gran Teatro Nacional para un concierto en el Centro Histórico, con director invitado; el programa aún no se ha publicado.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Orquesta Sinfónica Nacional"
+  ],
+  "productora": "Ministerio de Cultura",
+  "sala": "Teatro Segura",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 9 dic, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-12-09",
+   "fin": "2026-12-09"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-segura-gala-de-navidad-de-los-elencos-nacionales",
+  "fuente": "ministerio de cultura",
+  "url": "https://elencos.cultura.pe/evento/gala-de-navidad-3",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Gala de Navidad de los Elencos Nacionales",
+  "tipo": "concierto",
+  "generos": [
+   "navidad",
+   "folklore",
+   "música sinfónica"
+  ],
+  "sinopsis": "Tres elencos del Ministerio de Cultura comparten escenario en una gala navideña que junta danza folclórica, orquesta juvenil y coro de niños.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Ballet Folclórico Nacional",
+   "Orquesta Sinfónica Nacional Juvenil Bicentenario",
+   "Coro Nacional de Niños"
+  ],
+  "productora": "Ministerio de Cultura",
+  "sala": "Teatro Segura",
+  "distrito": "Cercado de Lima",
+  "ciudad": "Lima",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 16 a vie 18 dic, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-12-16",
+   "fin": "2026-12-18"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-municipal-del-cusco-festival-indomesticable-2026-pachamama-y-sus-alquimistas",
+  "fuente": "prensa",
+  "url": "https://altavoz.pe/culturales/gladis-huaman-soprano-del-bicentenario-participa-en-el-festival-indomesticable-2026-en-calca-y-cusco/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Festival Indomesticable 2026: Pachamama y sus alquimistas",
+  "tipo": "otro",
+  "generos": [
+   "festival",
+   "artes escénicas",
+   "performance"
+  ],
+  "sinopsis": "Festival de artes escénicas sobre memoria y territorio, con funciones nocturnas, talleres e intervenciones de artistas de Perú, Brasil, Chile y México; en Cusco usó el Teatro Municipal, la Casa de la Cultura y espacios públicos.",
+  "elenco": [],
+  "ficha": [
+   {
+    "nombre": "Carlos Cruz",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Oswaldo Povea",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Mauricio Rueda",
+    "rol": "dirección"
+   }
+  ],
+  "artistas": [
+   "Gladis Huamán",
+   "Genifer Gerhardt",
+   "Fernando Montanares",
+   "Regina Maciel",
+   "Carlos Cruz",
+   "Oswaldo Povea",
+   "Mauricio Rueda"
+  ],
+  "productora": "Transdisciplinar Escénicas",
+  "sala": "Teatro Municipal del Cusco",
+  "distrito": "Cusco",
+  "ciudad": "Cusco",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Funciones nocturnas; talleres por la mañana",
+  "temporada": {
+   "inicio": "2026-09-29",
+   "fin": "2026-10-01"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-municipal-de-arequipa-pajaros-en-la-cabeza",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/edicion/arequipa/wendy-ramos-llega-a-arequipa-con-pajaros-en-la-cabeza-noticia/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Pájaros en la cabeza",
+  "tipo": "show",
+  "generos": [
+   "unipersonal",
+   "conferencia"
+  ],
+  "sinopsis": "Wendy Ramos presenta su charla escénica sobre la creatividad cotidiana y el miedo a equivocarse, pensada para cualquier público y no solo para artistas.",
+  "elenco": [
+   {
+    "nombre": "Wendy Ramos",
+    "personaje": null
+   }
+  ],
+  "ficha": [],
+  "artistas": [],
+  "productora": null,
+  "sala": "Teatro Municipal de Arequipa",
+  "distrito": "Arequipa (Cercado)",
+  "ciudad": "Arequipa",
+  "duracion_min": 90,
+  "edad_minima": null,
+  "horario_texto": "Vie 16 oct",
+  "temporada": {
+   "inicio": "2026-10-16",
+   "fin": "2026-10-16"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-municipal-de-puno-charangueando-puno-2026",
+  "fuente": "prensa",
+  "url": "https://radioondaazul.com/charangueando-puno-2026-reunira-a-charanguistas-en-concierto-gratuito-en-el-teatro-municipal/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Charangueando Puno 2026",
+  "tipo": "concierto",
+  "generos": [
+   "charango",
+   "música andina"
+  ],
+  "sinopsis": "Segunda edición de este encuentro de charanguistas puneños, con un invitado limeño y un taller previo; un concierto gratuito de unas dos horas.",
+  "elenco": [],
+  "ficha": [
+   {
+    "nombre": "Ubi Espinosa",
+    "rol": "producción"
+   }
+  ],
+  "artistas": [
+   "Percy Rojas Villadeza"
+  ],
+  "productora": null,
+  "sala": "Teatro Municipal de Puno",
+  "distrito": "Puno",
+  "ciudad": "Puno",
+  "duracion_min": 120,
+  "edad_minima": null,
+  "horario_texto": "Jue 24 set, 6:30 p. m.",
+  "temporada": {
+   "inicio": "2026-09-24",
+   "fin": "2026-09-24"
+  },
+  "precio_desde": 0,
+  "imagen": null
+ },
+ {
+  "id": "comp-teatro-municipal-de-puno-iii-festival-multicultural-pawa-raymi",
+  "fuente": "prensa",
+  "url": "https://radioondaazul.com/puno-celebra-el-iii-festival-multicultural-pawa-raymi-con-artistas-de-varios-paises/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "III Festival Multicultural Pawa Raymi",
+  "tipo": "danza",
+  "generos": [
+   "festival",
+   "danza",
+   "multicultural"
+  ],
+  "sinopsis": "Galas nocturnas de danza con elencos de China, Colombia, México y de varias regiones del Perú, acompañadas de talleres para estudiantes de arte en Puno y Juliaca.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Rubén Saraza",
+   "Marisol Zumeta"
+  ],
+  "productora": null,
+  "sala": "Teatro Municipal de Puno",
+  "distrito": "Puno",
+  "ciudad": "Puno",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Galas de 5 a 9 p. m.",
+  "temporada": {
+   "inicio": "2026-10-14",
+   "fin": "2026-10-18"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-cine-teatro-municipal-de-huamanga-amame-en-ayacucho",
+  "fuente": "prensa",
+  "url": "https://jornada.com.pe/sofy-alista-presentacion-en-el-teatro-municipal-con-amame-en-ayacucho-y-agota-zona-platinium/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Ámame en Ayacucho",
+  "tipo": "concierto",
+  "generos": [
+   "pop",
+   "música andina"
+  ],
+  "sinopsis": "La cantautora ayacuchana SÖFY presenta su propuesta de pop con quechua y sonidos andinos, junto a varios artistas invitados.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "SÖFY",
+   "Avril Navarro",
+   "Atuq Sisa",
+   "Karla Sofía",
+   "Pooster"
+  ],
+  "productora": null,
+  "sala": "Cine Teatro Municipal de Huamanga",
+  "distrito": "Ayacucho",
+  "ciudad": "Ayacucho",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 27 set, 5 p. m.",
+  "temporada": {
+   "inicio": "2026-09-27",
+   "fin": "2026-09-27"
+  },
+  "precio_desde": 30,
+  "imagen": null
+ },
+ {
+  "id": "comp-cine-teatro-municipal-de-huamanga-dos-leyendas-del-huayno-ayacuchano",
+  "fuente": "prensa",
+  "url": "https://jornada.com.pe/trio-ayacucho-y-los-heraldos-de-puquio-compartiran-escenario-en-huamanga/",
+  "url_compra": null,
+  "incluir": true,
+  "titulo": "Dos leyendas del huayno ayacuchano",
+  "tipo": "concierto",
+  "generos": [
+   "huayno",
+   "música andina"
+  ],
+  "sinopsis": "El Trío Ayacucho y Los Heraldos de Puquio comparten una noche dedicada al huayno de la región.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Trío Ayacucho",
+   "Los Heraldos de Puquio"
+  ],
+  "productora": null,
+  "sala": "Cine Teatro Municipal de Huamanga",
+  "distrito": "Ayacucho",
+  "ciudad": "Ayacucho",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Mié 28 oct, 7 p. m.",
+  "temporada": {
+   "inicio": "2026-10-28",
+   "fin": "2026-10-28"
+  },
+  "precio_desde": null,
+  "imagen": null
+ },
+ {
+  "id": "comp-c-c-jorge-basadre-grohmann-los-panchos-nostalgia-tour",
+  "fuente": "prensa",
+  "url": "https://diariocorreo.pe/espectaculos/los-panchos-regresan-al-peru-conciertos-en-tacna-y-lima-en-noviembre-de-2026-noticia/",
+  "url_compra": "https://lospanchosnostalgiatour.com/nostalgia-tour/tacna",
+  "incluir": true,
+  "titulo": "Los Panchos: Nostalgia Tour",
+  "tipo": "concierto",
+  "generos": [
+   "bolero"
+  ],
+  "sinopsis": "El trío de boleros, hoy encabezado por Gabriel Vargas, repasa su repertorio clásico de requinto y armonías vocales.",
+  "elenco": [],
+  "ficha": [],
+  "artistas": [
+   "Los Panchos",
+   "Gabriel Vargas",
+   "José Carlos Reyes",
+   "Miguel Ángel Pardo"
+  ],
+  "productora": null,
+  "sala": "C.C. Jorge Basadre Grohmann",
+  "distrito": "Tacna",
+  "ciudad": "Tacna",
+  "duracion_min": null,
+  "edad_minima": null,
+  "horario_texto": "Dom 1 nov, 8 p. m.",
+  "temporada": {
+   "inicio": "2026-11-01",
+   "fin": "2026-11-01"
+  },
+  "precio_desde": null,
+  "imagen": null
+ }
+]

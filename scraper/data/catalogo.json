@@ -85,6 +85,292 @@
    ]
   },
   {
+   "slug": "los-vilchez-en-santo-problema",
+   "titulo": "Los Vílchez en Santo Problema",
+   "tipo": "show",
+   "generos": [
+    "comedia",
+    "música"
+   ],
+   "sinopsis": "Un show sin guion ni director en el que la familia Vílchez cuenta su vida en escena, con música de antaño y trivias con el público.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 60,
+   "edad_minima": 18,
+   "horario_texto": "Funciones a las 8:30 p. m. entre el 7 de mayo y el 23 de septiembre",
+   "temporada": {
+    "inicio": "2026-05-07",
+    "fin": "2026-09-23"
+   },
+   "precio_desde": null,
+   "productora": "Danger Producciones",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/los-vilchez-en-santo-problema-cc-bianca",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": "https://teleticket.com.pe/evento/los-vilchez-en-santo-problema-cc-bianca"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "se-busca-marido-cama-afuera",
+   "titulo": "Se busca marido cama afuera",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "música en vivo"
+   ],
+   "sinopsis": "Johanna San Miguel volvió con una edición especial de su comedia sobre reinventarse después de una caída, con anécdotas y música en vivo.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 90,
+   "edad_minima": 18,
+   "horario_texto": "Jue 8 p. m. (del 6 de agosto al 24 de septiembre)",
+   "temporada": {
+    "inicio": "2026-08-06",
+    "fin": "2026-09-24"
+   },
+   "precio_desde": 51,
+   "productora": "DEA Promotora S.A.",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/sebuscamaridocamaafuera-bianca2026",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": "https://teleticket.com.pe/sebuscamaridocamaafuera-bianca2026"
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "johanna-san-miguel",
+     "personaje": null
+    }
+   ],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "migajera-nunca-mas",
+   "titulo": "Migajera nunca más",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "humor"
+   ],
+   "sinopsis": "Un show de humor que mezcla historias reales para recordarle al público que nadie debería conformarse con migajas en el amor.",
+   "sala": "la-estacion-de-barranco",
+   "salas": [
+    "la-estacion-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 14,
+   "horario_texto": "Mar 8:30 p. m. (del 1 de septiembre al 27 de octubre)",
+   "temporada": {
+    "inicio": "2026-09-01",
+    "fin": "2026-10-27"
+   },
+   "precio_desde": null,
+   "productora": "AMU Agencia de Mentes Únicas SAC",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/migajera-nunca-mas-la-estacion-de-barranco",
+     "sala": "la-estacion-de-barranco",
+     "url_compra": "https://teleticket.com.pe/evento/migajera-nunca-mas-la-estacion-de-barranco"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "mesa-tomada-2-0",
+   "titulo": "Mesa tomada 2.0",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "romance"
+   ],
+   "sinopsis": "En una trattoria imaginaria se cruzan parejas en crisis, citas fallidas y amores que recién empiezan, y cada mesa termina afectando a la de al lado.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 16,
+   "horario_texto": "Vie 8 p. m. (4, 11, 18 y 25 de septiembre; función promocional el 2 de octubre)",
+   "temporada": {
+    "inicio": "2026-09-04",
+    "fin": "2026-10-02"
+   },
+   "precio_desde": 40,
+   "productora": "Krakens Producciones y La Intensa Producción",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariocorreo.pe/cultura/mesa-tomada-20-llega-al-teatro-barranco-con-amores-rupturas-y-enredos-noticia/",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861"
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "fernando-caceres",
+     "personaje": null
+    },
+    {
+     "persona": "luisito-fernandez",
+     "personaje": null
+    },
+    {
+     "persona": "pepe-murray",
+     "personaje": null
+    },
+    {
+     "persona": "andrea-chuiman",
+     "personaje": null
+    },
+    {
+     "persona": "christian-alden",
+     "personaje": null
+    },
+    {
+     "persona": "quini-gomez",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "christian-avalos",
+     "rol": "dirección"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "el-lago-de-los-cisnes",
+   "titulo": "El lago de los cisnes",
+   "tipo": "danza",
+   "generos": [
+    "ballet",
+    "clásico"
+   ],
+   "sinopsis": "El Ballet Municipal de Lima retomó el clásico de Tchaikovsky sobre el príncipe Sigfrido y Odette, la joven convertida en cisne. Cuatro funciones contaron con la orquesta del teatro en vivo.",
+   "sala": "teatro-municipal-de-lima",
+   "salas": [
+    "teatro-municipal-de-lima"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 5,
+   "horario_texto": "16 funciones; con orquesta: 26 y 27 set 6 p. m., 1 y 2 oct 8 p. m.",
+   "temporada": {
+    "inicio": "2026-09-11",
+    "fin": "2026-10-03"
+   },
+   "precio_desde": 20,
+   "productora": "Ballet Municipal de Lima",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariouno.pe/2026/09/10/el-lago-de-los-cisnes-regresa-al-teatro-municipal-de-lima/",
+     "sala": "teatro-municipal-de-lima",
+     "url_compra": "https://teleticket.com.pe/el-lago-de-los-cisnes"
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "nicolai-gorodiski",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "carlos-valcarcel",
+     "rol": "dirección"
+    },
+    {
+     "persona": "marius-petipa",
+     "rol": "coreografía"
+    },
+    {
+     "persona": "lev-ivanov",
+     "rol": "coreografía"
+    },
+    {
+     "persona": "piotr-tchaikovsky",
+     "rol": "música"
+    },
+    {
+     "persona": "carlos-calleja",
+     "rol": "otro"
+    }
+   ],
+   "artistas": [
+    "ballet-municipal-de-lima",
+    "orquesta-sinfonica-del-teatro-municipal-de-lima"
+   ]
+  },
+  {
+   "slug": "electro-showck-la-comedia-de-alto-voltaje",
+   "titulo": "Electro Showck: la comedia de alto voltaje",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "musical"
+   ],
+   "sinopsis": "Comedia musical sobre el regreso de un cantante a los escenarios que se desbarata cuando el único técnico del show se emborracha y pierde el control de luces y sonido.",
+   "sala": "capital-restobar",
+   "salas": [
+    "capital-restobar"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": null,
+   "horario_texto": "Funciones a las 8 p. m. entre el 11 de septiembre y el 23 de octubre",
+   "temporada": {
+    "inicio": "2026-09-11",
+    "fin": "2026-10-23"
+   },
+   "precio_desde": null,
+   "productora": "La X Productora S.A.C.",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/electro-showck-%E2%80%93-la-comedia-de-alto-voltaje-capital-restobar",
+     "sala": "capital-restobar",
+     "url_compra": "https://teleticket.com.pe/evento/electro-showck-%E2%80%93-la-comedia-de-alto-voltaje-capital-restobar"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
    "slug": "piruetta-circo-de-salon",
    "titulo": "Piruetta, circo de salón",
    "tipo": "circo",
@@ -120,6 +406,169 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "fragil-serranio",
+   "titulo": "Frágil: Serranío",
+   "tipo": "concierto",
+   "generos": [
+    "rock progresivo"
+   ],
+   "sinopsis": "Frágil tocó completo su álbum Serranío por un nuevo aniversario del disco.",
+   "sala": "sala-osma",
+   "salas": [
+    "sala-osma"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 17 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-17",
+    "fin": "2026-09-17"
+   },
+   "precio_desde": 65,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/fragil-en-sala-osma-2026/",
+     "sala": "sala-osma",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "fragil"
+   ]
+  },
+  {
+   "slug": "perros-friends",
+   "titulo": "Perros & Friends",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Perros Santos reversionó su repertorio con varios invitados en una formación armada solo para esa noche.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 17 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-17",
+    "fin": "2026-09-17"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/perros-friends-perros-santos-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "perros-santos",
+    "andrea-martinez",
+    "draco",
+    "ciane",
+    "casimismo",
+    "nero-lvigi",
+    "lateral",
+    "phat-buddha",
+    "santos-de-noche"
+   ]
+  },
+  {
+   "slug": "noche-de-emociones",
+   "titulo": "Noche de emociones",
+   "tipo": "concierto",
+   "generos": [
+    "balada",
+    "música romántica"
+   ],
+   "sinopsis": "Tres voces, César Mancilla, Susan Ochoa y Jeremy Gómez, compartieron escenario en una noche de canciones para corear.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": 14,
+   "horario_texto": "Vie 18 de septiembre, 10:30 p. m.",
+   "temporada": {
+    "inicio": "2026-09-18",
+    "fin": "2026-09-18"
+   },
+   "precio_desde": null,
+   "productora": "Showmusic E.I.R.L.",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/noche-de-emociones-cesar-mancilla-susan-ochoa-jeremy-gomez-centro-de-convenciones-bianca",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": "https://teleticket.com.pe/evento/noche-de-emociones-cesar-mancilla-susan-ochoa-jeremy-gomez-centro-de-convenciones-bianca"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "cesar-mancilla",
+    "susan-ochoa",
+    "jeremy-gomez"
+   ]
+  },
+  {
+   "slug": "campo-de-almas-un-adios",
+   "titulo": "Campo de Almas: Un adiós",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Una de las fechas de despedida de Campo de Almas tras más de tres décadas en los escenarios.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 19 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-19",
+    "fin": "2026-09-19"
+   },
+   "precio_desde": 100,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/campo-de-almas-un-adios-la-noche-de-barranco-setiembre-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-un-adios-campo-de-almas-ultimos-conciertos-76336"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "campo-de-almas"
+   ]
   },
   {
    "slug": "la-mujer-de-negro-woman-in-black",
@@ -181,6 +630,44 @@
    "artistas": []
   },
   {
+   "slug": "oney1",
+   "titulo": "Oney1",
+   "tipo": "concierto",
+   "generos": [
+    "urbano"
+   ],
+   "sinopsis": "Primera visita a Lima del artista argentino, que llegó tras sus shows en salas de Buenos Aires.",
+   "sala": "la-casa-roja",
+   "salas": [
+    "la-casa-roja"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb 19 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-19",
+    "fin": "2026-09-19"
+   },
+   "precio_desde": 75,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/oney1-en-lima-2026/",
+     "sala": "la-casa-roja",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-oney1-en-lima-peru-77851"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "oney1"
+   ]
+  },
+  {
    "slug": "voces-del-sol-america",
    "titulo": "Voces del Sol: América",
    "tipo": "musical",
@@ -233,6 +720,179 @@
    ]
   },
   {
+   "slug": "alicia-siempre-alicia-edicion-2026",
+   "titulo": "Alicia, siempre Alicia – Edición 2026",
+   "tipo": "concierto",
+   "generos": [
+    "música criolla",
+    "música peruana"
+   ],
+   "sinopsis": "Una noche dedicada a las canciones de Alicia Maguiña, cuya obra fue declarada Patrimonio Cultural de la Nación, en las voces de varios intérpretes de la música peruana.",
+   "sala": "teatro-segura",
+   "salas": [
+    "teatro-segura"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 20 set, 6 p. m.",
+   "temporada": {
+    "inicio": "2026-09-20",
+    "fin": "2026-09-20"
+   },
+   "precio_desde": 20,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "municipalidad",
+     "url": "https://www.gob.pe/institucion/munilima/noticias/1444218-entradas-desde-s-20-la-musica-y-el-legado-de-alicia-maguina-llegan-al-teatro-segura-este-20-de-setiembre",
+     "sala": "teatro-segura",
+     "url_compra": "https://teleticket.com.pe/evento/alicia-siempre-alicia-teatro-segura-2026"
+    }
+   ],
+   "elenco": [],
+   "ficha": [
+    {
+     "persona": "santiago-coco-linares",
+     "rol": "dirección"
+    }
+   ],
+   "artistas": [
+    "julie-freundt",
+    "nancy-manchego",
+    "julio-humala",
+    "lalo-arroyo",
+    "jorge-luis-jasso",
+    "blanca-galdos",
+    "francoise-rodriguez"
+   ]
+  },
+  {
+   "slug": "charangueando-puno-2026",
+   "titulo": "Charangueando Puno 2026",
+   "tipo": "concierto",
+   "generos": [
+    "charango",
+    "música andina"
+   ],
+   "sinopsis": "Segunda edición de este encuentro de charanguistas puneños, con un invitado limeño y un taller previo; un concierto gratuito de unas dos horas.",
+   "sala": "teatro-municipal-de-puno",
+   "salas": [
+    "teatro-municipal-de-puno"
+   ],
+   "ciudad": "Puno",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": null,
+   "horario_texto": "Jue 24 set, 6:30 p. m.",
+   "temporada": {
+    "inicio": "2026-09-24",
+    "fin": "2026-09-24"
+   },
+   "precio_desde": 0,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://radioondaazul.com/charangueando-puno-2026-reunira-a-charanguistas-en-concierto-gratuito-en-el-teatro-municipal/",
+     "sala": "teatro-municipal-de-puno",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [
+    {
+     "persona": "ubi-espinosa",
+     "rol": "producción"
+    }
+   ],
+   "artistas": [
+    "percy-rojas-villadeza"
+   ]
+  },
+  {
+   "slug": "onda-vaga-amuletos-de-cristal",
+   "titulo": "Onda Vaga: Amuletos de cristal",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "folk"
+   ],
+   "sinopsis": "La banda argentina presentó en Lima su nuevo disco junto a sus clásicos.",
+   "sala": "sargento-pimienta",
+   "salas": [
+    "sargento-pimienta"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 24 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-24",
+    "fin": "2026-09-24"
+   },
+   "precio_desde": 80,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/onda-vaga-amuletos-de-cristal-lima-2026/",
+     "sala": "sargento-pimienta",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-onda-vaga-presenta-amuletos-de-cristal-en-lima-78389"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "onda-vaga"
+   ]
+  },
+  {
+   "slug": "sueno-purpura-aniversario-souvenir",
+   "titulo": "Sueño Púrpura: Aniversario Souvenir",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "independiente"
+   ],
+   "sinopsis": "La banda tocó completo y por única vez su primer disco, Souvenir.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 24 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-24",
+    "fin": "2026-09-24"
+   },
+   "precio_desde": 15,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/sueno-purpura-aniversario-souvenir/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "sueno-purpura",
+    "mauricio-moquillaza"
+   ]
+  },
+  {
    "slug": "ballet-nacional-del-peru-las-cuatro-estaciones-de-antonio-vivaldi",
    "titulo": "Ballet Nacional del Perú: Las cuatro estaciones de Antonio Vivaldi",
    "tipo": "danza",
@@ -277,6 +937,181 @@
    ]
   },
   {
+   "slug": "laguna-pai-noche-de-visiones",
+   "titulo": "Laguna Pai: Noche de visiones",
+   "tipo": "concierto",
+   "generos": [
+    "reggae"
+   ],
+   "sinopsis": "Laguna Pai adelantó canciones de su próxima producción, con invitados.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Vie 25 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-25",
+    "fin": "2026-09-25"
+   },
+   "precio_desde": 69,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/laguna-pai-noche-de-visiones/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": "https://www.passline.com/eventos/laguna-pai-presenta-noche-de-visiones"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "laguna-pai"
+   ]
+  },
+  {
+   "slug": "el-plan-de-la-mariposa",
+   "titulo": "El Plan de la Mariposa",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Regreso a Lima de la banda argentina con un recorrido por sus canciones más conocidas.",
+   "sala": "sargento-pimienta",
+   "salas": [
+    "sargento-pimienta"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 26 de septiembre",
+   "temporada": {
+    "inicio": "2026-09-26",
+    "fin": "2026-09-26"
+   },
+   "precio_desde": 129,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/el-plan-de-la-mariposa-en-lima-2026/",
+     "sala": "sargento-pimienta",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-el-plan-de-la-mariposa-en-lima-26-de-septiembre-77169"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "el-plan-de-la-mariposa"
+   ]
+  },
+  {
+   "slug": "amame-en-ayacucho",
+   "titulo": "Ámame en Ayacucho",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "música andina"
+   ],
+   "sinopsis": "La cantautora ayacuchana SÖFY presenta su propuesta de pop con quechua y sonidos andinos, junto a varios artistas invitados.",
+   "sala": "cine-teatro-municipal-de-huamanga",
+   "salas": [
+    "cine-teatro-municipal-de-huamanga"
+   ],
+   "ciudad": "Ayacucho",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 27 set, 5 p. m.",
+   "temporada": {
+    "inicio": "2026-09-27",
+    "fin": "2026-09-27"
+   },
+   "precio_desde": 30,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://jornada.com.pe/sofy-alista-presentacion-en-el-teatro-municipal-con-amame-en-ayacucho-y-agota-zona-platinium/",
+     "sala": "cine-teatro-municipal-de-huamanga",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "sofy",
+    "avril-navarro",
+    "atuq-sisa",
+    "karla-sofia",
+    "pooster"
+   ]
+  },
+  {
+   "slug": "festival-indomesticable-2026-pachamama-y-sus-alquimistas",
+   "titulo": "Festival Indomesticable 2026: Pachamama y sus alquimistas",
+   "tipo": "otro",
+   "generos": [
+    "festival",
+    "artes escénicas",
+    "performance"
+   ],
+   "sinopsis": "Festival de artes escénicas sobre memoria y territorio, con funciones nocturnas, talleres e intervenciones de artistas de Perú, Brasil, Chile y México; en Cusco usó el Teatro Municipal, la Casa de la Cultura y espacios públicos.",
+   "sala": "teatro-municipal-del-cusco",
+   "salas": [
+    "teatro-municipal-del-cusco"
+   ],
+   "ciudad": "Cusco",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Funciones nocturnas; talleres por la mañana",
+   "temporada": {
+    "inicio": "2026-09-29",
+    "fin": "2026-10-01"
+   },
+   "precio_desde": 0,
+   "productora": "Transdisciplinar Escénicas",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://altavoz.pe/culturales/gladis-huaman-soprano-del-bicentenario-participa-en-el-festival-indomesticable-2026-en-calca-y-cusco/",
+     "sala": "teatro-municipal-del-cusco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [
+    {
+     "persona": "carlos-cruz",
+     "rol": "dirección"
+    },
+    {
+     "persona": "oswaldo-povea",
+     "rol": "dirección"
+    },
+    {
+     "persona": "mauricio-rueda",
+     "rol": "dirección"
+    }
+   ],
+   "artistas": [
+    "gladis-huaman",
+    "genifer-gerhardt",
+    "fernando-montanares",
+    "regina-maciel"
+   ]
+  },
+  {
    "slug": "2-de-ribeyro",
    "titulo": "2 de Ribeyro",
    "tipo": "comedia",
@@ -317,6 +1152,137 @@
     }
    ],
    "artistas": []
+  },
+  {
+   "slug": "gala-brie-ultima-parada",
+   "titulo": "Gala Brie: Última parada",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "independiente"
+   ],
+   "sinopsis": "Cierre de la gira nacional de Gala Brie, que presentó su álbum Podría besar tu sombra con banda completa.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 1 de octubre",
+   "temporada": {
+    "inicio": "2026-10-01",
+    "fin": "2026-10-01"
+   },
+   "precio_desde": 35,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/gala-brie-la-noche-de-barranco-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-gala-brie-en-la-noche-de-barranco-ultima-parada-79259"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "gala-brie",
+    "arantxa",
+    "yo-soy-tu"
+   ]
+  },
+  {
+   "slug": "terapia-blanquiazvl",
+   "titulo": "Terapia Blanquiazvl",
+   "tipo": "teatro",
+   "generos": [
+    "inmersivo",
+    "música en vivo"
+   ],
+   "sinopsis": "Montaje inmersivo sobre la identidad y el sentido de pertenencia de los hinchas de Alianza Lima, con música en vivo y cierre de fiesta temática.",
+   "sala": "aforo-barranco",
+   "salas": [
+    "aforo-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 8 p. m. (1, 8, 15, 22 y 29 de octubre)",
+   "temporada": {
+    "inicio": "2026-10-01",
+    "fin": "2026-10-29"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://www.gatoencerrado.net/el-1-de-octubre-se-estrena-terapia-blanquiazvl-en-barranco/",
+     "sala": "aforo-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "luis-jose-ocampo",
+     "personaje": null
+    },
+    {
+     "persona": "alain-salinas",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "herbert-corimanya",
+     "rol": "dramaturgia"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "autobus-perdon-x-explotar",
+   "titulo": "Autobús: Perdón x explotar",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "pop"
+   ],
+   "sinopsis": "Autobús estrenó en vivo un tema nuevo y repasó más de quince años de canciones con invitados.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Vie 2 de octubre",
+   "temporada": {
+    "inicio": "2026-10-02",
+    "fin": "2026-10-02"
+   },
+   "precio_desde": 50,
+   "productora": "Pepa Entertainment",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/autobus-en-la-noche-de-barranco-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "autobus"
+   ]
   },
   {
    "slug": "circuito-de-horror-horrorland-dark-xperience",
@@ -700,6 +1666,82 @@
    ]
   },
   {
+   "slug": "hyper-foco",
+   "titulo": "Hyper Foco",
+   "tipo": "concierto",
+   "generos": [
+    "pop"
+   ],
+   "sinopsis": "Noche de pop con Geri The Boy, Negra Valencia y Any Uno.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mar 6 de octubre",
+   "temporada": {
+    "inicio": "2026-10-06",
+    "fin": "2026-10-06"
+   },
+   "precio_desde": 15,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/hyper-foco-en-lima-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "geri-the-boy",
+    "negra-valencia",
+    "any-uno"
+   ]
+  },
+  {
+   "slug": "kortas-octubre",
+   "titulo": "Kortas: octubre",
+   "tipo": "teatro",
+   "generos": [
+    "teatro breve"
+   ],
+   "sinopsis": "Edición de octubre de Kortas, el ciclo de la sala que junta varias obras cortas de creadores emergentes en una misma noche.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mar 6 y mié 7 de octubre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-10-06",
+    "fin": "2026-10-07"
+   },
+   "precio_desde": 25,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "passline",
+     "url": "https://www.passline.com/productora/teatro-barranco-755463861",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.passline.com/productora/teatro-barranco-755463861"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
    "slug": "serenata-marinera",
    "titulo": "Serenata marinera",
    "tipo": "folklore",
@@ -735,6 +1777,83 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "bareto",
+   "titulo": "Bareto",
+   "tipo": "concierto",
+   "generos": [
+    "cumbia",
+    "fusión"
+   ],
+   "sinopsis": "Show íntimo de Bareto con nuevo vocalista y estreno de canción.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Mié 7 de octubre",
+   "temporada": {
+    "inicio": "2026-10-07",
+    "fin": "2026-10-07"
+   },
+   "precio_desde": 70,
+   "productora": "Inti Producciones",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/bareto-en-la-noche-de-barranco-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "bareto"
+   ]
+  },
+  {
+   "slug": "giru-mad-fleiva-mad-fleiva-tour",
+   "titulo": "Giru Mad Fleiva: Mad Fleiva Tour",
+   "tipo": "concierto",
+   "generos": [
+    "urbano"
+   ],
+   "sinopsis": "Cierre en Lima de la gira de Giru Mad Fleiva, con un repaso de sus temas más conocidos y artistas invitados.",
+   "sala": "aforo-barranco",
+   "salas": [
+    "aforo-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Mié 7 de octubre",
+   "temporada": {
+    "inicio": "2026-10-07",
+    "fin": "2026-10-07"
+   },
+   "precio_desde": 35,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/giru-mad-fleiva-en-lima-2026/",
+     "sala": "aforo-barranco",
+     "url_compra": "https://www.passline.com/eventos/mad-fleiva-tour-07-oct"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "giru-mad-fleiva"
+   ]
   },
   {
    "slug": "las-aulas-celestes",
@@ -802,6 +1921,355 @@
     {
      "persona": "jeremias-gamboa",
      "rol": "otro"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "marzenit-rabia",
+   "titulo": "Marzenit: RABIA",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Presentación en vivo del disco debut de Marzenit, con un single nuevo e invitados.",
+   "sala": "sala-osma",
+   "salas": [
+    "sala-osma"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Jue 8 de octubre",
+   "temporada": {
+    "inicio": "2026-10-08",
+    "fin": "2026-10-08"
+   },
+   "precio_desde": 0,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/marzenit-rabia-sala-osma-2026/",
+     "sala": "sala-osma",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-marzenit-en-vivo-presenta-rabia-79318"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "marzenit"
+   ]
+  },
+  {
+   "slug": "miedo-a-volar",
+   "titulo": "Miedo a volar",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "romance"
+   ],
+   "sinopsis": "Una tormenta deja atrapados en un aeropuerto a dos desconocidos que no se soportan y que, entre discusiones, terminan hablando de lo que más les asusta.",
+   "sala": "casa-bulbo",
+   "salas": [
+    "casa-bulbo"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 9 p. m. (del 8 al 29 de octubre)",
+   "temporada": {
+    "inicio": "2026-10-08",
+    "fin": "2026-10-29"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://limatimes.pe/agenda-cultural/2026/10/08/esta-semana-estrenan-la-obra-miedo-a-volar-en-casa-bulbo-de-barranco/",
+     "sala": "casa-bulbo",
+     "url_compra": null
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "juan-carlos-diaz",
+     "personaje": null
+    },
+    {
+     "persona": "silvana-picco",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "federico-abrill",
+     "rol": "dramaturgia"
+    },
+    {
+     "persona": "joamoc",
+     "rol": "dirección"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "san-humi-ii",
+   "titulo": "San Hümi II",
+   "tipo": "concierto",
+   "generos": [
+    "independiente"
+   ],
+   "sinopsis": "Segunda edición de este encuentro de bandas emergentes.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Jue 8 de octubre",
+   "temporada": {
+    "inicio": "2026-10-08",
+    "fin": "2026-10-08"
+   },
+   "precio_desde": 10,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/san-humi-ii-san-german-homi-homi-umi-murasaki/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "san-german",
+    "homi-homi",
+    "umi-murasaki"
+   ]
+  },
+  {
+   "slug": "amen-trio-acustico",
+   "titulo": "Amén: trío acústico",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "acústico"
+   ],
+   "sinopsis": "La banda Amén en formato de trío acústico, en dos fechas.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 9 de octubre y vie 13 de noviembre",
+   "temporada": {
+    "inicio": "2026-10-09",
+    "fin": "2026-11-13"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/amen-trio-acustico-en-barranco-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "amen"
+   ]
+  },
+  {
+   "slug": "el-perro-y-la-banda-sutil",
+   "titulo": "El Perro y la Banda Sutil",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "independiente"
+   ],
+   "sinopsis": "Juan Carlos «El Perro» Calderón volvió al escenario con su Banda Sutil, en una noche compartida con La Máquina Camaleón y Cementerio Inocentes.",
+   "sala": "la-casa-roja",
+   "salas": [
+    "la-casa-roja"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Vie 9 de octubre",
+   "temporada": {
+    "inicio": "2026-10-09",
+    "fin": "2026-10-09"
+   },
+   "precio_desde": null,
+   "productora": "Vichama Conciertos",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/el-perro-y-la-banda-sutil/",
+     "sala": "la-casa-roja",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "juan-carlos-calderon",
+    "la-banda-sutil",
+    "la-maquina-camaleon",
+    "cementerio-inocentes"
+   ]
+  },
+  {
+   "slug": "el-engranaje",
+   "titulo": "El engranaje",
+   "tipo": "teatro",
+   "generos": [
+    "teatro",
+    "danza"
+   ],
+   "sinopsis": "Con teatro y danza, una joven conversa con el público sobre su vocación mientras un sistema intenta encajarla como pieza productiva a punto de test vocacional.",
+   "sala": "teatro-juanita-tarnawiecki-ex-mocha-grana",
+   "salas": [
+    "teatro-juanita-tarnawiecki-ex-mocha-grana"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 9, sáb 10 y vie 16 de octubre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-10-09",
+    "fin": "2026-10-16"
+   },
+   "precio_desde": 30,
+   "productora": "Auredia Colectivo Teatral",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://limatimes.pe/agenda-cultural/2026/10/08/barranco-colectivo-auredia-presenta-obra-de-teatro-y-danza-el-engranaje/",
+     "sala": "teatro-juanita-tarnawiecki-ex-mocha-grana",
+     "url_compra": null
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "sol-yucra-sereno",
+     "personaje": null
+    },
+    {
+     "persona": "natalia-lopez",
+     "personaje": null
+    },
+    {
+     "persona": "suleira-antoanee",
+     "personaje": null
+    },
+    {
+     "persona": "maria-angulo",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "emilio-napan-cerro",
+     "rol": "dramaturgia"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "romeo-y-julieta",
+   "titulo": "Romeo y Julieta",
+   "tipo": "teatro",
+   "generos": [
+    "drama",
+    "clásico",
+    "tragedia"
+   ],
+   "sinopsis": "Éxodo Teatro lleva a Shakespeare por un camino más sombrío: la historia de los amantes de Verona se cuenta desde la violencia y el azar que los rodean, más que desde el romance.",
+   "sala": "teatro-municipal-de-lima",
+   "salas": [
+    "teatro-municipal-de-lima"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": 12,
+   "horario_texto": "Jue a sáb 8 p. m., dom 7 p. m.",
+   "temporada": {
+    "inicio": "2026-10-09",
+    "fin": "2026-11-08"
+   },
+   "precio_desde": 10,
+   "productora": "Éxodo Teatro",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://www.infobae.com/peru/2026/10/17/romeo-y-julieta-con-oscar-yepez-y-maria-grazia-gamarra-en-el-teatro-municipal-de-lima-fecha-y-precio-de-entradas/",
+     "sala": "teatro-municipal-de-lima",
+     "url_compra": "https://www.passline.com/eventos/romeo-y-julieta-09-de-octubre-al-08-de-noviembre"
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "oscar-yepez",
+     "personaje": "Romeo"
+    },
+    {
+     "persona": "maria-grazia-gamarra",
+     "personaje": "Julieta"
+    },
+    {
+     "persona": "alonso-cano",
+     "personaje": "Mercucio"
+    },
+    {
+     "persona": "fernando-luque",
+     "personaje": "Teobaldo"
+    },
+    {
+     "persona": "amaranta-kun",
+     "personaje": "Cupido"
+    },
+    {
+     "persona": "sebastian-rubio",
+     "personaje": "Paris"
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "william-shakespeare",
+     "rol": "dramaturgia"
+    },
+    {
+     "persona": "jean-pierre-gamarra",
+     "rol": "dirección"
+    },
+    {
+     "persona": "lorenzo-albani",
+     "rol": "escenografía"
     }
    ],
    "artistas": []
@@ -933,6 +2401,45 @@
    "artistas": [
     "ricardo-mendoza",
     "jorge-luna"
+   ]
+  },
+  {
+   "slug": "jayro-tafur-mas-romantico-que-nunca",
+   "titulo": "Jayro Tafur: más romántico que nunca",
+   "tipo": "concierto",
+   "generos": [
+    "balada",
+    "música romántica"
+   ],
+   "sinopsis": "El cantante romántico presentó sus éxitos con banda en vivo y artistas invitados.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 180,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 10 de octubre, 10:30 p. m.",
+   "temporada": {
+    "inicio": "2026-10-10",
+    "fin": "2026-10-10"
+   },
+   "precio_desde": null,
+   "productora": "Family Productions EIRL",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/jayro-tafur-mas-romantico-que-nunca-cc-bianca",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": "https://teleticket.com.pe/evento/jayro-tafur-mas-romantico-que-nunca-cc-bianca"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "jayro-tafur"
    ]
   },
   {
@@ -1146,6 +2653,47 @@
    "artistas": []
   },
   {
+   "slug": "iii-festival-multicultural-pawa-raymi",
+   "titulo": "III Festival Multicultural Pawa Raymi",
+   "tipo": "danza",
+   "generos": [
+    "festival",
+    "danza",
+    "multicultural"
+   ],
+   "sinopsis": "Galas nocturnas de danza con elencos de China, Colombia, México y de varias regiones del Perú, acompañadas de talleres para estudiantes de arte en Puno y Juliaca.",
+   "sala": "teatro-municipal-de-puno",
+   "salas": [
+    "teatro-municipal-de-puno"
+   ],
+   "ciudad": "Puno",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Galas de 5 a 9 p. m.",
+   "temporada": {
+    "inicio": "2026-10-14",
+    "fin": "2026-10-18"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://radioondaazul.com/puno-celebra-el-iii-festival-multicultural-pawa-raymi-con-artistas-de-varios-paises/",
+     "sala": "teatro-municipal-de-puno",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "ruben-saraza",
+    "marisol-zumeta"
+   ]
+  },
+  {
    "slug": "queriamos-cambiarlo-todo",
    "titulo": "Queríamos cambiarlo todo",
    "tipo": "teatro",
@@ -1182,6 +2730,83 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "space-cake",
+   "titulo": "Space Cake",
+   "tipo": "concierto",
+   "generos": [
+    "jazz",
+    "electrónica"
+   ],
+   "sinopsis": "El trío de Diego Rodríguez Arnaiz, Andrés Landavere y Cristóbal Mujica tocó su electro jazz en una fecha del ciclo Escena Dragón.",
+   "sala": "el-dragon-de-barranco",
+   "salas": [
+    "el-dragon-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 14 de octubre",
+   "temporada": {
+    "inicio": "2026-10-14",
+    "fin": "2026-10-14"
+   },
+   "precio_desde": 40,
+   "productora": "Escena Dragón",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/space-cake-en-el-dragon-de-barranco-2026/",
+     "sala": "el-dragon-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "space-cake"
+   ]
+  },
+  {
+   "slug": "tipling-rock-america-latina-tour-2026",
+   "titulo": "Tipling Rock: América Latina Tour 2026",
+   "tipo": "concierto",
+   "generos": [
+    "indie pop"
+   ],
+   "sinopsis": "Primera fecha en el Perú de la banda de indie pop Tipling Rock.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 14 de octubre",
+   "temporada": {
+    "inicio": "2026-10-14",
+    "fin": "2026-10-14"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/tipling-rock-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.passline.com/eventos/tipling-rock-en-lima"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "tipling-rock"
+   ]
   },
   {
    "slug": "blanca-ponte-un-alma",
@@ -1254,6 +2879,284 @@
     }
    ],
    "artistas": []
+  },
+  {
+   "slug": "loncheras-de-perro-y-santino-amigo",
+   "titulo": "Loncheras de Perro y Santino Amigo",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "independiente"
+   ],
+   "sinopsis": "Debut en el local de Loncheras de Perro, banda de la nueva escena de Lima Norte, junto a Santino Amigo.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Jue 15 de octubre",
+   "temporada": {
+    "inicio": "2026-10-15",
+    "fin": "2026-10-15"
+   },
+   "precio_desde": 20,
+   "productora": "Festival Bizarro",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/loncheras-de-perro-en-la-noche-de-barranco-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "loncheras-de-perro",
+    "santino-amigo"
+   ]
+  },
+  {
+   "slug": "wan",
+   "titulo": "WAN",
+   "tipo": "concierto",
+   "generos": [
+    "indie rock"
+   ],
+   "sinopsis": "Noche de indie rock con WAN y Mercury Toys como invitados.",
+   "sala": "sala-osma",
+   "salas": [
+    "sala-osma"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Jue 15 de octubre",
+   "temporada": {
+    "inicio": "2026-10-15",
+    "fin": "2026-10-15"
+   },
+   "precio_desde": 25,
+   "productora": "We Represent Music",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/wan-en-sala-osma-2026/",
+     "sala": "sala-osma",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "wan",
+    "mercury-toys"
+   ]
+  },
+  {
+   "slug": "dimitri-y-las-brujas",
+   "titulo": "Dimitri y las Brujas",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "rock"
+   ],
+   "sinopsis": "Debut en Lima de Dimitri y las Brujas, con un recorrido por toda su discografía y teloneros locales.",
+   "sala": "aforo-barranco",
+   "salas": [
+    "aforo-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 16 de octubre",
+   "temporada": {
+    "inicio": "2026-10-16",
+    "fin": "2026-10-16"
+   },
+   "precio_desde": 100,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/dimitri-y-las-brujas-en-lima-2026/",
+     "sala": "aforo-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "dimitri-y-las-brujas",
+    "manuel-valdez",
+    "daniela-de-izcue"
+   ]
+  },
+  {
+   "slug": "kidd-voodoo-euforia-world-tour",
+   "titulo": "Kidd Voodoo: Euforia World Tour",
+   "tipo": "concierto",
+   "generos": [
+    "urbano",
+    "trap"
+   ],
+   "sinopsis": "El chileno Kidd Voodoo trajo la gira de su disco Euforia, entre el trap y el pop alternativo.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": null,
+   "horario_texto": "Vie 16 de octubre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-10-16",
+    "fin": "2026-10-16"
+   },
+   "precio_desde": 115,
+   "productora": "Bizarro Entertainment y Servicios Perú S.A.C.",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/kidd-voodoo",
+     "sala": "teatro-barranco",
+     "url_compra": "https://teleticket.com.pe/kidd-voodoo"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "kidd-voodoo"
+   ]
+  },
+  {
+   "slug": "pajaros-en-la-cabeza",
+   "titulo": "Pájaros en la cabeza",
+   "tipo": "show",
+   "generos": [
+    "unipersonal",
+    "conferencia"
+   ],
+   "sinopsis": "Wendy Ramos presenta su charla escénica sobre la creatividad cotidiana y el miedo a equivocarse, pensada para cualquier público y no solo para artistas.",
+   "sala": "teatro-municipal-de-arequipa",
+   "salas": [
+    "teatro-municipal-de-arequipa"
+   ],
+   "ciudad": "Arequipa",
+   "imagen": null,
+   "duracion_min": 90,
+   "edad_minima": null,
+   "horario_texto": "Vie 16 oct",
+   "temporada": {
+    "inicio": "2026-10-16",
+    "fin": "2026-10-16"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariocorreo.pe/edicion/arequipa/wendy-ramos-llega-a-arequipa-con-pajaros-en-la-cabeza-noticia/",
+     "sala": "teatro-municipal-de-arequipa",
+     "url_compra": null
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "wendy-ramos",
+     "personaje": null
+    }
+   ],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "zen",
+   "titulo": "Zen",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Zen repasó sus clásicos y adelantó temas de su nuevo disco.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Vie 16 de octubre",
+   "temporada": {
+    "inicio": "2026-10-16",
+    "fin": "2026-10-16"
+   },
+   "precio_desde": 89,
+   "productora": "Tres Estrellas Booking",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/zen-en-la-noche-de-barranco-octubre-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "zen",
+    "santos-de-noche"
+   ]
+  },
+  {
+   "slug": "pelo-madueno",
+   "titulo": "Pelo Madueño",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Una nueva fecha de Pelo Madueño y su banda, entre clásicos solistas, temas de La Liga del Sueño y canciones nuevas.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 17 de octubre",
+   "temporada": {
+    "inicio": "2026-10-17",
+    "fin": "2026-10-17"
+   },
+   "precio_desde": 75,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/pelo-madueno-en-la-noche-de-barranco-octubre-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "pelo-madueno"
+   ]
   },
   {
    "slug": "sueno",
@@ -1397,6 +3300,46 @@
    "artistas": []
   },
   {
+   "slug": "tunantadas-de-amor",
+   "titulo": "Tunantadas de amor",
+   "tipo": "folklore",
+   "generos": [
+    "música andina",
+    "almuerzo show"
+   ],
+   "sinopsis": "Almuerzo show de Gustavo Ratto, «el arriero de la tunantada», con danzantes, banda en vivo y la agrupación Entre Manos.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 18 de octubre, desde la 1 p. m.",
+   "temporada": {
+    "inicio": "2026-10-18",
+    "fin": "2026-10-18"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariocorreo.pe/espectaculos/gustavo-ratto-lleva-tunantadas-de-amor-a-barranco-fecha-lugar-y-entradas-noticia/",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "gustavo-ratto",
+    "entre-manos"
+   ]
+  },
+  {
    "slug": "manana-la-muerte",
    "titulo": "Mañana, la muerte",
    "tipo": "teatro",
@@ -1467,6 +3410,122 @@
    "artistas": []
   },
   {
+   "slug": "six-sex-ultra",
+   "titulo": "Six Sex: ULTRA",
+   "tipo": "concierto",
+   "generos": [
+    "electrónica",
+    "urbano"
+   ],
+   "sinopsis": "Debut en Lima de Six Sex, que presenta su álbum ULTRA.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Mié 21 de octubre",
+   "temporada": {
+    "inicio": "2026-10-21",
+    "fin": "2026-10-21"
+   },
+   "precio_desde": 164,
+   "productora": "Veltrac Music",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/six-sex-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "six-sex"
+   ]
+  },
+  {
+   "slug": "daniela-de-izcue-mi-momento",
+   "titulo": "Daniela De Izcue: Mi momento",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "cantautor"
+   ],
+   "sinopsis": "Lanzamiento en vivo del primer álbum de Daniela De Izcue, con banda completa y estreno del corto del disco.",
+   "sala": "sala-osma",
+   "salas": [
+    "sala-osma"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 22 de octubre",
+   "temporada": {
+    "inicio": "2026-10-22",
+    "fin": "2026-10-22"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/daniela-de-izcue-mi-momento-2026/",
+     "sala": "sala-osma",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "daniela-de-izcue"
+   ]
+  },
+  {
+   "slug": "ricky-santos-amor-y-cumbia",
+   "titulo": "Ricky Santos: Amor y cumbia",
+   "tipo": "concierto",
+   "generos": [
+    "cumbia"
+   ],
+   "sinopsis": "Ricky Santos presentó su show de cumbia con orquesta en vivo y artistas invitados.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 22 de octubre",
+   "temporada": {
+    "inicio": "2026-10-22",
+    "fin": "2026-10-22"
+   },
+   "precio_desde": 45,
+   "productora": "Emiam Producciones Perú",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/ricky-santos-en-lima-2026/",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "ricky-santos"
+   ]
+  },
+  {
    "slug": "circo-de-la-alegria-de-pitillo-julicirco",
    "titulo": "Circo de la Alegría de Pitillo: Julicirco",
    "tipo": "circo",
@@ -1505,6 +3564,178 @@
    "artistas": [
     "pitillo",
     "doni-donnito"
+   ]
+  },
+  {
+   "slug": "daniel-f-acustico",
+   "titulo": "Daniel F: acústico",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "acústico"
+   ],
+   "sinopsis": "Concierto en formato acústico de Daniel F.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 23 de octubre",
+   "temporada": {
+    "inicio": "2026-10-23",
+    "fin": "2026-10-23"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/daniel-f-en-la-noche-de-barranco-octubre-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "daniel-f"
+   ]
+  },
+  {
+   "slug": "ellas-en-concierto-en-bianca",
+   "titulo": "Ellas en concierto en Bianca",
+   "tipo": "concierto",
+   "generos": [
+    "tributo",
+    "pop latino"
+   ],
+   "sinopsis": "Cuatro ganadoras de concursos de imitación rindieron homenaje a Alejandra Guzmán, Mon Laferte, Yuri y Olga Tañón.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 240,
+   "edad_minima": 14,
+   "horario_texto": "Vie 23 de octubre, 10 p. m.",
+   "temporada": {
+    "inicio": "2026-10-23",
+    "fin": "2026-10-23"
+   },
+   "precio_desde": null,
+   "productora": "TYS Eventos Perú E.I.R.L.",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/ellas-en-concierto-en-bianca-cc-bianca",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": "https://teleticket.com.pe/evento/ellas-en-concierto-en-bianca-cc-bianca"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "melissa-angeles",
+    "oriana-montero",
+    "noelia-calle",
+    "luna-mendoza"
+   ]
+  },
+  {
+   "slug": "rock-n-love-vol-3",
+   "titulo": "Rock N’ Love Vol. 3",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "balada"
+   ],
+   "sinopsis": "Tercera edición de esta noche de baladas del rock peruano, con Mar de Copas y Pelo Madueño a la cabeza.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 23 de octubre",
+   "temporada": {
+    "inicio": "2026-10-23",
+    "fin": "2026-10-23"
+   },
+   "precio_desde": 99,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/rock-n-love-vol-3-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.digitalticket.pe/event/rock-n-love-vol-3"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "mar-de-copas",
+    "pelo-madueno",
+    "los-trece-baladas",
+    "tono-jauregui",
+    "gaia",
+    "percy-behr",
+    "fantasmaas"
+   ]
+  },
+  {
+   "slug": "cosa-nuestra-historia-de-la-salsa-criolla",
+   "titulo": "Cosa Nuestra: Historia de la Salsa Criolla",
+   "tipo": "concierto",
+   "generos": [
+    "salsa",
+    "música criolla"
+   ],
+   "sinopsis": "Concierto de gala con el que Cosa Nuestra repasa su mezcla de salsa y canción criolla, con varios cantantes invitados y baile en escena.",
+   "sala": "teatro-segura",
+   "salas": [
+    "teatro-segura"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb 24 oct, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-10-24",
+    "fin": "2026-10-24"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://caretas.pe/cultura/cosa-nuestra-en-el-teatro-segura/",
+     "sala": "teatro-segura",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "cosa-nuestra",
+    "tito-manrique",
+    "carlos-mosquera",
+    "sofia-con-z",
+    "jose-francisco-valdelomar",
+    "alex-ramirez",
+    "noelia-herencia",
+    "celeste-manrique"
    ]
   },
   {
@@ -1572,6 +3803,46 @@
    "artistas": []
   },
   {
+   "slug": "que-viva-la-criollada",
+   "titulo": "Que viva la criollada",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "música criolla"
+   ],
+   "sinopsis": "Julio Pérez y Más Poder presentaron un nuevo videoclip en una noche criolla con invitados.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 24 de octubre",
+   "temporada": {
+    "inicio": "2026-10-24",
+    "fin": "2026-10-24"
+   },
+   "precio_desde": 30,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/que-viva-la-criollada-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-que-viva-la-criollada-78995"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "julio-perez",
+    "mas-poder"
+   ]
+  },
+  {
    "slug": "tania-libertad",
    "titulo": "Tania Libertad",
    "tipo": "concierto",
@@ -1612,6 +3883,45 @@
    ]
   },
   {
+   "slug": "tributo-a-cristian-castro-por-daniel-rioja",
+   "titulo": "Tributo a Cristian Castro por Daniel Rioja",
+   "tipo": "concierto",
+   "generos": [
+    "tributo",
+    "balada"
+   ],
+   "sinopsis": "Daniel Rioja y banda en vivo repasaron las baladas más conocidas de Cristian Castro, con artistas invitados.",
+   "sala": "la-estacion-de-barranco",
+   "salas": [
+    "la-estacion-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 24 de octubre, 10:30 p. m.",
+   "temporada": {
+    "inicio": "2026-10-24",
+    "fin": "2026-10-24"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/tributo-a-cristian-castro-por-daniel-rioja-la-estacion-de-barranco",
+     "sala": "la-estacion-de-barranco",
+     "url_compra": "https://teleticket.com.pe/evento/tributo-a-cristian-castro-por-daniel-rioja-la-estacion-de-barranco"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "daniel-rioja"
+   ]
+  },
+  {
    "slug": "el-peru-en-un-solo-canto",
    "titulo": "El Perú en un solo canto",
    "tipo": "folklore",
@@ -1648,6 +3958,84 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "svetlana-smolina-recital-de-piano",
+   "titulo": "Svetlana Smolina: recital de piano",
+   "tipo": "concierto",
+   "generos": [
+    "música clásica",
+    "piano"
+   ],
+   "sinopsis": "Recital único de la pianista rusa, que asumió la fecha de la temporada internacional tras la cancelación de Daniil Trifonov.",
+   "sala": "teatro-municipal-de-lima",
+   "salas": [
+    "teatro-municipal-de-lima"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Lun 26 oct, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-10-26",
+    "fin": "2026-10-26"
+   },
+   "precio_desde": null,
+   "productora": "TQ Producciones",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariouno.pe/2026/09/23/de-los-grandes-escenarios-del-mundo-a-lima-la-virtuosa-pianista-rusa-svetlana-smolina-llega-al-teatro-municipal/",
+     "sala": "teatro-municipal-de-lima",
+     "url_compra": "https://www.ticketmaster.pe/event/la-deslumbrante-pianista-de-rusia-svetlana-smolina-home"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "svetlana-smolina"
+   ]
+  },
+  {
+   "slug": "cris-en-la-noche",
+   "titulo": "Cris en la Noche",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "independiente"
+   ],
+   "sinopsis": "Cristina Luyo se despidió en vivo de su primer disco, Histeria, y mostró material nuevo.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Mar 27 de octubre",
+   "temporada": {
+    "inicio": "2026-10-27",
+    "fin": "2026-10-27"
+   },
+   "precio_desde": 39,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/cris-en-la-noche-cristina-luyo-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "cristina-luyo"
+   ]
   },
   {
    "slug": "chapa-tu-money-octava-temporada",
@@ -1720,6 +4108,46 @@
     "goncho-iglesias",
     "saskia-bernaola",
     "gisela-ponce-de-leon"
+   ]
+  },
+  {
+   "slug": "dos-leyendas-del-huayno-ayacuchano",
+   "titulo": "Dos leyendas del huayno ayacuchano",
+   "tipo": "concierto",
+   "generos": [
+    "huayno",
+    "música andina"
+   ],
+   "sinopsis": "El Trío Ayacucho y Los Heraldos de Puquio comparten una noche dedicada al huayno de la región.",
+   "sala": "cine-teatro-municipal-de-huamanga",
+   "salas": [
+    "cine-teatro-municipal-de-huamanga"
+   ],
+   "ciudad": "Ayacucho",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 28 oct, 7 p. m.",
+   "temporada": {
+    "inicio": "2026-10-28",
+    "fin": "2026-10-28"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://jornada.com.pe/trio-ayacucho-y-los-heraldos-de-puquio-compartiran-escenario-en-huamanga/",
+     "sala": "cine-teatro-municipal-de-huamanga",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "trio-ayacucho",
+    "los-heraldos-de-puquio"
    ]
   },
   {
@@ -1887,6 +4315,45 @@
    ],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "jaze-qnept-tour-ii",
+   "titulo": "Jaze: QNEPT Tour II",
+   "tipo": "concierto",
+   "generos": [
+    "rap",
+    "urbano"
+   ],
+   "sinopsis": "Dos noches de Jaze con un show que alterna momentos intensos, pasajes acústicos y freestyle.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 28 y jue 29 de octubre",
+   "temporada": {
+    "inicio": "2026-10-28",
+    "fin": "2026-10-29"
+   },
+   "precio_desde": 72.5,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/jaze-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-jaze-lima-29-de-octubre-76657"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "jaze"
+   ]
   },
   {
    "slug": "la-cabana",
@@ -2893,6 +5360,85 @@
    "artistas": []
   },
   {
+   "slug": "gente-maravillosa",
+   "titulo": "Gente Maravillosa",
+   "tipo": "concierto",
+   "generos": [
+    "independiente"
+   ],
+   "sinopsis": "Show gratuito de Gente Maravillosa con ¿Quién Ácido?, Oscar DLC y Gala Brie.",
+   "sala": "sala-osma",
+   "salas": [
+    "sala-osma"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 29 de octubre",
+   "temporada": {
+    "inicio": "2026-10-29",
+    "fin": "2026-10-29"
+   },
+   "precio_desde": 0,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/gente-maravillosa-en-sala-osma-2026/",
+     "sala": "sala-osma",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "gente-maravillosa",
+    "quien-acido",
+    "oscar-dlc",
+    "gala-brie"
+   ]
+  },
+  {
+   "slug": "greccia-fiesta-en-el-castillo-greal",
+   "titulo": "Greccia: Fiesta en el Castillo Greal",
+   "tipo": "concierto",
+   "generos": [
+    "pop"
+   ],
+   "sinopsis": "Greccia y su banda repasan sus canciones de debut y adelantan temas de su próximo disco.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 29 de octubre",
+   "temporada": {
+    "inicio": "2026-10-29",
+    "fin": "2026-10-29"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/greccia-fiesta-en-el-castillo-greal/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "greccia"
+   ]
+  },
+  {
    "slug": "las-irresponsables",
    "titulo": "Las irresponsables",
    "tipo": "teatro",
@@ -3387,6 +5933,44 @@
    "artistas": [
     "ballet-folclorico-nacional"
    ]
+  },
+  {
+   "slug": "barba-sangre",
+   "titulo": "Barba Sangre",
+   "tipo": "teatro",
+   "generos": [
+    "terror",
+    "cuentos",
+    "música"
+   ],
+   "sinopsis": "Una sesión de cuentos de terror narrados con música, pensada para que la palabra hablada vuelva a dar escalofríos.",
+   "sala": "sala-quilla",
+   "salas": [
+    "sala-quilla"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie a dom (30 y 31 de octubre; 1, 6, 7 y 8 de noviembre); función del 30 a las 8:30 p. m.",
+   "temporada": {
+    "inicio": "2026-10-30",
+    "fin": "2026-11-08"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/barba-sangre",
+     "sala": "sala-quilla",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-barba-sangre-79144"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
   },
   {
    "slug": "diego-gupioc-fuera-de-control",
@@ -3912,6 +6496,42 @@
    "artistas": []
   },
   {
+   "slug": "la-noche-de-los-asesinos",
+   "titulo": "La noche de los asesinos",
+   "tipo": "teatro",
+   "generos": [
+    "drama"
+   ],
+   "sinopsis": "Vuelve este montaje en el que tres hermanos ensayan una y otra vez la muerte de sus padres, un juego que se va pareciendo cada vez más a un juicio.",
+   "sala": "teatro-juanita-tarnawiecki-ex-mocha-grana",
+   "salas": [
+    "teatro-juanita-tarnawiecki-ex-mocha-grana"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie y sáb 8 p. m. (30 y 31 de octubre; 6 y 7 de noviembre)",
+   "temporada": {
+    "inicio": "2026-10-30",
+    "fin": "2026-11-07"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/la-noche-de-los-asesinos",
+     "sala": "teatro-juanita-tarnawiecki-ex-mocha-grana",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-la-noche-de-los-asesinos-77646"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
    "slug": "lucia-de-la-cruz-soy-del-peru-senores",
    "titulo": "Lucia De La Cruz - Soy Del Perú Señores",
    "tipo": "concierto",
@@ -4174,6 +6794,46 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "a-jaranear-en-el-segura",
+   "titulo": "A Jaranear en el Segura",
+   "tipo": "concierto",
+   "generos": [
+    "música criolla"
+   ],
+   "sinopsis": "Función por el Día de la Canción Criolla con tres nombres conocidos del género, parte de la programación municipal 'Lima de Jarana Criolla'.",
+   "sala": "teatro-segura",
+   "salas": [
+    "teatro-segura"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb 31 oct, 6 p. m.",
+   "temporada": {
+    "inicio": "2026-10-31",
+    "fin": "2026-10-31"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "municipalidad",
+     "url": "https://www.gob.pe/institucion/munilima/noticias/1464359-a-celebrar-la-cancion-criolla-municipalidad-de-lima-organiza-espectaculos-musicales-talleres-y-actividades-para-toda-la-familia",
+     "sala": "teatro-segura",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-a-jaranear-en-el-segura-79394"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "los-doltons",
+    "marco-romero",
+    "los-kipus"
+   ]
   },
   {
    "slug": "aladino-y-la-lampara-maravillosa",
@@ -4877,6 +7537,47 @@
    "artistas": []
   },
   {
+   "slug": "feliz-dia-de-la-cancion-criolla-con-los-kipus",
+   "titulo": "Feliz Día de la Canción Criolla con Los Kipus",
+   "tipo": "concierto",
+   "generos": [
+    "música criolla",
+    "almuerzo show"
+   ],
+   "sinopsis": "Almuerzo show por el Día de la Canción Criolla con Los Kipus y, como invitados, Manuel Donayre y Dayron Aranguren.",
+   "sala": "roble-de-barranco",
+   "salas": [
+    "roble-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": 120,
+   "edad_minima": null,
+   "horario_texto": "Sáb 31 de octubre, 1 p. m.",
+   "temporada": {
+    "inicio": "2026-10-31",
+    "fin": "2026-10-31"
+   },
+   "precio_desde": null,
+   "productora": "Arte.pe E.I.R.L.",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "teleticket",
+     "url": "https://teleticket.com.pe/evento/feliz-dia-de-la-cancion-criolla-con-los-kipus-el-roble-de-barranco",
+     "sala": "roble-de-barranco",
+     "url_compra": "https://teleticket.com.pe/evento/feliz-dia-de-la-cancion-criolla-con-los-kipus-el-roble-de-barranco"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "los-kipus",
+    "manuel-donayre",
+    "dayron-aranguren"
+   ]
+  },
+  {
    "slug": "felix-cuadros-solo-con-sus-saxos",
    "titulo": "Félix Cuadros: Solo Con Sus Saxos",
    "tipo": "concierto",
@@ -4928,6 +7629,45 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "gaia-la-noche-del-hombre-lobo",
+   "titulo": "Gaia: La noche del hombre lobo",
+   "tipo": "concierto",
+   "generos": [
+    "rock",
+    "música criolla"
+   ],
+   "sinopsis": "Fecha de Halloween de Gaia, entre rock, música criolla y disfraces.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 31 de octubre",
+   "temporada": {
+    "inicio": "2026-10-31",
+    "fin": "2026-10-31"
+   },
+   "precio_desde": 60,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/gaia-la-noche-del-hombre-lobo/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "gaia"
+   ]
   },
   {
    "slug": "halloween-party-rock-y-pop",
@@ -6346,6 +9086,44 @@
    "artistas": []
   },
   {
+   "slug": "hansel-y-gretel-donde-cantan-los-recuerdos",
+   "titulo": "Hansel y Gretel: donde cantan los recuerdos",
+   "tipo": "infantil",
+   "generos": [
+    "familiar",
+    "musical",
+    "cuentos"
+   ],
+   "sinopsis": "Versión musical del cuento de los hermanos perdidos en el bosque, con canciones y humor, que pone el acento en el cariño, la imaginación y el perdón.",
+   "sala": "teatro-esencia",
+   "salas": [
+    "teatro-esencia"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 5 p. m. (1, 8 y 15 de noviembre)",
+   "temporada": {
+    "inicio": "2026-11-01",
+    "fin": "2026-11-15"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/hansel-y-gretel-donde-cantan-los-recuerdos",
+     "sala": "teatro-esencia",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-hansel-y-gretel-donde-cantan-los-recuerdos-79375"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
    "slug": "ii-festival-nacional-de-danza-intercolegios",
    "titulo": "Ii Festival Nacional De Danza Intercolegios",
    "tipo": "concierto",
@@ -6584,6 +9362,47 @@
    ]
   },
   {
+   "slug": "los-panchos-nostalgia-tour",
+   "titulo": "Los Panchos: Nostalgia Tour",
+   "tipo": "concierto",
+   "generos": [
+    "bolero"
+   ],
+   "sinopsis": "El trío de boleros, hoy encabezado por Gabriel Vargas, repasa su repertorio clásico de requinto y armonías vocales.",
+   "sala": "centro-de-convenciones-jorge-basadre-grohmann",
+   "salas": [
+    "centro-de-convenciones-jorge-basadre-grohmann"
+   ],
+   "ciudad": "Tacna",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 1 nov, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-11-01",
+    "fin": "2026-11-01"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariocorreo.pe/espectaculos/los-panchos-regresan-al-peru-conciertos-en-tacna-y-lima-en-noviembre-de-2026-noticia/",
+     "sala": "centro-de-convenciones-jorge-basadre-grohmann",
+     "url_compra": "https://lospanchosnostalgiatour.com/nostalgia-tour/tacna"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "los-panchos",
+    "gabriel-vargas",
+    "jose-carlos-reyes",
+    "miguel-angel-pardo"
+   ]
+  },
+  {
    "slug": "los-tres-cerditos-del-rock",
    "titulo": "Los tres cerditos del rock",
    "tipo": "infantil",
@@ -6764,6 +9583,104 @@
    ]
   },
   {
+   "slug": "con-ketchup-antes-de-parir",
+   "titulo": "(Con ketchup) Antes de parir",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "metateatro"
+   ],
+   "sinopsis": "A dos días de un estreno, una actriz que no logra entrar en su personaje intenta salvar el ensayo general mientras su hijo pequeño tiene hambre y quiere irse a casa.",
+   "sala": "el-dragon-de-barranco",
+   "salas": [
+    "el-dragon-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mar 3 de noviembre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-11-03",
+    "fin": "2026-11-03"
+   },
+   "precio_desde": null,
+   "productora": "LSPC Creación Escénica Sensorial",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/con-ketchup-antes-de-parir",
+     "sala": "el-dragon-de-barranco",
+     "url_compra": "https://wa.me/996503431"
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "vane-de-la-torre",
+     "personaje": null
+    },
+    {
+     "persona": "ilda-polo",
+     "personaje": null
+    },
+    {
+     "persona": "paulo-cesar-polo-chavez",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "fatima-producciones",
+     "rol": "producción"
+    },
+    {
+     "persona": "luis-peche-alvarado",
+     "rol": "otro"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "saramalacara-mataderos-world-tour",
+   "titulo": "Saramalacara: Mataderos World Tour",
+   "tipo": "concierto",
+   "generos": [
+    "rap",
+    "urbano"
+   ],
+   "sinopsis": "Primera visita a Lima de la rapera argentina, que presenta su álbum Mataderos.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 12,
+   "horario_texto": "Mar 3 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-03",
+    "fin": "2026-11-03"
+   },
+   "precio_desde": 164,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/saramalacara-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "saramalacara"
+   ]
+  },
+  {
    "slug": "el-club-de-las-viudas",
    "titulo": "El club de las viudas",
    "tipo": "teatro",
@@ -6859,6 +9776,42 @@
      "rol": "dramaturgia"
     }
    ],
+   "artistas": []
+  },
+  {
+   "slug": "la-caida",
+   "titulo": "La caída",
+   "tipo": "teatro",
+   "generos": [
+    "drama"
+   ],
+   "sinopsis": "Un recorrido simbólico guiado por el espíritu de un ave extinta, que se pregunta por el tiempo que vivimos y por otras formas posibles de convivir.",
+   "sala": "sala-quilla",
+   "salas": [
+    "sala-quilla"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 4 de noviembre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-11-04",
+    "fin": "2026-11-04"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/la-caida",
+     "sala": "sala-quilla",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-la-caida-79927"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
    "artistas": []
   },
   {
@@ -7223,6 +10176,217 @@
     "laura-spoya",
     "gerardo-pe",
     "mario-irivarren"
+   ]
+  },
+  {
+   "slug": "los-tres-cantos-del-gallo",
+   "titulo": "Los tres cantos del gallo",
+   "tipo": "teatro",
+   "generos": [
+    "drama",
+    "teatro físico"
+   ],
+   "sinopsis": "Toma la figura del gallo, ave domesticada que aun así anuncia el amanecer, para poner en cuerpo y voz la pérdida de dignidad del ser humano.",
+   "sala": "sala-quilla",
+   "salas": [
+    "sala-quilla"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 5 de noviembre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-11-05",
+    "fin": "2026-11-05"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/los-tres-cantos-del-gallo",
+     "sala": "sala-quilla",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-los-tres-cantos-del-gallo-79942"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido",
+   "titulo": "Perú oculto: un viaje ancestral hacia lo desconocido",
+   "tipo": "teatro",
+   "generos": [
+    "terror",
+    "inmersivo",
+    "leyendas"
+   ],
+   "sinopsis": "Experiencia inmersiva de terror en la que un guía lleva al público por tres espacios inspirados en las brujas de Cachiche, el Tunche y la Jarjacha.",
+   "sala": "la-casa-roja",
+   "salas": [
+    "la-casa-roja"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 8 y 10 p. m.; sáb 7 y 9 p. m. (del 5 al 21 de noviembre)",
+   "temporada": {
+    "inicio": "2026-11-05",
+    "fin": "2026-11-21"
+   },
+   "precio_desde": null,
+   "productora": "Ukupacha Producciones",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://limatimes.pe/agenda-cultural/2026/10/26/teatro-en-barranco-peru-oculto-un-viaje-ancestral-hacia-lo-desconocido/",
+     "sala": "la-casa-roja",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-peru-oculto-un-viaje-ancentral-hacia-lo-desconocido-79775"
+    }
+   ],
+   "elenco": [],
+   "ficha": [
+    {
+     "persona": "mario-gaviria",
+     "rol": "dirección"
+    },
+    {
+     "persona": "jose-leonardo",
+     "rol": "producción"
+    },
+    {
+     "persona": "melanie-malpartida",
+     "rol": "producción"
+    },
+    {
+     "persona": "valeria-ramos",
+     "rol": "otro"
+    }
+   ],
+   "artistas": []
+  },
+  {
+   "slug": "rodeados-de-amor",
+   "titulo": "Rodeados de amor",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "romance",
+    "lgbtiq+"
+   ],
+   "sinopsis": "Comedia romántica de temática queer para público mayor de 16 años.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 16,
+   "horario_texto": "Jue 5 y jue 12 de noviembre, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-11-05",
+    "fin": "2026-11-12"
+   },
+   "precio_desde": 40,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "passline",
+     "url": "https://www.passline.com/sitio-evento/rodeados-de-amor-568357",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.passline.com/sitio-evento/rodeados-de-amor-568357"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "cecimonster-vs-donka-adult-violence",
+   "titulo": "Cecimonster vs Donka: Adult Violence",
+   "tipo": "concierto",
+   "generos": [
+    "punk",
+    "independiente"
+   ],
+   "sinopsis": "Presentación del nuevo EP del dúo, editado en vinilo, con bandas invitadas.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 6 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-06",
+    "fin": "2026-11-06"
+   },
+   "precio_desde": 25,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/cecimonster-vs-donka-adult-violence/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "cecimonster-vs-donka",
+    "juan-gris",
+    "novio",
+    "sparx"
+   ]
+  },
+  {
+   "slug": "coti",
+   "titulo": "Coti",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "rock"
+   ],
+   "sinopsis": "El cantautor argentino repasa las canciones que marcaron su carrera.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 6 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-06",
+    "fin": "2026-11-06"
+   },
+   "precio_desde": 179,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/coti-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "coti"
    ]
   },
   {
@@ -7738,6 +10902,50 @@
    ]
   },
   {
+   "slug": "bqestia-soundsystem-10-anos",
+   "titulo": "BQestia Soundsystem: 10 años",
+   "tipo": "concierto",
+   "generos": [
+    "electrónica",
+    "club"
+   ],
+   "sinopsis": "El colectivo celebra una década con una noche de club music, techno y bass a cargo de varios DJ invitados.",
+   "sala": "la-casa-roja",
+   "salas": [
+    "la-casa-roja"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb 7 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-07",
+    "fin": "2026-11-07"
+   },
+   "precio_desde": 20,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/bqestia-soundsystem-10-anos/",
+     "sala": "la-casa-roja",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "jah-chata",
+    "jesperino",
+    "king-cholo",
+    "n3t4",
+    "trilce",
+    "yozty"
+   ]
+  },
+  {
    "slug": "canta-corazon",
    "titulo": "Canta Corazón",
    "tipo": "concierto",
@@ -7820,6 +11028,79 @@
      "url": "https://teleticket.com.pe/evento/carcavo-rock-and-pez",
      "sala": "rock-and-pez",
      "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "el-ritmo-del-dolor",
+   "titulo": "El ritmo del dolor",
+   "tipo": "teatro",
+   "generos": [
+    "drama"
+   ],
+   "sinopsis": "Un montaje que parte de los dolores que cargamos sin que se noten y busca transformarlos en arte sobre el escenario.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb 8 p. m. (7, 14, 21 y 28 de noviembre)",
+   "temporada": {
+    "inicio": "2026-11-07",
+    "fin": "2026-11-28"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/el-ritmo-del-dolor",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-el-ritmo-del-dolor-79711"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "entre-clases-segunda-temporada",
+   "titulo": "Entre clases (segunda temporada)",
+   "tipo": "comedia",
+   "generos": [
+    "clown",
+    "comedia"
+   ],
+   "sinopsis": "Monina, una clown muy refinada que nunca salió de su burbuja, sueña con ser profesora y descubre que en el aula tiene más que aprender que enseñar.",
+   "sala": "payacasa",
+   "salas": [
+    "payacasa"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb y dom (7, 8, 14 y 15 de noviembre); función del 7 a las 8 p. m.",
+   "temporada": {
+    "inicio": "2026-11-07",
+    "fin": "2026-11-15"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/entre-clases-segunda-temporada",
+     "sala": "payacasa",
+     "url_compra": "https://wa.me/991842602"
     }
    ],
    "elenco": [],
@@ -9334,6 +12615,48 @@
    "artistas": []
   },
   {
+   "slug": "gian-marco-bajo-la-manga",
+   "titulo": "Gian Marco: Bajo la manga",
+   "tipo": "concierto",
+   "generos": [
+    "salsa"
+   ],
+   "sinopsis": "Gian Marco presenta su disco de salsa en una noche compartida con la Orquesta Bembé, María Grazia, Zaperoko y César Vega.",
+   "sala": "barranco-bar",
+   "salas": [
+    "barranco-bar"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 8 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-08",
+    "fin": "2026-11-08"
+   },
+   "precio_desde": 35,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/gian-marco-en-barranco-bar-2026/",
+     "sala": "barranco-bar",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "gian-marco",
+    "orquesta-bembe",
+    "maria-grazia",
+    "zaperoko",
+    "cesar-vega"
+   ]
+  },
+  {
    "slug": "la-casa-de-timoteo-que-lio",
    "titulo": "La casa de Timoteo: qué lío",
    "tipo": "infantil",
@@ -9678,6 +13001,44 @@
    ]
   },
   {
+   "slug": "tim",
+   "titulo": "TIMØ",
+   "tipo": "concierto",
+   "generos": [
+    "pop"
+   ],
+   "sinopsis": "La agrupación colombiana vuelve a Lima con un show apto para menores acompañados.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 6,
+   "horario_texto": "Dom 8 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-08",
+    "fin": "2026-11-08"
+   },
+   "precio_desde": 155,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/timo-en-lima-2026-2/",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-tim-en-lima-76127"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "tim"
+   ]
+  },
+  {
    "slug": "antes-de-partir",
    "titulo": "Antes de partir",
    "tipo": "show",
@@ -9991,6 +13352,44 @@
    "artistas": []
   },
   {
+   "slug": "the-lemon-twigs",
+   "titulo": "The Lemon Twigs",
+   "tipo": "concierto",
+   "generos": [
+    "rock"
+   ],
+   "sinopsis": "Primera presentación en Lima de la banda estadounidense, dentro del ciclo Indiegentes 2026.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Mié 11 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-11",
+    "fin": "2026-11-11"
+   },
+   "precio_desde": 172,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/the-lemon-twigs-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "the-lemon-twigs"
+   ]
+  },
+  {
    "slug": "amanda-portales-arte-puro-ii",
    "titulo": "Amanda Portales: Arte Puro II",
    "tipo": "concierto",
@@ -10038,6 +13437,46 @@
     "karla-sofia",
     "facundo-sanz-barcelli",
     "orquesta-tipica-amigos-del-mantaro"
+   ]
+  },
+  {
+   "slug": "elisa-tokeshi",
+   "titulo": "Elisa Tokeshi",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "cantautor"
+   ],
+   "sinopsis": "Último concierto del año de la cantautora, con canciones nuevas y temas que nunca tocó en vivo con banda.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Jue 12 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-12",
+    "fin": "2026-11-12"
+   },
+   "precio_desde": 42,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/elisa-tokeshi-en-la-noche-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "elisa-tokeshi",
+    "lucy-perez"
    ]
   },
   {
@@ -10779,6 +14218,44 @@
    "artistas": []
   },
   {
+   "slug": "diana-salas",
+   "titulo": "Diana Salas",
+   "tipo": "concierto",
+   "generos": [
+    "pop"
+   ],
+   "sinopsis": "Concierto especial en el que la cantante revelará cuál de dos temas inéditos, elegido por votación de su público, será su próximo sencillo.",
+   "sala": "la-casa-roja",
+   "salas": [
+    "la-casa-roja"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Sáb 14 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-14",
+    "fin": "2026-11-14"
+   },
+   "precio_desde": 55,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/diana-salas-en-lima-2026/",
+     "sala": "la-casa-roja",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "diana-salas"
+   ]
+  },
+  {
    "slug": "gala-de-campeones",
    "titulo": "Gala de campeones",
    "tipo": "concierto",
@@ -10787,9 +14264,9 @@
     "música"
    ],
    "sinopsis": "Cuatro artistas rinden homenaje en el escenario a Adrián Barilari, Isabel Pantoja, Ricky Martin y Christina Aguilera. Es una noche de canciones conocidas para cantar y bailar.",
-   "sala": "c-c-jorge-basadre-grohmann",
+   "sala": "centro-de-convenciones-jorge-basadre-grohmann",
    "salas": [
-    "c-c-jorge-basadre-grohmann",
+    "centro-de-convenciones-jorge-basadre-grohmann",
     "teatro-plaza-norte"
    ],
    "ciudad": "Tacna",
@@ -10820,7 +14297,7 @@
        "precio_max": 139.0
       }
      ],
-     "sala": "c-c-jorge-basadre-grohmann"
+     "sala": "centro-de-convenciones-jorge-basadre-grohmann"
     },
     {
      "fecha": "2026-11-15",
@@ -10845,7 +14322,7 @@
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/evento/gala-de-campeones-tacna-cc-jorge-basadre-grohmann",
-     "sala": "c-c-jorge-basadre-grohmann",
+     "sala": "centro-de-convenciones-jorge-basadre-grohmann",
      "url_compra": null
     },
     {
@@ -11507,6 +14984,105 @@
    "artistas": []
   },
   {
+   "slug": "los-chismes-de-las-mujeres",
+   "titulo": "Los chismes de las mujeres",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "clásico"
+   ],
+   "sinopsis": "La comedia de Goldoni sobre un vecindario donde los rumores y los celos se enredan hasta que nadie queda a salvo, en versión de Alumbra Producciones.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 8 p. m. (15, 22 y 29 de noviembre; 6 y 13 de diciembre)",
+   "temporada": {
+    "inicio": "2026-11-15",
+    "fin": "2026-12-13"
+   },
+   "precio_desde": null,
+   "productora": "Alumbra Producciones",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://diariouno.pe/2026/10/24/obra-dirigida-por-martin-velasquez-marvelat-vuelve-al-teatro-barranco/",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-los-chismes-de-las-mujeres-80012"
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "pau-simons",
+     "personaje": null
+    },
+    {
+     "persona": "angie-orihuela",
+     "personaje": null
+    },
+    {
+     "persona": "marcelo-prado",
+     "personaje": null
+    },
+    {
+     "persona": "hugo-menendez",
+     "personaje": null
+    },
+    {
+     "persona": "violeta-duenas",
+     "personaje": null
+    },
+    {
+     "persona": "jose-leonardo",
+     "personaje": null
+    },
+    {
+     "persona": "sophia-garcia",
+     "personaje": null
+    },
+    {
+     "persona": "yaneth-gutierrez",
+     "personaje": null
+    },
+    {
+     "persona": "walter-gil",
+     "personaje": null
+    },
+    {
+     "persona": "petronik",
+     "personaje": null
+    },
+    {
+     "persona": "carlos-thornton",
+     "personaje": null
+    },
+    {
+     "persona": "katherina-sanchez",
+     "personaje": null
+    }
+   ],
+   "ficha": [
+    {
+     "persona": "carlo-goldoni",
+     "rol": "dramaturgia"
+    },
+    {
+     "persona": "martin-velasquez-marvelat",
+     "rol": "dirección"
+    },
+    {
+     "persona": "loreley-vidal",
+     "rol": "producción"
+    }
+   ],
+   "artistas": []
+  },
+  {
    "slug": "ser-como-blippi-tour",
    "titulo": "Ser como Blippi tour",
    "tipo": "infantil",
@@ -11754,6 +15330,52 @@
    "artistas": []
   },
   {
+   "slug": "cero-migajeros",
+   "titulo": "Cero migajeros",
+   "tipo": "comedia",
+   "generos": [
+    "comedia",
+    "romance"
+   ],
+   "sinopsis": "Laura Huarcayo y Carlos Vílchez debutan juntos en el teatro con una comedia sobre amores complicados y lo que pasa cuando uno acepta menos de lo que merece.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 8 p. m. (18 y 25 de noviembre; 2 y 9 de diciembre)",
+   "temporada": {
+    "inicio": "2026-11-18",
+    "fin": "2026-12-09"
+   },
+   "precio_desde": 50,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://elcomercio.pe/luces/teatro/laura-huarcayo-y-carlos-vilchez-debutan-en-el-teatro-con-la-comedia-cero-migajeros-ultimas-noticia/",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": null
+    }
+   ],
+   "elenco": [
+    {
+     "persona": "laura-huarcayo",
+     "personaje": null
+    },
+    {
+     "persona": "carlos-vilchez",
+     "personaje": null
+    }
+   ],
+   "ficha": [],
+   "artistas": []
+  },
+  {
    "slug": "elefante-30-aniversario-tour",
    "titulo": "Elefante - 30 Aniversario Tour",
    "tipo": "concierto",
@@ -11838,6 +15460,44 @@
     "diana-arce-martinez",
     "d-angelo-diaz",
     "luis-sarmiento-narro"
+   ]
+  },
+  {
+   "slug": "cyclo-fisherman-latam-tour-2026",
+   "titulo": "Cyclo: Fisherman Latam Tour 2026",
+   "tipo": "concierto",
+   "generos": [
+    "electrónica"
+   ],
+   "sinopsis": "Fecha de la gira latinoamericana de Cyclo en el local de Barranco.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Jue 19 de noviembre, 10 p. m.",
+   "temporada": {
+    "inicio": "2026-11-19",
+    "fin": "2026-11-19"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "passline",
+     "url": "https://www.passline.com/venue/la-noche-de-barranco",
+     "sala": "la-noche-de-barranco",
+     "url_compra": "https://www.passline.com/venue/la-noche-de-barranco"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "cyclo"
    ]
   },
   {
@@ -11983,6 +15643,47 @@
    "artistas": [
     "a-n-i-m-a-l",
     "serial-asesino"
+   ]
+  },
+  {
+   "slug": "barranqueando-a-nuestro-modo",
+   "titulo": "Barranqueando a nuestro modo",
+   "tipo": "folklore",
+   "generos": [
+    "música andina",
+    "huayno"
+   ],
+   "sinopsis": "Diosdado Gaitán Castro ofrece una noche de huaynos, carnavales y caporales junto al Dúo Ayacucho y el Grupo Ocobamba.",
+   "sala": "centro-de-convenciones-bianca",
+   "salas": [
+    "centro-de-convenciones-bianca"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie 20 de noviembre, 9:30 p. m.",
+   "temporada": {
+    "inicio": "2026-11-20",
+    "fin": "2026-11-20"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://limatimes.pe/agenda-cultural/2026/10/29/diosdado-gaitan-llega-con-su-canto-andino-a-barranco/",
+     "sala": "centro-de-convenciones-bianca",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-barranqueando-a-nuestro-modo-79475"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "diosdado-gaitan-castro",
+    "duo-ayacucho",
+    "grupo-ocobamba"
    ]
   },
   {
@@ -12371,6 +16072,43 @@
      "url": "https://teleticket.com.pe/evento/rio-en-concierto-una-cosa-de-locos-lima-39-restobar",
      "sala": "lima-39-restobar",
      "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "sofia-y-el-dano-que-habitamos",
+   "titulo": "Sofía y el daño que habitamos",
+   "tipo": "teatro",
+   "generos": [
+    "drama",
+    "psicológico"
+   ],
+   "sinopsis": "Drama psicológico contado sin orden cronológico, que se mete con los límites de la moral familiar y el deseo.",
+   "sala": "teatro-racional",
+   "salas": [
+    "teatro-racional"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Vie y sáb 8 p. m. (20, 21, 27 y 28 de noviembre)",
+   "temporada": {
+    "inicio": "2026-11-20",
+    "fin": "2026-11-28"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/sofia-y-el-dano-que-habitamos",
+     "sala": "teatro-racional",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-sofia-y-el-dano-que-habitamos-79726"
     }
    ],
    "elenco": [],
@@ -12877,9 +16615,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "c-c-jorge-basadre-grohmann",
+   "sala": "centro-de-convenciones-jorge-basadre-grohmann",
    "salas": [
-    "c-c-jorge-basadre-grohmann"
+    "centro-de-convenciones-jorge-basadre-grohmann"
    ],
    "ciudad": "Tacna",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/tse035_md.jpg",
@@ -12909,14 +16647,14 @@
        "precio_max": 151.2
       }
      ],
-     "sala": "c-c-jorge-basadre-grohmann"
+     "sala": "centro-de-convenciones-jorge-basadre-grohmann"
     }
    ],
    "fuentes": [
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/evento/mar-de-copas-en-tacna-cc-jorge-basadre-grohmann",
-     "sala": "c-c-jorge-basadre-grohmann",
+     "sala": "centro-de-convenciones-jorge-basadre-grohmann",
      "url_compra": null
     }
    ],
@@ -13335,6 +17073,45 @@
    "elenco": [],
    "ficha": [],
    "artistas": []
+  },
+  {
+   "slug": "alex-ferreira",
+   "titulo": "Alex Ferreira",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "cantautor"
+   ],
+   "sinopsis": "El cantautor dominicano llega a Lima con su gira 2026.",
+   "sala": "la-noche-de-barranco",
+   "salas": [
+    "la-noche-de-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 25 de noviembre",
+   "temporada": {
+    "inicio": "2026-11-25",
+    "fin": "2026-11-25"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/alex-ferreira-en-lima-2026/",
+     "sala": "la-noche-de-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "alex-ferreira"
+   ]
   },
   {
    "slug": "boda-lyniel",
@@ -14126,7 +17903,7 @@
     "coliseo-gran-chimu",
     "teatro-municipal-del-cusco",
     "teatro-municipal-de-arequipa",
-    "centro-cultural-jorge-basadre",
+    "centro-de-convenciones-jorge-basadre-grohmann",
     "auditorio-del-colegio-andino",
     "la-cupula-de-las-artes"
    ],
@@ -14176,7 +17953,7 @@
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/cascanueces-tacna-2026",
-     "sala": "centro-cultural-jorge-basadre",
+     "sala": "centro-de-convenciones-jorge-basadre-grohmann",
      "url_compra": null
     },
     {
@@ -15584,6 +19361,46 @@
    "artistas": []
   },
   {
+   "slug": "we-the-lion-10-anos-unplugged",
+   "titulo": "We The Lion 10 años – Unplugged",
+   "tipo": "concierto",
+   "generos": [
+    "pop",
+    "rock",
+    "acústico"
+   ],
+   "sinopsis": "La banda limeña celebra una década con un concierto acústico acompañado por un ensamble sinfónico y nuevos arreglos de sus canciones.",
+   "sala": "teatro-segura",
+   "salas": [
+    "teatro-segura"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Sáb 5 dic, 4 p. m. y 8 p. m.",
+   "temporada": {
+    "inicio": "2026-12-05",
+    "fin": "2026-12-05"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://limeo.pe/evento/we-the-lion-10-anos-unplugged-en-el-teatro-segura-2026-12-05",
+     "sala": "teatro-segura",
+     "url_compra": "https://www.joinnus.com/events/concerts/lima-we-the-lion-10-anos-unplugged-en-el-teatro-segura-79361"
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "we-the-lion"
+   ]
+  },
+  {
    "slug": "ya-vuelta-les-cuento",
    "titulo": "Ya vuelta les cuento",
    "tipo": "stand-up",
@@ -15989,6 +19806,44 @@
    ]
   },
   {
+   "slug": "concierto-de-la-orquesta-sinfonica-nacional",
+   "titulo": "Concierto de la Orquesta Sinfónica Nacional",
+   "tipo": "concierto",
+   "generos": [
+    "música sinfónica"
+   ],
+   "sinopsis": "La Orquesta Sinfónica Nacional sale del Gran Teatro Nacional para un concierto en el Centro Histórico, con director invitado; el programa aún no se ha publicado.",
+   "sala": "teatro-segura",
+   "salas": [
+    "teatro-segura"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 9 dic, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-12-09",
+    "fin": "2026-12-09"
+   },
+   "precio_desde": null,
+   "productora": "Ministerio de Cultura",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "ministerio de cultura",
+     "url": "https://elencos.cultura.pe/evento/concierto-teatro-segura",
+     "sala": "teatro-segura",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "orquesta-sinfonica-nacional"
+   ]
+  },
+  {
    "slug": "la-fiestacha-presenta-fresto-el-sonero-del-amor",
    "titulo": "La Fiestacha presenta: Fresto, el sonero del amor",
    "tipo": "concierto",
@@ -16086,6 +19941,44 @@
    "ficha": [],
    "artistas": [
     "jaime-ferraro"
+   ]
+  },
+  {
+   "slug": "lagos-tour-2026",
+   "titulo": "Lagos: Tour 2026",
+   "tipo": "concierto",
+   "generos": [
+    "pop"
+   ],
+   "sinopsis": "El dúo venezolano de productores y compositores trae su gira a Lima.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 16,
+   "horario_texto": "Jue 10 de diciembre",
+   "temporada": {
+    "inicio": "2026-12-10",
+    "fin": "2026-12-10"
+   },
+   "precio_desde": 155,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/lagos-en-lima-2026/",
+     "sala": "teatro-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "lagos"
    ]
   },
   {
@@ -16773,6 +20666,48 @@
    "artistas": []
   },
   {
+   "slug": "gala-de-navidad-de-los-elencos-nacionales",
+   "titulo": "Gala de Navidad de los Elencos Nacionales",
+   "tipo": "concierto",
+   "generos": [
+    "navidad",
+    "folklore",
+    "música sinfónica"
+   ],
+   "sinopsis": "Tres elencos del Ministerio de Cultura comparten escenario en una gala navideña que junta danza folclórica, orquesta juvenil y coro de niños.",
+   "sala": "teatro-segura",
+   "salas": [
+    "teatro-segura"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Mié 16 a vie 18 dic, 8 p. m.",
+   "temporada": {
+    "inicio": "2026-12-16",
+    "fin": "2026-12-18"
+   },
+   "precio_desde": null,
+   "productora": "Ministerio de Cultura",
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "ministerio de cultura",
+     "url": "https://elencos.cultura.pe/evento/gala-de-navidad-3",
+     "sala": "teatro-segura",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "ballet-folclorico-nacional",
+    "orquesta-sinfonica-nacional-juvenil-bicentenario",
+    "coro-nacional-de-ninos"
+   ]
+  },
+  {
    "slug": "con-guitarra-y-cajon-eva-ayllon",
    "titulo": "Con guitarra y cajón: Eva Ayllón",
    "tipo": "concierto",
@@ -16978,6 +20913,43 @@
      "url": "https://www.ticketmaster.pe/event/vastion-pres-dont-let-daddy-know-2026",
      "sala": "club-cultural-lima",
      "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": []
+  },
+  {
+   "slug": "mamma-mia-la-fiesta",
+   "titulo": "Mamma Mia: la fiesta",
+   "tipo": "musical",
+   "generos": [
+    "musical",
+    "familiar"
+   ],
+   "sinopsis": "Un elenco de jóvenes cantantes repasa en vivo las canciones de ABBA en un espectáculo pensado para ver en familia.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": null,
+   "horario_texto": "Dom 20 de diciembre, 5 p. m.",
+   "temporada": {
+    "inicio": "2026-12-20",
+    "fin": "2026-12-20"
+   },
+   "precio_desde": null,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://puroteatro.pe/obra-teatral/mamma-mia-la-fiesta",
+     "sala": "teatro-barranco",
+     "url_compra": "https://www.joinnus.com/events/theater/lima-mamma-mia-la-fiesta-76837"
     }
    ],
    "elenco": [],
@@ -17562,6 +21534,45 @@
     }
    ],
    "artistas": []
+  },
+  {
+   "slug": "galneryus",
+   "titulo": "Galneryus",
+   "tipo": "concierto",
+   "generos": [
+    "heavy metal",
+    "power metal"
+   ],
+   "sinopsis": "Primera visita a Lima de la banda japonesa de power metal.",
+   "sala": "teatro-barranco",
+   "salas": [
+    "teatro-barranco"
+   ],
+   "ciudad": "Lima",
+   "imagen": null,
+   "duracion_min": null,
+   "edad_minima": 18,
+   "horario_texto": "Vie 12 de febrero de 2027",
+   "temporada": {
+    "inicio": "2027-02-12",
+    "fin": "2027-02-12"
+   },
+   "precio_desde": 249,
+   "productora": null,
+   "funciones": [],
+   "fuentes": [
+    {
+     "fuente": "prensa",
+     "url": "https://conciertosperu.com.pe/galneryus-en-lima-2027/",
+     "sala": "teatro-barranco",
+     "url_compra": null
+    }
+   ],
+   "elenco": [],
+   "ficha": [],
+   "artistas": [
+    "galneryus"
+   ]
   },
   {
    "slug": "jorge-drexler",
@@ -21230,6 +25241,110 @@
    ]
   },
   {
+   "slug": "centro-de-convenciones-bianca",
+   "nombre": "Centro de Convenciones Bianca",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "yo-fui-candidato",
+    "magic-men-australia",
+    "con-guitarra-y-cajon-eva-ayllon",
+    "manuel-donayre-tradicion-y-sabor",
+    "noche-de-campeones-segunda-edicion",
+    "viva-mexico-cabrones",
+    "se-busca-marido-cama-afuera",
+    "los-vilchez-en-santo-problema",
+    "noche-de-emociones",
+    "jayro-tafur-mas-romantico-que-nunca",
+    "tunantadas-de-amor",
+    "ricky-santos-amor-y-cumbia",
+    "ellas-en-concierto-en-bianca",
+    "cero-migajeros",
+    "barranqueando-a-nuestro-modo",
+    "fabiola-de-la-cuba-atajo-del-viento-homenaje-a-la-cancion-criolla",
+    "tarde-criolla-con-el-duo-de-oro",
+    "tarde-romantica",
+    "jose-feliciano-la-experiencia-15-anos",
+    "entre-cumbias-y-boleros",
+    "voces-del-amor",
+    "ganadores-en-concierto-juan-gabriel-ronald-hidalgo-raphael-josue-rivaldo-y-susan-ochoa",
+    "50-anos-de-espectaculos-de-juan-bojanich",
+    "nuevaoleros-vol-v",
+    "nosotros-somos-wow-en-vivo",
+    "argentinazo-en-barranco"
+   ]
+  },
+  {
+   "slug": "teatro-barranco",
+   "nombre": "Teatro Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "direccion": "Av. Almirante Miguel Grau 701, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Sala barranquina con comedias, cabaret y montajes de pequeño formato; su ciclo 'Tercera Llamada' programa obras emergentes.",
+   "web": null,
+   "instagram": "https://www.instagram.com/teatro.barranco/",
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": null,
+   "obras": [
+    "los-rocosaurios-y-el-misterio-de-rocolandia",
+    "elefante-30-aniversario-tour",
+    "giant-rooks",
+    "la-joaqui",
+    "el-ritmo-del-dolor",
+    "los-chismes-de-las-mujeres",
+    "mamma-mia-la-fiesta",
+    "mesa-tomada-2-0",
+    "kortas-octubre",
+    "rodeados-de-amor",
+    "kidd-voodoo-euforia-world-tour",
+    "tipling-rock-america-latina-tour-2026",
+    "six-sex-ultra",
+    "rock-n-love-vol-3",
+    "jaze-qnept-tour-ii",
+    "saramalacara-mataderos-world-tour",
+    "coti",
+    "tim",
+    "the-lemon-twigs",
+    "lagos-tour-2026",
+    "galneryus",
+    "40-anos-pateando-piedras-miguel-tapia-los-prisioneros"
+   ]
+  },
+  {
+   "slug": "la-noche-de-barranco",
+   "nombre": "La Noche de Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "perros-friends",
+    "campo-de-almas-un-adios",
+    "sueno-purpura-aniversario-souvenir",
+    "laguna-pai-noche-de-visiones",
+    "gala-brie-ultima-parada",
+    "autobus-perdon-x-explotar",
+    "hyper-foco",
+    "bareto",
+    "san-humi-ii",
+    "amen-trio-acustico",
+    "loncheras-de-perro-y-santino-amigo",
+    "zen",
+    "pelo-madueno",
+    "daniel-f-acustico",
+    "que-viva-la-criollada",
+    "cris-en-la-noche",
+    "greccia-fiesta-en-el-castillo-greal",
+    "gaia-la-noche-del-hombre-lobo",
+    "cecimonster-vs-donka-adult-violence",
+    "elisa-tokeshi",
+    "alex-ferreira",
+    "cyclo-fisherman-latam-tour-2026"
+   ]
+  },
+  {
    "slug": "lima-comedy-club",
    "nombre": "Lima Comedy Club",
    "distrito": "Miraflores",
@@ -21310,28 +25425,40 @@
    ]
   },
   {
-   "slug": "centro-de-convenciones-bianca",
-   "nombre": "Centro de Convenciones Bianca",
+   "slug": "la-estacion-de-barranco",
+   "nombre": "La Estación de Barranco",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Pedro de Osma 112, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": 200,
+   "descripcion_corta": "Local de espectáculos en vivo con más de 30 años, conocido por noches criollas, peñas, tributos y shows de comedia con consumo mínimo.",
+   "web": null,
+   "instagram": "https://www.instagram.com/laestaciondebarranco/",
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": {
+    "lat": -12.14987,
+    "lng": -77.02186
+   },
    "obras": [
-    "yo-fui-candidato",
-    "magic-men-australia",
-    "con-guitarra-y-cajon-eva-ayllon",
-    "manuel-donayre-tradicion-y-sabor",
-    "noche-de-campeones-segunda-edicion",
-    "viva-mexico-cabrones",
-    "fabiola-de-la-cuba-atajo-del-viento-homenaje-a-la-cancion-criolla",
-    "tarde-criolla-con-el-duo-de-oro",
-    "tarde-romantica",
-    "jose-feliciano-la-experiencia-15-anos",
-    "entre-cumbias-y-boleros",
-    "voces-del-amor",
-    "ganadores-en-concierto-juan-gabriel-ronald-hidalgo-raphael-josue-rivaldo-y-susan-ochoa",
-    "50-anos-de-espectaculos-de-juan-bojanich",
-    "nuevaoleros-vol-v",
-    "nosotros-somos-wow-en-vivo",
-    "argentinazo-en-barranco"
+    "monica-cabrejos-doctora-bandida-terapia-de-choque",
+    "mujer-que-no-jode-es-hombre-edicion-2026",
+    "migajera-nunca-mas",
+    "tributo-a-cristian-castro-por-daniel-rioja",
+    "cascaron-criollo",
+    "lucia-de-la-cruz-soy-del-peru-senores",
+    "tributo-a-rafael-by-josue-rivaldo-con-banda-en-vivo",
+    "brujeria-criolla-marco-polo-campos-y-tefi-valenzuela",
+    "aldair-sanchez",
+    "tributo-a-la-salsa-dura-y-sensual-la-fragua",
+    "tributo-a-oasis-by-ricardo-martin",
+    "hugo-apaza-tributo-a-ricardo-montaner-con-banda-en-vivo",
+    "marco-romero-una-noche-para-cantar",
+    "oriana-montero-8vo-aniversario-tributo-a-mon-laferte",
+    "la-ultima-rumba-tributo-gilberto-santa-rosa-y-hector-lavoe",
+    "giuliana-taddei-the-blackstars"
    ]
   },
   {
@@ -21372,41 +25499,6 @@
    ]
   },
   {
-   "slug": "la-estacion-de-barranco",
-   "nombre": "La Estación de Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "direccion": "Av. Pedro de Osma 112, Barranco",
-   "tipo": "bar/club",
-   "aforo_aprox": 200,
-   "descripcion_corta": "Local de espectáculos en vivo con más de 30 años, conocido por noches criollas, peñas, tributos y shows de comedia con consumo mínimo.",
-   "web": null,
-   "instagram": "https://www.instagram.com/laestaciondebarranco/",
-   "ticketera": [
-    "Teleticket"
-   ],
-   "coordenadas": {
-    "lat": -12.14987,
-    "lng": -77.02186
-   },
-   "obras": [
-    "monica-cabrejos-doctora-bandida-terapia-de-choque",
-    "mujer-que-no-jode-es-hombre-edicion-2026",
-    "cascaron-criollo",
-    "lucia-de-la-cruz-soy-del-peru-senores",
-    "tributo-a-rafael-by-josue-rivaldo-con-banda-en-vivo",
-    "brujeria-criolla-marco-polo-campos-y-tefi-valenzuela",
-    "aldair-sanchez",
-    "tributo-a-la-salsa-dura-y-sensual-la-fragua",
-    "tributo-a-oasis-by-ricardo-martin",
-    "hugo-apaza-tributo-a-ricardo-montaner-con-banda-en-vivo",
-    "marco-romero-una-noche-para-cantar",
-    "oriana-montero-8vo-aniversario-tributo-a-mon-laferte",
-    "la-ultima-rumba-tributo-gilberto-santa-rosa-y-hector-lavoe",
-    "giuliana-taddei-the-blackstars"
-   ]
-  },
-  {
    "slug": "teatro-canout",
    "nombre": "Teatro Canout",
    "distrito": "Miraflores",
@@ -21437,6 +25529,40 @@
     "chungo",
     "leyendas-del-rock-edicion-halloween",
     "trio-los-panchos-nostalgia-tour"
+   ]
+  },
+  {
+   "slug": "teatro-segura",
+   "nombre": "Teatro Segura",
+   "distrito": "Cercado de Lima",
+   "ciudad": "Lima",
+   "direccion": "Jr. Huancavelica 265, Cercado de Lima",
+   "tipo": "municipal",
+   "aforo_aprox": 803,
+   "descripcion_corta": "Teatro municipal en el lugar del antiguo corral de comedias del siglo XVII; el edificio actual es de 1909 y fue restaurado y reabierto en 2022.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Ticketmaster",
+    "Teleticket"
+   ],
+   "coordenadas": {
+    "lat": -12.04712,
+    "lng": -77.03447
+   },
+   "obras": [
+    "mensajes-del-alma",
+    "rosaflor-mestiza",
+    "legato",
+    "cosi-fan-tutte",
+    "theodora-de-georg-friedrich-handel",
+    "alicia-siempre-alicia-edicion-2026",
+    "cosa-nuestra-historia-de-la-salsa-criolla",
+    "a-jaranear-en-el-segura",
+    "we-the-lion-10-anos-unplugged",
+    "concierto-de-la-orquesta-sinfonica-nacional",
+    "gala-de-navidad-de-los-elencos-nacionales",
+    "festival-internacional-fado-2026-camane"
    ]
   },
   {
@@ -21471,6 +25597,35 @@
     "rock-y-cumbia",
     "rock-y-cumbia-argentina",
     "rock-y-salsa"
+   ]
+  },
+  {
+   "slug": "teatro-municipal-de-lima",
+   "nombre": "Teatro Municipal de Lima",
+   "distrito": "Cercado de Lima",
+   "ciudad": "Lima",
+   "direccion": "Jr. Ica 377, Cercado de Lima",
+   "tipo": "municipal",
+   "aforo_aprox": 1181,
+   "descripcion_corta": "Principal teatro de la Municipalidad de Lima, inaugurado en 1920 y reabierto en 2010 tras el incendio de 1998. Acoge ópera, ballet y conciertos sinfónicos.",
+   "web": null,
+   "instagram": "https://www.instagram.com/gerenciadeculturamml/",
+   "ticketera": [
+    "Ticketmaster",
+    "Teleticket"
+   ],
+   "coordenadas": {
+    "lat": -12.04569,
+    "lng": -77.03512
+   },
+   "obras": [
+    "cascanueces",
+    "fusion-lirica-d-angelo-diaz-y-son-caliente-de-erick-yaipen",
+    "gran-gala-lirica-rusa-con-orquesta-y-piano",
+    "iolanta",
+    "el-lago-de-los-cisnes",
+    "romeo-y-julieta",
+    "svetlana-smolina-recital-de-piano"
    ]
   },
   {
@@ -21529,34 +25684,6 @@
     "carlos-ballarta-naco-ladino",
     "amor-de-marinera",
     "un-dia-en-la-vida-tributo-a-the-beatles"
-   ]
-  },
-  {
-   "slug": "teatro-segura",
-   "nombre": "Teatro Segura",
-   "distrito": "Cercado de Lima",
-   "ciudad": "Lima",
-   "direccion": "Jr. Huancavelica 265, Cercado de Lima",
-   "tipo": "municipal",
-   "aforo_aprox": 803,
-   "descripcion_corta": "Teatro municipal en el lugar del antiguo corral de comedias del siglo XVII; el edificio actual es de 1909 y fue restaurado y reabierto en 2022.",
-   "web": null,
-   "instagram": null,
-   "ticketera": [
-    "Ticketmaster",
-    "Teleticket"
-   ],
-   "coordenadas": {
-    "lat": -12.04712,
-    "lng": -77.03447
-   },
-   "obras": [
-    "mensajes-del-alma",
-    "rosaflor-mestiza",
-    "legato",
-    "cosi-fan-tutte",
-    "theodora-de-georg-friedrich-handel",
-    "festival-internacional-fado-2026-camane"
    ]
   },
   {
@@ -21659,26 +25786,30 @@
    ]
   },
   {
-   "slug": "teatro-barranco",
-   "nombre": "Teatro Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "direccion": "Av. Almirante Miguel Grau 701, Barranco",
-   "tipo": "independiente",
-   "aforo_aprox": null,
-   "descripcion_corta": "Sala barranquina con comedias, cabaret y montajes de pequeño formato; su ciclo 'Tercera Llamada' programa obras emergentes.",
-   "web": null,
-   "instagram": "https://www.instagram.com/teatro.barranco/",
+   "slug": "teatro-municipal-del-cusco",
+   "nombre": "Teatro Municipal del Cusco",
+   "distrito": "Cusco",
+   "ciudad": "Cusco",
+   "direccion": "Calle Mesón de la Estrella 149, Cusco",
+   "tipo": "municipal",
+   "aforo_aprox": 617,
+   "descripcion_corta": "Principal teatro de la ciudad, a cinco cuadras de la Plaza de Armas; programa conciertos, danza, teatro y festivales, con una sala principal y salas menores (Inti, Killa).",
+   "web": "https://teatro-municipal.cusco.gob.pe/",
+   "instagram": null,
    "ticketera": [
-    "Teleticket"
+    "Teleticket",
+    "boletería"
    ],
-   "coordenadas": null,
+   "coordenadas": {
+    "lat": -13.51959,
+    "lng": -71.98021
+   },
    "obras": [
-    "los-rocosaurios-y-el-misterio-de-rocolandia",
-    "elefante-30-aniversario-tour",
-    "giant-rooks",
-    "la-joaqui",
-    "40-anos-pateando-piedras-miguel-tapia-los-prisioneros"
+    "eva-ayllon-55-anos-de-vida-artistica",
+    "silvio-rodriguez-sinfonico-volumen-2",
+    "el-cascanueces-russian-classical-ballet",
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas",
+    "gala-romantica-en-cusco"
    ]
   },
   {
@@ -21759,6 +25890,32 @@
    ]
   },
   {
+   "slug": "la-casa-roja",
+   "nombre": "La Casa Roja",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido",
+    "oney1",
+    "el-perro-y-la-banda-sutil",
+    "bqestia-soundsystem-10-anos",
+    "diana-salas"
+   ]
+  },
+  {
+   "slug": "sala-osma",
+   "nombre": "Sala Osma",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "fragil-serranio",
+    "marzenit-rabia",
+    "wan",
+    "daniela-de-izcue-mi-momento",
+    "gente-maravillosa"
+   ]
+  },
+  {
    "slug": "jardin-de-la-cerveza",
    "nombre": "Jardin De La Cerveza",
    "distrito": null,
@@ -21816,55 +25973,54 @@
    ]
   },
   {
-   "slug": "teatro-municipal-del-cusco",
-   "nombre": "Teatro Municipal del Cusco",
-   "distrito": "Cusco",
-   "ciudad": "Cusco",
-   "direccion": "Calle Mesón de la Estrella 149, Cusco",
-   "tipo": "municipal",
-   "aforo_aprox": 617,
-   "descripcion_corta": "Principal teatro de la ciudad, a cinco cuadras de la Plaza de Armas; programa conciertos, danza, teatro y festivales, con una sala principal y salas menores (Inti, Killa).",
+   "slug": "centro-de-convenciones-jorge-basadre-grohmann",
+   "nombre": "Centro de Convenciones Jorge Basadre Grohmann",
+   "distrito": "Tacna",
+   "ciudad": "Tacna",
+   "direccion": "Calle Blondell 114, Tacna",
+   "tipo": "estatal",
+   "aforo_aprox": null,
+   "descripcion_corta": "Centro de convenciones del Gobierno Regional de Tacna, reabierto en 2025; con el Teatro Municipal cerrado, es el principal escenario de la ciudad para conciertos, ballet y comedia.",
    "web": null,
    "instagram": null,
    "ticketera": [
     "Teleticket",
-    "boletería"
+    "Passline"
    ],
    "coordenadas": {
-    "lat": -13.51959,
-    "lng": -71.98021
+    "lat": -18.01462,
+    "lng": -70.25309
    },
    "obras": [
-    "eva-ayllon-55-anos-de-vida-artistica",
-    "silvio-rodriguez-sinfonico-volumen-2",
+    "gala-de-campeones",
     "el-cascanueces-russian-classical-ballet",
-    "gala-romantica-en-cusco"
+    "los-panchos-nostalgia-tour",
+    "mar-de-copas-en-tacna"
    ]
   },
   {
-   "slug": "teatro-municipal-de-lima",
-   "nombre": "Teatro Municipal de Lima",
-   "distrito": "Cercado de Lima",
-   "ciudad": "Lima",
-   "direccion": "Jr. Ica 377, Cercado de Lima",
+   "slug": "teatro-municipal-de-arequipa",
+   "nombre": "Teatro Municipal de Arequipa",
+   "distrito": "Arequipa (Cercado)",
+   "ciudad": "Arequipa",
+   "direccion": "Calle Mercaderes 239, Arequipa",
    "tipo": "municipal",
-   "aforo_aprox": 1181,
-   "descripcion_corta": "Principal teatro de la Municipalidad de Lima, inaugurado en 1920 y reabierto en 2010 tras el incendio de 1998. Acoge ópera, ballet y conciertos sinfónicos.",
+   "aforo_aprox": 900,
+   "descripcion_corta": "Teatro histórico del centro de Arequipa, restaurado y reabierto en 2024 con apoyo de Cerro Verde; principal escenario para conciertos, ballet y teatro en la ciudad.",
    "web": null,
-   "instagram": "https://www.instagram.com/gerenciadeculturamml/",
+   "instagram": null,
    "ticketera": [
-    "Ticketmaster",
     "Teleticket"
    ],
    "coordenadas": {
-    "lat": -12.04569,
-    "lng": -77.03512
+    "lat": -16.39896,
+    "lng": -71.53424
    },
    "obras": [
-    "cascanueces",
-    "fusion-lirica-d-angelo-diaz-y-son-caliente-de-erick-yaipen",
-    "gran-gala-lirica-rusa-con-orquesta-y-piano",
-    "iolanta"
+    "el-cascanueces-russian-classical-ballet",
+    "pajaros-en-la-cabeza",
+    "marcos-llunas-arequipa",
+    "jayro-tafur-mas-romantico-que-nunca-arequipa"
    ]
   },
   {
@@ -21939,6 +26095,18 @@
     "cuento-de-navidad",
     "el-pelikano",
     "kamikaze"
+   ]
+  },
+  {
+   "slug": "aforo-barranco",
+   "nombre": "Aforo Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "terapia-blanquiazvl",
+    "giru-mad-fleiva-mad-fleiva-tour",
+    "dimitri-y-las-brujas",
+    "gupers-music-fest"
    ]
   },
   {
@@ -22019,30 +26187,6 @@
     "ser-como-blippi-tour",
     "katseye-the-tribute-experience-tour",
     "jayro-tafur-mas-romantico-que-nunca-iquitos"
-   ]
-  },
-  {
-   "slug": "teatro-municipal-de-arequipa",
-   "nombre": "Teatro Municipal de Arequipa",
-   "distrito": "Arequipa (Cercado)",
-   "ciudad": "Arequipa",
-   "direccion": "Calle Mercaderes 239, Arequipa",
-   "tipo": "municipal",
-   "aforo_aprox": 900,
-   "descripcion_corta": "Teatro histórico del centro de Arequipa, restaurado y reabierto en 2024 con apoyo de Cerro Verde; principal escenario para conciertos, ballet y teatro en la ciudad.",
-   "web": null,
-   "instagram": null,
-   "ticketera": [
-    "Teleticket"
-   ],
-   "coordenadas": {
-    "lat": -16.39896,
-    "lng": -71.53424
-   },
-   "obras": [
-    "el-cascanueces-russian-classical-ballet",
-    "marcos-llunas-arequipa",
-    "jayro-tafur-mas-romantico-que-nunca-arequipa"
    ]
   },
   {
@@ -22127,6 +26271,17 @@
    ]
   },
   {
+   "slug": "sala-quilla",
+   "nombre": "Sala Quilla",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "barba-sangre",
+    "la-caida",
+    "los-tres-cantos-del-gallo"
+   ]
+  },
+  {
    "slug": "scencia-de-la-molina",
    "nombre": "Scencia De La Molina",
    "distrito": "La Molina",
@@ -22135,6 +26290,16 @@
     "cajon-y-sabor-lucia-de-la-cruz-brunella-torpoco-zambo-barbieri",
     "pica-pica",
     "entre-el-criollismo-y-la-salsa"
+   ]
+  },
+  {
+   "slug": "capital-restobar",
+   "nombre": "Capital Restobar",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "el-adivino-una-comedia-terrorifica",
+    "electro-showck-la-comedia-de-alto-voltaje"
    ]
   },
   {
@@ -22201,13 +26366,13 @@
    ]
   },
   {
-   "slug": "c-c-jorge-basadre-grohmann",
-   "nombre": "C.C. Jorge Basadre Grohmann",
-   "distrito": null,
-   "ciudad": "Tacna",
+   "slug": "roble-de-barranco",
+   "nombre": "Roble de Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
    "obras": [
-    "gala-de-campeones",
-    "mar-de-copas-en-tacna"
+    "ni-toxica-ni-mensa-sin-filtro-2-a-temporada",
+    "feliz-dia-de-la-cancion-criolla-con-los-kipus"
    ]
   },
   {
@@ -22272,6 +26437,92 @@
    "obras": [
     "la-frontera-de-los-cuentos",
     "sueno"
+   ]
+  },
+  {
+   "slug": "teatro-municipal-de-puno",
+   "nombre": "Teatro Municipal de Puno",
+   "distrito": "Puno",
+   "ciudad": "Puno",
+   "direccion": "Esquina Jr. Arequipa con Jr. Deza, Puno",
+   "tipo": "municipal",
+   "aforo_aprox": 701,
+   "descripcion_corta": "Teatro de la Municipalidad Provincial de Puno, abierto en 1915 y remodelado; recibe festivales de danza, conciertos de música andina y teatro regional, muchas veces con ingreso libre.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "entrada libre"
+   ],
+   "coordenadas": null,
+   "obras": [
+    "charangueando-puno-2026",
+    "iii-festival-multicultural-pawa-raymi"
+   ]
+  },
+  {
+   "slug": "cine-teatro-municipal-de-huamanga",
+   "nombre": "Cine Teatro Municipal de Huamanga",
+   "distrito": "Ayacucho",
+   "ciudad": "Ayacucho",
+   "direccion": "Portal Municipal 44, Parque Sucre (Plaza de Armas), Ayacucho",
+   "tipo": "municipal",
+   "aforo_aprox": 320,
+   "descripcion_corta": "Sala de la Municipalidad Provincial de Huamanga en el Portal Municipal de la plaza principal; acoge conciertos de música ayacuchana, festivales de la canción y teatro local.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "reserva telefónica con el organizador"
+   ],
+   "coordenadas": {
+    "lat": -13.16041,
+    "lng": -74.22511
+   },
+   "obras": [
+    "amame-en-ayacucho",
+    "dos-leyendas-del-huayno-ayacuchano"
+   ]
+  },
+  {
+   "slug": "teatro-juanita-tarnawiecki-ex-mocha-grana",
+   "nombre": "Teatro Juanita Tarnawiecki (ex Mocha Graña)",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "direccion": "Alameda Sáenz Peña 105, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Sala barranquina conocida como Mocha Graña, hoy rebautizada Juanita Tarnawiecki; programa sobre todo teatro infantil y familiar y algunos montajes musicales.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": {
+    "lat": -12.14351,
+    "lng": -77.02233
+   },
+   "obras": [
+    "la-noche-de-los-asesinos",
+    "el-engranaje"
+   ]
+  },
+  {
+   "slug": "el-dragon-de-barranco",
+   "nombre": "El Dragón de Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "con-ketchup-antes-de-parir",
+    "space-cake"
+   ]
+  },
+  {
+   "slug": "sargento-pimienta",
+   "nombre": "Sargento Pimienta",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "onda-vaga-amuletos-de-cristal",
+    "el-plan-de-la-mariposa"
    ]
   },
   {
@@ -22392,15 +26643,6 @@
    ]
   },
   {
-   "slug": "capital-restobar",
-   "nombre": "Capital Restobar",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "obras": [
-    "el-adivino-una-comedia-terrorifica"
-   ]
-  },
-  {
    "slug": "centro-comercial-las-terrazas",
    "nombre": "Centro Comercial Las Terrazas",
    "distrito": "Magdalena del Mar",
@@ -22470,15 +26712,6 @@
    "ciudad": "Chiclayo",
    "obras": [
     "chapa-tu-money-octava-temporada"
-   ]
-  },
-  {
-   "slug": "roble-de-barranco",
-   "nombre": "Roble de Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "obras": [
-    "ni-toxica-ni-mensa-sin-filtro-2-a-temporada"
    ]
   },
   {
@@ -22573,15 +26806,6 @@
    "ciudad": "Trujillo",
    "obras": [
     "jaime-ferraro-fraude"
-   ]
-  },
-  {
-   "slug": "centro-cultural-jorge-basadre",
-   "nombre": "Centro Cultural Jorge Basadre",
-   "distrito": null,
-   "ciudad": "Tacna",
-   "obras": [
-    "el-cascanueces-russian-classical-ballet"
    ]
   },
   {
@@ -22825,6 +27049,62 @@
    ]
   },
   {
+   "slug": "teatro-racional",
+   "nombre": "Teatro Racional",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "direccion": "Av. José Balta 170, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Pequeña sala de cámara en Barranco, reabierta en 2025; programa teatro contemporáneo de producciones independientes como Yestoquelotro.",
+   "web": null,
+   "instagram": "https://www.instagram.com/cineteatroirracional/",
+   "ticketera": [],
+   "coordenadas": {
+    "lat": -12.14258,
+    "lng": -77.01705
+   },
+   "obras": [
+    "sofia-y-el-dano-que-habitamos"
+   ]
+  },
+  {
+   "slug": "teatro-esencia",
+   "nombre": "Teatro Esencia",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "hansel-y-gretel-donde-cantan-los-recuerdos"
+   ]
+  },
+  {
+   "slug": "payacasa",
+   "nombre": "PayaCasa",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "entre-clases-segunda-temporada"
+   ]
+  },
+  {
+   "slug": "casa-bulbo",
+   "nombre": "Casa Bulbo",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "miedo-a-volar"
+   ]
+  },
+  {
+   "slug": "barranco-bar",
+   "nombre": "Barranco Bar",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "obras": [
+    "gian-marco-bajo-la-manga"
+   ]
+  },
+  {
    "slug": "teatro-del-centro-espanol-del-peru",
    "nombre": "Teatro Del Centro Español Del Perú",
    "distrito": "Jesus Maria",
@@ -22948,15 +27228,6 @@
    "ciudad": "Lima",
    "obras": [
     "gran-preinauguracion-asociacion-cultural-centro-del-peru"
-   ]
-  },
-  {
-   "slug": "aforo-barranco",
-   "nombre": "Aforo Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "obras": [
-    "gupers-music-fest"
    ]
   },
   {
@@ -23292,6 +27563,18 @@
    ]
   },
   {
+   "slug": "juan-carlos-diaz",
+   "nombre": "Juan Carlos Díaz",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-tres-cerditos-del-rock",
+    "la-liebre-y-la-tortuga",
+    "miedo-a-volar"
+   ]
+  },
+  {
    "slug": "lizet-estrada",
    "nombre": "Lizet Estrada",
    "roles": [
@@ -23302,6 +27585,18 @@
     "jugando-con-el-lobo-feroz",
     "los-tres-cerditos-del-rock",
     "la-liebre-y-la-tortuga"
+   ]
+  },
+  {
+   "slug": "manuel-donayre",
+   "nombre": "Manuel Donayre",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "leyendas-del-criollismo",
+    "manuel-donayre-tradicion-y-sabor",
+    "feliz-dia-de-la-cancion-criolla-con-los-kipus"
    ]
   },
   {
@@ -23354,6 +27649,39 @@
    ]
   },
   {
+   "slug": "alonso-cano",
+   "nombre": "Alonso Cano",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "la-frontera-de-los-cuentos",
+    "romeo-y-julieta"
+   ]
+  },
+  {
+   "slug": "amaranta-kun",
+   "nombre": "Amaranta Kun",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "la-voz-humana",
+    "romeo-y-julieta"
+   ]
+  },
+  {
+   "slug": "ballet-folclorico-nacional",
+   "nombre": "Ballet Folclórico Nacional",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "ballet-folclorico-nacional-retablo-criollo-herencia-de-la-costa",
+    "gala-de-navidad-de-los-elencos-nacionales"
+   ]
+  },
+  {
    "slug": "brunella-torpoco",
    "nombre": "Brunella Torpoco",
    "roles": [
@@ -23362,6 +27690,17 @@
    "obras": [
     "aniversario-brunella-torpoco",
     "divas-de-la-salsa"
+   ]
+  },
+  {
+   "slug": "carlos-thornton",
+   "nombre": "Carlos Thornton",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-inoxidables",
+    "los-chismes-de-las-mujeres"
    ]
   },
   {
@@ -23409,6 +27748,17 @@
    ]
   },
   {
+   "slug": "daniela-de-izcue",
+   "nombre": "Daniela de Izcue",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "dimitri-y-las-brujas",
+    "daniela-de-izcue-mi-momento"
+   ]
+  },
+  {
    "slug": "el-loco",
    "nombre": "El Loco",
    "roles": [
@@ -23428,6 +27778,28 @@
    "obras": [
     "eva-ayllon-55-anos-de-vida-artistica",
     "con-guitarra-y-cajon-eva-ayllon"
+   ]
+  },
+  {
+   "slug": "gaia",
+   "nombre": "Gaia",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3",
+    "gaia-la-noche-del-hombre-lobo"
+   ]
+  },
+  {
+   "slug": "gala-brie",
+   "nombre": "Gala Brie",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gala-brie-ultima-parada",
+    "gente-maravillosa"
    ]
   },
   {
@@ -23452,6 +27824,17 @@
    "obras": [
     "gran-gala-lirica-rusa-con-orquesta-y-piano",
     "iolanta"
+   ]
+  },
+  {
+   "slug": "jean-pierre-gamarra",
+   "nombre": "Jean Pierre Gamarra",
+   "roles": [
+    "dirección"
+   ],
+   "obras": [
+    "la-voz-humana",
+    "romeo-y-julieta"
    ]
   },
   {
@@ -23488,6 +27871,17 @@
    ]
   },
   {
+   "slug": "johanna-san-miguel",
+   "nombre": "Johanna San Miguel",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "las-irresponsables",
+    "se-busca-marido-cama-afuera"
+   ]
+  },
+  {
    "slug": "josue-castaneda",
    "nombre": "Josué Castañeda",
    "roles": [
@@ -23511,14 +27905,26 @@
    ]
   },
   {
-   "slug": "juan-carlos-diaz",
-   "nombre": "Juan Carlos Díaz",
+   "slug": "jose-leonardo",
+   "nombre": "José Leonardo",
    "roles": [
-    "actuación"
+    "actuación",
+    "producción"
    ],
    "obras": [
-    "los-tres-cerditos-del-rock",
-    "la-liebre-y-la-tortuga"
+    "los-chismes-de-las-mujeres",
+    "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido"
+   ]
+  },
+  {
+   "slug": "karla-sofia",
+   "nombre": "Karla Sofía",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "amanda-portales-arte-puro-ii",
+    "amame-en-ayacucho"
    ]
   },
   {
@@ -23544,6 +27950,17 @@
    ]
   },
   {
+   "slug": "lorenzo-albani",
+   "nombre": "Lorenzo Albani",
+   "roles": [
+    "escenografía"
+   ],
+   "obras": [
+    "la-voz-humana",
+    "romeo-y-julieta"
+   ]
+  },
+  {
    "slug": "los-ardiles",
    "nombre": "Los Ardiles",
    "roles": [
@@ -23552,6 +27969,17 @@
    "obras": [
     "leyendas-del-criollismo",
     "somos-mirones-jarana-de-barrio"
+   ]
+  },
+  {
+   "slug": "los-kipus",
+   "nombre": "Los Kipus",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "a-jaranear-en-el-segura",
+    "feliz-dia-de-la-cancion-criolla-con-los-kipus"
    ]
   },
   {
@@ -23581,6 +28009,18 @@
    ]
   },
   {
+   "slug": "luisito-fernandez",
+   "nombre": "Luisito Fernández",
+   "roles": [
+    "actuación",
+    "dramaturgia"
+   ],
+   "obras": [
+    "138-citas-para-encontrar-el-amor",
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
    "slug": "maksim-papulov",
    "nombre": "Maksim Papulov",
    "roles": [
@@ -23605,17 +28045,6 @@
    ]
   },
   {
-   "slug": "manuel-donayre",
-   "nombre": "Manuel Donayre",
-   "roles": [
-    "artista"
-   ],
-   "obras": [
-    "leyendas-del-criollismo",
-    "manuel-donayre-tradicion-y-sabor"
-   ]
-  },
-  {
    "slug": "marco-hurtado",
    "nombre": "Marco Hurtado",
    "roles": [
@@ -23635,6 +28064,17 @@
    "obras": [
     "la-mascara-de-la-muerte-roja",
     "cuento-de-navidad"
+   ]
+  },
+  {
+   "slug": "melissa-angeles",
+   "nombre": "Melissa Ángeles",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "viva-mexico-cabrones",
+    "ellas-en-concierto-en-bianca"
    ]
   },
   {
@@ -23683,6 +28123,17 @@
    ]
   },
   {
+   "slug": "pelo-madueno",
+   "nombre": "Pelo Madueño",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3",
+    "pelo-madueno"
+   ]
+  },
+  {
    "slug": "piotr-ilich-tchaikovsky",
    "nombre": "Piotr Ilich Tchaikovsky",
    "roles": [
@@ -23725,6 +28176,17 @@
    "obras": [
     "los-tres-cerditos-del-rock",
     "la-liebre-y-la-tortuga"
+   ]
+  },
+  {
+   "slug": "santos-de-noche",
+   "nombre": "Santos de Noche",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends",
+    "zen"
    ]
   },
   {
@@ -23862,6 +28324,16 @@
    ]
   },
   {
+   "slug": "alain-salinas",
+   "nombre": "Alain Salinas",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "terapia-blanquiazvl"
+   ]
+  },
+  {
    "slug": "alan-newman",
    "nombre": "Alan Newman",
    "roles": [
@@ -23942,6 +28414,26 @@
    ]
   },
   {
+   "slug": "alex-ferreira",
+   "nombre": "Alex Ferreira",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alex-ferreira"
+   ]
+  },
+  {
+   "slug": "alex-ramirez",
+   "nombre": "Alex Ramírez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
    "slug": "alexandra-grana",
    "nombre": "Alexandra Graña",
    "roles": [
@@ -24002,16 +28494,6 @@
    ]
   },
   {
-   "slug": "alonso-cano",
-   "nombre": "Alonso Cano",
-   "roles": [
-    "actuación"
-   ],
-   "obras": [
-    "la-frontera-de-los-cuentos"
-   ]
-  },
-  {
    "slug": "amanda-portales",
    "nombre": "Amanda Portales",
    "roles": [
@@ -24022,16 +28504,6 @@
    ]
   },
   {
-   "slug": "amaranta-kun",
-   "nombre": "Amaranta Kun",
-   "roles": [
-    "actuación"
-   ],
-   "obras": [
-    "la-voz-humana"
-   ]
-  },
-  {
    "slug": "amparo-brambilla",
    "nombre": "Amparo Brambilla",
    "roles": [
@@ -24039,6 +28511,16 @@
    ],
    "obras": [
     "las-eternas"
+   ]
+  },
+  {
+   "slug": "amen",
+   "nombre": "Amén",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "amen-trio-acustico"
    ]
   },
   {
@@ -24102,6 +28584,26 @@
    ]
   },
   {
+   "slug": "andrea-chuiman",
+   "nombre": "Andrea Chuiman",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
+   "slug": "andrea-martinez",
+   "nombre": "Andrea Martínez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
+   ]
+  },
+  {
    "slug": "andres-cisneros",
    "nombre": "Andres Cisneros",
    "roles": [
@@ -24119,6 +28621,16 @@
    ],
    "obras": [
     "ni-toxica-ni-mensa-sin-filtro-2-a-temporada"
+   ]
+  },
+  {
+   "slug": "angie-orihuela",
+   "nombre": "Angie Orihuela",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
    ]
   },
   {
@@ -24142,6 +28654,16 @@
    ]
   },
   {
+   "slug": "any-uno",
+   "nombre": "Any Uno",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "hyper-foco"
+   ]
+  },
+  {
    "slug": "anibal-lozano",
    "nombre": "Aníbal Lozano",
    "roles": [
@@ -24149,6 +28671,16 @@
    ],
    "obras": [
     "blanca-ponte-un-alma"
+   ]
+  },
+  {
+   "slug": "arantxa",
+   "nombre": "Arantxa",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gala-brie-ultima-parada"
    ]
   },
   {
@@ -24182,6 +28714,16 @@
    ]
   },
   {
+   "slug": "atuq-sisa",
+   "nombre": "Atuq Sisa",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "amame-en-ayacucho"
+   ]
+  },
+  {
    "slug": "august-strindberg",
    "nombre": "August Strindberg",
    "roles": [
@@ -24212,13 +28754,33 @@
    ]
   },
   {
-   "slug": "ballet-folclorico-nacional",
-   "nombre": "Ballet Folclórico Nacional",
+   "slug": "autobus",
+   "nombre": "Autobús",
    "roles": [
     "artista"
    ],
    "obras": [
-    "ballet-folclorico-nacional-retablo-criollo-herencia-de-la-costa"
+    "autobus-perdon-x-explotar"
+   ]
+  },
+  {
+   "slug": "avril-navarro",
+   "nombre": "Avril Navarro",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "amame-en-ayacucho"
+   ]
+  },
+  {
+   "slug": "ballet-municipal-de-lima",
+   "nombre": "Ballet Municipal de Lima",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
    ]
   },
   {
@@ -24229,6 +28791,16 @@
    ],
    "obras": [
     "ballet-nacional-del-peru-las-cuatro-estaciones-de-antonio-vivaldi"
+   ]
+  },
+  {
+   "slug": "bareto",
+   "nombre": "Bareto",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bareto"
    ]
   },
   {
@@ -24280,6 +28852,16 @@
    ],
    "obras": [
     "las-eternas"
+   ]
+  },
+  {
+   "slug": "blanca-galdos",
+   "nombre": "Blanca Galdós",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
    ]
   },
   {
@@ -24393,6 +28975,16 @@
    ]
   },
   {
+   "slug": "campo-de-almas",
+   "nombre": "Campo de Almas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "campo-de-almas-un-adios"
+   ]
+  },
+  {
    "slug": "carl-cox",
    "nombre": "Carl Cox",
    "roles": [
@@ -24433,6 +29025,16 @@
    ]
   },
   {
+   "slug": "carlo-goldoni",
+   "nombre": "Carlo Goldoni",
+   "roles": [
+    "dramaturgia"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "carlos-ballarta",
    "nombre": "Carlos Ballarta",
    "roles": [
@@ -24440,6 +29042,37 @@
    ],
    "obras": [
     "carlos-ballarta-naco-ladino"
+   ]
+  },
+  {
+   "slug": "carlos-calleja",
+   "nombre": "Carlos Calleja",
+   "roles": [
+    "otro"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
+   ]
+  },
+  {
+   "slug": "carlos-cruz",
+   "nombre": "Carlos Cruz",
+   "roles": [
+    "artista",
+    "dirección"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
+   ]
+  },
+  {
+   "slug": "carlos-mosquera",
+   "nombre": "Carlos Mosquera",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
    ]
   },
   {
@@ -24453,13 +29086,13 @@
    ]
   },
   {
-   "slug": "carlos-thornton",
-   "nombre": "Carlos Thornton",
+   "slug": "carlos-valcarcel",
+   "nombre": "Carlos Valcárcel",
    "roles": [
-    "actuación"
+    "dirección"
    ],
    "obras": [
-    "los-inoxidables"
+    "el-lago-de-los-cisnes"
    ]
   },
   {
@@ -24470,6 +29103,16 @@
    ],
    "obras": [
     "lima-latin-duo-juan-luis-guerra-y-carlos-vives"
+   ]
+  },
+  {
+   "slug": "carlos-vilchez",
+   "nombre": "Carlos Vílchez",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "cero-migajeros"
    ]
   },
   {
@@ -24503,6 +29146,16 @@
    ]
   },
   {
+   "slug": "casimismo",
+   "nombre": "Casimismo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
+   ]
+  },
+  {
    "slug": "cassiopea",
    "nombre": "Cassiopea",
    "roles": [
@@ -24530,6 +29183,36 @@
    ],
    "obras": [
     "el-invencible-verano-de-liliana"
+   ]
+  },
+  {
+   "slug": "cecimonster-vs-donka",
+   "nombre": "Cecimonster vs Donka",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cecimonster-vs-donka-adult-violence"
+   ]
+  },
+  {
+   "slug": "celeste-manrique",
+   "nombre": "Celeste Manrique",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
+   "slug": "cementerio-inocentes",
+   "nombre": "Cementerio Inocentes",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-perro-y-la-banda-sutil"
    ]
   },
   {
@@ -24563,6 +29246,16 @@
    ]
   },
   {
+   "slug": "christian-alden",
+   "nombre": "Christian Alden",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
    "slug": "christian-ibarzabal",
    "nombre": "Christian Ibarzábal",
    "roles": [
@@ -24573,6 +29266,18 @@
    ]
   },
   {
+   "slug": "christian-avalos",
+   "nombre": "Christian Ávalos",
+   "roles": [
+    "adaptación",
+    "dirección",
+    "dramaturgia"
+   ],
+   "obras": [
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
    "slug": "christopher-rondon-gaona",
    "nombre": "Christopher Rondón Gaona",
    "roles": [
@@ -24580,6 +29285,16 @@
    ],
    "obras": [
     "las-aulas-celestes"
+   ]
+  },
+  {
+   "slug": "ciane",
+   "nombre": "Ciané",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
    ]
   },
   {
@@ -24654,6 +29369,16 @@
    ]
   },
   {
+   "slug": "coro-nacional-de-ninos",
+   "nombre": "Coro Nacional de Niños",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gala-de-navidad-de-los-elencos-nacionales"
+   ]
+  },
+  {
    "slug": "coro-nacional-de-ninos-del-peru",
    "nombre": "Coro Nacional de Niños del Perú",
    "roles": [
@@ -24661,6 +29386,36 @@
    ],
    "obras": [
     "coro-nacional-de-ninos-del-peru-estampas-criollas"
+   ]
+  },
+  {
+   "slug": "cosa-nuestra",
+   "nombre": "Cosa Nuestra",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
+   "slug": "coti",
+   "nombre": "Coti",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "coti"
+   ]
+  },
+  {
+   "slug": "cristina-luyo",
+   "nombre": "Cristina Luyo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cris-en-la-noche"
    ]
   },
   {
@@ -24684,6 +29439,16 @@
    ]
   },
   {
+   "slug": "cyclo",
+   "nombre": "Cyclo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cyclo-fisherman-latam-tour-2026"
+   ]
+  },
+  {
    "slug": "cesar-becerra",
    "nombre": "César Becerra",
    "roles": [
@@ -24704,6 +29469,16 @@
    ]
   },
   {
+   "slug": "cesar-mancilla",
+   "nombre": "César Mancilla",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "noche-de-emociones"
+   ]
+  },
+  {
    "slug": "cesar-ritter",
    "nombre": "César Ritter",
    "roles": [
@@ -24711,6 +29486,16 @@
    ],
    "obras": [
     "los-dioses-del-teatro"
+   ]
+  },
+  {
+   "slug": "cesar-vega",
+   "nombre": "César Vega",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gian-marco-bajo-la-manga"
    ]
   },
   {
@@ -24741,6 +29526,26 @@
    ],
    "obras": [
     "las-aulas-celestes"
+   ]
+  },
+  {
+   "slug": "daniel-f",
+   "nombre": "Daniel F",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "daniel-f-acustico"
+   ]
+  },
+  {
+   "slug": "daniel-rioja",
+   "nombre": "Daniel Rioja",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "tributo-a-cristian-castro-por-daniel-rioja"
    ]
   },
   {
@@ -24775,6 +29580,16 @@
    ]
   },
   {
+   "slug": "dayron-aranguren",
+   "nombre": "Dayron Aranguren",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "feliz-dia-de-la-cancion-criolla-con-los-kipus"
+   ]
+  },
+  {
    "slug": "diana-arce-martinez",
    "nombre": "Diana Arce Martínez",
    "roles": [
@@ -24782,6 +29597,16 @@
    ],
    "obras": [
     "sinfonia-por-el-peru-sinfonia-n-o-9-de-beethoven"
+   ]
+  },
+  {
+   "slug": "diana-salas",
+   "nombre": "Diana Salas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "diana-salas"
    ]
   },
   {
@@ -24845,6 +29670,26 @@
    ]
   },
   {
+   "slug": "dimitri-y-las-brujas",
+   "nombre": "Dimitri y las Brujas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "dimitri-y-las-brujas"
+   ]
+  },
+  {
+   "slug": "diosdado-gaitan-castro",
+   "nombre": "Diosdado Gaitán Castro",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "barranqueando-a-nuestro-modo"
+   ]
+  },
+  {
    "slug": "dmitry-zhukov",
    "nombre": "Dmitry Zhukov",
    "roles": [
@@ -24885,6 +29730,16 @@
    ]
   },
   {
+   "slug": "draco",
+   "nombre": "Draco",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
+   ]
+  },
+  {
    "slug": "duncan-macmillan",
    "nombre": "Duncan Macmillan",
    "roles": [
@@ -24902,6 +29757,16 @@
    ],
    "obras": [
     "dying-fetus"
+   ]
+  },
+  {
+   "slug": "duo-ayacucho",
+   "nombre": "Dúo Ayacucho",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "barranqueando-a-nuestro-modo"
    ]
   },
   {
@@ -24965,6 +29830,16 @@
    ]
   },
   {
+   "slug": "el-plan-de-la-mariposa",
+   "nombre": "El Plan de la Mariposa",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-plan-de-la-mariposa"
+   ]
+  },
+  {
    "slug": "elefante",
    "nombre": "Elefante",
    "roles": [
@@ -24983,6 +29858,16 @@
    ],
    "obras": [
     "iolanta"
+   ]
+  },
+  {
+   "slug": "elisa-tokeshi",
+   "nombre": "Elisa Tokeshi",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "elisa-tokeshi"
    ]
   },
   {
@@ -25026,6 +29911,17 @@
    ]
   },
   {
+   "slug": "emilio-napan-cerro",
+   "nombre": "Emilio Napan Cerro",
+   "roles": [
+    "dirección",
+    "dramaturgia"
+   ],
+   "obras": [
+    "el-engranaje"
+   ]
+  },
+  {
    "slug": "ena-luna",
    "nombre": "Ena Luna",
    "roles": [
@@ -25053,6 +29949,16 @@
    ],
    "obras": [
     "the-last-five-years"
+   ]
+  },
+  {
+   "slug": "entre-manos",
+   "nombre": "Entre Manos",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "tunantadas-de-amor"
    ]
   },
   {
@@ -25106,6 +30012,16 @@
    ]
   },
   {
+   "slug": "fantasmaas",
+   "nombre": "Fantasmaas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3"
+   ]
+  },
+  {
    "slug": "favio-enriquez",
    "nombre": "Favio Enríquez",
    "roles": [
@@ -25113,6 +30029,16 @@
    ],
    "obras": [
     "gala-de-campeones"
+   ]
+  },
+  {
+   "slug": "federico-abrill",
+   "nombre": "Federico Abrill",
+   "roles": [
+    "dramaturgia"
+   ],
+   "obras": [
+    "miedo-a-volar"
    ]
   },
   {
@@ -25153,6 +30079,36 @@
    ],
    "obras": [
     "gran-gala-lirica-solistas-de-la-opera-del-teatro-colon"
+   ]
+  },
+  {
+   "slug": "fernando-caceres",
+   "nombre": "Fernando Cáceres",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
+   "slug": "fernando-luque",
+   "nombre": "Fernando Luque",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "romeo-y-julieta"
+   ]
+  },
+  {
+   "slug": "fernando-montanares",
+   "nombre": "Fernando Montanares",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
    ]
   },
   {
@@ -25316,6 +30272,16 @@
    ]
   },
   {
+   "slug": "francoise-rodriguez",
+   "nombre": "Françoise Rodríguez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
+   ]
+  },
+  {
    "slug": "fresto",
    "nombre": "Fresto",
    "roles": [
@@ -25323,6 +30289,26 @@
    ],
    "obras": [
     "la-fiestacha-presenta-fresto-el-sonero-del-amor"
+   ]
+  },
+  {
+   "slug": "fragil",
+   "nombre": "Frágil",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "fragil-serranio"
+   ]
+  },
+  {
+   "slug": "fatima-producciones",
+   "nombre": "Fátima Producciones",
+   "roles": [
+    "producción"
+   ],
+   "obras": [
+    "con-ketchup-antes-de-parir"
    ]
   },
   {
@@ -25356,6 +30342,16 @@
    ]
   },
   {
+   "slug": "gabriel-vargas",
+   "nombre": "Gabriel Vargas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "los-panchos-nostalgia-tour"
+   ]
+  },
+  {
    "slug": "gabriela-del-pilar",
    "nombre": "Gabriela del Pilar",
    "roles": [
@@ -25373,6 +30369,16 @@
    ],
    "obras": [
     "noche-de-campeones-segunda-edicion"
+   ]
+  },
+  {
+   "slug": "galneryus",
+   "nombre": "Galneryus",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "galneryus"
    ]
   },
   {
@@ -25396,6 +30402,26 @@
    ]
   },
   {
+   "slug": "genifer-gerhardt",
+   "nombre": "Genifer Gerhardt",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
+   ]
+  },
+  {
+   "slug": "gente-maravillosa",
+   "nombre": "Gente Maravillosa",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gente-maravillosa"
+   ]
+  },
+  {
    "slug": "georg-friedrich-handel",
    "nombre": "Georg Friedrich Händel",
    "roles": [
@@ -25416,6 +30442,16 @@
    ]
   },
   {
+   "slug": "geri-the-boy",
+   "nombre": "Geri The Boy",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "hyper-foco"
+   ]
+  },
+  {
    "slug": "german-loero",
    "nombre": "Germán Loero",
    "roles": [
@@ -25433,6 +30469,16 @@
    ],
    "obras": [
     "ghost-dance"
+   ]
+  },
+  {
+   "slug": "gian-marco",
+   "nombre": "Gian Marco",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gian-marco-bajo-la-manga"
    ]
   },
   {
@@ -25496,6 +30542,26 @@
    ]
   },
   {
+   "slug": "giru-mad-fleiva",
+   "nombre": "Giru Mad Fleiva",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "giru-mad-fleiva-mad-fleiva-tour"
+   ]
+  },
+  {
+   "slug": "gladis-huaman",
+   "nombre": "Gladis Huamán",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
+   ]
+  },
+  {
    "slug": "goncho-iglesias",
    "nombre": "Goncho Iglesias",
    "roles": [
@@ -25556,6 +30622,26 @@
    ]
   },
   {
+   "slug": "greccia",
+   "nombre": "Greccia",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "greccia-fiesta-en-el-castillo-greal"
+   ]
+  },
+  {
+   "slug": "grupo-ocobamba",
+   "nombre": "Grupo Ocobamba",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "barranqueando-a-nuestro-modo"
+   ]
+  },
+  {
    "slug": "guille-neyra",
    "nombre": "Guille Neyra",
    "roles": [
@@ -25563,6 +30649,16 @@
    ],
    "obras": [
     "cazadores-de-historias"
+   ]
+  },
+  {
+   "slug": "gustavo-ratto",
+   "nombre": "Gustavo Ratto",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "tunantadas-de-amor"
    ]
   },
   {
@@ -25626,6 +30722,17 @@
    ]
   },
   {
+   "slug": "herbert-corimanya",
+   "nombre": "Herbert Corimanya",
+   "roles": [
+    "dirección",
+    "dramaturgia"
+   ],
+   "obras": [
+    "terapia-blanquiazvl"
+   ]
+  },
+  {
    "slug": "hermanos-castro",
    "nombre": "Hermanos Castro",
    "roles": [
@@ -25636,6 +30743,16 @@
    ]
   },
   {
+   "slug": "hugo-menendez",
+   "nombre": "Hugo Menéndez",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "hadaly-ramirez",
    "nombre": "Hádaly Ramírez",
    "roles": [
@@ -25643,6 +30760,26 @@
    ],
    "obras": [
     "cuento-de-navidad"
+   ]
+  },
+  {
+   "slug": "homi-homi",
+   "nombre": "Hömi Hömi",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "san-humi-ii"
+   ]
+  },
+  {
+   "slug": "ilda-polo",
+   "nombre": "Ilda Polo",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "con-ketchup-antes-de-parir"
    ]
   },
   {
@@ -25724,6 +30861,16 @@
    ],
    "obras": [
     "el-pelikano"
+   ]
+  },
+  {
+   "slug": "jah-chata",
+   "nombre": "Jah Chata",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bqestia-soundsystem-10-anos"
    ]
   },
   {
@@ -25817,6 +30964,26 @@
    ]
   },
   {
+   "slug": "jayro-tafur",
+   "nombre": "Jayro Tafur",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "jayro-tafur-mas-romantico-que-nunca"
+   ]
+  },
+  {
+   "slug": "jaze",
+   "nombre": "Jaze",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "jaze-qnept-tour-ii"
+   ]
+  },
+  {
    "slug": "jean-cocteau",
    "nombre": "Jean Cocteau",
    "roles": [
@@ -25837,16 +31004,6 @@
    ]
   },
   {
-   "slug": "jean-pierre-gamarra",
-   "nombre": "Jean Pierre Gamarra",
-   "roles": [
-    "dirección"
-   ],
-   "obras": [
-    "la-voz-humana"
-   ]
-  },
-  {
    "slug": "jean-marc-matos",
    "nombre": "Jean-Marc Matos",
    "roles": [
@@ -25855,6 +31012,16 @@
    ],
    "obras": [
     "myselves"
+   ]
+  },
+  {
+   "slug": "jeremy-gomez",
+   "nombre": "Jeremy Gómez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "noche-de-emociones"
    ]
   },
   {
@@ -25875,6 +31042,16 @@
    ],
    "obras": [
     "gira-super-arte-lenny-tavarez-y-justin-quiles"
+   ]
+  },
+  {
+   "slug": "jesperino",
+   "nombre": "Jesperino",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bqestia-soundsystem-10-anos"
    ]
   },
   {
@@ -25908,6 +31085,16 @@
    ]
   },
   {
+   "slug": "joamoc",
+   "nombre": "Joamoc",
+   "roles": [
+    "dirección"
+   ],
+   "obras": [
+    "miedo-a-volar"
+   ]
+  },
+  {
    "slug": "joaquin-de-orbegoso",
    "nombre": "Joaquín de Orbegoso",
    "roles": [
@@ -25925,16 +31112,6 @@
    ],
    "obras": [
     "cazadores-de-historias"
-   ]
-  },
-  {
-   "slug": "johanna-san-miguel",
-   "nombre": "Johanna San Miguel",
-   "roles": [
-    "actuación"
-   ],
-   "obras": [
-    "las-irresponsables"
    ]
   },
   {
@@ -25975,6 +31152,16 @@
    ],
    "obras": [
     "jorge-drexler"
+   ]
+  },
+  {
+   "slug": "jorge-luis-jasso",
+   "nombre": "Jorge Luis Jasso",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
    ]
   },
   {
@@ -26058,6 +31245,46 @@
    ]
   },
   {
+   "slug": "jose-carlos-reyes",
+   "nombre": "José Carlos Reyes",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "los-panchos-nostalgia-tour"
+   ]
+  },
+  {
+   "slug": "jose-francisco-valdelomar",
+   "nombre": "José Francisco Valdelomar",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
+   "slug": "juan-carlos-calderon",
+   "nombre": "Juan Carlos Calderón",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-perro-y-la-banda-sutil"
+   ]
+  },
+  {
+   "slug": "juan-gris",
+   "nombre": "Juan Gris",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cecimonster-vs-donka-adult-violence"
+   ]
+  },
+  {
    "slug": "juan-luis-guerra",
    "nombre": "Juan Luis Guerra",
    "roles": [
@@ -26095,6 +31322,36 @@
    ],
    "obras": [
     "broadway-in-concert-from-spain-live-in-lima"
+   ]
+  },
+  {
+   "slug": "julie-freundt",
+   "nombre": "Julie Freundt",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
+   ]
+  },
+  {
+   "slug": "julio-humala",
+   "nombre": "Julio Humala",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
+   ]
+  },
+  {
+   "slug": "julio-perez",
+   "nombre": "Julio Pérez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "que-viva-la-criollada"
    ]
   },
   {
@@ -26148,16 +31405,6 @@
    ]
   },
   {
-   "slug": "karla-sofia",
-   "nombre": "Karla Sofía",
-   "roles": [
-    "artista"
-   ],
-   "obras": [
-    "amanda-portales-arte-puro-ii"
-   ]
-  },
-  {
    "slug": "karla-valenzuela",
    "nombre": "Karla Valenzuela",
    "roles": [
@@ -26175,6 +31422,16 @@
    ],
    "obras": [
     "soy-luna-tour-el-ultimo-show"
+   ]
+  },
+  {
+   "slug": "katherina-sanchez",
+   "nombre": "Katherina Sánchez",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
    ]
   },
   {
@@ -26228,6 +31485,26 @@
    ]
   },
   {
+   "slug": "kidd-voodoo",
+   "nombre": "Kidd Voodoo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "kidd-voodoo-euforia-world-tour"
+   ]
+  },
+  {
+   "slug": "king-cholo",
+   "nombre": "King Cholo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bqestia-soundsystem-10-anos"
+   ]
+  },
+  {
    "slug": "kreator",
    "nombre": "Kreator",
    "roles": [
@@ -26246,6 +31523,16 @@
    ],
    "obras": [
     "blanca-ponte-un-alma"
+   ]
+  },
+  {
+   "slug": "la-banda-sutil",
+   "nombre": "La Banda Sutil",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-perro-y-la-banda-sutil"
    ]
   },
   {
@@ -26279,6 +31566,46 @@
    ]
   },
   {
+   "slug": "la-maquina-camaleon",
+   "nombre": "La Máquina Camaleón",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-perro-y-la-banda-sutil"
+   ]
+  },
+  {
+   "slug": "lagos",
+   "nombre": "Lagos",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "lagos-tour-2026"
+   ]
+  },
+  {
+   "slug": "laguna-pai",
+   "nombre": "Laguna Pai",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "laguna-pai-noche-de-visiones"
+   ]
+  },
+  {
+   "slug": "lalo-arroyo",
+   "nombre": "Lalo Arroyo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
+   ]
+  },
+  {
    "slug": "lars-von-trier",
    "nombre": "Lars von Trier",
    "roles": [
@@ -26286,6 +31613,26 @@
    ],
    "obras": [
     "el-jefe-del-jefe"
+   ]
+  },
+  {
+   "slug": "lateral",
+   "nombre": "Lateral",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
+   ]
+  },
+  {
+   "slug": "laura-huarcayo",
+   "nombre": "Laura Huarcayo",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "cero-migajeros"
    ]
   },
   {
@@ -26360,6 +31707,16 @@
    ]
   },
   {
+   "slug": "lev-ivanov",
+   "nombre": "Lev Ivanov",
+   "roles": [
+    "coreografía"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
+   ]
+  },
+  {
    "slug": "lilian-schiappa",
    "nombre": "Lilian Schiappa",
    "roles": [
@@ -26390,6 +31747,26 @@
    ]
   },
   {
+   "slug": "loncheras-de-perro",
+   "nombre": "Loncheras de Perro",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "loncheras-de-perro-y-santino-amigo"
+   ]
+  },
+  {
+   "slug": "loreley-vidal",
+   "nombre": "Loreley Vidal",
+   "roles": [
+    "producción"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "lorena-reynoso",
    "nombre": "Lorena Reynoso",
    "roles": [
@@ -26397,16 +31774,6 @@
    ],
    "obras": [
     "caos-en-familia"
-   ]
-  },
-  {
-   "slug": "lorenzo-albani",
-   "nombre": "Lorenzo Albani",
-   "roles": [
-    "escenografía"
-   ],
-   "obras": [
-    "la-voz-humana"
    ]
   },
   {
@@ -26430,6 +31797,16 @@
    ]
   },
   {
+   "slug": "los-doltons",
+   "nombre": "Los Doltons",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "a-jaranear-en-el-segura"
+   ]
+  },
+  {
    "slug": "los-embajadores-criollos",
    "nombre": "Los Embajadores Criollos",
    "roles": [
@@ -26440,6 +31817,26 @@
    ]
   },
   {
+   "slug": "los-heraldos-de-puquio",
+   "nombre": "Los Heraldos de Puquio",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "dos-leyendas-del-huayno-ayacuchano"
+   ]
+  },
+  {
+   "slug": "los-panchos",
+   "nombre": "Los Panchos",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "los-panchos-nostalgia-tour"
+   ]
+  },
+  {
    "slug": "los-quipus",
    "nombre": "Los Quipus",
    "roles": [
@@ -26447,6 +31844,16 @@
    ],
    "obras": [
     "peru-criollo-con-lucia-de-la-cruz"
+   ]
+  },
+  {
+   "slug": "los-trece-baladas",
+   "nombre": "Los Trece Baladas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3"
    ]
   },
   {
@@ -26490,6 +31897,16 @@
    ]
   },
   {
+   "slug": "lucy-perez",
+   "nombre": "Lucy Pérez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "elisa-tokeshi"
+   ]
+  },
+  {
    "slug": "lucia-de-la-cruz",
    "nombre": "Lucía de la Cruz",
    "roles": [
@@ -26530,6 +31947,26 @@
    ]
   },
   {
+   "slug": "luis-jose-ocampo",
+   "nombre": "Luis José Ocampo",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "terapia-blanquiazvl"
+   ]
+  },
+  {
+   "slug": "luis-peche-alvarado",
+   "nombre": "Luis Peche Alvarado",
+   "roles": [
+    "otro"
+   ],
+   "obras": [
+    "con-ketchup-antes-de-parir"
+   ]
+  },
+  {
    "slug": "luis-sarmiento-narro",
    "nombre": "Luis Sarmiento Narro",
    "roles": [
@@ -26550,14 +31987,13 @@
    ]
   },
   {
-   "slug": "luisito-fernandez",
-   "nombre": "Luisito Fernández",
+   "slug": "luna-mendoza",
+   "nombre": "Luna Mendoza",
    "roles": [
-    "actuación",
-    "dramaturgia"
+    "artista"
    ],
    "obras": [
-    "138-citas-para-encontrar-el-amor"
+    "ellas-en-concierto-en-bianca"
    ]
   },
   {
@@ -26701,6 +32137,26 @@
    ]
   },
   {
+   "slug": "manuel-valdez",
+   "nombre": "Manuel Valdez",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "dimitri-y-las-brujas"
+   ]
+  },
+  {
+   "slug": "mar-de-copas",
+   "nombre": "Mar de Copas",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3"
+   ]
+  },
+  {
    "slug": "marc-almond",
    "nombre": "Marc Almond",
    "roles": [
@@ -26741,6 +32197,16 @@
    ]
   },
   {
+   "slug": "marcelo-prado",
+   "nombre": "Marcelo Prado",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "marco-antonio-solis",
    "nombre": "Marco Antonio Solís",
    "roles": [
@@ -26759,6 +32225,16 @@
    ],
    "obras": [
     "el-club-de-las-viudas"
+   ]
+  },
+  {
+   "slug": "marco-romero",
+   "nombre": "Marco Romero",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "a-jaranear-en-el-segura"
    ]
   },
   {
@@ -26853,6 +32329,17 @@
    ]
   },
   {
+   "slug": "mario-gaviria",
+   "nombre": "Mario Gaviria",
+   "roles": [
+    "dirección",
+    "dramaturgia"
+   ],
+   "obras": [
+    "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido"
+   ]
+  },
+  {
    "slug": "mario-irivarren",
    "nombre": "Mario Irivarren",
    "roles": [
@@ -26860,6 +32347,16 @@
    ],
    "obras": [
     "la-manada"
+   ]
+  },
+  {
+   "slug": "marisol-zumeta",
+   "nombre": "Marisol Zumeta",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "iii-festival-multicultural-pawa-raymi"
    ]
   },
   {
@@ -26880,6 +32377,16 @@
    ],
    "obras": [
     "manana-la-muerte"
+   ]
+  },
+  {
+   "slug": "marius-petipa",
+   "nombre": "Marius Petipa",
+   "roles": [
+    "coreografía"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
    ]
   },
   {
@@ -26933,6 +32440,56 @@
    ]
   },
   {
+   "slug": "martin-velasquez-marvelat",
+   "nombre": "Martín Velásquez Marvelat",
+   "roles": [
+    "dirección"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
+   "slug": "marzenit",
+   "nombre": "Marzenit",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "marzenit-rabia"
+   ]
+  },
+  {
+   "slug": "maria-angulo",
+   "nombre": "María Angulo",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "el-engranaje"
+   ]
+  },
+  {
+   "slug": "maria-grazia",
+   "nombre": "María Grazia",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gian-marco-bajo-la-manga"
+   ]
+  },
+  {
+   "slug": "maria-grazia-gamarra",
+   "nombre": "María Grazia Gamarra",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "romeo-y-julieta"
+   ]
+  },
+  {
    "slug": "maria-lujan",
    "nombre": "María Luján",
    "roles": [
@@ -26983,13 +32540,34 @@
    ]
   },
   {
-   "slug": "melissa-angeles",
-   "nombre": "Melissa Ángeles",
+   "slug": "mauricio-moquillaza",
+   "nombre": "Mauricio Moquillaza",
    "roles": [
     "artista"
    ],
    "obras": [
-    "viva-mexico-cabrones"
+    "sueno-purpura-aniversario-souvenir"
+   ]
+  },
+  {
+   "slug": "mauricio-rueda",
+   "nombre": "Mauricio Rueda",
+   "roles": [
+    "artista",
+    "dirección"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
+   ]
+  },
+  {
+   "slug": "melanie-malpartida",
+   "nombre": "Melanie Malpartida",
+   "roles": [
+    "producción"
+   ],
+   "obras": [
+    "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido"
    ]
   },
   {
@@ -27010,6 +32588,16 @@
    ],
    "obras": [
     "esplendor-la-esencia-de-folkshow"
+   ]
+  },
+  {
+   "slug": "mercury-toys",
+   "nombre": "Mercury Toys",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "wan"
    ]
   },
   {
@@ -27060,6 +32648,16 @@
    ],
    "obras": [
     "la-mascara-de-la-muerte-roja"
+   ]
+  },
+  {
+   "slug": "miguel-angel-pardo",
+   "nombre": "Miguel Ángel Pardo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "los-panchos-nostalgia-tour"
    ]
   },
   {
@@ -27153,6 +32751,16 @@
    ]
   },
   {
+   "slug": "mas-poder",
+   "nombre": "Más Poder",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "que-viva-la-criollada"
+   ]
+  },
+  {
    "slug": "monica-cabrejos",
    "nombre": "Mónica Cabrejos",
    "roles": [
@@ -27183,6 +32791,16 @@
    ]
   },
   {
+   "slug": "n3t4",
+   "nombre": "N3T4",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bqestia-soundsystem-10-anos"
+   ]
+  },
+  {
    "slug": "nagib-reeves",
    "nombre": "Nagib Reeves",
    "roles": [
@@ -27193,6 +32811,16 @@
    ]
   },
   {
+   "slug": "nancy-manchego",
+   "nombre": "Nancy Manchego",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
+   ]
+  },
+  {
    "slug": "narcosis",
    "nombre": "Narcosis",
    "roles": [
@@ -27200,6 +32828,36 @@
    ],
    "obras": [
     "narcosis"
+   ]
+  },
+  {
+   "slug": "natalia-lopez",
+   "nombre": "Natalia López",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "el-engranaje"
+   ]
+  },
+  {
+   "slug": "negra-valencia",
+   "nombre": "Negra Valencia",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "hyper-foco"
+   ]
+  },
+  {
+   "slug": "nero-lvigi",
+   "nombre": "Nero Lvigi",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
    ]
   },
   {
@@ -27223,6 +32881,16 @@
    ]
   },
   {
+   "slug": "nicolai-gorodiski",
+   "nombre": "Nicolai Gorodiski",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
+   ]
+  },
+  {
    "slug": "nicolas-castro",
    "nombre": "Nicolás Castro",
    "roles": [
@@ -27233,6 +32901,26 @@
    ]
   },
   {
+   "slug": "noelia-calle",
+   "nombre": "Noelia Calle",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "ellas-en-concierto-en-bianca"
+   ]
+  },
+  {
+   "slug": "noelia-herencia",
+   "nombre": "Noelia Herencia",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
    "slug": "norka-gaspar",
    "nombre": "Norka Gaspar",
    "roles": [
@@ -27240,6 +32928,16 @@
    ],
    "obras": [
     "peruanazas-festival-de-stand-up-comedy-de-mujeres"
+   ]
+  },
+  {
+   "slug": "novio",
+   "nombre": "Novio",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cecimonster-vs-donka-adult-violence"
    ]
   },
   {
@@ -27283,6 +32981,46 @@
    ]
   },
   {
+   "slug": "onda-vaga",
+   "nombre": "Onda Vaga",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "onda-vaga-amuletos-de-cristal"
+   ]
+  },
+  {
+   "slug": "oney1",
+   "nombre": "Oney1",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "oney1"
+   ]
+  },
+  {
+   "slug": "oriana-montero",
+   "nombre": "Oriana Montero",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "ellas-en-concierto-en-bianca"
+   ]
+  },
+  {
+   "slug": "orquesta-bembe",
+   "nombre": "Orquesta Bembé",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gian-marco-bajo-la-manga"
+   ]
+  },
+  {
    "slug": "orquesta-filarmonica-aura",
    "nombre": "Orquesta Filarmónica Aura",
    "roles": [
@@ -27300,6 +33038,36 @@
    ],
    "obras": [
     "orquesta-filarmonica-de-lima-sinfonia-n-o-9-del-nuevo-mundo"
+   ]
+  },
+  {
+   "slug": "orquesta-sinfonica-nacional",
+   "nombre": "Orquesta Sinfónica Nacional",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "concierto-de-la-orquesta-sinfonica-nacional"
+   ]
+  },
+  {
+   "slug": "orquesta-sinfonica-nacional-juvenil-bicentenario",
+   "nombre": "Orquesta Sinfónica Nacional Juvenil Bicentenario",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gala-de-navidad-de-los-elencos-nacionales"
+   ]
+  },
+  {
+   "slug": "orquesta-sinfonica-del-teatro-municipal-de-lima",
+   "nombre": "Orquesta Sinfónica del Teatro Municipal de Lima",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
    ]
   },
   {
@@ -27333,6 +33101,16 @@
    ]
   },
   {
+   "slug": "oscar-dlc",
+   "nombre": "Oscar DLC",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gente-maravillosa"
+   ]
+  },
+  {
    "slug": "oscar-kid",
    "nombre": "Oscar Kid",
    "roles": [
@@ -27350,6 +33128,17 @@
    ],
    "obras": [
     "el-apego"
+   ]
+  },
+  {
+   "slug": "oswaldo-povea",
+   "nombre": "Oswaldo Povea",
+   "roles": [
+    "artista",
+    "dirección"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
    ]
   },
   {
@@ -27444,6 +33233,16 @@
    ]
   },
   {
+   "slug": "pau-simons",
+   "nombre": "Pau Simons",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "paul-ramirez",
    "nombre": "Paul Ramírez",
    "roles": [
@@ -27464,6 +33263,18 @@
    ]
   },
   {
+   "slug": "paulo-cesar-polo-chavez",
+   "nombre": "Paulo César Polo Chávez",
+   "roles": [
+    "actuación",
+    "dirección",
+    "dramaturgia"
+   ],
+   "obras": [
+    "con-ketchup-antes-de-parir"
+   ]
+  },
+  {
    "slug": "pedro-egusquiza-leon",
    "nombre": "Pedro Egusquiza León",
    "roles": [
@@ -27471,6 +33282,66 @@
    ],
    "obras": [
     "138-citas-para-encontrar-el-amor"
+   ]
+  },
+  {
+   "slug": "pepe-murray",
+   "nombre": "Pepe Murray",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
+   "slug": "percy-behr",
+   "nombre": "Percy Behr",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3"
+   ]
+  },
+  {
+   "slug": "percy-rojas-villadeza",
+   "nombre": "Percy Rojas Villadeza",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "charangueando-puno-2026"
+   ]
+  },
+  {
+   "slug": "perros-santos",
+   "nombre": "Perros Santos",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
+   ]
+  },
+  {
+   "slug": "petronik",
+   "nombre": "Petronik",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
+   "slug": "phat-buddha",
+   "nombre": "Phat Buddha",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "perros-friends"
    ]
   },
   {
@@ -27504,6 +33375,16 @@
    ]
   },
   {
+   "slug": "piotr-tchaikovsky",
+   "nombre": "Piotr Tchaikovsky",
+   "roles": [
+    "música"
+   ],
+   "obras": [
+    "el-lago-de-los-cisnes"
+   ]
+  },
+  {
    "slug": "pitillo",
    "nombre": "Pitillo",
    "roles": [
@@ -27531,6 +33412,16 @@
    ],
    "obras": [
     "poly-diaz"
+   ]
+  },
+  {
+   "slug": "pooster",
+   "nombre": "Pooster",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "amame-en-ayacucho"
    ]
   },
   {
@@ -27574,6 +33465,16 @@
    ]
   },
   {
+   "slug": "quini-gomez",
+   "nombre": "Quini Gómez",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "mesa-tomada-2-0"
+   ]
+  },
+  {
    "slug": "ramon-garcia",
    "nombre": "Ramón García",
    "roles": [
@@ -27611,6 +33512,16 @@
    ],
    "obras": [
     "yuyachkani-antes-de-irnos-para-siempre"
+   ]
+  },
+  {
+   "slug": "regina-maciel",
+   "nombre": "Regina Maciel",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "festival-indomesticable-2026-pachamama-y-sus-alquimistas"
    ]
   },
   {
@@ -27661,6 +33572,16 @@
    ],
    "obras": [
     "noche-de-campeones-segunda-edicion"
+   ]
+  },
+  {
+   "slug": "ricky-santos",
+   "nombre": "Ricky Santos",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "ricky-santos-amor-y-cumbia"
    ]
   },
   {
@@ -27734,6 +33655,16 @@
    ]
   },
   {
+   "slug": "ruben-saraza",
+   "nombre": "Rubén Saraza",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "iii-festival-multicultural-pawa-raymi"
+   ]
+  },
+  {
    "slug": "ruggero-pasquarelli",
    "nombre": "Ruggero Pasquarelli",
    "roles": [
@@ -27751,6 +33682,16 @@
    ],
    "obras": [
     "el-pelikano"
+   ]
+  },
+  {
+   "slug": "san-german",
+   "nombre": "San Germán",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "san-humi-ii"
    ]
   },
   {
@@ -27784,6 +33725,17 @@
    ]
   },
   {
+   "slug": "santiago-coco-linares",
+   "nombre": "Santiago Coco Linares",
+   "roles": [
+    "dirección",
+    "producción"
+   ],
+   "obras": [
+    "alicia-siempre-alicia-edicion-2026"
+   ]
+  },
+  {
    "slug": "santiago-pillado-matheu",
    "nombre": "Santiago Pillado-Matheu",
    "roles": [
@@ -27791,6 +33743,26 @@
    ],
    "obras": [
     "fedra"
+   ]
+  },
+  {
+   "slug": "santino-amigo",
+   "nombre": "Santino Amigo",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "loncheras-de-perro-y-santino-amigo"
+   ]
+  },
+  {
+   "slug": "saramalacara",
+   "nombre": "Saramalacara",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "saramalacara-mataderos-world-tour"
    ]
   },
   {
@@ -27834,6 +33806,16 @@
    ]
   },
   {
+   "slug": "sebastian-rubio",
+   "nombre": "Sebastián Rubio",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "romeo-y-julieta"
+   ]
+  },
+  {
    "slug": "sergio-galliani",
    "nombre": "Sergio Galliani",
    "roles": [
@@ -27854,6 +33836,26 @@
    ]
   },
   {
+   "slug": "silvana-picco",
+   "nombre": "Silvana Picco",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "miedo-a-volar"
+   ]
+  },
+  {
+   "slug": "six-sex",
+   "nombre": "Six Sex",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "six-sex-ultra"
+   ]
+  },
+  {
    "slug": "soen",
    "nombre": "Soen",
    "roles": [
@@ -27871,6 +33873,26 @@
    ],
    "obras": [
     "la-mascara-de-la-muerte-roja"
+   ]
+  },
+  {
+   "slug": "sofia-con-z",
+   "nombre": "Sofía con Z",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
+   "slug": "sol-yucra-sereno",
+   "nombre": "Sol Yucra Sereno",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "el-engranaje"
    ]
   },
   {
@@ -27904,6 +33926,36 @@
    ]
   },
   {
+   "slug": "sophia-garcia",
+   "nombre": "Sophia García",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
+   "slug": "space-cake",
+   "nombre": "Space Cake",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "space-cake"
+   ]
+  },
+  {
+   "slug": "sparx",
+   "nombre": "Sparx",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cecimonster-vs-donka-adult-violence"
+   ]
+  },
+  {
    "slug": "stephen-mallatratt",
    "nombre": "Stephen Mallatratt",
    "roles": [
@@ -27911,6 +33963,26 @@
    ],
    "obras": [
     "la-mujer-de-negro-woman-in-black"
+   ]
+  },
+  {
+   "slug": "sueno-purpura",
+   "nombre": "Sueño Púrpura",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "sueno-purpura-aniversario-souvenir"
+   ]
+  },
+  {
+   "slug": "suleira-antoanee",
+   "nombre": "Suleira Antoanee",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "el-engranaje"
    ]
   },
   {
@@ -27934,6 +34006,46 @@
    ]
   },
   {
+   "slug": "susan-ochoa",
+   "nombre": "Susan Ochoa",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "noche-de-emociones"
+   ]
+  },
+  {
+   "slug": "svetlana-smolina",
+   "nombre": "Svetlana Smolina",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "svetlana-smolina-recital-de-piano"
+   ]
+  },
+  {
+   "slug": "sofy",
+   "nombre": "SÖFY",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "amame-en-ayacucho"
+   ]
+  },
+  {
+   "slug": "tim",
+   "nombre": "TIMØ",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "tim"
+   ]
+  },
+  {
    "slug": "tania-libertad",
    "nombre": "Tania Libertad",
    "roles": [
@@ -27951,6 +34063,16 @@
    ],
    "obras": [
     "yuyachkani-antes-de-irnos-para-siempre"
+   ]
+  },
+  {
+   "slug": "the-lemon-twigs",
+   "nombre": "The Lemon Twigs",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "the-lemon-twigs"
    ]
   },
   {
@@ -27984,6 +34106,26 @@
    ]
   },
   {
+   "slug": "tipling-rock",
+   "nombre": "Tipling Rock",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "tipling-rock-america-latina-tour-2026"
+   ]
+  },
+  {
+   "slug": "tito-manrique",
+   "nombre": "Tito Manrique",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "cosa-nuestra-historia-de-la-salsa-criolla"
+   ]
+  },
+  {
    "slug": "tito-el-bambino",
    "nombre": "Tito el Bambino",
    "roles": [
@@ -28001,6 +34143,36 @@
    ],
    "obras": [
     "voces-del-amor"
+   ]
+  },
+  {
+   "slug": "tono-jauregui",
+   "nombre": "Toño Jáuregui",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "rock-n-love-vol-3"
+   ]
+  },
+  {
+   "slug": "trilce",
+   "nombre": "Trilce",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bqestia-soundsystem-10-anos"
+   ]
+  },
+  {
+   "slug": "trio-ayacucho",
+   "nombre": "Trío Ayacucho",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "dos-leyendas-del-huayno-ayacuchano"
    ]
   },
   {
@@ -28024,6 +34196,26 @@
    ]
   },
   {
+   "slug": "ubi-espinosa",
+   "nombre": "Ubi Espinosa",
+   "roles": [
+    "producción"
+   ],
+   "obras": [
+    "charangueando-puno-2026"
+   ]
+  },
+  {
+   "slug": "umi-murasaki",
+   "nombre": "Umi Murasaki",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "san-humi-ii"
+   ]
+  },
+  {
    "slug": "valeria-pflucker",
    "nombre": "Valeria Pflucker",
    "roles": [
@@ -28031,6 +34223,26 @@
    ],
    "obras": [
     "ahora-que"
+   ]
+  },
+  {
+   "slug": "valeria-ramos",
+   "nombre": "Valeria Ramos",
+   "roles": [
+    "otro"
+   ],
+   "obras": [
+    "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido"
+   ]
+  },
+  {
+   "slug": "vane-de-la-torre",
+   "nombre": "Vane De la Torre",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "con-ketchup-antes-de-parir"
    ]
   },
   {
@@ -28084,6 +34296,16 @@
    ]
   },
   {
+   "slug": "violeta-duenas",
+   "nombre": "Violeta Dueñas",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "vladimir-guzman",
    "nombre": "Vladimir Guzmán",
    "roles": [
@@ -28104,6 +34326,26 @@
    ]
   },
   {
+   "slug": "wan",
+   "nombre": "WAN",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "wan"
+   ]
+  },
+  {
+   "slug": "walter-gil",
+   "nombre": "Walter Gil",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "walter-vasquez",
    "nombre": "Walter Vásquez",
    "roles": [
@@ -28111,6 +34353,26 @@
    ],
    "obras": [
     "informe-para-una-academia"
+   ]
+  },
+  {
+   "slug": "we-the-lion",
+   "nombre": "We The Lion",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "we-the-lion-10-anos-unplugged"
+   ]
+  },
+  {
+   "slug": "wendy-ramos",
+   "nombre": "Wendy Ramos",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "pajaros-en-la-cabeza"
    ]
   },
   {
@@ -28144,6 +34406,16 @@
    ]
   },
   {
+   "slug": "william-shakespeare",
+   "nombre": "William Shakespeare",
+   "roles": [
+    "dramaturgia"
+   ],
+   "obras": [
+    "romeo-y-julieta"
+   ]
+  },
+  {
    "slug": "wilmer-cartagena",
    "nombre": "Wilmer Cartagena",
    "roles": [
@@ -28164,6 +34436,16 @@
    ]
   },
   {
+   "slug": "yaneth-gutierrez",
+   "nombre": "Yaneth Gutiérrez",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "los-chismes-de-las-mujeres"
+   ]
+  },
+  {
    "slug": "yaremis-rebaza",
    "nombre": "Yaremis Rebaza",
    "roles": [
@@ -28174,6 +34456,26 @@
    ]
   },
   {
+   "slug": "yo-soy-tu",
+   "nombre": "Yo Soy Tú",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gala-brie-ultima-parada"
+   ]
+  },
+  {
+   "slug": "yozty",
+   "nombre": "Yozty",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "bqestia-soundsystem-10-anos"
+   ]
+  },
+  {
    "slug": "ysabel-caceda",
    "nombre": "Ysabel Cáceda",
    "roles": [
@@ -28181,6 +34483,36 @@
    ],
    "obras": [
     "manana-la-muerte"
+   ]
+  },
+  {
+   "slug": "zaperoko",
+   "nombre": "Zaperoko",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gian-marco-bajo-la-manga"
+   ]
+  },
+  {
+   "slug": "zen",
+   "nombre": "Zen",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "zen"
+   ]
+  },
+  {
+   "slug": "quien-acido",
+   "nombre": "¿Quién Ácido?",
+   "roles": [
+    "artista"
+   ],
+   "obras": [
+    "gente-maravillosa"
    ]
   },
   {
@@ -28201,6 +34533,16 @@
    ],
    "obras": [
     "nadie-dice-nada-en-peru"
+   ]
+  },
+  {
+   "slug": "oscar-yepez",
+   "nombre": "Óscar Yépez",
+   "roles": [
+    "actuación"
+   ],
+   "obras": [
+    "romeo-y-julieta"
    ]
   }
  ],
@@ -28236,40 +34578,6 @@
    "confianza": "baja",
    "estado": "incierto",
    "notas": "No se halló actividad reciente (2025-2026) ni cuentas oficiales. Las fuentes son antiguas; verificar si sigue operando. Ticketera según nota antigua de RPP."
-  },
-  {
-   "nombre": "Teatro Juanita Tarnawiecki (ex Mocha Graña)",
-   "alias": [
-    "Teatro Mocha Graña",
-    "Mocha Graña",
-    "TEATRO JUANITA TARNAWIECKI",
-    "TEATRO JUANITA TARNAWIECKI EX MOCHA GRAÑA - BARRANCO - LIMA",
-    "TEATRO MOCHA GRAÑA"
-   ],
-   "ciudad": "Lima",
-   "distrito": "Barranco",
-   "direccion": "Alameda Sáenz Peña 105, Barranco",
-   "tipo": "independiente",
-   "aforo_aprox": null,
-   "descripcion_corta": "Sala barranquina conocida como Mocha Graña, hoy rebautizada Juanita Tarnawiecki; programa sobre todo teatro infantil y familiar y algunos montajes musicales.",
-   "web": null,
-   "instagram": null,
-   "url_cartelera": null,
-   "ticketera": [
-    "Teleticket"
-   ],
-   "coordenadas": {
-    "lat": -12.14351,
-    "lng": -77.02233
-   },
-   "fuente": [
-    "https://teleticket.com.pe/evento/un-capibara-en-la-ciudad-teatro-juanita-tarnawiecki-ex-mocha-grania",
-    "https://teleticket.com.pe/evento/la-opera-del-comediante-teatro-juanita-tarnawiecki-ex-mocha-grania",
-    "https://nominatim.openstreetmap.org/"
-   ],
-   "confianza": "media",
-   "estado": "activa",
-   "notas": "Cambió de nombre: Teleticket la lista como 'Teatro Juanita Tarnawiecki (Ex Mocha Graña)'. Algunas fuentes dan el número 107. Fecha y motivo del cambio no documentados."
   },
   {
    "nombre": "ICPNA Lima Centro (Auditorio)",
@@ -28492,38 +34800,6 @@
    "notas": "Vende entradas por reserva directa (entradas@yuyachkani.org y WhatsApp), sin ticketera. Temporadas esporádicas (p. ej. 'El Repertorio', ago-sep 2026). La web publica repertorio, no un calendario."
   },
   {
-   "nombre": "Teatro Racional",
-   "alias": [
-    "Cine Teatro irRacional",
-    "Teatro Racional Barranco",
-    "Teatro irRacional"
-   ],
-   "ciudad": "Lima",
-   "distrito": "Barranco",
-   "direccion": "Av. José Balta 170, Barranco",
-   "tipo": "independiente",
-   "aforo_aprox": null,
-   "descripcion_corta": "Pequeña sala de cámara en Barranco, reabierta en 2025; programa teatro contemporáneo de producciones independientes como Yestoquelotro.",
-   "web": null,
-   "instagram": "https://www.instagram.com/cineteatroirracional/",
-   "url_cartelera": null,
-   "ticketera": [],
-   "coordenadas": {
-    "lat": -12.14258,
-    "lng": -77.01705
-   },
-   "fuente": [
-    "https://peru21.pe/cultura/teatro-racional-reabre-sus-puertas-con-obra-hielo-en-la-sangre/",
-    "https://diariocorreo.pe/noticias/teatro-racional/",
-    "https://caretas.pe/cultura/los-cuatro-letras-david-carrillo-teatro-racional/",
-    "https://www.instagram.com/cineteatroirracional/",
-    "https://nominatim.openstreetmap.org/"
-   ],
-   "confianza": "media",
-   "estado": "activa",
-   "notas": "La prensa la llama 'Teatro Racional'; el Instagram en la misma dirección se presenta como 'Cine Teatro irRacional' (se asume la misma sala, sin confirmación). Una nota menciona funciones para unas 45 personas. Canal de venta no confirmado."
-  },
-  {
    "nombre": "Centro Qosqo de Arte Nativo",
    "alias": [
     "Qosqo Arte Nativo",
@@ -28668,8 +34944,113 @@
     "https://nominatim.openstreetmap.org/"
    ],
    "confianza": "media",
-   "estado": "activa",
-   "notas": "Aforo 410 según la revista Constructivo (fecha no visible). Número 753 solo en un listado de eventos. No se encontró programación 2026 ni canal de venta."
+   "estado": "cerrada",
+   "notas": "Aforo 410 según la revista Constructivo (fecha no visible). Número 753 solo en un listado de eventos. No se encontró programación 2026 ni canal de venta. Cerrado por remodelación desde abril de 2025; sin fecha de reapertura a junio de 2026."
+  },
+  {
+   "nombre": "Teatro Municipal de Tacna",
+   "alias": [
+    "Teatro Municipal Doctor Luis Cavagnaro Orellana",
+    "TEATRO MUNICIPAL DE TACNA"
+   ],
+   "ciudad": "Tacna",
+   "distrito": "Tacna",
+   "direccion": "Pasaje Calderón de la Barca y calle 2 de Mayo, frente a la plaza MacLean, Tacna",
+   "tipo": "municipal",
+   "aforo_aprox": null,
+   "descripcion_corta": "Teatro histórico de la Municipalidad Provincial de Tacna, levantado entre 1859 y 1870 y declarado monumento en 1972; está cerrado desde abril de 2025 por el mal estado del edificio.",
+   "web": null,
+   "instagram": null,
+   "url_cartelera": null,
+   "ticketera": [],
+   "coordenadas": {
+    "lat": -18.00993,
+    "lng": -70.24922
+   },
+   "fuente": [
+    "https://es.wikipedia.org/wiki/Teatro_Municipal_de_Tacna",
+    "https://larepublica.pe/sociedad/2025/04/07/clausuran-teatro-municipal-de-tacna-por-pesimo-estado-de-infraestructura-116186",
+    "https://radiouno.pe/noticias/281618/teatro-municipal-de-tacna-queda-en-espera-por-falta-de-presupuesto/",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "confianza": "alta",
+   "estado": "cerrada",
+   "notas": "Clausurado el 7 de abril de 2025. En agosto de 2026 el Ministerio de Cultura dijo que la restauración queda en espera por falta de presupuesto (emergencia por El Niño) y que buscará APP u Obras por Impuestos. Renombrado en 2022 en honor a Luis Cavagnaro Orellana."
+  },
+  {
+   "nombre": "Teatro Municipal de Piura",
+   "alias": [
+    "Nuevo Teatro Municipal de Piura",
+    "TEATRO MUNICIPAL DE PIURA"
+   ],
+   "ciudad": "Piura",
+   "distrito": "Piura",
+   "direccion": "Frente a la plaza Salaverry, barrio de La Mangachería, Piura",
+   "tipo": "municipal",
+   "aforo_aprox": 804,
+   "descripcion_corta": "Nuevo teatro de la Municipalidad Provincial de Piura, en construcción desde noviembre de 2025 en el lugar del antiguo, que colapsó; el proyecto contempla 804 butacas y foso para orquesta.",
+   "web": null,
+   "instagram": null,
+   "url_cartelera": null,
+   "ticketera": [],
+   "coordenadas": null,
+   "fuente": [
+    "https://www.gob.pe/institucion/munipiura/noticias/1297101-piura-inicia-la-construccion-de-su-nuevo-teatro-municipal",
+    "https://www.gob.pe/institucion/munipiura/noticias/1442742-nuevo-teatro-municipal-avanza-con-infraestructura-de-alto-nivel-y-se-perfila-como-referente-cultural-del-norte"
+   ],
+   "confianza": "alta",
+   "estado": "en_obras",
+   "notas": "Aforo es el del proyecto (804 butacas, 10 espacios para silla de ruedas). Avance físico de 28 % al 10/09/2026; plazo de obra de 540 días. Sin programación hasta su apertura; los espectáculos de gira en Piura usan auditorios privados o universitarios. Dirección exacta no publicada."
+  },
+  {
+   "nombre": "Teatro Cajamarca",
+   "alias": [
+    "Teatro Municipal de Cajamarca",
+    "TEATRO CAJAMARCA"
+   ],
+   "ciudad": "Cajamarca",
+   "distrito": "Cajamarca",
+   "direccion": "Esquina Jr. Junín y Jr. Arequipa, Cajamarca",
+   "tipo": "estatal",
+   "aforo_aprox": null,
+   "descripcion_corta": "Teatro centenario del centro histórico de Cajamarca, a cargo de la Dirección de Cultura; está cerrado desde 2012 por fallas estructurales.",
+   "web": null,
+   "instagram": null,
+   "url_cartelera": null,
+   "ticketera": [],
+   "coordenadas": null,
+   "fuente": [
+    "https://www.regioncajamarca.gob.pe/portal/noticias/det/9331",
+    "https://www.deperu.com/esparcimiento/teatros/teatro-cajamarca-5318"
+   ],
+   "confianza": "media",
+   "estado": "cerrada",
+   "notas": "En agosto de 2024 el Gobierno Regional anunció su rehabilitación por Obras por Impuestos con Southern Perú (S/ 8,06 millones); no se hallaron avances en 2025-2026. Dirección según DePerú (fuente única). No se identificó otro teatro público activo en la ciudad."
+  },
+  {
+   "nombre": "Teatro Dos de Mayo",
+   "alias": [
+    "Teatro 2 de Mayo",
+    "Teatro Dos de Mayo de Chiclayo"
+   ],
+   "ciudad": "Chiclayo",
+   "distrito": "Chiclayo",
+   "direccion": "Calle Alfredo Lapoint 909, Chiclayo",
+   "tipo": "institucional",
+   "aforo_aprox": null,
+   "descripcion_corta": "Teatro histórico de Chiclayo, de 1878, propiedad de la Sociedad de Beneficencia; está clausurado y muy deteriorado, a la espera de un proyecto de restauración.",
+   "web": null,
+   "instagram": null,
+   "url_cartelera": null,
+   "ticketera": [],
+   "coordenadas": null,
+   "fuente": [
+    "https://www.deperu.com/esparcimiento/teatros/teatro-dos-de-mayo-de-chiclayo-5313",
+    "https://www.gob.pe/institucion/munichiclayo/noticias/1015899-comision-realiza-visita-al-local-del-teatro-dos-de-mayo"
+   ],
+   "confianza": "media",
+   "estado": "cerrada",
+   "notas": "Chiclayo no tiene teatro municipal. En 2024 la municipalidad encabezó una comisión para restaurarlo; en la visita se constató el robo de casi todas las butacas. Los espectáculos de gira van a auditorios de colegios y universidades privadas o al Teatro Moline."
   }
  ]
 }

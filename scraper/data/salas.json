@@ -1136,7 +1136,7 @@
     "tipo": "municipal",
     "aforo_aprox": 617,
     "descripcion_corta": "Principal teatro de la ciudad, a cinco cuadras de la Plaza de Armas; programa conciertos, danza, teatro y festivales, con una sala principal y salas menores (Inti, Killa).",
-    "web": null,
+    "web": "https://teatro-municipal.cusco.gob.pe/",
     "instagram": null,
     "url_cartelera": null,
     "ticketera": [
@@ -1408,8 +1408,8 @@
       "https://nominatim.openstreetmap.org/"
     ],
     "confianza": "media",
-    "estado": "activa",
-    "notas": "Aforo 410 según la revista Constructivo (fecha no visible). Número 753 solo en un listado de eventos. No se encontró programación 2026 ni canal de venta."
+    "estado": "cerrada",
+    "notas": "Aforo 410 según la revista Constructivo (fecha no visible). Número 753 solo en un listado de eventos. No se encontró programación 2026 ni canal de venta. Cerrado por remodelación desde abril de 2025; sin fecha de reapertura a junio de 2026."
   },
   {
     "nombre": "Gran Teatro Víctor Raúl Lozano Ibáñez (UPAO)",
@@ -1478,5 +1478,211 @@
     "confianza": "media",
     "estado": "activa",
     "notas": "Gestor no identificado (tipo=null). Una ficha de Teleticket suma ~450 localidades en un evento, no es aforo oficial. Programación más musical que teatral."
+  },
+  {
+    "nombre": "Teatro Municipal de Puno",
+    "alias": [
+      "TEATRO MUNICIPAL DE PUNO",
+      "Teatro Municipal Puno"
+    ],
+    "ciudad": "Puno",
+    "distrito": "Puno",
+    "direccion": "Esquina Jr. Arequipa con Jr. Deza, Puno",
+    "tipo": "municipal",
+    "aforo_aprox": 701,
+    "descripcion_corta": "Teatro de la Municipalidad Provincial de Puno, abierto en 1915 y remodelado; recibe festivales de danza, conciertos de música andina y teatro regional, muchas veces con ingreso libre.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "entrada libre"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://www.deperu.com/esparcimiento/teatros/teatro-municipal-de-puno-5312",
+      "https://radioondaazul.com/malestar-por-ingreso-restringido-a-evento-cultural-en-teatro-municipal-de-puno/",
+      "https://radioondaazul.com/charangueando-puno-2026-reunira-a-charanguistas-en-concierto-gratuito-en-el-teatro-municipal/",
+      "https://radioondaazul.com/puno-celebra-el-iii-festival-multicultural-pawa-raymi-con-artistas-de-varios-paises/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo 701 (426 platea baja y 275 platea alta) según DePerú; Radio Onda Azul habla de 700 butacas (mayo 2026). Sin web propia: difunde por Facebook (https://www.facebook.com/Teatro-Municipal-PUNO-1635298496736811/, no consultado). Muchas funciones son gratuitas; en algunas la DDC Puno reparte entradas en sus oficinas. Coordenadas no verificadas (no está en OSM)."
+  },
+  {
+    "nombre": "Cine Teatro Municipal de Huamanga",
+    "alias": [
+      "Teatro Municipal de Huamanga",
+      "Cine Teatro Municipal",
+      "Cine Municipal de Huamanga",
+      "Teatro Municipal de Ayacucho"
+    ],
+    "ciudad": "Ayacucho",
+    "distrito": "Ayacucho",
+    "direccion": "Portal Municipal 44, Parque Sucre (Plaza de Armas), Ayacucho",
+    "tipo": "municipal",
+    "aforo_aprox": 320,
+    "descripcion_corta": "Sala de la Municipalidad Provincial de Huamanga en el Portal Municipal de la plaza principal; acoge conciertos de música ayacuchana, festivales de la canción y teatro local.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "reserva telefónica con el organizador"
+    ],
+    "coordenadas": {
+      "lat": -13.16041,
+      "lng": -74.22511
+    },
+    "fuente": [
+      "https://www.deperu.com/esparcimiento/teatros/cine-teatro-municipal-de-huamanga-5325",
+      "https://www.gob.pe/institucion/munihuamanga/noticias/1457964-huamanga-se-prepara-para-vibrar-con-el-xxxii-festival-de-la-cancion-ayacuchana",
+      "https://jornada.com.pe/teatros-cerrados-salas-convertidas-en-depositos-y-nulo-apoyo-institucional-la-crisis-del-arte-en-ayacucho/",
+      "https://jornada.com.pe/trio-ayacucho-y-los-heraldos-de-puquio-compartiran-escenario-en-huamanga/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo 320 según DePerú; en nov. 2025 Jornada informó que había perdido la mayor parte de sus butacas y equipamiento, así que el aforo real puede ser menor. La prensa lo llama indistintamente 'Teatro Municipal' o 'Cine Teatro Municipal'. No hay ticketera: cada organizador vende o reserva por teléfono. La municipalidad publica su agenda en Facebook (munihuamanga) y gob.pe."
+  },
+  {
+    "nombre": "Centro de Convenciones Jorge Basadre Grohmann",
+    "alias": [
+      "C.C. Jorge Basadre Grohmann",
+      "C.C. JORGE BASADRE GROHMANN - TACNA",
+      "Centro Cultural Jorge Basadre",
+      "CENTRO CULTURAL JORGE BASADRE - TACNA",
+      "Centro de Convenciones Jorge Basadre",
+      "Teatro Jorge Basadre"
+    ],
+    "ciudad": "Tacna",
+    "distrito": "Tacna",
+    "direccion": "Calle Blondell 114, Tacna",
+    "tipo": "estatal",
+    "aforo_aprox": null,
+    "descripcion_corta": "Centro de convenciones del Gobierno Regional de Tacna, reabierto en 2025; con el Teatro Municipal cerrado, es el principal escenario de la ciudad para conciertos, ballet y comedia.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "Passline"
+    ],
+    "coordenadas": {
+      "lat": -18.01462,
+      "lng": -70.25309
+    },
+    "fuente": [
+      "https://radiouno.pe/noticias/250080/tacna-proxima-a-inaugurar-nuevo-centro-de-convenciones-jorge-basadre",
+      "https://teleticket.com.pe/evento/mar-de-copas-en-tacna-cc-jorge-basadre-grohmann",
+      "https://diariocorreo.pe/espectaculos/los-panchos-regresan-al-peru-conciertos-en-tacna-y-lima-en-noviembre-de-2026-noticia/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Lo administra el Gobierno Regional de Tacna (nota de Radio Uno, ago. 2025). Dirección y coordenadas según OpenStreetMap. Teleticket lo lista como 'C.C. Jorge Basadre Grohmann' y también como 'Centro Cultural Jorge Basadre'; Correo lo llamó 'Teatro Jorge Basadre'. Aforo no encontrado."
+  },
+  {
+    "nombre": "Teatro Municipal de Tacna",
+    "alias": [
+      "Teatro Municipal Doctor Luis Cavagnaro Orellana",
+      "TEATRO MUNICIPAL DE TACNA"
+    ],
+    "ciudad": "Tacna",
+    "distrito": "Tacna",
+    "direccion": "Pasaje Calderón de la Barca y calle 2 de Mayo, frente a la plaza MacLean, Tacna",
+    "tipo": "municipal",
+    "aforo_aprox": null,
+    "descripcion_corta": "Teatro histórico de la Municipalidad Provincial de Tacna, levantado entre 1859 y 1870 y declarado monumento en 1972; está cerrado desde abril de 2025 por el mal estado del edificio.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -18.00993,
+      "lng": -70.24922
+    },
+    "fuente": [
+      "https://es.wikipedia.org/wiki/Teatro_Municipal_de_Tacna",
+      "https://larepublica.pe/sociedad/2025/04/07/clausuran-teatro-municipal-de-tacna-por-pesimo-estado-de-infraestructura-116186",
+      "https://radiouno.pe/noticias/281618/teatro-municipal-de-tacna-queda-en-espera-por-falta-de-presupuesto/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "cerrada",
+    "notas": "Clausurado el 7 de abril de 2025. En agosto de 2026 el Ministerio de Cultura dijo que la restauración queda en espera por falta de presupuesto (emergencia por El Niño) y que buscará APP u Obras por Impuestos. Renombrado en 2022 en honor a Luis Cavagnaro Orellana."
+  },
+  {
+    "nombre": "Teatro Municipal de Piura",
+    "alias": [
+      "Nuevo Teatro Municipal de Piura",
+      "TEATRO MUNICIPAL DE PIURA"
+    ],
+    "ciudad": "Piura",
+    "distrito": "Piura",
+    "direccion": "Frente a la plaza Salaverry, barrio de La Mangachería, Piura",
+    "tipo": "municipal",
+    "aforo_aprox": 804,
+    "descripcion_corta": "Nuevo teatro de la Municipalidad Provincial de Piura, en construcción desde noviembre de 2025 en el lugar del antiguo, que colapsó; el proyecto contempla 804 butacas y foso para orquesta.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": null,
+    "fuente": [
+      "https://www.gob.pe/institucion/munipiura/noticias/1297101-piura-inicia-la-construccion-de-su-nuevo-teatro-municipal",
+      "https://www.gob.pe/institucion/munipiura/noticias/1442742-nuevo-teatro-municipal-avanza-con-infraestructura-de-alto-nivel-y-se-perfila-como-referente-cultural-del-norte"
+    ],
+    "confianza": "alta",
+    "estado": "en_obras",
+    "notas": "Aforo es el del proyecto (804 butacas, 10 espacios para silla de ruedas). Avance físico de 28 % al 10/09/2026; plazo de obra de 540 días. Sin programación hasta su apertura; los espectáculos de gira en Piura usan auditorios privados o universitarios. Dirección exacta no publicada."
+  },
+  {
+    "nombre": "Teatro Cajamarca",
+    "alias": [
+      "Teatro Municipal de Cajamarca",
+      "TEATRO CAJAMARCA"
+    ],
+    "ciudad": "Cajamarca",
+    "distrito": "Cajamarca",
+    "direccion": "Esquina Jr. Junín y Jr. Arequipa, Cajamarca",
+    "tipo": "estatal",
+    "aforo_aprox": null,
+    "descripcion_corta": "Teatro centenario del centro histórico de Cajamarca, a cargo de la Dirección de Cultura; está cerrado desde 2012 por fallas estructurales.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": null,
+    "fuente": [
+      "https://www.regioncajamarca.gob.pe/portal/noticias/det/9331",
+      "https://www.deperu.com/esparcimiento/teatros/teatro-cajamarca-5318"
+    ],
+    "confianza": "media",
+    "estado": "cerrada",
+    "notas": "En agosto de 2024 el Gobierno Regional anunció su rehabilitación por Obras por Impuestos con Southern Perú (S/ 8,06 millones); no se hallaron avances en 2025-2026. Dirección según DePerú (fuente única). No se identificó otro teatro público activo en la ciudad."
+  },
+  {
+    "nombre": "Teatro Dos de Mayo",
+    "alias": [
+      "Teatro 2 de Mayo",
+      "Teatro Dos de Mayo de Chiclayo"
+    ],
+    "ciudad": "Chiclayo",
+    "distrito": "Chiclayo",
+    "direccion": "Calle Alfredo Lapoint 909, Chiclayo",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Teatro histórico de Chiclayo, de 1878, propiedad de la Sociedad de Beneficencia; está clausurado y muy deteriorado, a la espera de un proyecto de restauración.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": null,
+    "fuente": [
+      "https://www.deperu.com/esparcimiento/teatros/teatro-dos-de-mayo-de-chiclayo-5313",
+      "https://www.gob.pe/institucion/munichiclayo/noticias/1015899-comision-realiza-visita-al-local-del-teatro-dos-de-mayo"
+    ],
+    "confianza": "media",
+    "estado": "cerrada",
+    "notas": "Chiclayo no tiene teatro municipal. En 2024 la municipalidad encabezó una comisión para restaurarlo; en la visita se constató el robo de casi todas las butacas. Los espectáculos de gira van a auditorios de colegios y universidades privadas o al Teatro Moline."
   }
 ]
