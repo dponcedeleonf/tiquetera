@@ -1,0 +1,1482 @@
+[
+  {
+    "nombre": "Teatro La Plaza",
+    "alias": [
+      "La Plaza",
+      "La Plaza ISIL",
+      "Teatro La Plaza ISIL",
+      "TEATRO LA PLAZA - MIRAFLORES - LIMA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "C.C. Larcomar, Malecón de la Reserva 610, Miraflores",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala privada sin fines de lucro dentro de Larcomar, abierta en 2003. Produce teatro contemporáneo propio y tiene un programa de formación actoral.",
+    "web": "https://laplaza.com.pe/",
+    "instagram": "https://www.instagram.com/teatrolaplaza/",
+    "url_cartelera": "https://laplaza.com.pe/que-hay-2022/",
+    "ticketera": [
+      "Joinnus",
+      "boletería"
+    ],
+    "coordenadas": {
+      "lat": -12.13167,
+      "lng": -77.03093
+    },
+    "fuente": [
+      "https://laplaza.com.pe/",
+      "https://laplaza.com.pe/que-hay-2022/",
+      "https://en.wikipedia.org/wiki/Teatro_La_Plaza",
+      "https://diariocorreo.pe/cultura/teatro-la-plaza-revela-su-programacion-2026-para-todas-las-edades-noticia/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Los botones 'Comprar' de su web enlazan a Joinnus; también tiene un subdominio entradas.laplaza.com.pe. Aforo no encontrado."
+  },
+  {
+    "nombre": "Teatro Británico",
+    "alias": [
+      "Británico Cultural",
+      "TEATRO BRITANICO",
+      "Teatro del Británico"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Jr. Bellavista 527, Miraflores",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Teatro de la Asociación Cultural Peruano Británica con producciones propias desde hace dos décadas, con énfasis en dramaturgia anglosajona.",
+    "web": "https://britanico.edu.pe/cultural/teatro/",
+    "instagram": "https://www.instagram.com/teatrobritanico/",
+    "url_cartelera": "https://britanico.edu.pe/cultural/eventos/categoria/teatro/",
+    "ticketera": [
+      "Joinnus"
+    ],
+    "coordenadas": {
+      "lat": -12.12334,
+      "lng": -77.03307
+    },
+    "fuente": [
+      "https://britanico.edu.pe/cultural/teatro/",
+      "https://caretas.pe/?p=766676",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "La web enlaza a la página de organizador 'britanicocultural' en Joinnus. Una fuente antigua da el número 531."
+  },
+  {
+    "nombre": "Centro Cultural PUCP",
+    "alias": [
+      "CCPUCP",
+      "Centro Cultural de la PUCP",
+      "Teatro del Centro Cultural PUCP"
+    ],
+    "ciudad": "Lima",
+    "distrito": "San Isidro",
+    "direccion": "Av. Camino Real 1075, San Isidro",
+    "tipo": "universitaria",
+    "aforo_aprox": null,
+    "descripcion_corta": "Centro cultural de la Pontificia Universidad Católica del Perú con sala de teatro, cine de arte y galería; organiza el Festival de Cine de Lima.",
+    "web": "https://centrocultural.pucp.edu.pe/",
+    "instagram": "https://www.instagram.com/ccpucp",
+    "url_cartelera": "https://centrocultural.pucp.edu.pe/calendario/",
+    "ticketera": [
+      "Joinnus"
+    ],
+    "coordenadas": {
+      "lat": -12.10544,
+      "lng": -77.0388
+    },
+    "fuente": [
+      "https://centrocultural.pucp.edu.pe/",
+      "https://centrocultural.pucp.edu.pe/teatro.html",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "OJO: el dominio centroculturalpucp.com NO es oficial (plantilla con enlaces spam). Usar centrocultural.pucp.edu.pe. Filtro de teatro: /calendario?cat=teatro."
+  },
+  {
+    "nombre": "Teatro Municipal de Lima",
+    "alias": [
+      "TEATRO MUNICIPAL DE LIMA",
+      "Teatro Municipal",
+      "Teatro Municipal de Lima - Jirón Ica"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Cercado de Lima",
+    "direccion": "Jr. Ica 377, Cercado de Lima",
+    "tipo": "municipal",
+    "aforo_aprox": 1181,
+    "descripcion_corta": "Principal teatro de la Municipalidad de Lima, inaugurado en 1920 y reabierto en 2010 tras el incendio de 1998. Acoge ópera, ballet y conciertos sinfónicos.",
+    "web": null,
+    "instagram": "https://www.instagram.com/gerenciadeculturamml/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Ticketmaster",
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.04569,
+      "lng": -77.03512
+    },
+    "fuente": [
+      "https://en.wikipedia.org/wiki/Teatro_Municipal_de_Lima",
+      "https://www.ticketmaster.pe/event/pera-lolanta-home",
+      "https://teleticket.com.pe/cascanueces-bml-2026",
+      "https://caretas.pe/cultura/opera-tosca-de-giacomo-puccini-en-lima",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo según Wikipedia (fuente única). El Instagram indicado es el de la Gerencia de Cultura de la MML (dato de 2024), no una cuenta propia del teatro. No se encontró web oficial (teatromunicipaldelima.com no resuelve)."
+  },
+  {
+    "nombre": "Gran Teatro Nacional",
+    "alias": [
+      "GTN",
+      "Gran Teatro Nacional del Perú",
+      "Teatro Nacional del Perú",
+      "GRAN TEATRO NACIONAL - SAN BORJA - LIMA",
+      "Teatro Nacional"
+    ],
+    "ciudad": "Lima",
+    "distrito": "San Borja",
+    "direccion": "Av. Javier Prado Este 2225, San Borja",
+    "tipo": "estatal",
+    "aforo_aprox": 1500,
+    "descripcion_corta": "El teatro más grande del país, del Ministerio de Cultura, inaugurado en 2012. Sede de los elencos nacionales (ballet, sinfónica, coros) y de grandes producciones.",
+    "web": "https://granteatronacional.pe/",
+    "instagram": "https://www.instagram.com/granteatronacional/",
+    "url_cartelera": "https://granteatronacional.pe/calendario",
+    "ticketera": [
+      "Teleticket",
+      "Ticketmaster"
+    ],
+    "coordenadas": {
+      "lat": -12.08663,
+      "lng": -77.00316
+    },
+    "fuente": [
+      "https://granteatronacional.pe/",
+      "https://granteatronacional.pe/evento/cecilia-bracamonte-gracias-por-tanto",
+      "https://granteatronacional.pe/evento/amy-gutierrez-mi-primer-gran-teatro",
+      "https://figueras.com/wp-content/uploads/2024/07/Case-Study-Gran-Teatro-Nacional-de-Peru_EN.pdf",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Cada evento enlaza a su propia ticketera (Teleticket o Ticketmaster según el productor). Listado de espectáculos también en /eventos."
+  },
+  {
+    "nombre": "Teatro Segura",
+    "alias": [
+      "Teatro Manuel Ascencio Segura",
+      "Teatro Principal Manuel A. Segura",
+      "TEATRO MANUEL ASCENCIO SEGURA - LIMA",
+      "TEATRO SEGURA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Cercado de Lima",
+    "direccion": "Jr. Huancavelica 265, Cercado de Lima",
+    "tipo": "municipal",
+    "aforo_aprox": 803,
+    "descripcion_corta": "Teatro municipal en el lugar del antiguo corral de comedias del siglo XVII; el edificio actual es de 1909 y fue restaurado y reabierto en 2022.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Ticketmaster",
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.04712,
+      "lng": -77.03447
+    },
+    "fuente": [
+      "https://en.wikipedia.org/wiki/Teatro_Segura",
+      "https://www.ticketmaster.pe/event/cosi-fan-tutte-home",
+      "https://teleticket.com.pe/evento/mensajes-del-alma-teatro-manuel-ascencio-segura",
+      "https://www.operala.org/en/lima-stages-of-a-cultural-capital/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo según Wikipedia en español (fuente única). Administrado por la Municipalidad de Lima."
+  },
+  {
+    "nombre": "Teatro Peruano Japonés",
+    "alias": [
+      "TEATRO PERUANO JAPONES",
+      "Teatro Peruano Japones",
+      "Teatro Cultural Peruano Japonés",
+      "Teatro del Centro Cultural Peruano Japonés",
+      "Teatro Peruano Japonés - JESUS MARIA - LIMA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Jesús María",
+    "direccion": "Av. Gregorio Escobedo 803, Residencial San Felipe, Jesús María",
+    "tipo": "institucional",
+    "aforo_aprox": 1025,
+    "descripcion_corta": "Teatro de la Asociación Peruano Japonesa, uno de los auditorios grandes de Lima; programa conciertos, musicales, danza y espectáculos familiares.",
+    "web": "https://www.apj.org.pe/teatro",
+    "instagram": "https://www.instagram.com/centroculturalperuanojapones/",
+    "url_cartelera": "https://www.apj.org.pe/teatro/agenda-teatro",
+    "ticketera": [
+      "Teleticket",
+      "Ticketmaster"
+    ],
+    "coordenadas": {
+      "lat": -12.0875,
+      "lng": -77.05525
+    },
+    "fuente": [
+      "https://www.apj.org.pe/teatro",
+      "https://es-academic.com/dic.nsf/eswiki/1129645",
+      "https://teleticket.com.pe/evento/un-oceano-para-todos-teatro-peruano-japones",
+      "https://www.ticketmaster.pe/event/los-ardiles-somos-mirones-jarana-de-barrio-venta-general",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo ~1025 (569 platea + 456 mezanine) según es-academic; Teleticket muestra configuraciones algo distintas. Instagram es el del Centro Cultural Peruano Japonés."
+  },
+  {
+    "nombre": "Teatro Canout",
+    "alias": [
+      "TEATRO CANOUT",
+      "TEATRO CANOUT - MIRAFLORES - LIMA",
+      "Canout"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. Petit Thouars 4550, Miraflores",
+    "tipo": "comercial",
+    "aforo_aprox": 1000,
+    "descripcion_corta": "Antiguo cine de 1954 convertido en teatro en 1979; hoy es uno de los escenarios más activos de comedia, stand-up y teatro comercial.",
+    "web": null,
+    "instagram": "https://www.instagram.com/teatrocanoutpe/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.10807,
+      "lng": -77.02998
+    },
+    "fuente": [
+      "https://en.wikipedia.org/wiki/Teatro_Canout",
+      "https://teleticket.com.pe/chapa-tu-money-28oct-2026",
+      "https://www.instagram.com/teatrocanoutpe/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo según Wikipedia (fuente única). teatrocanout.pe existe pero solo muestra una imagen de alquiler de sala, sin cartelera. Es la sala con más eventos en el volcado de Teleticket (21)."
+  },
+  {
+    "nombre": "Teatro Marsano",
+    "alias": [
+      "TEATRO MARSANO",
+      "TEATRO MARSANO - MIRAFLORES - LIMA",
+      "Teatro Marsano - Osvaldo Cattone"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Calle General Suárez 409, Miraflores",
+    "tipo": "comercial",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala comercial ligada históricamente al productor Osvaldo Cattone, dedicada a comedias y montajes de temporada larga.",
+    "web": "https://osvaldocattone.com/",
+    "instagram": "https://www.instagram.com/teatromarsano",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "boletería"
+    ],
+    "coordenadas": {
+      "lat": -12.11669,
+      "lng": -77.02772
+    },
+    "fuente": [
+      "https://osvaldocattone.com/",
+      "https://teleticket.com.pe/la-cabana-2026",
+      "https://rpp.pe/cultura/mas-cultura/agenda-cultural-mayo-2024-teatro-conciertos-exposiciones-y-mas-actividades-noticia-1554851",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "teatromarsano.com redirige a osvaldocattone.com, que enlaza la obra en cartel a Teleticket. Aforo no encontrado."
+  },
+  {
+    "nombre": "Teatro Auditorio Miraflores",
+    "alias": [
+      "TAM",
+      "TEATRO AUDITORIO MIRAFLORES",
+      "TEATRO AUDITORIO MIRAFLORES - MIRAFLORES - LIMA",
+      "Teatro Miraflores"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. José Larco 1150, Miraflores",
+    "tipo": "comercial",
+    "aforo_aprox": 180,
+    "descripcion_corta": "Sala mediana de Av. Larco con programación variada de comedia, drama y teatro infantil de distintas productoras.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.12914,
+      "lng": -77.02999
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/nosotras-que-nos-queremos-tanto-miraflores-teatro-auditorio-miraflores",
+      "https://teleticket.com.pe/evento/noche-de-enredos-teatro-auditorio-miraflores",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo inferido del sector GENERAL (180) en fichas de Teleticket, no es cifra oficial. Gestor/propietario no identificado; tipo 'comercial' es una inferencia."
+  },
+  {
+    "nombre": "Teatro Larco",
+    "alias": [
+      "TEATRO LARCO"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. José Larco 1036, Miraflores",
+    "tipo": "comercial",
+    "aforo_aprox": null,
+    "descripcion_corta": "Pequeña sala tradicional de Av. Larco que en años anteriores programó comedias de temporada.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "boletería"
+    ],
+    "coordenadas": {
+      "lat": -12.12812,
+      "lng": -77.02996
+    },
+    "fuente": [
+      "https://rpp.pe/cultura/literatura/una-temporada-de-comedia-en-el-renovado-teatro-larco-noticia-423044",
+      "https://www.tripadvisor.com.pe/ShowUserReviews-g294316-d4465870-r251728228-Teatro_Larco-Lima_Lima_Region.html",
+      "https://www.miraflores.gob.pe/Gestorw3b/files/pdf/6755-6697-teatros.pdf",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "baja",
+    "estado": "incierto",
+    "notas": "No se halló actividad reciente (2025-2026) ni cuentas oficiales. Las fuentes son antiguas; verificar si sigue operando. Ticketera según nota antigua de RPP."
+  },
+  {
+    "nombre": "Teatro Ricardo Blume",
+    "alias": [
+      "TEATRO RICARDO BLUME",
+      "Teatro Ricardo Blume - Jesús María"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Jesús María",
+    "direccion": "Jr. Huiracocha 2160, Jesús María",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala fundada en 2013 por Jorge Chiarella y Celeste Viale, vinculada a la formación actoral y al teatro de repertorio.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Ticketmaster",
+      "Teleticket",
+      "boletería"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://www.ticketmaster.pe/event/informe-para-una-academia-de-franz-kafka-home",
+      "https://larepublica.pe/cultural/2022/12/27/artes-escenicas-el-teatro-peruano-se-recupera-para-2023-mateo-chiarella-aranwa-roberto-angeles",
+      "https://rpp.pe/cultura/mas-cultura/agenda-cultural-febrero-2024-actividades-para-disfrutar-con-familia-y-amigos-noticia-1530870",
+      "https://caretas.pe/?p=706290"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "En octubre de 2026 vende por Ticketmaster (varios eventos en la categoría Teatros); notas de prensa previas mencionan Teleticket y boletería. Tipo 'independiente' inferido (sala privada de artistas). Coordenadas no encontradas a nivel de inmueble."
+  },
+  {
+    "nombre": "Teatro Juanita Tarnawiecki (ex Mocha Graña)",
+    "alias": [
+      "Teatro Mocha Graña",
+      "Mocha Graña",
+      "TEATRO JUANITA TARNAWIECKI",
+      "TEATRO JUANITA TARNAWIECKI EX MOCHA GRAÑA - BARRANCO - LIMA",
+      "TEATRO MOCHA GRAÑA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Barranco",
+    "direccion": "Alameda Sáenz Peña 105, Barranco",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala barranquina conocida como Mocha Graña, hoy rebautizada Juanita Tarnawiecki; programa sobre todo teatro infantil y familiar y algunos montajes musicales.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.14351,
+      "lng": -77.02233
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/un-capibara-en-la-ciudad-teatro-juanita-tarnawiecki-ex-mocha-grania",
+      "https://teleticket.com.pe/evento/la-opera-del-comediante-teatro-juanita-tarnawiecki-ex-mocha-grania",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Cambió de nombre: Teleticket la lista como 'Teatro Juanita Tarnawiecki (Ex Mocha Graña)'. Algunas fuentes dan el número 107. Fecha y motivo del cambio no documentados."
+  },
+  {
+    "nombre": "Teatro de Lucía",
+    "alias": [
+      "Teatro Lucía",
+      "TEATRO LUCIA",
+      "TEATRO LUCIA - MIRAFLORES - LIMA",
+      "Teatro de Lucia"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Calle Bellavista 512, Miraflores",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala íntima frente al Teatro Británico con programación de teatro contemporáneo para adultos y obras infantiles.",
+    "web": "https://teatrodelucia.com/",
+    "instagram": null,
+    "url_cartelera": "https://teatrodelucia.com/#cartelera",
+    "ticketera": [
+      "Joinnus",
+      "web propia",
+      "boletería",
+      "WhatsApp"
+    ],
+    "coordenadas": {
+      "lat": -12.12297,
+      "lng": -77.03308
+    },
+    "fuente": [
+      "https://teatrodelucia.com/",
+      "https://diariocorreo.pe/noticias/teatro-de-lucia/",
+      "https://peru21.pe/noticias/teatro-de-lucia",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "'Teatro Lucía' de la lista original es esta misma sala. Su web dice que la compra se hace en Joinnus y ofrece reserva con pago por Yape; en 2024 algunas obras infantiles se vendieron por Teleticket. Instagram no verificado."
+  },
+  {
+    "nombre": "ICPNA Miraflores (Auditorio)",
+    "alias": [
+      "Auditorio ICPNA Miraflores",
+      "TEATRO ICPNA",
+      "ICPNA",
+      "Instituto Cultural Peruano Norteamericano - Miraflores"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. Angamos Oeste 120 (esquina con Av. Arequipa), Miraflores",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Auditorio de la sede Miraflores del Instituto Cultural Peruano Norteamericano, con temporadas de teatro, conciertos y danza.",
+    "web": "https://www.icpna.edu.pe/cultural/",
+    "instagram": "https://www.instagram.com/icpnaoficial/",
+    "url_cartelera": "https://www.icpna.edu.pe/cultural/agenda-cultural/",
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -12.1134,
+      "lng": -77.03038
+    },
+    "fuente": [
+      "https://www.icpna.edu.pe/cultural/",
+      "https://www.pressenza.com/es/tag/lima/",
+      "https://larepublica.pe/cultural/1160180-miryam-quinones-ofrece-concierto-de-fin-de-ano-en-icpna-de-miraflores/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Número de calle varía entre fuentes (120 o 160). Canal de venta no verificado (las bases de su convocatoria indican venta 'por los mecanismos que ICPNA disponga'). Aforo no encontrado."
+  },
+  {
+    "nombre": "ICPNA Lima Centro (Auditorio)",
+    "alias": [
+      "Auditorio ICPNA Lima Centro",
+      "ICPNA Lima Centro",
+      "Teatro en el Centro ICPNA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Cercado de Lima",
+    "direccion": "Jr. Cusco 446, Cercado de Lima",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Auditorio de la sede Lima Centro del ICPNA, que acoge el ciclo anual 'Teatro en el Centro' con montajes seleccionados por convocatoria.",
+    "web": "https://www.icpna.edu.pe/cultural/",
+    "instagram": "https://www.instagram.com/icpnaoficial/",
+    "url_cartelera": "https://www.icpna.edu.pe/cultural/agenda-cultural/",
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -12.05164,
+      "lng": -77.02973
+    },
+    "fuente": [
+      "https://cultural.icpna.edu.pe/wp-content/uploads/2025/11/Convocatoria-Teatro-en-el-Centro-2026.-Bases.pdf",
+      "https://www.limaeasy.com/peru-guide/peru-culture-entertainment/cultural-centers-in-peru/instituto-cultural-peruano-norteamericano-icpna",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Canal de venta no verificado. Coordenadas del edificio ICPNA en Jr. Cusco según OpenStreetMap."
+  },
+  {
+    "nombre": "Centro Cultural de España en Lima",
+    "alias": [
+      "CCE Lima",
+      "CCELima",
+      "Centro Cultural de España",
+      "CCE"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Santa Beatriz (Cercado de Lima)",
+    "direccion": "Natalio Sánchez 181-185, Santa Beatriz, Lima (sede en obras; oficinas temporales en Av. Jorge Basadre 990, San Isidro)",
+    "tipo": "institucional",
+    "aforo_aprox": 189,
+    "descripcion_corta": "Centro de la cooperación española (AECID) con auditorio para teatro, cine y música. Su sede de Santa Beatriz está en obras de renovación y la programación se realiza en espacios aliados.",
+    "web": "https://ccelima.aecid.es/",
+    "instagram": "https://www.instagram.com/ccelima/",
+    "url_cartelera": "https://ccelima.aecid.es/web/cc-lima/eventos",
+    "ticketera": [
+      "web propia"
+    ],
+    "coordenadas": {
+      "lat": -12.07055,
+      "lng": -77.03737
+    },
+    "fuente": [
+      "https://ccelima.aecid.es/",
+      "https://www.aecid.es/documents/8582488/5ed26577-2599-c615-37a4-8d695415fe3a",
+      "https://dominicana.aecid.es/en/web/guest/w/centro-cultural-de-espana-en-lima-peru",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "en_obras",
+    "notas": "Sede principal cerrada por obras (agenda de agosto 2026); sin fecha de reapertura. Actividades mayormente gratuitas con inscripción en su web. Aforo de 189 es del auditorio original. ccelima.org redirige a ccelima.aecid.es."
+  },
+  {
+    "nombre": "Teatro de la Alianza Francesa de Lima",
+    "alias": [
+      "Teatro AF",
+      "Alianza Francesa",
+      "Alianza Francesa de Lima",
+      "TEATRO DE LA ALIANZA FRANCESA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. Arequipa 4595, Miraflores",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala de la sede central de la Alianza Francesa, con programación de teatro, música y cine (Cine Lumière) vinculada a la cultura francófona.",
+    "web": "https://aflima.org.pe/",
+    "instagram": "https://www.instagram.com/aflimaoficial",
+    "url_cartelera": "https://aflima.org.pe/eventos/",
+    "ticketera": [
+      "Joinnus"
+    ],
+    "coordenadas": {
+      "lat": -12.11127,
+      "lng": -77.02966
+    },
+    "fuente": [
+      "https://aflima.org.pe/",
+      "https://en.wikipedia.org/wiki/Alliance_Fran%C3%A7aise_de_Lima",
+      "https://www.limaeasy.com/peru-guide/peru-culture-entertainment/cultural-centers-in-peru/alianza-francesa",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "La web menciona Joinnus para al menos una obra; la agenda cultural también se publica en Calameo. Aforo no encontrado."
+  },
+  {
+    "nombre": "Teatro NOS PUCP",
+    "alias": [
+      "Teatro NOS",
+      "TEATRO NOS PUCP",
+      "TEATRO NOS PUCP - SAN ISIDRO - LIMA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "San Isidro",
+    "direccion": "Av. Camino Real 1037, San Isidro",
+    "tipo": "universitaria",
+    "aforo_aprox": 600,
+    "descripcion_corta": "Teatro de la PUCP en San Isidro para teatro, musicales, danza y conciertos; también se alquila a productoras externas.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.10428,
+      "lng": -77.03867
+    },
+    "fuente": [
+      "https://teleticket.com.pe/lasirresponsables-2026",
+      "https://trome.com/espectaculos/carlos-galdos-presenta-show-por-fiestas-patrias-yo-tambien-puedo-ser-presidente-teatro-farandula-rmmn-noticia/",
+      "https://caretas.pe/?p=2025",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo (600) según nota de Trome. Coordenadas del inmueble Camino Real 1037 (edificio del Centro de Idiomas PUCP en OSM). Web e Instagram propios no verificados."
+  },
+  {
+    "nombre": "Multiteatro Movistar",
+    "alias": [
+      "MULTITEATRO MOVISTAR",
+      "Multiteatro Movistar - SALA 1",
+      "MULTITEATRO MOVISTAR - SALA 2",
+      "MULTITEATRO MOVISTAR - SALA 3",
+      "Multiteatro"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Santiago de Surco",
+    "direccion": "Av. Alfredo Benavides 4981, Santiago de Surco",
+    "tipo": "comercial",
+    "aforo_aprox": null,
+    "descripcion_corta": "Complejo de varias salas abierto por el comediante Ricardo Mendoza en Surco, enfocado en comedia, stand-up y teatro comercial.",
+    "web": null,
+    "instagram": "https://www.instagram.com/multiteatromovistar/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://teleticket.com.pe/evento/yaco-y-el-loco-multiteatro-movistar-sala-1",
+      "https://teleticket.com.pe/evento/risa-world-cup-multiteatro-movistar-sala-2",
+      "https://www.expreso.com.pe/entretenimiento/ricardo-mendoza-revela-emocionado-a-expreso-el-canout-fue-mi-primer-golazo-el-multiteatro-movistar-es-mi-segundo-golazo-jorge-luna-choca-mandros-veronica-linares-noticia/1281683/",
+      "https://www.instagram.com/multiteatromovistar/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Al menos 3 salas (Sala 1, 2, 3); una ficha de Teleticket muestra ~105 localidades en Sala 2. multiteatro.pe es un dominio aparcado (no oficial). No confundir con el Multiteatro de Buenos Aires."
+  },
+  {
+    "nombre": "Teatro Municipal de Surco",
+    "alias": [
+      "TEATRO MUNICIPAL DE SURCO",
+      "TEATRO MUNICIPAL DE SURCO -  - SANTIAGO DE SURCO - LIMA",
+      "Teatro Municipal de Santiago de Surco"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Santiago de Surco",
+    "direccion": "Parque de la Amistad, Av. Caminos del Inca, Santiago de Surco",
+    "tipo": "municipal",
+    "aforo_aprox": 436,
+    "descripcion_corta": "Teatro municipal inaugurado en 2024 dentro del Parque de la Amistad, con musicales, comedias y espectáculos familiares.",
+    "web": null,
+    "instagram": "https://www.instagram.com/teatromunicipaldesurco/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "Joinnus",
+      "boletería"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://caretas.pe/edicion_2713/surco-abre-las-puertas-de-su-teatro-municipal",
+      "https://teleticket.com.pe/evento/los-hombres-no-lloran-teatro-municipal-de-surco-",
+      "https://munisurco.gob.pe/wp-content/uploads/2020/07/ViveSurco-Diciembre24.pdf"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Número de calle exacto no confirmado (un directorio da 'C. Sacramento 236', no verificado). Inauguración: musical sobre Chabuca Granda (oct. 2024), con venta en Joinnus y boletería; en 2026 vende por Teleticket."
+  },
+  {
+    "nombre": "Teatro Mario Vargas Llosa",
+    "alias": [
+      "Teatro Auditorio Mario Vargas Llosa",
+      "TEATRO MARIO VARGAS LLOSA",
+      "TEATRO MARIO VARGAS LLOSA - SAN BORJA - LIMA",
+      "Teatro de la Biblioteca Nacional"
+    ],
+    "ciudad": "Lima",
+    "distrito": "San Borja",
+    "direccion": "Biblioteca Nacional del Perú, Av. De la Poesía 160, San Borja",
+    "tipo": "estatal",
+    "aforo_aprox": null,
+    "descripcion_corta": "Auditorio de la Biblioteca Nacional del Perú usado para teatro, conciertos y actividades culturales, propias o de terceros en alquiler.",
+    "web": "https://www.bnp.gob.pe/",
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.08777,
+      "lng": -77.00513
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/la-magia-de-ser-diferentes-teatro-mario-vargas-llosa",
+      "https://elperuano.pe/noticia/291643-vargas-llosa-en-escena-se-estrena-el-17-de-abril-en-la-bnp-de-san-borja",
+      "https://busquedas.elperuano.pe/normaslegales/aprueban-el-protocolo-servicio-de-uso-del-teatro-auditorio-resolucion-jefatural-no-000044-2021-bnp-1945951-1/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Coordenadas de la sede de la BNP. Muchas funciones propias de la BNP son gratuitas; las de productoras externas se venden por Teleticket. Aforo no encontrado."
+  },
+  {
+    "nombre": "Centro Cultural Ricardo Palma",
+    "alias": [
+      "CENTRO CULTURAL RICARDO PALMA",
+      "CENTRO CULTURAL RICARDO PALMA - MIRAFLORES - LIMA",
+      "Auditorio Julio Ramón Ribeyro",
+      "TEATRO AUDITORIO CC RICARDO PALMA",
+      "C.C. Ricardo Palma"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. José Larco 770, Miraflores",
+    "tipo": "municipal",
+    "aforo_aprox": null,
+    "descripcion_corta": "Centro cultural de la Municipalidad de Miraflores; su Auditorio Julio Ramón Ribeyro programa teatro, música y danza a precios accesibles.",
+    "web": "https://www.miraflores.gob.pe/",
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "Joinnus",
+      "boletería"
+    ],
+    "coordenadas": {
+      "lat": -12.12548,
+      "lng": -77.02973
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/hogar-dulce-hogar-centro-cultural-ricardo-palma",
+      "https://www.ytuqueplanes.com/imagenes/images/files/Boletin-Cultural-y-Turistico-MAYO-compressed.pdf",
+      "https://limaeasy.com/peru-guide/peru-culture-entertainment/cultural-centers-in-peru/centro-cultural-ricardo-palma",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "La ticketera depende de la productora (Teleticket, Joinnus o boletería en el local). Aforo no encontrado."
+  },
+  {
+    "nombre": "Lima Comedy Club",
+    "alias": [
+      "Lima Comedy",
+      "Lima Comedy Club - MIRAFLORES - LIMA",
+      "LIMA COMEDY CLUB"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Av. Alfredo Benavides 345, Miraflores",
+    "tipo": "bar/club",
+    "aforo_aprox": null,
+    "descripcion_corta": "Club de comedia en Miraflores dedicado al stand-up, con funciones casi diarias de comediantes locales y podcasts en vivo.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://teleticket.com.pe/evento/yaco-y-el-loco-lima-comedy-club-2026",
+      "https://teleticket.com.pe/evento/renegando--aniversario-10-anios-de-guille-lima-comedy-club",
+      "https://www.facebook.com/limacomedy/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Algunas fichas dicen Av. Benavides 347. Vinculado a Ricardo Mendoza según Expreso. Instagram no verificado (solo se halló página de Facebook 'limacomedy'). 22 eventos en el volcado de Teleticket."
+  },
+  {
+    "nombre": "Teatro Barranco",
+    "alias": [
+      "TEATRO BARRANCO",
+      "TEATRO BARRANCO - BARRANCO - LIMA",
+      "Teatro Barranco 2.0"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Barranco",
+    "direccion": "Av. Almirante Miguel Grau 701, Barranco",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala barranquina con comedias, cabaret y montajes de pequeño formato; su ciclo 'Tercera Llamada' programa obras emergentes.",
+    "web": null,
+    "instagram": "https://www.instagram.com/teatro.barranco/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://teleticket.com.pe/evento/TBS003",
+      "https://teleticket.com.pe/evento/bombon-rojo-teatro-barranco",
+      "https://panamericana.pe/cultura/379440-barranco-tres-obras-imperdibles-presentara-tercera-llamada-mes-mayo",
+      "https://www.instagram.com/teatro.barranco/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "teatrobarranco.com es un dominio aparcado (no oficial). Tipo 'independiente' inferido. Aforo no encontrado."
+  },
+  {
+    "nombre": "La Estación de Barranco",
+    "alias": [
+      "LA ESTACIÓN DE BARRANCO",
+      "LA ESTACION DE BARRANCO",
+      "La Estación",
+      "LA ESTACIÓN DE BARRANCO - BARRANCO - LIMA"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Barranco",
+    "direccion": "Av. Pedro de Osma 112, Barranco",
+    "tipo": "bar/club",
+    "aforo_aprox": 200,
+    "descripcion_corta": "Local de espectáculos en vivo con más de 30 años, conocido por noches criollas, peñas, tributos y shows de comedia con consumo mínimo.",
+    "web": null,
+    "instagram": "https://www.instagram.com/laestaciondebarranco/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -12.14987,
+      "lng": -77.02186
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/monica-cabrejos-doctora-bandida-terapia-de-choque-la-estacion-de-barranco",
+      "https://teleticket.com.pe/evento/una-noche-con-dolores-la-estacion-de-barranco-0704",
+      "https://www.instagram.com/laestaciondebarranco/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo (~200) inferido de los sectores en Teleticket. Solo mayores de edad; consumo mínimo por persona (S/40-50). estaciondebarranco.com es un dominio aparcado (no oficial)."
+  },
+  {
+    "nombre": "Nuevo Teatro Julieta",
+    "alias": [
+      "Teatro Julieta",
+      "TEATRO JULIETA",
+      "Nuevo Teatro Julieta - Miraflores"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Miraflores",
+    "direccion": "Pasaje Porta 132, Miraflores",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala histórica de Miraflores reabierta como 'Nuevo Teatro Julieta'; organiza un concurso teatral anual y temporadas de comedia y drama.",
+    "web": null,
+    "instagram": "https://www.instagram.com/nuevoteatrojulieta/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Joinnus",
+      "boletería",
+      "WhatsApp"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://caretas.pe/?p=753277",
+      "https://trome.com/espectaculos/se-inicia-competencia-teatral-en-nuevo-teatro-julieta-de-miraflores-noticia/",
+      "https://diariocorreo.pe/noticias/nuevo-teatro-julieta/",
+      "https://www.instagram.com/nuevoteatrojulieta/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Opera como 'Nuevo Teatro Julieta' (gestión vinculada a la Asociación Cultural La Pasión). Boletería abre días de función. Aforo no encontrado."
+  },
+  {
+    "nombre": "Centro Cultural Inca Garcilaso",
+    "alias": [
+      "CC Inca Garcilaso",
+      "Centro Cultural Inca Garcilaso del Ministerio de Relaciones Exteriores",
+      "Casa Aspíllaga"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Cercado de Lima",
+    "direccion": "Jr. Ucayali 391, Cercado de Lima",
+    "tipo": "estatal",
+    "aforo_aprox": null,
+    "descripcion_corta": "Centro cultural de la Cancillería en la Casa Aspíllaga, con salas de exposición y un auditorio para conciertos de cámara, charlas y proyecciones.",
+    "web": "https://www.ccincagarcilaso.gob.pe/",
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "entrada libre"
+    ],
+    "coordenadas": {
+      "lat": -12.04878,
+      "lng": -77.02923
+    },
+    "fuente": [
+      "https://www.ccincagarcilaso.gob.pe/en/?p=273",
+      "https://www.waymarking.com/waymarks/WM11J3W_Centro_Cultural_Inca_Garcilaso_Lima_Peru",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "No es una sala de teatro propiamente: programa sobre todo música de cámara y exposiciones, con ingreso libre. Coordenadas a nivel de inmueble (Jr. Ucayali 391)."
+  },
+  {
+    "nombre": "Teatro Pirandello",
+    "alias": [
+      "TEATRO PIRANDELLO"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Santa Beatriz (Cercado de Lima)",
+    "direccion": "Av. Alejandro Tirado 274, Santa Beatriz, Lima",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Teatro de Santa Beatriz abierto alrededor de 1980, usado para teatro, conciertos y actividades escolares.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -12.07457,
+      "lng": -77.03505
+    },
+    "fuente": [
+      "https://au.trip.com/travel-guide/attraction/lima/teatro-pirandello-58355300/",
+      "https://wanderlog.com/place/details/142239/teatro-pirandello",
+      "https://www.atrapalo.com.ar/entradas/las-lolas_e4801163/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "baja",
+    "estado": "incierto",
+    "notas": "No se encontró programación 2025-2026 ni canales oficiales; la última venta documentada (2019) fue por Atrápalo con canje en boletería. Tipo inferido."
+  },
+  {
+    "nombre": "Microteatro Lima",
+    "alias": [
+      "Microteatro",
+      "Microteatro de Lima",
+      "MICROTEATRO"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Barranco",
+    "direccion": "Jr. Batallón Ayacucho 271, Barranco (sede histórica)",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Proyecto de microteatro con obras de 15 minutos para un máximo de 15 espectadores por sala; tuvo sede propia en una casona de Barranco.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Joinnus"
+    ],
+    "coordenadas": {
+      "lat": -12.14958,
+      "lng": -77.02241
+    },
+    "fuente": [
+      "https://www.expreso.com.pe/cultural/barranco-microimpro-regresa-bajo-la-produccion-de-espacio-alterno/545077/",
+      "https://www.tripadvisor.com/Attraction_Review-g294316-d8353008-Reviews-Microteatro-Lima_Lima_Region.html",
+      "https://larepublica.pe/cultural/2019/09/25/microteatro-la-ambicion-de-los-difuntos-retorna-por-corta-temporada",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "baja",
+    "estado": "posiblemente_cerrada",
+    "notas": "Tripadvisor marca la sede de Barranco como cerrada permanentemente (sin confirmación oficial). En oct. 2025 hubo una temporada 'Microteatro al Rojo Vivo' en Casatomada (San Isidro) vendida por Joinnus, lo que sugiere que opera de forma itinerante. Aforo: ~15 por sala, 5 salas en la casona. microteatro.pe no resuelve."
+  },
+  {
+    "nombre": "Espacio Yuyachkani",
+    "alias": [
+      "Casa Yuyachkani",
+      "Grupo Cultural Yuyachkani",
+      "Yuyachkani"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Magdalena del Mar",
+    "direccion": "Jr. Tacna 363, Magdalena del Mar",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Casa-sede del grupo Yuyachkani, colectivo teatral fundado en 1971, donde presenta su repertorio, talleres y encuentros escénicos.",
+    "web": "https://yuyachkani.org/",
+    "instagram": "https://www.instagram.com/yuyachkani/",
+    "url_cartelera": null,
+    "ticketera": [
+      "WhatsApp",
+      "correo"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://yuyachkani.org/",
+      "https://elperuano.pe/noticia/303007-teatro-yuyachkani-celebra-55-anos-reponiendo-cinco-obras-de-el-repertorio",
+      "https://caretas.pe/cultura/yuyachkani-rinde-homenaje-a-jose-maria-arguedas-con-cartas-de-chimbote"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Vende entradas por reserva directa (entradas@yuyachkani.org y WhatsApp), sin ticketera. Temporadas esporádicas (p. ej. 'El Repertorio', ago-sep 2026). La web publica repertorio, no un calendario."
+  },
+  {
+    "nombre": "Asociación de Artistas Aficionados (AAA)",
+    "alias": [
+      "AAA",
+      "Teatro de la AAA",
+      "Asociación de Artistas Aficionados",
+      "AAA Lima"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Cercado de Lima",
+    "direccion": "Jr. Ica 323, Cercado de Lima",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Asociación teatral fundada en 1938, pionera de la escena peruana; su sala junto al Teatro Municipal presenta clásicos y montajes de grupos jóvenes.",
+    "web": "https://aaalima.pe/",
+    "instagram": "https://www.instagram.com/asociacionartistasaficionados",
+    "url_cartelera": "https://aaalima.pe/programacion/",
+    "ticketera": [
+      "Joinnus",
+      "WhatsApp"
+    ],
+    "coordenadas": {
+      "lat": -12.04568,
+      "lng": -77.0345
+    },
+    "fuente": [
+      "https://aaalima.pe/",
+      "https://aaalima.pe/programacion/",
+      "https://aaalima.pe/programacion/la-mascara-de-la-muerte-roja/",
+      "https://en.wikipedia.org/wiki/Association_of_Amateur_Artists",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Cada obra de su programación enlaza a Joinnus; también atiende por WhatsApp. Aforo no encontrado."
+  },
+  {
+    "nombre": "Teatro Racional",
+    "alias": [
+      "Cine Teatro irRacional",
+      "Teatro Racional Barranco",
+      "Teatro irRacional"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Barranco",
+    "direccion": "Av. José Balta 170, Barranco",
+    "tipo": "independiente",
+    "aforo_aprox": null,
+    "descripcion_corta": "Pequeña sala de cámara en Barranco, reabierta en 2025; programa teatro contemporáneo de producciones independientes como Yestoquelotro.",
+    "web": null,
+    "instagram": "https://www.instagram.com/cineteatroirracional/",
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -12.14258,
+      "lng": -77.01705
+    },
+    "fuente": [
+      "https://peru21.pe/cultura/teatro-racional-reabre-sus-puertas-con-obra-hielo-en-la-sangre/",
+      "https://diariocorreo.pe/noticias/teatro-racional/",
+      "https://caretas.pe/cultura/los-cuatro-letras-david-carrillo-teatro-racional/",
+      "https://www.instagram.com/cineteatroirracional/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "La prensa la llama 'Teatro Racional'; el Instagram en la misma dirección se presenta como 'Cine Teatro irRacional' (se asume la misma sala, sin confirmación). Una nota menciona funciones para unas 45 personas. Canal de venta no confirmado."
+  },
+  {
+    "nombre": "La Cúpula de las Artes",
+    "alias": [
+      "LA CÚPULA DE LAS ARTES",
+      "LA CÚPULA DE LAS ARTES - SANTIAGO DE SURCO - LIMA",
+      "Cúpula de las Artes"
+    ],
+    "ciudad": "Lima",
+    "distrito": "Santiago de Surco",
+    "direccion": "Av. Manuel Olguín 200, Jockey Plaza (altura puerta 5), Santiago de Surco",
+    "tipo": "comercial",
+    "aforo_aprox": 1000,
+    "descripcion_corta": "Carpa-teatro en forma de domo con escenario de 360 grados, operada por la productora Prodartes; acoge musicales, circo y conciertos.",
+    "web": null,
+    "instagram": "https://www.instagram.com/lacupuladelasartes/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": null,
+    "fuente": [
+      "https://teleticket.com.pe/av-larco-el-musical-2026",
+      "https://peru21.pe/espectaculos/la-cupula-de-las-artes-reabre-sus-puertas-y-presenta-una-variada-programacion-de-espectaculos-culturales-farandula-nndc-noticia/",
+      "https://andina.pe/agencia/noticia-gran-circo-chino-presenta-cupula-de-artes-lima-759953.aspx",
+      "https://diariocorreo.pe/espectaculos/av-larco-el-musical-regresa-tras-11-anos-y-agota-su-preventa-en-lima-noticia/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo 'casi mil butacas' según Perú21 (2021). Es una estructura desmontable: la ubicación puede cambiar; la dirección actual sale de Teleticket (2026)."
+  },
+  {
+    "nombre": "Teatro Municipal del Cusco",
+    "alias": [
+      "TEATRO MUNICIPAL DEL CUSCO",
+      "TEATRO MUNICIPAL DE CUSCO",
+      "Teatro Municipal Daniel Estrada Pérez",
+      "Teatro Municipal de Cusco"
+    ],
+    "ciudad": "Cusco",
+    "distrito": "Cusco",
+    "direccion": "Calle Mesón de la Estrella 149, Cusco",
+    "tipo": "municipal",
+    "aforo_aprox": 617,
+    "descripcion_corta": "Principal teatro de la ciudad, a cinco cuadras de la Plaza de Armas; programa conciertos, danza, teatro y festivales, con una sala principal y salas menores (Inti, Killa).",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "boletería"
+    ],
+    "coordenadas": {
+      "lat": -13.51959,
+      "lng": -71.98021
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/gala-romantica-en-cusco-teatro-municipal-del-cusco-",
+      "https://teleticket.com.pe/evento/nayda-gutierrez-en-cusco-teatro-municipal-de-cusco",
+      "https://www.lonelyplanet.com/pois/1179617",
+      "https://www.facebook.com/TeatroMunicipalCusco/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo 617 según Lonely Planet; otra guía da ~700. Difunde su programación por Facebook (TeatroMunicipalCusco). Muchas actividades municipales son de ingreso libre."
+  },
+  {
+    "nombre": "Centro Qosqo de Arte Nativo",
+    "alias": [
+      "Qosqo Arte Nativo",
+      "Centro Qosqo",
+      "Centro Qosqo de Arte Nativo - Cusco"
+    ],
+    "ciudad": "Cusco",
+    "distrito": "Cusco",
+    "direccion": "Av. El Sol 872, Cusco",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Institución folclórica fundada en 1924 que ofrece funciones diarias de música y danzas tradicionales cusqueñas, orientadas en buena parte al turismo.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "boletería",
+      "Boleto Turístico del Cusco"
+    ],
+    "coordenadas": {
+      "lat": -13.52183,
+      "lng": -71.97562
+    },
+    "fuente": [
+      "https://en.wikipedia.org/wiki/Centro_Qosqo_de_Arte_Nativo",
+      "https://blog.viajesmachupicchu.travel/en/?p=10942",
+      "https://audiala.com/en/peru/cusco/centro-qosqo-de-arte-nativo",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Función diaria ~19:00 (horarios varían según fuente). Ingreso incluido en el Boleto Turístico del Cusco o en taquilla."
+  },
+  {
+    "nombre": "Teatro Garcilaso (Cusco)",
+    "alias": [
+      "Teatro Garcilaso"
+    ],
+    "ciudad": "Cusco",
+    "distrito": "Cusco",
+    "direccion": null,
+    "tipo": null,
+    "aforo_aprox": 500,
+    "descripcion_corta": "Sala cusqueña mencionada en guías locales por sus funciones continuas dirigidas principalmente a visitantes extranjeros.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": null,
+    "fuente": [
+      "https://www.uber.com/pe/es/blog/teatros-cusco"
+    ],
+    "confianza": "baja",
+    "estado": "incierto",
+    "notas": "Única fuente: blog de Uber (2019) que le atribuye ~500 butacas. No se pudo confirmar dirección, gestor ni actividad reciente. Incluida para revisión manual; no es seguro publicarla. Alternativas pequeñas citadas en la misma fuente: Casa Darte (~60 personas) y Juglar Artes Escénicas."
+  },
+  {
+    "nombre": "Teatro Municipal de Arequipa",
+    "alias": [
+      "TEATRO MUNICIPAL DE AREQUIPA",
+      "TEATRO MUNICIPAL AREQUIPA",
+      "Teatro Municipal - Arequipa"
+    ],
+    "ciudad": "Arequipa",
+    "distrito": "Arequipa (Cercado)",
+    "direccion": "Calle Mercaderes 239, Arequipa",
+    "tipo": "municipal",
+    "aforo_aprox": 900,
+    "descripcion_corta": "Teatro histórico del centro de Arequipa, restaurado y reabierto en 2024 con apoyo de Cerro Verde; principal escenario para conciertos, ballet y teatro en la ciudad.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -16.39896,
+      "lng": -71.53424
+    },
+    "fuente": [
+      "https://energiminas.com/2024/09/18/historico-teatro-municipal-de-arequipa-abre-nuevamente-sus-puertas-tras-culminar-proceso-de-restauracion-realizado-por-cerro-verde",
+      "https://teleticket.com.pe/evento/marcos-llunas-arequipa-teatro-municipal-de-arequipa",
+      "https://teleticket.com.pe/cascanueces-arequipa-2026",
+      "https://www.uber.com/es-PE/blog/teatro-arequipa",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo 'casi 900' según blog de Uber, anterior a la restauración de 2024 (se cambiaron butacas). Gestionado por EMECSA (empresa municipal)."
+  },
+  {
+    "nombre": "Teatro Fénix",
+    "alias": [
+      "TEATRO FÉNIX",
+      "TEATRO FENIX",
+      "TEATRO FÉNIX - AREQUIPA",
+      "Teatro Fenix Arequipa"
+    ],
+    "ciudad": "Arequipa",
+    "distrito": "Arequipa (Cercado)",
+    "direccion": "Calle General Morán 104, Arequipa",
+    "tipo": null,
+    "aforo_aprox": null,
+    "descripcion_corta": "Teatro histórico a una cuadra de la Plaza de Armas, considerado el primero de la ciudad (1893); hoy acoge conciertos y espectáculos de gira.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -16.39988,
+      "lng": -71.53576
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/eva-ayllon-55-anios-de-vida-artistica-en-arequipa-teatro-fenix",
+      "https://teleticket.com.pe/evento/voces-del-rock-latino-arequipa-teatro-fenix",
+      "https://elbuho.pe/archivo/2014/09/27/teatro-fenix-resurgiendo-de-sus-cenizas/index.html",
+      "https://www.songkick.com/venues/4178889-teatro-fenix",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Número de calle varía (104 en OSM/Songkick; 154 en una ficha de Teleticket). Propietario/gestor no confirmado, por eso tipo=null. Aforo no encontrado."
+  },
+  {
+    "nombre": "Teatro Ateneo",
+    "alias": [
+      "Biblioteca y Teatro Ateneo",
+      "Teatro Ateneo Arequipa"
+    ],
+    "ciudad": "Arequipa",
+    "distrito": "Arequipa (Cercado)",
+    "direccion": "Calle Álvarez Thomas 312, Arequipa",
+    "tipo": "municipal",
+    "aforo_aprox": 227,
+    "descripcion_corta": "Teatro del centro histórico ligado a la biblioteca municipal Ateneo, reabierto en 2016 tras su puesta en valor; sede de festivales de teatro locales.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -16.40244,
+      "lng": -71.53759
+    },
+    "fuente": [
+      "https://elbuho.pe/archivo/2016/05/18/reabriran-teatro-ateneo-luego-de-culminarse-trabajos-de-puesta-en-valor/index.html",
+      "https://elbuho.pe/2026/03/festival-de-teatro-en-arequipa-ofrecera-ocho-dias-de-cultura-con-funciones-gratuitas-del-19-al-26-de-marzo/",
+      "https://www.uber.com/es-PE/blog/teatro-arequipa",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo: 227 butacas instaladas en 2016. Tipo 'municipal' inferido por su vínculo con la biblioteca municipal Ateneo (verificar). Canal de venta no encontrado; muchas funciones de festival son gratuitas."
+  },
+  {
+    "nombre": "Palacio Metropolitano de Bellas Artes Mario Vargas Llosa",
+    "alias": [
+      "PALACIO METROPOLITANO DE BELLAS ARTES - AREQUIPA",
+      "Palacio Metropolitano De Las Bellas Artes",
+      "Palacio Mario Vargas Llosa",
+      "Palacio de Bellas Artes Arequipa"
+    ],
+    "ciudad": "Arequipa",
+    "distrito": "Arequipa",
+    "direccion": "Av. Parra 204, Arequipa",
+    "tipo": "municipal",
+    "aforo_aprox": 2500,
+    "descripcion_corta": "Recinto municipal inaugurado en 2012 con un gran anfiteatro, usado para conciertos masivos y espectáculos de gira.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket",
+      "Ticketmaster"
+    ],
+    "coordenadas": {
+      "lat": -16.40941,
+      "lng": -71.54226
+    },
+    "fuente": [
+      "https://elbuho.pe/archivo/2012/07/24/palacio-metropolitano-sera-inaugurado-con-derroche-artistico-el-4-de-agosto/index.html",
+      "https://elbuho.pe/?p=288885",
+      "https://teleticket.com.pe/evento/rp-sessions-volumen-iii-arequipa-mar-de-copas-trece-baladas-no-recomendable-palacio-metropolitano-de-bellas-artes",
+      "https://www.ticketmaster.pe/event/planchando-el-despecho-todas-vuelven-tu-tambien-arequipa-venta-general",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo 'más de 2500 personas' según nota de inauguración (2012). Más orientado a conciertos que a artes escénicas. Gestionado por EMECSA."
+  },
+  {
+    "nombre": "Centro Cultural Peruano Norteamericano de Arequipa",
+    "alias": [
+      "CCPNA Arequipa",
+      "Teatro del CCPNA",
+      "Cultural Peruano Norteamericano Arequipa"
+    ],
+    "ciudad": "Arequipa",
+    "distrito": "Arequipa (Cercado)",
+    "direccion": "Calle Melgar 109, Arequipa",
+    "tipo": "institucional",
+    "aforo_aprox": null,
+    "descripcion_corta": "Centro binacional con teatro y galería en el centro de Arequipa; programa conciertos de música tradicional y clásica, teatro y exposiciones.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -16.39586,
+      "lng": -71.53342
+    },
+    "fuente": [
+      "https://elbuho.pe/archivo/2012/08/06/recital-de-musica-arequipena-este-martes-7-de-agosto/index.html",
+      "https://www.fodors.com/world/south-america/peru/the-southern-andes-and-lake-titicaca/things-to-do/performing-arts",
+      "https://elbuho.pe/tema/centro-cultural-peruano-norteamericano/",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Web, aforo y canal de venta no verificados."
+  },
+  {
+    "nombre": "Teatro Municipal de Trujillo",
+    "alias": [
+      "Teatro Municipal",
+      "TEATRO MUNICIPAL DE TRUJILLO"
+    ],
+    "ciudad": "Trujillo",
+    "distrito": "Trujillo",
+    "direccion": "Jr. Bolívar 753, Trujillo",
+    "tipo": "municipal",
+    "aforo_aprox": 410,
+    "descripcion_corta": "Teatro histórico del centro de Trujillo, monumento desde 1972, restaurado mediante obras por impuestos; tiene platea, mezanine, cazuela y palcos.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [],
+    "coordenadas": {
+      "lat": -8.1095,
+      "lng": -79.02465
+    },
+    "fuente": [
+      "https://plataforma.constructivo.com/revistas/rc106/docs/CONSTRUCTIVO%20106_109.pdf",
+      "https://alicia.concytec.gob.pe/vufind/Record/REVUNI_e8b9162303733736b8ab8c393d0f3a31",
+      "https://aroundus.com/p/4202746-",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Aforo 410 según la revista Constructivo (fecha no visible). Número 753 solo en un listado de eventos. No se encontró programación 2026 ni canal de venta."
+  },
+  {
+    "nombre": "Gran Teatro Víctor Raúl Lozano Ibáñez (UPAO)",
+    "alias": [
+      "Teatro UPAO",
+      "Teatro Upao",
+      "Gran Teatro UPAO",
+      "Teatro Víctor Raúl Lozano Ibáñez",
+      "TEATRO VRLI"
+    ],
+    "ciudad": "Trujillo",
+    "distrito": "Trujillo",
+    "direccion": "Prolongación Av. César Vallejo, Urb. Monserrate (campus UPAO), Trujillo",
+    "tipo": "universitaria",
+    "aforo_aprox": 1107,
+    "descripcion_corta": "Gran teatro de la Universidad Privada Antenor Orrego, abierto en 2017; es el principal escenario del norte para conciertos, musicales y el Festival de Teatro de Trujillo.",
+    "web": "https://teatroupao.com/",
+    "instagram": "https://www.instagram.com/granteatro_upao/",
+    "url_cartelera": null,
+    "ticketera": [
+      "Ticketmaster"
+    ],
+    "coordenadas": {
+      "lat": -8.12765,
+      "lng": -79.03116
+    },
+    "fuente": [
+      "https://teatroupao.com/",
+      "https://upao.edu.pe/noticia/sexto-aniversario-teatro-vrli/",
+      "https://upao.edu.pe/noticia/Gran-Teatro-Victor-Raul-Lozano-Ibanez-celebra-noveno-aniversario-con-Fonseca/",
+      "https://www.ticketmaster.pe/event/planchando-el-despecho-todas-vuelven-tu-tambien-trujillo-home",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "alta",
+    "estado": "activa",
+    "notas": "Aforo 1107 según UPAO (antes de la renovación de 2026). La web tiene una sección 'programa' (URL exacta no verificada). OSM lo ubica en Av. América Sur 3145 (campus)."
+  },
+  {
+    "nombre": "Teatro San Juan",
+    "alias": [
+      "TEATRO SAN JUAN - TRUJILLO",
+      "TEATRO SAN JUAN TRUJILLO",
+      "Teatro San Juan Trujillo"
+    ],
+    "ciudad": "Trujillo",
+    "distrito": "Trujillo",
+    "direccion": "Jr. Independencia 681, Trujillo",
+    "tipo": null,
+    "aforo_aprox": null,
+    "descripcion_corta": "Sala del centro de Trujillo que recibe conciertos de baladas, tributos y espectáculos de gira.",
+    "web": null,
+    "instagram": null,
+    "url_cartelera": null,
+    "ticketera": [
+      "Teleticket"
+    ],
+    "coordenadas": {
+      "lat": -8.10871,
+      "lng": -79.02707
+    },
+    "fuente": [
+      "https://teleticket.com.pe/evento/voces-de-oro-en-trujillo-teatro-san-juan",
+      "https://teleticket.com.pe/evento/voces-del-amor-trujillo-teatro-san-juan-trujillo-2026",
+      "https://nominatim.openstreetmap.org/"
+    ],
+    "confianza": "media",
+    "estado": "activa",
+    "notas": "Gestor no identificado (tipo=null). Una ficha de Teleticket suma ~450 localidades en un evento, no es aforo oficial. Programación más musical que teatral."
+  }
+]
