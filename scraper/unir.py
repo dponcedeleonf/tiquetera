@@ -105,65 +105,95 @@ def main():
             p["obras"].append(obra_slug)
         return p["slug"]
 
+    def sumar_personas(obra, base):
+        """Agrega elenco, ficha y artistas que la obra aún no tenga."""
+        ya = {e["persona"] for e in obra["elenco"]} | {f["persona"] for f in obra["ficha"]} | set(obra["artistas"])
+        for e in base.get("elenco") or []:
+            if (p := registrar_persona(e.get("nombre"), "actuación", obra["slug"])) and p not in ya:
+                obra["elenco"].append({"persona": p, "personaje": e.get("personaje")})
+                ya.add(p)
+        for f in base.get("ficha") or []:
+            if (p := registrar_persona(f.get("nombre"), f.get("rol") or "otro", obra["slug"])) and p not in ya:
+                obra["ficha"].append({"persona": p, "rol": f.get("rol")})
+                ya.add(p)
+        for a in base.get("artistas") or []:
+            if (p := registrar_persona(a, "artista", obra["slug"])) and p not in ya:
+                obra["artistas"].append(p)
+                ya.add(p)
+
+    def precio_minimo(funciones):
+        precios = [pr["precio_min"] for f in funciones for pr in f.get("precios", [])
+                   if "CONADIS" not in pr["categoria"].upper() and "DISCAPACIDAD" not in pr["categoria"].upper()]
+        return min(precios) if precios else None
+
     def agregar_obra(base, ev):
         titulo = base["titulo"]
         sala = registrar_sala(base.get("sala") or sala_de_lugar(ev["lugar"])[0],
                               base.get("distrito"), base.get("ciudad"))
+        # Una obra = una producción. Las giras y las fuentes repetidas se juntan por título;
+        # cada función recuerda en qué sala es.
         obra_slug = slug(titulo)
-        existente = obras.get(obra_slug)
-        if existente and existente["sala"] != sala["slug"]:
-            obra_slug = f"{obra_slug}-{sala['slug']}"
-            existente = obras.get(obra_slug)
         funciones = [{**f, "sala": sala["slug"]} for f in ev.get("funciones", [])]
-        if existente:
-            # La misma obra en dos fuentes: se suman funciones y fuentes.
-            existente["fuentes"].append({"fuente": ev["fuente"], "url": ev["url"]})
-            existente["funciones"] += [f for f in funciones if f not in existente["funciones"]]
-            return
-        obra = {
-            "slug": obra_slug,
-            "titulo": titulo,
-            "tipo": base.get("tipo") or "otro",
-            "generos": base.get("generos") or [],
-            "sinopsis": base.get("sinopsis"),
-            "sala": sala["slug"],
-            "ciudad": sala["ciudad"],
-            "imagen": img.get(ev["url"]),
-            "duracion_min": base.get("duracion_min"),
-            "edad_minima": base.get("edad_minima"),
-            "horario_texto": base.get("horario_texto"),
-            "temporada": base.get("temporada") or {"inicio": None, "fin": None},
-            "precio_desde": base.get("precio_desde"),
-            "productora": base.get("productora"),
-            "funciones": funciones,
-            "fuentes": [{"fuente": ev["fuente"], "url": ev["url"]}],
-            "elenco": [], "ficha": [], "artistas": [],
-        }
-        for e in base.get("elenco") or []:
-            if (p := registrar_persona(e.get("nombre"), "actuación", obra_slug)):
-                obra["elenco"].append({"persona": p, "personaje": e.get("personaje")})
-        for f in base.get("ficha") or []:
-            if (p := registrar_persona(f.get("nombre"), f.get("rol") or "otro", obra_slug)):
-                obra["ficha"].append({"persona": p, "rol": f.get("rol")})
-        for a in base.get("artistas") or []:
-            if (p := registrar_persona(a, "artista", obra_slug)):
-                obra["artistas"].append(p)
-        if obra["precio_desde"] is None:
-            precios = [pr["precio_min"] for f in funciones for pr in f.get("precios", [])
-                       if "CONADIS" not in pr["categoria"].upper() and "DISCAPACIDAD" not in pr["categoria"].upper()]
+        fuente = {"fuente": ev["fuente"], "url": ev["url"], "sala": sala["slug"], "url_compra": base.get("url_compra")}
+        obra = obras.get(obra_slug)
+        if obra:
+            obra["fuentes"].append(fuente)
+            obra["funciones"] += [f for f in funciones if f not in obra["funciones"]]
+            if sala["slug"] not in obra["salas"]:
+                obra["salas"].append(sala["slug"])
+            t, nueva = obra["temporada"], base.get("temporada") or {}
+            if nueva.get("inicio") and (not t.get("inicio") or nueva["inicio"] < t["inicio"]):
+                t["inicio"] = nueva["inicio"]
+            if nueva.get("fin") and (not t.get("fin") or nueva["fin"] > t["fin"]):
+                t["fin"] = nueva["fin"]
+            precios = [p for p in (obra["precio_desde"], base.get("precio_desde"), precio_minimo(funciones)) if p is not None]
             obra["precio_desde"] = min(precios) if precios else None
-        obras[obra_slug] = obra
-        sala["obras"].append(obra_slug)
+            for campo in ("sinopsis", "imagen", "duracion_min", "edad_minima", "horario_texto", "productora"):
+                obra[campo] = obra[campo] or (img.get(ev["url"]) or base.get("imagen") if campo == "imagen" else base.get(campo))
+            sumar_personas(obra, base)
+        else:
+            obra = {
+                "slug": obra_slug,
+                "titulo": titulo,
+                "tipo": base.get("tipo") or "otro",
+                "generos": base.get("generos") or [],
+                "sinopsis": base.get("sinopsis"),
+                "sala": sala["slug"],
+                "salas": [sala["slug"]],
+                "ciudad": sala["ciudad"],
+                "imagen": img.get(ev["url"]) or base.get("imagen"),
+                "duracion_min": base.get("duracion_min"),
+                "edad_minima": base.get("edad_minima"),
+                "horario_texto": base.get("horario_texto"),
+                "temporada": dict(base.get("temporada") or {"inicio": None, "fin": None}),
+                "precio_desde": base.get("precio_desde") if base.get("precio_desde") is not None else precio_minimo(funciones),
+                "productora": base.get("productora"),
+                "funciones": funciones,
+                "fuentes": [fuente],
+                "elenco": [], "ficha": [], "artistas": [],
+            }
+            obras[obra_slug] = obra
+            sumar_personas(obra, base)
+        if obra_slug not in sala["obras"]:
+            sala["obras"].append(obra_slug)
 
     for x in extraidos:
         ev = entradas.get(x["id"])
         if ev and x.get("incluir", True) and x.get("titulo"):
             agregar_obra(x, ev)
 
+    # Cartelera publicada en las webs de las propias salas (ver salas_web/).
+    ruta_salas_web = DATA / "extraido" / "salas_web.json"
+    if ruta_salas_web.exists():
+        for x in json.load(open(ruta_salas_web)):
+            if x.get("incluir", True) and x.get("titulo"):
+                agregar_obra(x, {"fuente": x["fuente"], "url": x["url"], "lugar": x["sala"], "funciones": []})
+
     for ev in json.load(open(DATA / "musica.json")):
         nombre, distrito, ciudad = sala_de_lugar(ev["lugar"])
         fechas = sorted(f["fecha"] for f in ev["funciones"] if f.get("fecha"))
-        titulo = ev["titulo"].title() if ev["titulo"].isupper() else ev["titulo"]
+        titulo = re.sub(r"\s*\|\s*teleticket.*$", "", ev["titulo"], flags=re.I).strip()
+        titulo = titulo.title() if titulo.isupper() else titulo
         agregar_obra({"titulo": titulo, "tipo": "concierto", "sala": nombre.title() if nombre.isupper() else nombre,
                       "distrito": distrito, "ciudad": ciudad,
                       "temporada": {"inicio": fechas[0] if fechas else None, "fin": fechas[-1] if fechas else None}}, ev)

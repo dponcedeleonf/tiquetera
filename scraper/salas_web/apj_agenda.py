@@ -17,6 +17,18 @@ MESES = [(2026, 9), (2026, 10), (2026, 11), (2026, 12), (2027, 1)]
 # Por eso se revisa la lista de meses publicados (publicaciones_meses) del año.
 
 
+def _post(s, hdr, data, intentos=3):
+    for i in range(intentos):
+        try:
+            r = s.post(U, headers=hdr, data=data, timeout=40)
+            time.sleep(1.1)
+            return r
+        except requests.RequestException:
+            if i == intentos - 1:
+                raise
+            time.sleep(5)
+
+
 def recolectar():
     DIR.mkdir(parents=True, exist_ok=True)
     s = requests.Session(); s.headers["User-Agent"] = UA
@@ -32,10 +44,11 @@ def recolectar():
             h = s.get(U, timeout=40).text; time.sleep(1.1)
             tok = re.search(r"X-CSRF-TOKEN': '([^']+)'", h).group(1)
         hdr = {"X-CSRF-TOKEN": tok, "X-Requested-With": "XMLHttpRequest"}
-        cal = s.post(U, headers=hdr, data={"tipo": "calendario", "anio": anio, "mes": mes}, timeout=40).json(); time.sleep(1.1)
+        cal = _post(s, hdr, {"tipo": "calendario", "anio": anio, "mes": mes}).json()
         publicados = {int(m) for m in re.findall(r'<option value="(\d+)"', cal.get("publicaciones_meses") or "")}
         if mes not in publicados:
             print(anio, mes, "sin publicaciones (meses publicados:", sorted(publicados), ")")
+            f_cal.write_text(json.dumps({"sin_publicaciones": True, "dias": {}})); f_pub.write_text("")
             continue
         dias = collections.defaultdict(list)
         for dia, pid in re.findall(r"<input type='hidden' class='(\d+)' value='(\d+)'>", cal["result"]):
@@ -44,8 +57,8 @@ def recolectar():
         ids = sorted({p for v in dias.values() for p in v})
         pub = ""
         if ids:
-            pub = s.post(U, headers=hdr, data={"tipo": "publicaciones", "anio": anio, "mes": mes, "dia": min(dias),
-                                               "id_publicaciones[]": ids}, timeout=40).text; time.sleep(1.1)
+            pub = _post(s, hdr, {"tipo": "publicaciones", "anio": anio, "mes": mes, "dia": min(dias),
+                                 "id_publicaciones[]": ids}).text
         f_cal.write_text(json.dumps(cal, ensure_ascii=False)); f_pub.write_text(pub)
         print(anio, mes, "días con actividad:", len(dias), "ids:", len(ids))
         salida[(anio, mes)] = (cal, pub)

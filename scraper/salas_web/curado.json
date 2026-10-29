@@ -1,0 +1,1124 @@
+{
+ "_nota": "Capa editorial escrita a mano sobre lo que extrae extraer.py. Sinopsis propias (no copiadas). Lo de aquí pisa lo extraído. _excluir: ids que no son obras o no están en temporada.",
+ "_excluir": [
+  "sala-teatro-la-plaza-gris",
+  "sala-teatro-britanico-10-concurso-de-dramaturgia-peruana-ponemos-tu-obra-en-escena"
+ ],
+ "sala-teatro-la-plaza-la-frontera-de-los-cuentos": {
+  "titulo": "La frontera de los cuentos",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "humor",
+   "música"
+  ],
+  "sinopsis": "Dos soldados vigilan una frontera que quizá solo existe en su imaginación y, para defenderla, se cuentan tres historias sobre equivocarse, decir lo que uno siente y elegir el propio camino. Una obra familiar con humor y música, pensada para niños desde los seis años.",
+  "ficha": [
+   {
+    "nombre": "Paloma Reyes de Sá",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Paloma Reyes de Sá",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Sáb y dom 4 p. m."
+ },
+ "sala-teatro-la-plaza-sueno": {
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "comedia"
+  ],
+  "sinopsis": "Una compañía de teatro a punto de desaparecer recibe un dinero que podría salvarla, a cambio de renunciar en silencio a lo que le dio sentido. Mientras un bosque invade el escenario, la obra cruza juego, humor y drama para mirar qué pasa cuando un grupo empieza a desarmarse.",
+  "elenco": [
+   {
+    "nombre": "Andrea Brissolese",
+    "personaje": null
+   },
+   {
+    "nombre": "Francesca Correa",
+    "personaje": null
+   },
+   {
+    "nombre": "Augusto Gutiérrez",
+    "personaje": null
+   },
+   {
+    "nombre": "Diego Pérez",
+    "personaje": null
+   },
+   {
+    "nombre": "Sebastián Ramos",
+    "personaje": null
+   },
+   {
+    "nombre": "Carolay Rodríguez",
+    "personaje": null
+   },
+   {
+    "nombre": "Beatriz Ureta",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Josué Castañeda",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Daniela Zea",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Josué Castañeda",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Daniela Zea",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Vian L. King",
+    "rol": "otro"
+   }
+  ],
+  "horario_texto": "Mar a sáb 8 p. m., dom 7 p. m."
+ },
+ "sala-teatro-la-plaza-el-fantasma-de-la-opera": {
+  "incluir": false,
+  "titulo": "El fantasma de la ópera",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "musical",
+   "aventura"
+  ],
+  "sinopsis": "Versión para niños del clásico: en la Ópera de París ocurren cosas misteriosas y la joven cantante Cristine termina descubriendo el secreto del Fantasma, en una aventura con humor y música para mayores de ocho años.",
+  "ficha": [
+   {
+    "nombre": "Els Vandell",
+    "rol": "adaptación"
+   },
+   {
+    "nombre": "Els Vandell",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Rod Díaz",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Sáb y dom 4 p. m."
+ },
+ "sala-teatro-britanico-mythos-laboratorio-abierto": {
+  "titulo": "Mythos: laboratorio abierto",
+  "tipo": "teatro",
+  "generos": [
+   "experimental",
+   "música"
+  ],
+  "sinopsis": "Al cierre de su residencia en Lima, la artista británica Mella Faye abre al público el proceso de creación de Mythos, con teatro, música y sonido. No es una obra terminada: el público está invitado a participar en algunos de los experimentos.",
+  "elenco": [
+   {
+    "nombre": "Gisela Ponce de León",
+    "personaje": null
+   },
+   {
+    "nombre": "Eduardo Camino",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Mella Faye",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Bruno Timarchi",
+    "rol": "música"
+   },
+   {
+    "nombre": "Martin Goncalvez",
+    "rol": "música"
+   }
+  ],
+  "edad_minima": 16,
+  "horario_texto": "Mié 4 nov, 8 p. m.",
+  "precio_desde": 0
+ },
+ "sala-teatro-britanico-blanca-ponte-un-alma": {
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "biográfico",
+   "poesía"
+  ],
+  "sinopsis": "Un recorrido por la vida de la poeta Blanca Varela, contado con sus versos y sus memorias, en el que seis intérpretes dan vida a muchos personajes mientras ella intenta trascender el dolor antes de partir.",
+  "elenco": [
+   {
+    "nombre": "Alejandra Guerra",
+    "personaje": null
+   },
+   {
+    "nombre": "Vania Accinelli",
+    "personaje": null
+   },
+   {
+    "nombre": "Lita Baluarte",
+    "personaje": null
+   },
+   {
+    "nombre": "Renato Rueda",
+    "personaje": null
+   },
+   {
+    "nombre": "Bruno Espejo",
+    "personaje": null
+   },
+   {
+    "nombre": "Aníbal Lozano",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "K’intu Galiano",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "K’intu Galiano",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Carla Valdivia",
+    "rol": "otro"
+   }
+  ],
+  "edad_minima": 16,
+  "horario_texto": "Jue, vie, sáb y lun 8:30 p. m.; dom 8 p. m."
+ },
+ "sala-teatro-britanico-la-mujer-de-negro-woman-in-black": {
+  "tipo": "teatro",
+  "generos": [
+   "terror",
+   "suspenso"
+  ],
+  "sinopsis": "Un hombre mayor busca a un joven actor para contar por fin los hechos terribles que marcaron su juventud, y a medida que ensayan la historia se va apoderando de ellos y del público. Adaptación de Stephen Mallatratt de la novela de Susan Hill.",
+  "elenco": [
+   {
+    "nombre": "Alberto Isola",
+    "personaje": null
+   },
+   {
+    "nombre": "Nicolás Galindo",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Norma Martínez",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Stephen Mallatratt",
+    "rol": "adaptación"
+   },
+   {
+    "nombre": "Susan Hill",
+    "rol": "otro"
+   }
+  ],
+  "edad_minima": 12,
+  "horario_texto": "Jue a sáb 8 p. m., dom 7 p. m."
+ },
+ "sala-centro-cultural-pucp-desencuentros": {
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "Cinco vidas marcadas por la incomunicación y la culpa —un padre que justifica un abandono, una expareja que busca respuestas, un escritor que recibe cartas ajenas, un hijo que baila a solas— se cruzan en monólogos y sueños. La obra se pregunta qué hacer con los vínculos cuando el diálogo ya se rompió.",
+  "elenco": [
+   {
+    "nombre": "Manuel Calderón",
+    "personaje": null
+   },
+   {
+    "nombre": "Vera Castaño",
+    "personaje": null
+   },
+   {
+    "nombre": "Luis Jaime Cisneros",
+    "personaje": null
+   },
+   {
+    "nombre": "Sebastián Cornejo",
+    "personaje": null
+   },
+   {
+    "nombre": "Maritza Diaz",
+    "personaje": null
+   },
+   {
+    "nombre": "Luciana Giraldo",
+    "personaje": null
+   },
+   {
+    "nombre": "Maria Jose Jugo",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Gino Luque",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Fito Bustamante",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Josue Castañeda",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Yaremis Rebaza",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Jimena Acuña",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Colores Castillo",
+    "rol": "escenografía"
+   },
+   {
+    "nombre": "Colores Castillo",
+    "rol": "vestuario"
+   },
+   {
+    "nombre": "Cocompi Tantavilca",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Andres Cisneros",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Ari Gume",
+    "rol": "iluminación"
+   }
+  ],
+  "horario_texto": "Jue, vie, sáb y lun 8 p. m.; dom 7 p. m."
+ },
+ "sala-gran-teatro-nacional-voces-del-sol-america": {
+  "titulo": "Voces del Sol: América",
+  "tipo": "musical",
+  "generos": [
+   "coral",
+   "familiar"
+  ],
+  "sinopsis": "Seis viajeros a bordo de un barco rumbo a una legendaria Nueva América descubren que los acompañan las voces de quienes construyeron el continente. Espectáculo coral y escénico con 140 niños y jóvenes, orquesta de cámara y actores, sobre memoria, identidad y nuevos comienzos.",
+  "artistas": [
+   "Voces del Sol"
+  ],
+  "ficha": [
+   {
+    "nombre": "Claudia Rheineck",
+    "rol": "música"
+   },
+   {
+    "nombre": "Paola Vicente",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Paola Vicente",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Raúl Romero",
+    "rol": "coreografía"
+   }
+  ],
+  "horario_texto": "Sáb 19 sep 8 p. m., dom 20 sep 4:30 p. m."
+ },
+ "sala-gran-teatro-nacional-ballet-nacional-del-peru-las-cuatro-estaciones-de-antonio-vivaldi": {
+  "tipo": "danza",
+  "generos": [
+   "ballet",
+   "neoclásico"
+  ],
+  "sinopsis": "El Ballet Nacional del Perú propone una mirada neoclásica y minimalista a Las cuatro estaciones, con bailarines que encarnan la fuerza y los cambios de la naturaleza. El programa abre con tres coreografías breves del mismo lenguaje.",
+  "artistas": [
+   "Ballet Nacional del Perú"
+  ],
+  "ficha": [
+   {
+    "nombre": "Grace Kelly Cobián",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Vie 25, sáb 26 y mar 29 sep 8 p. m.; dom 27 sep 5:30 p. m."
+ },
+ "sala-gran-teatro-nacional-serenata-marinera": {
+  "tipo": "folklore",
+  "generos": [
+   "marinera",
+   "danza"
+  ],
+  "sinopsis": "En la víspera del Día Nacional de la Marinera, una velada que reúne las variantes limeña, norteña, ayacuchana, puneña y arequipeña del baile, con un reconocimiento a personas e instituciones de la cultura.",
+  "horario_texto": "Mar 6 oct, 8 p. m.",
+  "precio_desde": 0
+ },
+ "sala-gran-teatro-nacional-nicomedes-santa-cruz-gamarra-noventa-y-nueve-y-un-bitute-mas": {
+  "tipo": "folklore",
+  "generos": [
+   "afroperuano",
+   "música",
+   "décima"
+  ],
+  "sinopsis": "Una obra escénica que recorre el legado de Nicomedes Santa Cruz, decimista e investigador del folclore afroperuano, con música, danza, décimas y teatro.",
+  "horario_texto": "Sáb 10 oct, 8 p. m.",
+  "precio_desde": 0
+ },
+ "sala-gran-teatro-nacional-sesiones-gtn-una-muerte-light": {
+  "titulo": "Sesiones GTN: Una muerte light",
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "Un antiguo empleado muere en el baño de la oficina el mismo día en que la empresa es absorbida y se anuncia un despido masivo; dos oficinistas, un guardia y la gerenta intentan entender —y esconder— lo que pasó. Función gratuita con inscripción previa.",
+  "horario_texto": "Mar 13 oct, 8:30 p. m.",
+  "precio_desde": 0
+ },
+ "sala-gran-teatro-nacional-yuyachkani-antes-de-irnos-para-siempre": {
+  "tipo": "teatro",
+  "generos": [
+   "teatro de grupo",
+   "memoria"
+  ],
+  "sinopsis": "En su 55 aniversario, Yuyachkani vuelve sobre el camino recorrido y se pregunta por el sentido de hacer teatro hoy, en una creación donde reaparecen personajes de obras anteriores para interpelar a sus actores. Mezcla lo personal y lo colectivo, lo político y lo poético.",
+  "elenco": [
+   {
+    "nombre": "Ana Correa",
+    "personaje": null
+   },
+   {
+    "nombre": "Augusto Casafranca",
+    "personaje": null
+   },
+   {
+    "nombre": "Julián Vargas",
+    "personaje": null
+   },
+   {
+    "nombre": "Rebeca Ralli",
+    "personaje": null
+   },
+   {
+    "nombre": "Teresa Ralli",
+    "personaje": null
+   },
+   {
+    "nombre": "Alejandro Siles",
+    "personaje": null
+   }
+  ],
+  "productora": "Yuyachkani",
+  "horario_texto": "Sáb 17 oct 8 p. m., dom 18 oct 5:30 p. m."
+ },
+ "sala-gran-teatro-nacional-tania-libertad": {
+  "tipo": "concierto",
+  "generos": [
+   "bolero",
+   "música criolla",
+   "canción latinoamericana"
+  ],
+  "sinopsis": "La cantante peruano-mexicana vuelve al Gran Teatro Nacional con un único concierto en el que repasa boleros, canción de autor y clásicos peruanos e hispanoamericanos de su repertorio.",
+  "artistas": [
+   "Tania Libertad"
+  ],
+  "productora": "DEA Promotora",
+  "horario_texto": "Sáb 24 oct, 8 p. m."
+ },
+ "sala-gran-teatro-nacional-el-peru-en-un-solo-canto": {
+  "tipo": "folklore",
+  "generos": [
+   "danza",
+   "música andina",
+   "afroperuano"
+  ],
+  "sinopsis": "Un espectáculo en tres actos que va del origen mítico andino a la devoción al Señor de los Milagros y la fiesta de la Virgen de la Candelaria, para mostrar el rito, la fe y la celebración como parte de la identidad peruana.",
+  "horario_texto": "Dom 25 oct, 7 p. m."
+ },
+ "sala-gran-teatro-nacional-ballet-folclorico-nacional-retablo-criollo-herencia-de-la-costa": {
+  "tipo": "folklore",
+  "generos": [
+   "danza",
+   "música criolla",
+   "afroperuano"
+  ],
+  "sinopsis": "El Ballet Folclórico Nacional rinde homenaje al criollismo con un recorrido en cuatro cuadros por la costa peruana —valses, polcas, zamacuecas y festejos— que cuenta el encuentro de las herencias hispana, afroperuana e indígena.",
+  "artistas": [
+   "Ballet Folclórico Nacional"
+  ],
+  "ficha": [
+   {
+    "nombre": "Ángel Gómez",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Eddy Sánchez",
+    "rol": "música"
+   }
+  ],
+  "horario_texto": "Vie 30 y sáb 31 oct, lun 2 a mié 4 nov 8 p. m.; dom 1 nov 5:30 p. m."
+ },
+ "sala-gran-teatro-nacional-coro-nacional-de-ninos-del-peru-estampas-criollas": {
+  "tipo": "concierto",
+  "generos": [
+   "coral",
+   "música criolla"
+  ],
+  "sinopsis": "Por el Día de la Canción Criolla, las niñas y niños del Coro Nacional cantan jaranas, pregones, danzas y carnavales, con un homenaje a figuras del criollismo.",
+  "artistas": [
+   "Coro Nacional de Niños del Perú"
+  ],
+  "ficha": [
+   {
+    "nombre": "Mónica Canales",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Jue 5 nov, 8 p. m."
+ },
+ "sala-gran-teatro-nacional-amy-gutierrez-mi-primer-gran-teatro": {
+  "tipo": "concierto",
+  "generos": [
+   "tropical",
+   "balada",
+   "música criolla"
+  ],
+  "sinopsis": "Amy Gutierrez debuta en el Gran Teatro con un recital que junta música tropical, baladas, criolla y arreglos sinfónicos, y que cuenta su historia a través de sus canciones.",
+  "artistas": [
+   "Amy Gutierrez"
+  ],
+  "horario_texto": "Sáb 7 nov, 8 p. m."
+ },
+ "sala-gran-teatro-nacional-cecilia-bracamonte-gracias-por-tanto": {
+  "titulo": "Cecilia Bracamonte: Gracias por tanto",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla"
+  ],
+  "sinopsis": "Con más de seis décadas de carrera, Cecilia Bracamonte ofrece una gala con la que se despide de una etapa de su vida artística.",
+  "artistas": [
+   "Cecilia Bracamonte"
+  ],
+  "horario_texto": "Dom 8 nov, 7:15 p. m."
+ },
+ "sala-gran-teatro-nacional-gran-gala-lirica-solistas-de-la-opera-del-teatro-colon": {
+  "tipo": "opera",
+  "generos": [
+   "lírica",
+   "arias"
+  ],
+  "sinopsis": "Cinco artistas del Teatro Colón de Buenos Aires —soprano, mezzosoprano, tenor, barítono y una directora y pianista— se presentan juntos por primera vez en el Perú con un programa de arias conocidas.",
+  "artistas": [
+   "Laura Rizzo",
+   "Omar Carrión",
+   "Fermín Prieto",
+   "María Luján",
+   "Eduvígenes Picone"
+  ],
+  "horario_texto": "Mar 10 nov, 8 p. m."
+ },
+ "sala-gran-teatro-nacional-amanda-portales-arte-puro-ii": {
+  "tipo": "concierto",
+  "generos": [
+   "música andina",
+   "huayno"
+  ],
+  "sinopsis": "La Novia del Perú vuelve al Gran Teatro con un espectáculo que junta las canciones de sus seis décadas de carrera con temas nuevos, invitados de distintas generaciones, la Orquesta Típica Amigos del Mantaro y danzas en escena.",
+  "artistas": [
+   "Amanda Portales",
+   "Jhonny Campos",
+   "Javier y Jasa Sauñe",
+   "Karla Sofía",
+   "Facundo Sanz Barcelli",
+   "Orquesta Típica Amigos del Mantaro"
+  ],
+  "horario_texto": "Jue 12 y vie 13 nov, 8 p. m."
+ },
+ "sala-gran-teatro-nacional-orquesta-y-coro-juvenil-sinfonia-por-el-peru-sinfonia-nro-9-ludwig-van-beethoven": {
+  "titulo": "Sinfonía por el Perú: Sinfonía n.º 9 de Beethoven",
+  "tipo": "concierto",
+  "generos": [
+   "sinfónico",
+   "coral",
+   "clásica"
+  ],
+  "sinopsis": "Sinfonía por el Perú celebra 15 años con más de 200 músicos jóvenes en escena: un canto procesional quechua del siglo XVII, Canción con todos y, en la segunda parte, la Novena de Beethoven con cuatro solistas.",
+  "artistas": [
+   "Orquesta y Coro Juvenil Sinfonía por el Perú",
+   "María Rondón",
+   "Diana Arce Martínez",
+   "D'Angelo Díaz",
+   "Luis Sarmiento Narro"
+  ],
+  "ficha": [
+   {
+    "nombre": "Rodolfo Fischer",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Mié 18 nov, 8 p. m."
+ },
+ "sala-gran-teatro-nacional-mi-primer-sinfonico-como-en-los-90s": {
+  "titulo": "Mi primer sinfónico: Como en los 90's",
+  "tipo": "concierto",
+  "generos": [
+   "sinfónico",
+   "pop",
+   "familiar"
+  ],
+  "sinopsis": "Una historia musical para toda la familia en la que músicos y actores llevan a versión orquestal los éxitos del pop y el rock de los noventa, pensada para que grandes y chicos los canten juntos.",
+  "ficha": [
+   {
+    "nombre": "Leo Cubas",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Leo Cubas",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Carlos Ramírez Núñez",
+    "rol": "música"
+   }
+  ],
+  "horario_texto": "Sáb 21 nov 7 p. m.; dom 22 nov 11:30 a. m. y 4 p. m."
+ },
+ "sala-gran-teatro-nacional-hohoho-sinfonico": {
+  "titulo": "Hohoho Sinfónico",
+  "tipo": "concierto",
+  "generos": [
+   "navideño",
+   "sinfónico",
+   "big band"
+  ],
+  "sinopsis": "Un concierto navideño que une una orquesta sinfónica, una big band en vivo y voces solistas para recorrer canciones de la temporada, de los clásicos de Sinatra y Nat King Cole a éxitos más recientes.",
+  "productora": "Studio Tres Perú",
+  "horario_texto": "Jue 17 y vie 18 dic 8 p. m.; sáb 19 dic 6 p. m."
+ },
+ "sala-teatro-peruano-japones-carlos-ballarta-presenta-naco-ladino": {
+  "titulo": "Carlos Ballarta: Naco Ladino",
+  "tipo": "stand-up",
+  "generos": [
+   "comedia",
+   "humor negro"
+  ],
+  "sinopsis": "El comediante mexicano presenta Naco Ladino, un show en el que se ríe de la identidad latinoamericana, los estereotipos y la vida hiperconectada con su estilo seco y reflexivo.",
+  "artistas": [
+   "Carlos Ballarta"
+  ],
+  "horario_texto": "Mar 6 oct, 9 p. m."
+ },
+ "sala-teatro-peruano-japones-amor-de-marinera": {
+  "tipo": "musical",
+  "generos": [
+   "marinera",
+   "familiar"
+  ],
+  "sinopsis": "Un musical familiar en el que 20 campeones de marinera norteña actúan, cantan y bailan en vivo, acompañados de proyecciones, mapping y pantallas interactivas.",
+  "horario_texto": "Sáb 10 oct, 4 p. m. y 8 p. m."
+ },
+ "sala-teatro-peruano-japones-somos-mirones-jarana-de-barrio": {
+  "titulo": "Somos Mirones: Jarana de barrio",
+  "tipo": "concierto",
+  "generos": [
+   "música criolla",
+   "vals",
+   "festejo"
+  ],
+  "sinopsis": "Por el Día de la Canción Criolla, Los Ardiles recrean una jarana de barrio de las de antes, con valses, marineras y festejos, y una treintena de cantantes, músicos y bailarines en escena.",
+  "artistas": [
+   "Los Ardiles"
+  ],
+  "horario_texto": "Sáb 31 oct, 8 p. m."
+ },
+ "sala-teatro-de-lucia-manana-la-muerte": {
+  "titulo": "Mañana, la muerte",
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "El día en que cumple 27 años, Catalina recibe la visita de la Muerte, que le anuncia que le queda un año de vida; con ella al lado, tendrá que decidir qué hacer con todo lo que fue dejando para después.",
+  "elenco": [
+   {
+    "nombre": "Macarena Carrillo",
+    "personaje": null
+   },
+   {
+    "nombre": "Paulina Bazán",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Aline Lemus Bernal",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Manuel Alegría",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Isabel Falcón",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Ysabel Cáceda",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Marité Quiñones",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Renzo Caparó",
+    "rol": "iluminación"
+   }
+  ],
+  "horario_texto": "Mar y mié 8 p. m."
+ },
+ "sala-teatro-de-lucia-138-citas-para-encontrar-el-amor": {
+  "titulo": "138 citas para encontrar el amor",
+  "tipo": "comedia",
+  "generos": [
+   "comedia romántica"
+  ],
+  "sinopsis": "Daniel, cansado de fracasar en las citas, decide renunciar al amor justo cuando alguien inesperado se cruza en su vida. Una comedia romántica sobre lo que de verdad buscamos en una pareja.",
+  "elenco": [
+   {
+    "nombre": "Abigail Vizcardo",
+    "personaje": null
+   },
+   {
+    "nombre": "Luisito Fernández",
+    "personaje": null
+   },
+   {
+    "nombre": "Rodrigo Chávez Terrones",
+    "personaje": null
+   },
+   {
+    "nombre": "Malú Menacho",
+    "personaje": null
+   },
+   {
+    "nombre": "Luis Cárdenas-Natteri",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Luisito Fernández",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Pedro Egusquiza León",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Mar 13 y mié 14 oct, 8 p. m."
+ },
+ "sala-teatro-de-lucia-2-de-ribeyro": {
+  "titulo": "2 de Ribeyro",
+  "tipo": "comedia",
+  "generos": [
+   "comedia",
+   "clásico peruano"
+  ],
+  "sinopsis": "Dos comedias breves que Julio Ramón Ribeyro escribió en los años sesenta, El último cliente y Confusión en la prefectura, situadas en una tienda de alquiler de trajes de novio del centro de Lima y en una prefectura de provincia, con costumbres que siguen siendo muy reconocibles.",
+  "ficha": [
+   {
+    "nombre": "Julio Ramón Ribeyro",
+    "rol": "dramaturgia"
+   }
+  ],
+  "horario_texto": "Jue a sáb 8 p. m., dom 7 p. m."
+ },
+ "sala-teatro-de-lucia-el-apego": {
+  "titulo": "El apego",
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "familia"
+  ],
+  "sinopsis": "Un hombre visita una y otra vez a su padre anciano para asegurarse de que tenga una vejez digna, con poca ayuda de su hermana y poco dinero, mientras se pregunta si lo mueve el deber, la culpa o el amor.",
+  "elenco": [
+   {
+    "nombre": "Emanuel Soriano",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Emiliano Dionisi",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Fito Valles",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Analucía Rodríguez",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Kevin Cruzatti",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Oskaranibal O’Higgins",
+    "rol": "producción"
+   }
+  ],
+  "horario_texto": "Lun 8 p. m. (además mar 6 y mié 7 oct)"
+ },
+ "sala-teatro-de-lucia-el-caballero-de-los-mares": {
+  "titulo": "El caballero de los mares",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "historia"
+  ],
+  "sinopsis": "Guillermo, un niño que sufre bullying en el colegio, ve cobrar vida a la estatua de Miguel Grau en un parque y, de su mano, conoce la historia del héroe mientras aprende a confiar en sí mismo. Una aventura para toda la familia.",
+  "horario_texto": "Dom 12 m."
+ },
+ "sala-teatro-de-lucia-iris-y-floflo": {
+  "titulo": "Iris y Flofló",
+  "tipo": "infantil",
+  "generos": [
+   "familiar",
+   "ecología"
+  ],
+  "sinopsis": "A orillas del Rímac, dos pichones de paloma sueñan con ser marineros ecológicos y cuidar ríos y mares, mientras su madre intenta protegerlos de un mundo que le parece peligroso. Una historia sobre escuchar a los hijos y aprender a dejarlos partir.",
+  "horario_texto": "Dom 4 p. m."
+ },
+ "sala-icpna-miraflores-auditorio-fedra": {
+  "tipo": "teatro",
+  "generos": [
+   "tragedia",
+   "contemporáneo"
+  ],
+  "sinopsis": "Una relectura del mito griego de Fedra en tiempos de posverdad, donde el papel de los dioses lo cumple una pantalla.",
+  "elenco": [
+   {
+    "nombre": "Alexandra Graña",
+    "personaje": null
+   },
+   {
+    "nombre": "Jose Miguel Argüelles",
+    "personaje": null
+   },
+   {
+    "nombre": "Gonzalo Molina",
+    "personaje": null
+   },
+   {
+    "nombre": "Monica Ross",
+    "personaje": null
+   },
+   {
+    "nombre": "María Rubio Arregui",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Gonzalo Rodríguez Risco",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Marcela Cossíos",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Jorge Robinet",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Pável Paniagua",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Haziel Gutiérrez Assen",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Carlo Corvacho",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Martín Dulanto",
+    "rol": "escenografía"
+   },
+   {
+    "nombre": "Paloma Santander Barletti",
+    "rol": "vestuario"
+   },
+   {
+    "nombre": "Santiago Pillado-Matheu",
+    "rol": "música"
+   },
+   {
+    "nombre": "César Becerra",
+    "rol": "iluminación"
+   },
+   {
+    "nombre": "Ana Celia Salazar",
+    "rol": "producción"
+   },
+   {
+    "nombre": "Alberto Servat",
+    "rol": "producción"
+   }
+  ]
+ },
+ "sala-teatro-de-la-alianza-francesa-de-lima-las-aulas-celestes": {
+  "tipo": "teatro",
+  "generos": [
+   "drama"
+  ],
+  "sinopsis": "Una noche, en un restaurante, Manuel —que dejó una carrera académica en Estados Unidos— se reencuentra con Sabino, su amigo del colegio público de un barrio obrero de Lima, que le guarda un viejo rencor. Mariana de Althaus adapta la novela El principio del mundo, de Jeremías Gamboa, y habla de clase, racismo y reconciliación.",
+  "elenco": [
+   {
+    "nombre": "Daniel Cano",
+    "personaje": null
+   },
+   {
+    "nombre": "Christopher Rondón Gaona",
+    "personaje": null
+   },
+   {
+    "nombre": "Verony Centeno",
+    "personaje": null
+   },
+   {
+    "nombre": "Gabriel Iglesias",
+    "personaje": null
+   },
+   {
+    "nombre": "Kiara Quispe",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Mariana de Althaus",
+    "rol": "adaptación"
+   },
+   {
+    "nombre": "Mariana de Althaus",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Malú Gil",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Jeremías Gamboa",
+    "rol": "otro"
+   }
+  ],
+  "horario_texto": "8 p. m."
+ },
+ "sala-teatro-de-la-alianza-francesa-de-lima-myselves": {
+  "titulo": "Myselves",
+  "tipo": "danza",
+  "generos": [
+   "danza contemporánea",
+   "tecnología"
+  ],
+  "sinopsis": "Una bailarina comparte el escenario con su doble digital, una criatura de imagen y sonido que responde a sus movimientos mediante sensores, para explorar la identidad y el límite entre lo humano y lo artificial. Pieza de la compañía francesa K. Danse dentro del festival NOVTEC.",
+  "elenco": [
+   {
+    "nombre": "Evane Duguet",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Jean-Marc Matos",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Jean-Marc Matos",
+    "rol": "coreografía"
+   },
+   {
+    "nombre": "Antoine Schmitt",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Marianne Masson",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Clément Combes",
+    "rol": "otro"
+   }
+  ],
+  "productora": "K. Danse",
+  "duracion_min": 50,
+  "edad_minima": 12,
+  "horario_texto": "Mar 17 y mié 18 nov, 8 p. m."
+ },
+ "sala-teatro-de-la-alianza-francesa-de-lima-la-voz-humana": {
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "monólogo"
+  ],
+  "sinopsis": "Una mujer intenta retener al hombre que la dejó en una última conversación marcada por la espera, la dependencia y la falta de amor propio. El monólogo de Jean Cocteau, dirigido por Jean Pierre Gamarra.",
+  "elenco": [
+   {
+    "nombre": "Amaranta Kun",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "Jean Cocteau",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Jean Pierre Gamarra",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Lorenzo Albani",
+    "rol": "escenografía"
+   }
+  ],
+  "productora": "Alianza Francesa de Lima y Éxodo Teatro",
+  "horario_texto": "Jue a sáb 8 p. m."
+ },
+ "sala-asociacion-de-artistas-aficionados-aaa-la-mascara-de-la-muerte-roja": {
+  "titulo": "La máscara de la muerte roja",
+  "tipo": "teatro",
+  "generos": [
+   "terror",
+   "gótico"
+  ],
+  "sinopsis": "Para escapar de una peste, el príncipe Próspero se encierra en su fortaleza con sus invitados y organiza una gran fiesta, hasta que aparece entre ellos una misteriosa figura enmascarada. Versión teatral del cuento de Edgar Allan Poe.",
+  "ficha": [
+   {
+    "nombre": "Sofia Rojas",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Marco Paulo Meléndez",
+    "rol": "adaptación"
+   },
+   {
+    "nombre": "Miguel Ángel Martinez",
+    "rol": "otro"
+   },
+   {
+    "nombre": "Edgar Allan Poe",
+    "rol": "otro"
+   }
+  ],
+  "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m."
+ },
+ "sala-asociacion-de-artistas-aficionados-aaa-cuento-de-navidad": {
+  "tipo": "teatro",
+  "generos": [
+   "clásico",
+   "navideño",
+   "familiar"
+  ],
+  "sinopsis": "En Nochebuena, el avaro Ebenezer Scrooge recibe la visita de tres espíritus que le muestran su pasado, su presente y su futuro, y le dan una última oportunidad de cambiar. Versión del clásico de Charles Dickens.",
+  "ficha": [
+   {
+    "nombre": "Hádaly Ramírez",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "Marco Paulo Meléndez",
+    "rol": "adaptación"
+   },
+   {
+    "nombre": "Charles Dickens",
+    "rol": "otro"
+   }
+  ],
+  "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m."
+ },
+ "sala-asociacion-de-artistas-aficionados-aaa-el-pelikano": {
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "familia"
+  ],
+  "sinopsis": "Tras la muerte del padre, una familia se reúne en la casa y el amor, el sacrificio y las apariencias empiezan a resquebrajarse. Creación colectiva inspirada en El pelícano, de August Strindberg.",
+  "ficha": [
+   {
+    "nombre": "Ivi Cordero",
+    "rol": "dirección"
+   },
+   {
+    "nombre": "August Strindberg",
+    "rol": "dramaturgia"
+   }
+  ],
+  "productora": "Huilota Producciones",
+  "horario_texto": "Jue 26 a dom 29 nov: jue a sáb 8 p. m., dom 7 p. m."
+ },
+ "sala-asociacion-de-artistas-aficionados-aaa-kamikaze": {
+  "tipo": "teatro",
+  "generos": [
+   "drama",
+   "guerra"
+  ],
+  "sinopsis": "Una familia enfrenta decisiones imposibles en medio de la guerra, en esta obra de César De María que reflexiona sobre el honor, la libertad y lo que cuesta la violencia.",
+  "elenco": [
+   {
+    "nombre": "Berenis Cornejo",
+    "personaje": null
+   },
+   {
+    "nombre": "Jared Portocarrero",
+    "personaje": null
+   },
+   {
+    "nombre": "Milagros Campos",
+    "personaje": null
+   },
+   {
+    "nombre": "Willem Chunga",
+    "personaje": null
+   },
+   {
+    "nombre": "Victor Lucana",
+    "personaje": null
+   }
+  ],
+  "ficha": [
+   {
+    "nombre": "César De María",
+    "rol": "dramaturgia"
+   },
+   {
+    "nombre": "Ernesto Ayala",
+    "rol": "dirección"
+   }
+  ],
+  "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m."
+ }
+}

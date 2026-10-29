@@ -17,7 +17,13 @@ TOPE_POR_SALA = 30
 _sesion = requests.Session()
 _sesion.headers["User-Agent"] = UA
 _ultimo = {}
-_conteo = {}
+# Páginas pedidas por sala. Se guarda junto a la caché para que el tope valga entre
+# ejecuciones; al borrar raw/salas_web/ se reinicia.
+_CONTEO = CACHE / "_conteo.json"
+try:
+    _conteo = json.loads(_CONTEO.read_text())
+except (OSError, ValueError):
+    _conteo = {}
 
 
 class Bloqueado(Exception):
@@ -64,6 +70,8 @@ def bajar(url, sala="?", render=False, espera_ms=3000):
         print(f"[tope] {sala}: no se pide {url}")
         return ""
     _conteo[sala] = _conteo.get(sala, 0) + 1
+    CACHE.mkdir(parents=True, exist_ok=True)
+    _CONTEO.write_text(json.dumps(_conteo, indent=1))
     _esperar(_host(url))
     destino.parent.mkdir(parents=True, exist_ok=True)
     if render:

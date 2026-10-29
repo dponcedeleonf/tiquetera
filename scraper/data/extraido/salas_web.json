@@ -1,0 +1,2004 @@
+[
+  {
+    "id": "sala-teatro-la-plaza-la-frontera-de-los-cuentos",
+    "fuente": "web de la sala",
+    "url": "https://laplaza.com.pe/obras-archive/la-frontera-de-los-cuentos/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-la-frontera-de-los-cuentos-77134",
+    "incluir": true,
+    "titulo": "La frontera de los cuentos",
+    "tipo": "infantil",
+    "generos": [
+      "familiar",
+      "humor",
+      "música"
+    ],
+    "sinopsis": "Dos soldados vigilan una frontera que quizá solo existe en su imaginación y, para defenderla, se cuentan tres historias sobre equivocarse, decir lo que uno siente y elegir el propio camino. Una obra familiar con humor y música, pensada para niños desde los seis años.",
+    "elenco": [
+      {
+        "nombre": "Alonso Cano",
+        "personaje": null
+      },
+      {
+        "nombre": "Fiorella Kollmann",
+        "personaje": null
+      },
+      {
+        "nombre": "Ximena Galiano",
+        "personaje": null
+      },
+      {
+        "nombre": "Miguel Coello",
+        "personaje": null
+      },
+      {
+        "nombre": "Nicolás Castro",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Paloma Reyes de Sá",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Paloma Reyes de Sá",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro La Plaza",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 6,
+    "horario_texto": "Sáb y dom 4 p. m.",
+    "temporada": {
+      "inicio": "2026-10-24",
+      "fin": null
+    },
+    "precio_desde": null,
+    "imagen": "https://laplaza.com.pe/wp-content/uploads/2026/10/WEB-IMAGENQUEHAY-800x1200-LFDC.jpg"
+  },
+  {
+    "id": "sala-teatro-la-plaza-sueno",
+    "fuente": "web de la sala",
+    "url": "https://laplaza.com.pe/obras-archive/sueno-2026/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-sueno-73375",
+    "incluir": true,
+    "titulo": "Sueño",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "comedia"
+    ],
+    "sinopsis": "Una compañía de teatro a punto de desaparecer recibe un dinero que podría salvarla, a cambio de renunciar en silencio a lo que le dio sentido. Mientras un bosque invade el escenario, la obra cruza juego, humor y drama para mirar qué pasa cuando un grupo empieza a desarmarse.",
+    "elenco": [
+      {
+        "nombre": "Andrea Brissolese",
+        "personaje": null
+      },
+      {
+        "nombre": "Francesca Correa",
+        "personaje": null
+      },
+      {
+        "nombre": "Augusto Gutiérrez",
+        "personaje": null
+      },
+      {
+        "nombre": "Diego Pérez",
+        "personaje": null
+      },
+      {
+        "nombre": "Sebastián Ramos",
+        "personaje": null
+      },
+      {
+        "nombre": "Carolay Rodríguez",
+        "personaje": null
+      },
+      {
+        "nombre": "Beatriz Ureta",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Josué Castañeda",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Daniela Zea",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Josué Castañeda",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Daniela Zea",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Vian L. King",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro La Plaza",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 16,
+    "horario_texto": "Mar a sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-17",
+      "fin": "2026-12-06"
+    },
+    "precio_desde": null,
+    "imagen": "https://laplaza.com.pe/wp-content/uploads/2026/10/WEB-IMAGENQUEHAY-800x1200-SUENO-26oct.jpg"
+  },
+  {
+    "id": "sala-teatro-la-plaza-el-fantasma-de-la-opera",
+    "fuente": "web de la sala",
+    "url": "https://laplaza.com.pe/obras-archive/el-fantasma-de-la-opera-2026/",
+    "url_compra": null,
+    "incluir": false,
+    "titulo": "El fantasma de la ópera",
+    "tipo": "infantil",
+    "generos": [
+      "familiar",
+      "musical",
+      "aventura"
+    ],
+    "sinopsis": "Versión para niños del clásico: en la Ópera de París ocurren cosas misteriosas y la joven cantante Cristine termina descubriendo el secreto del Fantasma, en una aventura con humor y música para mayores de ocho años.",
+    "elenco": [
+      {
+        "nombre": "Paul Martin",
+        "personaje": null
+      },
+      {
+        "nombre": "Gabriel Iglesias",
+        "personaje": null
+      },
+      {
+        "nombre": "Anaí Padilla",
+        "personaje": null
+      },
+      {
+        "nombre": "Nicolas Ostolaza",
+        "personaje": null
+      },
+      {
+        "nombre": "Avril Gil",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Els Vandell",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Els Vandell",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Rod Díaz",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro La Plaza",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 8,
+    "horario_texto": "Sáb y dom 4 p. m.",
+    "temporada": {
+      "inicio": "2026-06-13",
+      "fin": null
+    },
+    "precio_desde": null,
+    "imagen": "https://laplaza.com.pe/wp-content/uploads/2026/09/EFDL-WEB-IMAG-800x1200-1.jpg"
+  },
+  {
+    "id": "sala-teatro-britanico-mythos-laboratorio-abierto",
+    "fuente": "web de la sala",
+    "url": "https://britanico.edu.pe/cultural/eventos/mythos-laboratorio-abierto/",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "Mythos: laboratorio abierto",
+    "tipo": "teatro",
+    "generos": [
+      "experimental",
+      "música"
+    ],
+    "sinopsis": "Al cierre de su residencia en Lima, la artista británica Mella Faye abre al público el proceso de creación de Mythos, con teatro, música y sonido. No es una obra terminada: el público está invitado a participar en algunos de los experimentos.",
+    "elenco": [
+      {
+        "nombre": "Gisela Ponce de León",
+        "personaje": null
+      },
+      {
+        "nombre": "Eduardo Camino",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Mella Faye",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Bruno Timarchi",
+        "rol": "música"
+      },
+      {
+        "nombre": "Martin Goncalvez",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Británico",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 16,
+    "horario_texto": "Mié 4 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-04",
+      "fin": "2026-11-04"
+    },
+    "precio_desde": 0,
+    "imagen": "https://britanico.edu.pe/cultural/wp-content/uploads/sites/3/2026/08/mythos-laboratorio-abierto.jpg"
+  },
+  {
+    "id": "sala-teatro-britanico-blanca-ponte-un-alma",
+    "fuente": "web de la sala",
+    "url": "https://britanico.edu.pe/cultural/eventos/blanca-ponte-un-alma/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-blanca-ponte-un-alma-78264",
+    "incluir": true,
+    "titulo": "Blanca, ponte un alma",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "biográfico",
+      "poesía"
+    ],
+    "sinopsis": "Un recorrido por la vida de la poeta Blanca Varela, contado con sus versos y sus memorias, en el que seis intérpretes dan vida a muchos personajes mientras ella intenta trascender el dolor antes de partir.",
+    "elenco": [
+      {
+        "nombre": "Alejandra Guerra",
+        "personaje": null
+      },
+      {
+        "nombre": "Vania Accinelli",
+        "personaje": null
+      },
+      {
+        "nombre": "Lita Baluarte",
+        "personaje": null
+      },
+      {
+        "nombre": "Renato Rueda",
+        "personaje": null
+      },
+      {
+        "nombre": "Bruno Espejo",
+        "personaje": null
+      },
+      {
+        "nombre": "Aníbal Lozano",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "K’intu Galiano",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "K’intu Galiano",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Carla Valdivia",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Británico",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 16,
+    "horario_texto": "Jue, vie, sáb y lun 8:30 p. m.; dom 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-15",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": 40.0,
+    "imagen": "https://britanico.edu.pe/cultural/wp-content/uploads/sites/3/2026/08/Blanca-2.jpeg"
+  },
+  {
+    "id": "sala-teatro-britanico-la-mujer-de-negro-woman-in-black",
+    "fuente": "web de la sala",
+    "url": "https://britanico.edu.pe/cultural/eventos/la-mujer-de-negro/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-la-mujer-de-negro-75518",
+    "incluir": true,
+    "titulo": "La mujer de negro (Woman in black)",
+    "tipo": "teatro",
+    "generos": [
+      "terror",
+      "suspenso"
+    ],
+    "sinopsis": "Un hombre mayor busca a un joven actor para contar por fin los hechos terribles que marcaron su juventud, y a medida que ensayan la historia se va apoderando de ellos y del público. Adaptación de Stephen Mallatratt de la novela de Susan Hill.",
+    "elenco": [
+      {
+        "nombre": "Alberto Isola",
+        "personaje": null
+      },
+      {
+        "nombre": "Nicolás Galindo",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Norma Martínez",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Stephen Mallatratt",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Susan Hill",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro Británico",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 12,
+    "horario_texto": "Jue a sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-09-19",
+      "fin": "2026-12-06"
+    },
+    "precio_desde": 65.0,
+    "imagen": "https://britanico.edu.pe/cultural/wp-content/uploads/sites/3/2026/04/la-mujer-de-negro.jpg"
+  },
+  {
+    "id": "sala-centro-cultural-pucp-desencuentros",
+    "fuente": "web de la sala",
+    "url": "https://centrocultural.pucp.edu.pe/teatro/item/5437-desencuentros.html",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-desencuentros-79815",
+    "incluir": true,
+    "titulo": "Desencuentros",
+    "tipo": "teatro",
+    "generos": [
+      "drama"
+    ],
+    "sinopsis": "Cinco vidas marcadas por la incomunicación y la culpa —un padre que justifica un abandono, una expareja que busca respuestas, un escritor que recibe cartas ajenas, un hijo que baila a solas— se cruzan en monólogos y sueños. La obra se pregunta qué hacer con los vínculos cuando el diálogo ya se rompió.",
+    "elenco": [
+      {
+        "nombre": "Manuel Calderón",
+        "personaje": null
+      },
+      {
+        "nombre": "Vera Castaño",
+        "personaje": null
+      },
+      {
+        "nombre": "Luis Jaime Cisneros",
+        "personaje": null
+      },
+      {
+        "nombre": "Sebastián Cornejo",
+        "personaje": null
+      },
+      {
+        "nombre": "Maritza Diaz",
+        "personaje": null
+      },
+      {
+        "nombre": "Luciana Giraldo",
+        "personaje": null
+      },
+      {
+        "nombre": "Maria Jose Jugo",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Gino Luque",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Fito Bustamante",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Josue Castañeda",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Yaremis Rebaza",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Jimena Acuña",
+        "rol": "producción"
+      },
+      {
+        "nombre": "Colores Castillo",
+        "rol": "escenografía"
+      },
+      {
+        "nombre": "Colores Castillo",
+        "rol": "vestuario"
+      },
+      {
+        "nombre": "Cocompi Tantavilca",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Andres Cisneros",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Ari Gume",
+        "rol": "iluminación"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Centro Cultural PUCP",
+    "distrito": "San Isidro",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue, vie, sáb y lun 8 p. m.; dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-05",
+      "fin": "2026-12-07"
+    },
+    "precio_desde": 30.0,
+    "imagen": "https://centrocultural.pucp.edu.pe/media/k2/items/cache/0adf0928e9d06913a64e0c849c233518_M.jpg"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-voces-del-sol-america",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/voces-del-sol-america",
+    "url_compra": "https://teleticket.com.pe/america",
+    "incluir": true,
+    "titulo": "Voces del Sol: América",
+    "tipo": "musical",
+    "generos": [
+      "coral",
+      "familiar"
+    ],
+    "sinopsis": "Seis viajeros a bordo de un barco rumbo a una legendaria Nueva América descubren que los acompañan las voces de quienes construyeron el continente. Espectáculo coral y escénico con 140 niños y jóvenes, orquesta de cámara y actores, sobre memoria, identidad y nuevos comienzos.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Claudia Rheineck",
+        "rol": "música"
+      },
+      {
+        "nombre": "Paola Vicente",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Paola Vicente",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Raúl Romero",
+        "rol": "coreografía"
+      }
+    ],
+    "artistas": [
+      "Voces del Sol"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 19 sep 8 p. m., dom 20 sep 4:30 p. m.",
+    "temporada": {
+      "inicio": "2026-09-19",
+      "fin": "2026-09-20"
+    },
+    "precio_desde": 47.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/america.jpg?itok=mrFGR2GM"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-ballet-nacional-del-peru-las-cuatro-estaciones-de-antonio-vivaldi",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/ballet-nacional-del-peru-las-cuatro-estaciones-de-antonio-vivaldi",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-las-cuatro-estaciones-de-antonio-vivaldi-78242",
+    "incluir": true,
+    "titulo": "Ballet Nacional del Perú: Las cuatro estaciones de Antonio Vivaldi",
+    "tipo": "danza",
+    "generos": [
+      "ballet",
+      "neoclásico"
+    ],
+    "sinopsis": "El Ballet Nacional del Perú propone una mirada neoclásica y minimalista a Las cuatro estaciones, con bailarines que encarnan la fuerza y los cambios de la naturaleza. El programa abre con tres coreografías breves del mismo lenguaje.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Grace Kelly Cobián",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [
+      "Ballet Nacional del Perú"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Vie 25, sáb 26 y mar 29 sep 8 p. m.; dom 27 sep 5:30 p. m.",
+    "temporada": {
+      "inicio": "2026-09-25",
+      "fin": "2026-09-29"
+    },
+    "precio_desde": 15.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/cuatro-estaciones_0.jpg?itok=lu3asi68"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-serenata-marinera",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/serenata-marinera",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "Serenata marinera",
+    "tipo": "folklore",
+    "generos": [
+      "marinera",
+      "danza"
+    ],
+    "sinopsis": "En la víspera del Día Nacional de la Marinera, una velada que reúne las variantes limeña, norteña, ayacuchana, puneña y arequipeña del baile, con un reconocimiento a personas e instituciones de la cultura.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 6 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-06",
+      "fin": "2026-10-06"
+    },
+    "precio_desde": 0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/marinera.jpg?itok=TsPlOxQ_"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-nicomedes-santa-cruz-gamarra-noventa-y-nueve-y-un-bitute-mas",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/nicomedes-santa-cruz-gamarra-noventa-y-nueve-y-un-bitute-mas",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "Nicomedes Santa Cruz Gamarra: Noventa y nueve y un bitute más",
+    "tipo": "folklore",
+    "generos": [
+      "afroperuano",
+      "música",
+      "décima"
+    ],
+    "sinopsis": "Una obra escénica que recorre el legado de Nicomedes Santa Cruz, decimista e investigador del folclore afroperuano, con música, danza, décimas y teatro.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 10 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-10",
+      "fin": "2026-10-10"
+    },
+    "precio_desde": 0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/nicomedes2.jpg?itok=bU938Cxu"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-sesiones-gtn-una-muerte-light",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/sesiones-gtn-una-muerte-light",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "Sesiones GTN: Una muerte light",
+    "tipo": "teatro",
+    "generos": [
+      "drama"
+    ],
+    "sinopsis": "Un antiguo empleado muere en el baño de la oficina el mismo día en que la empresa es absorbida y se anuncia un despido masivo; dos oficinistas, un guardia y la gerenta intentan entender —y esconder— lo que pasó. Función gratuita con inscripción previa.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 13 oct, 8:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-13",
+      "fin": "2026-10-13"
+    },
+    "precio_desde": 0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/muerte-light.jpg?itok=CB-X-EJd"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-yuyachkani-antes-de-irnos-para-siempre",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/yuyachkani-antes-de-irnos-para-siempre",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-antes-de-irnos-para-siempre-79187",
+    "incluir": true,
+    "titulo": "Yuyachkani: Antes de irnos para siempre",
+    "tipo": "teatro",
+    "generos": [
+      "teatro de grupo",
+      "memoria"
+    ],
+    "sinopsis": "En su 55 aniversario, Yuyachkani vuelve sobre el camino recorrido y se pregunta por el sentido de hacer teatro hoy, en una creación donde reaparecen personajes de obras anteriores para interpelar a sus actores. Mezcla lo personal y lo colectivo, lo político y lo poético.",
+    "elenco": [
+      {
+        "nombre": "Ana Correa",
+        "personaje": null
+      },
+      {
+        "nombre": "Augusto Casafranca",
+        "personaje": null
+      },
+      {
+        "nombre": "Julián Vargas",
+        "personaje": null
+      },
+      {
+        "nombre": "Rebeca Ralli",
+        "personaje": null
+      },
+      {
+        "nombre": "Teresa Ralli",
+        "personaje": null
+      },
+      {
+        "nombre": "Alejandro Siles",
+        "personaje": null
+      }
+    ],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Yuyachkani",
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 17 oct 8 p. m., dom 18 oct 5:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-17",
+      "fin": "2026-10-18"
+    },
+    "precio_desde": 15.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/yuyas-antes-de-irnos.jpg?itok=3CiBGrDW"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-tania-libertad",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/tania-libertad",
+    "url_compra": "https://teleticket.com.pe/tania-libertad-2026",
+    "incluir": true,
+    "titulo": "Tania Libertad",
+    "tipo": "concierto",
+    "generos": [
+      "bolero",
+      "música criolla",
+      "canción latinoamericana"
+    ],
+    "sinopsis": "La cantante peruano-mexicana vuelve al Gran Teatro Nacional con un único concierto en el que repasa boleros, canción de autor y clásicos peruanos e hispanoamericanos de su repertorio.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Tania Libertad"
+    ],
+    "productora": "DEA Promotora",
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 24 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-24",
+      "fin": "2026-10-24"
+    },
+    "precio_desde": 49.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/Tania-Libertad.jpg?itok=euRNlzYM"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-el-peru-en-un-solo-canto",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/el-peru-en-un-solo-canto",
+    "url_compra": "https://www.ticketmaster.pe/event/el-peru-en-un-solo-canto-venta-general",
+    "incluir": true,
+    "titulo": "El Perú en un solo canto",
+    "tipo": "folklore",
+    "generos": [
+      "danza",
+      "música andina",
+      "afroperuano"
+    ],
+    "sinopsis": "Un espectáculo en tres actos que va del origen mítico andino a la devoción al Señor de los Milagros y la fiesta de la Virgen de la Candelaria, para mostrar el rito, la fe y la celebración como parte de la identidad peruana.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Dom 25 oct, 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-25",
+      "fin": "2026-10-25"
+    },
+    "precio_desde": 50.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/un-solo-canto2.jpg?itok=-2PfbJSO"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-ballet-folclorico-nacional-retablo-criollo-herencia-de-la-costa",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/ballet-folclorico-nacional-retablo-criollo-herencia-de-la-costa",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-retablo-criollo-herencia-de-la-costa-79790",
+    "incluir": true,
+    "titulo": "Ballet Folclórico Nacional - Retablo Criollo: Herencia de la Costa",
+    "tipo": "folklore",
+    "generos": [
+      "danza",
+      "música criolla",
+      "afroperuano"
+    ],
+    "sinopsis": "El Ballet Folclórico Nacional rinde homenaje al criollismo con un recorrido en cuatro cuadros por la costa peruana —valses, polcas, zamacuecas y festejos— que cuenta el encuentro de las herencias hispana, afroperuana e indígena.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Ángel Gómez",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Eddy Sánchez",
+        "rol": "música"
+      }
+    ],
+    "artistas": [
+      "Ballet Folclórico Nacional"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Vie 30 y sáb 31 oct, lun 2 a mié 4 nov 8 p. m.; dom 1 nov 5:30 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-04"
+    },
+    "precio_desde": 15.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/retablo-criollo_0.jpg?itok=aMr0aufd"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-coro-nacional-de-ninos-del-peru-estampas-criollas",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/coro-nacional-de-ninos-del-peru-estampas-criollas-0",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-estampas-criollas-79559",
+    "incluir": true,
+    "titulo": "Coro Nacional de Niños del Perú: Estampas Criollas",
+    "tipo": "concierto",
+    "generos": [
+      "coral",
+      "música criolla"
+    ],
+    "sinopsis": "Por el Día de la Canción Criolla, las niñas y niños del Coro Nacional cantan jaranas, pregones, danzas y carnavales, con un homenaje a figuras del criollismo.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Mónica Canales",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [
+      "Coro Nacional de Niños del Perú"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Jue 5 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-05",
+      "fin": "2026-11-05"
+    },
+    "precio_desde": 15.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/estampa-criolla.jpg?itok=VGoLek1l"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-amy-gutierrez-mi-primer-gran-teatro",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/amy-gutierrez-mi-primer-gran-teatro",
+    "url_compra": "https://www.ticketmaster.pe/event/amy-gutierrez-mi-primer-gran-teatro-home",
+    "incluir": true,
+    "titulo": "Amy Gutierrez: Mi primer Gran Teatro",
+    "tipo": "concierto",
+    "generos": [
+      "tropical",
+      "balada",
+      "música criolla"
+    ],
+    "sinopsis": "Amy Gutierrez debuta en el Gran Teatro con un recital que junta música tropical, baladas, criolla y arreglos sinfónicos, y que cuenta su historia a través de sus canciones.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Amy Gutierrez"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 7 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-07",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": 40.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/amy.jpg?itok=Xtrs74Ij"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-cecilia-bracamonte-gracias-por-tanto",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/cecilia-bracamonte-gracias-por-tanto",
+    "url_compra": "https://teleticket.com.pe/gracias-por-tanto",
+    "incluir": true,
+    "titulo": "Cecilia Bracamonte: Gracias por tanto",
+    "tipo": "concierto",
+    "generos": [
+      "música criolla"
+    ],
+    "sinopsis": "Con más de seis décadas de carrera, Cecilia Bracamonte ofrece una gala con la que se despide de una etapa de su vida artística.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Cecilia Bracamonte"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Dom 8 nov, 7:15 p. m.",
+    "temporada": {
+      "inicio": "2026-11-08",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": 43.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/cecilia-bracamonte_0.jpg?itok=46nIsuze"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-gran-gala-lirica-solistas-de-la-opera-del-teatro-colon",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/gran-gala-lirica-solistas-de-la-opera-del-teatro-colon",
+    "url_compra": "https://teleticket.com.pe/galalirica-solistas-2026",
+    "incluir": true,
+    "titulo": "Gran Gala Lírica Solistas de la Ópera del Teatro Colón",
+    "tipo": "opera",
+    "generos": [
+      "lírica",
+      "arias"
+    ],
+    "sinopsis": "Cinco artistas del Teatro Colón de Buenos Aires —soprano, mezzosoprano, tenor, barítono y una directora y pianista— se presentan juntos por primera vez en el Perú con un programa de arias conocidas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Laura Rizzo",
+      "Omar Carrión",
+      "Fermín Prieto",
+      "María Luján",
+      "Eduvígenes Picone"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Mar 10 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-10",
+      "fin": "2026-11-10"
+    },
+    "precio_desde": 45.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/solistas.jpg?itok=RL8zAdYV"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-amanda-portales-arte-puro-ii",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/amanda-portales-arte-puro-ii",
+    "url_compra": "https://teleticket.com.pe/evento/amanda-portales-arte-puro-ii-gran-teatro-nacional",
+    "incluir": true,
+    "titulo": "Amanda Portales: Arte Puro II",
+    "tipo": "concierto",
+    "generos": [
+      "música andina",
+      "huayno"
+    ],
+    "sinopsis": "La Novia del Perú vuelve al Gran Teatro con un espectáculo que junta las canciones de sus seis décadas de carrera con temas nuevos, invitados de distintas generaciones, la Orquesta Típica Amigos del Mantaro y danzas en escena.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Amanda Portales",
+      "Jhonny Campos",
+      "Javier y Jasa Sauñe",
+      "Karla Sofía",
+      "Facundo Sanz Barcelli",
+      "Orquesta Típica Amigos del Mantaro"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Jue 12 y vie 13 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-12",
+      "fin": "2026-11-13"
+    },
+    "precio_desde": 50.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/amanda2.jpg?itok=njr9VEwb"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-orquesta-y-coro-juvenil-sinfonia-por-el-peru-sinfonia-nro-9-ludwig-van-beethoven",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/orquesta-y-coro-juvenil-sinfonia-por-el-peru-sinfonia-nro-9-ludwig-van-beethoven",
+    "url_compra": "https://www.joinnus.com/events/concerts/lima-sinfonia-nro-9-ludwig-van-beethoven-78583",
+    "incluir": true,
+    "titulo": "Sinfonía por el Perú: Sinfonía n.º 9 de Beethoven",
+    "tipo": "concierto",
+    "generos": [
+      "sinfónico",
+      "coral",
+      "clásica"
+    ],
+    "sinopsis": "Sinfonía por el Perú celebra 15 años con más de 200 músicos jóvenes en escena: un canto procesional quechua del siglo XVII, Canción con todos y, en la segunda parte, la Novena de Beethoven con cuatro solistas.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Rodolfo Fischer",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [
+      "Orquesta y Coro Juvenil Sinfonía por el Perú",
+      "María Rondón",
+      "Diana Arce Martínez",
+      "D'Angelo Díaz",
+      "Luis Sarmiento Narro"
+    ],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Mié 18 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-18",
+      "fin": "2026-11-18"
+    },
+    "precio_desde": 25.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/sinfonia-por-el-peru-2_0.jpg?itok=8iUYrViU"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-mi-primer-sinfonico-como-en-los-90s",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/mi-primer-sinfonico-como-en-los-90s",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-mi-primer-sinfonico-como-en-los-90s-78136",
+    "incluir": true,
+    "titulo": "Mi primer sinfónico: Como en los 90's",
+    "tipo": "concierto",
+    "generos": [
+      "sinfónico",
+      "pop",
+      "familiar"
+    ],
+    "sinopsis": "Una historia musical para toda la familia en la que músicos y actores llevan a versión orquestal los éxitos del pop y el rock de los noventa, pensada para que grandes y chicos los canten juntos.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Leo Cubas",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Leo Cubas",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Carlos Ramírez Núñez",
+        "rol": "música"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Sáb 21 nov 7 p. m.; dom 22 nov 11:30 a. m. y 4 p. m.",
+    "temporada": {
+      "inicio": "2026-11-21",
+      "fin": "2026-11-22"
+    },
+    "precio_desde": 40.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/como-en-los-90_0.jpg?itok=RXKsEu2i"
+  },
+  {
+    "id": "sala-gran-teatro-nacional-hohoho-sinfonico",
+    "fuente": "web de la sala",
+    "url": "https://granteatronacional.pe/evento/hohoho-sinfonico",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-hohoho-sinfonico-gran-teatro-nacional-79671",
+    "incluir": true,
+    "titulo": "Hohoho Sinfónico",
+    "tipo": "concierto",
+    "generos": [
+      "navideño",
+      "sinfónico",
+      "big band"
+    ],
+    "sinopsis": "Un concierto navideño que une una orquesta sinfónica, una big band en vivo y voces solistas para recorrer canciones de la temporada, de los clásicos de Sinatra y Nat King Cole a éxitos más recientes.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Studio Tres Perú",
+    "sala": "Gran Teatro Nacional",
+    "distrito": "San Borja",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 5,
+    "horario_texto": "Jue 17 y vie 18 dic 8 p. m.; sáb 19 dic 6 p. m.",
+    "temporada": {
+      "inicio": "2026-12-17",
+      "fin": "2026-12-19"
+    },
+    "precio_desde": 40.0,
+    "imagen": "https://granteatronacional.pe/sites/default/files/styles/370x305/public/ImagenesEvento/hohoho.jpg?itok=ck0a65UZ"
+  },
+  {
+    "id": "sala-teatro-peruano-japones-carlos-ballarta-presenta-naco-ladino",
+    "fuente": "web de la sala",
+    "url": "https://www.apj.org.pe/teatro/agenda_detalle/carlos-ballarta-presenta-naco-ladino",
+    "url_compra": "https://www.passline.com/eventos-plano/carlos-ballarta-presenta-naco-ladino-en-lima",
+    "incluir": true,
+    "titulo": "Carlos Ballarta: Naco Ladino",
+    "tipo": "stand-up",
+    "generos": [
+      "comedia",
+      "humor negro"
+    ],
+    "sinopsis": "El comediante mexicano presenta Naco Ladino, un show en el que se ríe de la identidad latinoamericana, los estereotipos y la vida hiperconectada con su estilo seco y reflexivo.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Carlos Ballarta"
+    ],
+    "productora": "Snow Entertainment",
+    "sala": "Teatro Peruano Japonés",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 6 oct, 9 p. m.",
+    "temporada": {
+      "inicio": "2026-10-06",
+      "fin": "2026-10-06"
+    },
+    "precio_desde": null,
+    "imagen": "https://www.apj.org.pe/photos/shares/Teatro/Cartelera/2026/NacoLadinoStandup.png"
+  },
+  {
+    "id": "sala-teatro-peruano-japones-amor-de-marinera",
+    "fuente": "web de la sala",
+    "url": "https://www.apj.org.pe/teatro/agenda_detalle/amor-de-marinera-1246",
+    "url_compra": "https://www.joinnus.com/events/concerts/lima-amor-de-marinera-77787",
+    "incluir": true,
+    "titulo": "Amor de Marinera",
+    "tipo": "musical",
+    "generos": [
+      "marinera",
+      "familiar"
+    ],
+    "sinopsis": "Un musical familiar en el que 20 campeones de marinera norteña actúan, cantan y bailan en vivo, acompañados de proyecciones, mapping y pantallas interactivas.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Marinera Producciones",
+    "sala": "Teatro Peruano Japonés",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 10 oct, 4 p. m. y 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-10",
+      "fin": "2026-10-10"
+    },
+    "precio_desde": null,
+    "imagen": "https://www.apj.org.pe/photos/shares/Teatro/Cartelera/2026/Amordemarinera.jpeg"
+  },
+  {
+    "id": "sala-teatro-peruano-japones-somos-mirones-jarana-de-barrio",
+    "fuente": "web de la sala",
+    "url": "https://www.apj.org.pe/teatro/agenda_detalle/somos-mirones-jarana-de-barrio",
+    "url_compra": "https://www.ticketmaster.pe/event/los-ardiles-somos-mirones-jarana-de-barrio-venta-general",
+    "incluir": true,
+    "titulo": "Somos Mirones: Jarana de barrio",
+    "tipo": "concierto",
+    "generos": [
+      "música criolla",
+      "vals",
+      "festejo"
+    ],
+    "sinopsis": "Por el Día de la Canción Criolla, Los Ardiles recrean una jarana de barrio de las de antes, con valses, marineras y festejos, y una treintena de cantantes, músicos y bailarines en escena.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [
+      "Los Ardiles"
+    ],
+    "productora": "Nadale Producciones",
+    "sala": "Teatro Peruano Japonés",
+    "distrito": "Jesús María",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Sáb 31 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-31",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": null,
+    "imagen": "https://www.apj.org.pe/photos/shares/Teatro/Cartelera/2026/SomosMironesJaranadeBarrio.png"
+  },
+  {
+    "id": "sala-teatro-de-lucia-manana-la-muerte",
+    "fuente": "web de la sala",
+    "url": "https://teatrodelucia.com/#cartelera",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-manana-la-muerte-78652",
+    "incluir": true,
+    "titulo": "Mañana, la muerte",
+    "tipo": "teatro",
+    "generos": [
+      "drama"
+    ],
+    "sinopsis": "El día en que cumple 27 años, Catalina recibe la visita de la Muerte, que le anuncia que le queda un año de vida; con ella al lado, tendrá que decidir qué hacer con todo lo que fue dejando para después.",
+    "elenco": [
+      {
+        "nombre": "Macarena Carrillo",
+        "personaje": null
+      },
+      {
+        "nombre": "Paulina Bazán",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Aline Lemus Bernal",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Manuel Alegría",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Isabel Falcón",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Ysabel Cáceda",
+        "rol": "producción"
+      },
+      {
+        "nombre": "Marité Quiñones",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Renzo Caparó",
+        "rol": "iluminación"
+      }
+    ],
+    "artistas": [],
+    "productora": "Sorpréndete Producciones",
+    "sala": "Teatro de Lucía",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar y mié 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-20",
+      "fin": "2026-10-28"
+    },
+    "precio_desde": 55,
+    "imagen": "https://teatrodelucia.com/assets/img/poster-manana-la-muerte.webp"
+  },
+  {
+    "id": "sala-teatro-de-lucia-138-citas-para-encontrar-el-amor",
+    "fuente": "web de la sala",
+    "url": "https://teatrodelucia.com/#cartelera",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-138-citas-para-encontrar-el-amor-79250",
+    "incluir": true,
+    "titulo": "138 citas para encontrar el amor",
+    "tipo": "comedia",
+    "generos": [
+      "comedia romántica"
+    ],
+    "sinopsis": "Daniel, cansado de fracasar en las citas, decide renunciar al amor justo cuando alguien inesperado se cruza en su vida. Una comedia romántica sobre lo que de verdad buscamos en una pareja.",
+    "elenco": [
+      {
+        "nombre": "Abigail Vizcardo",
+        "personaje": null
+      },
+      {
+        "nombre": "Luisito Fernández",
+        "personaje": null
+      },
+      {
+        "nombre": "Rodrigo Chávez Terrones",
+        "personaje": null
+      },
+      {
+        "nombre": "Malú Menacho",
+        "personaje": null
+      },
+      {
+        "nombre": "Luis Cárdenas-Natteri",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Luisito Fernández",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Pedro Egusquiza León",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": "La Intensa Producción",
+    "sala": "Teatro de Lucía",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Mar 13 y mié 14 oct, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-13",
+      "fin": "2026-10-14"
+    },
+    "precio_desde": 40,
+    "imagen": "https://teatrodelucia.com/assets/img/poster-138-citas.webp"
+  },
+  {
+    "id": "sala-teatro-de-lucia-2-de-ribeyro",
+    "fuente": "web de la sala",
+    "url": "https://teatrodelucia.com/#cartelera",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-2-de-ribeyro-79127",
+    "incluir": true,
+    "titulo": "2 de Ribeyro",
+    "tipo": "comedia",
+    "generos": [
+      "comedia",
+      "clásico peruano"
+    ],
+    "sinopsis": "Dos comedias breves que Julio Ramón Ribeyro escribió en los años sesenta, El último cliente y Confusión en la prefectura, situadas en una tienda de alquiler de trajes de novio del centro de Lima y en una prefectura de provincia, con costumbres que siguen siendo muy reconocibles.",
+    "elenco": [],
+    "ficha": [
+      {
+        "nombre": "Julio Ramón Ribeyro",
+        "rol": "dramaturgia"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro de Lucía",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue a sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-01",
+      "fin": "2026-10-31"
+    },
+    "precio_desde": 50,
+    "imagen": "https://teatrodelucia.com/assets/img/poster-2-de-ribeyro.webp"
+  },
+  {
+    "id": "sala-teatro-de-lucia-el-apego",
+    "fuente": "web de la sala",
+    "url": "https://teatrodelucia.com/#cartelera",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-el-apego-en-el-teatro-de-lucia-77600",
+    "incluir": true,
+    "titulo": "El apego",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "familia"
+    ],
+    "sinopsis": "Un hombre visita una y otra vez a su padre anciano para asegurarse de que tenga una vejez digna, con poca ayuda de su hermana y poco dinero, mientras se pregunta si lo mueve el deber, la culpa o el amor.",
+    "elenco": [
+      {
+        "nombre": "Emanuel Soriano",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Emiliano Dionisi",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Fito Valles",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Analucía Rodríguez",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Kevin Cruzatti",
+        "rol": "producción"
+      },
+      {
+        "nombre": "Oskaranibal O’Higgins",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": "La Flecha",
+    "sala": "Teatro de Lucía",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Lun 8 p. m. (además mar 6 y mié 7 oct)",
+    "temporada": {
+      "inicio": "2026-10-05",
+      "fin": "2026-11-02"
+    },
+    "precio_desde": null,
+    "imagen": "https://teatrodelucia.com/assets/img/poster-el-apego.webp"
+  },
+  {
+    "id": "sala-teatro-de-lucia-el-caballero-de-los-mares",
+    "fuente": "web de la sala",
+    "url": "https://teatrodelucia.com/#cartelera",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-el-caballero-de-los-mares-de-alexander-pacheco-78666",
+    "incluir": true,
+    "titulo": "El caballero de los mares",
+    "tipo": "infantil",
+    "generos": [
+      "familiar",
+      "historia"
+    ],
+    "sinopsis": "Guillermo, un niño que sufre bullying en el colegio, ve cobrar vida a la estatua de Miguel Grau en un parque y, de su mano, conoce la historia del héroe mientras aprende a confiar en sí mismo. Una aventura para toda la familia.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": "Alexander Pacheco",
+    "sala": "Teatro de Lucía",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 12 m.",
+    "temporada": {
+      "inicio": "2026-10-11",
+      "fin": "2026-10-25"
+    },
+    "precio_desde": 35,
+    "imagen": "https://teatrodelucia.com/assets/img/poster-caballero-mares.webp"
+  },
+  {
+    "id": "sala-teatro-de-lucia-iris-y-floflo",
+    "fuente": "web de la sala",
+    "url": "https://teatrodelucia.com/#cartelera",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-iris-y-floflo-78341",
+    "incluir": true,
+    "titulo": "Iris y Flofló",
+    "tipo": "infantil",
+    "generos": [
+      "familiar",
+      "ecología"
+    ],
+    "sinopsis": "A orillas del Rímac, dos pichones de paloma sueñan con ser marineros ecológicos y cuidar ríos y mares, mientras su madre intenta protegerlos de un mundo que le parece peligroso. Una historia sobre escuchar a los hijos y aprender a dejarlos partir.",
+    "elenco": [],
+    "ficha": [],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro de Lucía",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Dom 4 p. m.",
+    "temporada": {
+      "inicio": "2026-10-11",
+      "fin": "2026-10-25"
+    },
+    "precio_desde": 40,
+    "imagen": "https://teatrodelucia.com/assets/img/poster-iris-floflo.webp"
+  },
+  {
+    "id": "sala-icpna-miraflores-auditorio-fedra",
+    "fuente": "web de la sala",
+    "url": "https://www.icpna.edu.pe/cultural/evento/fedra/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-fedra-79052",
+    "incluir": true,
+    "titulo": "Fedra",
+    "tipo": "teatro",
+    "generos": [
+      "tragedia",
+      "contemporáneo"
+    ],
+    "sinopsis": "Una relectura del mito griego de Fedra en tiempos de posverdad, donde el papel de los dioses lo cumple una pantalla.",
+    "elenco": [
+      {
+        "nombre": "Alexandra Graña",
+        "personaje": null
+      },
+      {
+        "nombre": "Jose Miguel Argüelles",
+        "personaje": null
+      },
+      {
+        "nombre": "Gonzalo Molina",
+        "personaje": null
+      },
+      {
+        "nombre": "Monica Ross",
+        "personaje": null
+      },
+      {
+        "nombre": "María Rubio Arregui",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Gonzalo Rodríguez Risco",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Marcela Cossíos",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Jorge Robinet",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Pável Paniagua",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Haziel Gutiérrez Assen",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Carlo Corvacho",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Martín Dulanto",
+        "rol": "escenografía"
+      },
+      {
+        "nombre": "Paloma Santander Barletti",
+        "rol": "vestuario"
+      },
+      {
+        "nombre": "Santiago Pillado-Matheu",
+        "rol": "música"
+      },
+      {
+        "nombre": "César Becerra",
+        "rol": "iluminación"
+      },
+      {
+        "nombre": "Ana Celia Salazar",
+        "rol": "producción"
+      },
+      {
+        "nombre": "Alberto Servat",
+        "rol": "producción"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "ICPNA Miraflores (Auditorio)",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": 14,
+    "horario_texto": null,
+    "temporada": {
+      "inicio": "2026-10-03",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": null,
+    "imagen": "https://images.ctfassets.net/k566orz2h3gc/5Pla0KtBpYhfFA8jrZSZT9/195c0ab144c1172a97b80cc2582f00cd/BANNERWEB_FEDRA.jpg.jpeg"
+  },
+  {
+    "id": "sala-teatro-de-la-alianza-francesa-de-lima-las-aulas-celestes",
+    "fuente": "web de la sala",
+    "url": "https://aflima.org.pe/evento/las-aulas-celestes/",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "Las aulas celestes",
+    "tipo": "teatro",
+    "generos": [
+      "drama"
+    ],
+    "sinopsis": "Una noche, en un restaurante, Manuel —que dejó una carrera académica en Estados Unidos— se reencuentra con Sabino, su amigo del colegio público de un barrio obrero de Lima, que le guarda un viejo rencor. Mariana de Althaus adapta la novela El principio del mundo, de Jeremías Gamboa, y habla de clase, racismo y reconciliación.",
+    "elenco": [
+      {
+        "nombre": "Daniel Cano",
+        "personaje": null
+      },
+      {
+        "nombre": "Christopher Rondón Gaona",
+        "personaje": null
+      },
+      {
+        "nombre": "Verony Centeno",
+        "personaje": null
+      },
+      {
+        "nombre": "Gabriel Iglesias",
+        "personaje": null
+      },
+      {
+        "nombre": "Kiara Quispe",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Mariana de Althaus",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Mariana de Althaus",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Malú Gil",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Jeremías Gamboa",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Teatro de la Alianza Francesa de Lima",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "8 p. m.",
+    "temporada": {
+      "inicio": "2026-10-08",
+      "fin": "2026-11-07"
+    },
+    "precio_desde": null,
+    "imagen": "https://aflima.org.pe/wp-content/uploads/2026/07/aulas-celestes-banner.jpg"
+  },
+  {
+    "id": "sala-teatro-de-la-alianza-francesa-de-lima-myselves",
+    "fuente": "web de la sala",
+    "url": "https://aflima.org.pe/evento/novtec-x-festival-de-arte-y-cultura-digital/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-novtec-2026-myselves-79836",
+    "incluir": true,
+    "titulo": "Myselves",
+    "tipo": "danza",
+    "generos": [
+      "danza contemporánea",
+      "tecnología"
+    ],
+    "sinopsis": "Una bailarina comparte el escenario con su doble digital, una criatura de imagen y sonido que responde a sus movimientos mediante sensores, para explorar la identidad y el límite entre lo humano y lo artificial. Pieza de la compañía francesa K. Danse dentro del festival NOVTEC.",
+    "elenco": [
+      {
+        "nombre": "Evane Duguet",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Jean-Marc Matos",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Jean-Marc Matos",
+        "rol": "coreografía"
+      },
+      {
+        "nombre": "Antoine Schmitt",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Marianne Masson",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Clément Combes",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": "K. Danse",
+    "sala": "Teatro de la Alianza Francesa de Lima",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": 50,
+    "edad_minima": 12,
+    "horario_texto": "Mar 17 y mié 18 nov, 8 p. m.",
+    "temporada": {
+      "inicio": "2026-11-17",
+      "fin": "2026-11-18"
+    },
+    "precio_desde": null,
+    "imagen": "https://aflima.org.pe/wp-content/uploads/2026/10/myselves-detalle.jpg"
+  },
+  {
+    "id": "sala-teatro-de-la-alianza-francesa-de-lima-la-voz-humana",
+    "fuente": "web de la sala",
+    "url": "https://aflima.org.pe/evento/la-voz-humana/",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "La voz humana",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "monólogo"
+    ],
+    "sinopsis": "Una mujer intenta retener al hombre que la dejó en una última conversación marcada por la espera, la dependencia y la falta de amor propio. El monólogo de Jean Cocteau, dirigido por Jean Pierre Gamarra.",
+    "elenco": [
+      {
+        "nombre": "Amaranta Kun",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Jean Cocteau",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Jean Pierre Gamarra",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Lorenzo Albani",
+        "rol": "escenografía"
+      }
+    ],
+    "artistas": [],
+    "productora": "Alianza Francesa de Lima y Éxodo Teatro",
+    "sala": "Teatro de la Alianza Francesa de Lima",
+    "distrito": "Miraflores",
+    "ciudad": "Lima",
+    "duracion_min": null,
+    "edad_minima": null,
+    "horario_texto": "Jue a sáb 8 p. m.",
+    "temporada": {
+      "inicio": "2027-02-04",
+      "fin": "2027-02-27"
+    },
+    "precio_desde": null,
+    "imagen": "https://aflima.org.pe/wp-content/uploads/2026/10/la-voz-humana-banner.jpg"
+  },
+  {
+    "id": "sala-asociacion-de-artistas-aficionados-aaa-la-mascara-de-la-muerte-roja",
+    "fuente": "web de la sala",
+    "url": "https://aaalima.pe/programacion/la-mascara-de-la-muerte-roja/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-la-mascara-de-la-muerte-roja-79130",
+    "incluir": true,
+    "titulo": "La máscara de la muerte roja",
+    "tipo": "teatro",
+    "generos": [
+      "terror",
+      "gótico"
+    ],
+    "sinopsis": "Para escapar de una peste, el príncipe Próspero se encierra en su fortaleza con sus invitados y organiza una gran fiesta, hasta que aparece entre ellos una misteriosa figura enmascarada. Versión teatral del cuento de Edgar Allan Poe.",
+    "elenco": [
+      {
+        "nombre": "Beleny Gomez",
+        "personaje": null
+      },
+      {
+        "nombre": "Claudia Iglesias",
+        "personaje": null
+      },
+      {
+        "nombre": "Jorge Luis Zevallos",
+        "personaje": null
+      },
+      {
+        "nombre": "Joseph Mendoza",
+        "personaje": null
+      },
+      {
+        "nombre": "Joshua Vasquez",
+        "personaje": null
+      },
+      {
+        "nombre": "Judith Suárez",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Sofia Rojas",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Marco Paulo Meléndez",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Miguel Ángel Martinez",
+        "rol": "otro"
+      },
+      {
+        "nombre": "Edgar Allan Poe",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Asociación de Artistas Aficionados (AAA)",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 70,
+    "edad_minima": null,
+    "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-30",
+      "fin": "2026-11-08"
+    },
+    "precio_desde": null,
+    "imagen": "https://aaalima.pe/wp-content/uploads/2026/09/LMDLMR.jpg"
+  },
+  {
+    "id": "sala-asociacion-de-artistas-aficionados-aaa-cuento-de-navidad",
+    "fuente": "web de la sala",
+    "url": "https://aaalima.pe/cuento-de-navidad/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-cuento-de-navidad-79131",
+    "incluir": true,
+    "titulo": "Cuento de Navidad",
+    "tipo": "teatro",
+    "generos": [
+      "clásico",
+      "navideño",
+      "familiar"
+    ],
+    "sinopsis": "En Nochebuena, el avaro Ebenezer Scrooge recibe la visita de tres espíritus que le muestran su pasado, su presente y su futuro, y le dan una última oportunidad de cambiar. Versión del clásico de Charles Dickens.",
+    "elenco": [
+      {
+        "nombre": "Alondra Contreras",
+        "personaje": null
+      },
+      {
+        "nombre": "Cinthya Carbonell",
+        "personaje": null
+      },
+      {
+        "nombre": "Isid de la Paz",
+        "personaje": null
+      },
+      {
+        "nombre": "Josue Alvarado",
+        "personaje": null
+      },
+      {
+        "nombre": "Octavio Reyes",
+        "personaje": null
+      },
+      {
+        "nombre": "Neydi Pereyra",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Hádaly Ramírez",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "Marco Paulo Meléndez",
+        "rol": "adaptación"
+      },
+      {
+        "nombre": "Charles Dickens",
+        "rol": "otro"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Asociación de Artistas Aficionados (AAA)",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 70,
+    "edad_minima": null,
+    "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-12-11",
+      "fin": "2026-12-20"
+    },
+    "precio_desde": null,
+    "imagen": "https://aaalima.pe/wp-content/uploads/2026/09/CDN.jpg"
+  },
+  {
+    "id": "sala-asociacion-de-artistas-aficionados-aaa-el-pelikano",
+    "fuente": "web de la sala",
+    "url": "https://aaalima.pe/el-pelikano/",
+    "url_compra": null,
+    "incluir": true,
+    "titulo": "El Pelíkano",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "familia"
+    ],
+    "sinopsis": "Tras la muerte del padre, una familia se reúne en la casa y el amor, el sacrificio y las apariencias empiezan a resquebrajarse. Creación colectiva inspirada en El pelícano, de August Strindberg.",
+    "elenco": [
+      {
+        "nombre": "Ivi Cordero",
+        "personaje": null
+      },
+      {
+        "nombre": "Samantha Headrington",
+        "personaje": null
+      },
+      {
+        "nombre": "Jesús Suica",
+        "personaje": null
+      },
+      {
+        "nombre": "Jack Meza",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "Ivi Cordero",
+        "rol": "dirección"
+      },
+      {
+        "nombre": "August Strindberg",
+        "rol": "dramaturgia"
+      }
+    ],
+    "artistas": [],
+    "productora": "Huilota Producciones",
+    "sala": "Asociación de Artistas Aficionados (AAA)",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 70,
+    "edad_minima": null,
+    "horario_texto": "Jue 26 a dom 29 nov: jue a sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-11-26",
+      "fin": "2026-11-29"
+    },
+    "precio_desde": null,
+    "imagen": "https://aaalima.pe/wp-content/uploads/2026/10/EL-PELIKANO-HUILOTA.jpg"
+  },
+  {
+    "id": "sala-asociacion-de-artistas-aficionados-aaa-kamikaze",
+    "fuente": "web de la sala",
+    "url": "https://aaalima.pe/kamikaze/",
+    "url_compra": "https://www.joinnus.com/events/theater/lima-kamikaze-de-cesar-de-maria-78174",
+    "incluir": true,
+    "titulo": "Kamikaze",
+    "tipo": "teatro",
+    "generos": [
+      "drama",
+      "guerra"
+    ],
+    "sinopsis": "Una familia enfrenta decisiones imposibles en medio de la guerra, en esta obra de César De María que reflexiona sobre el honor, la libertad y lo que cuesta la violencia.",
+    "elenco": [
+      {
+        "nombre": "Berenis Cornejo",
+        "personaje": null
+      },
+      {
+        "nombre": "Jared Portocarrero",
+        "personaje": null
+      },
+      {
+        "nombre": "Milagros Campos",
+        "personaje": null
+      },
+      {
+        "nombre": "Willem Chunga",
+        "personaje": null
+      },
+      {
+        "nombre": "Victor Lucana",
+        "personaje": null
+      }
+    ],
+    "ficha": [
+      {
+        "nombre": "César De María",
+        "rol": "dramaturgia"
+      },
+      {
+        "nombre": "Ernesto Ayala",
+        "rol": "dirección"
+      }
+    ],
+    "artistas": [],
+    "productora": null,
+    "sala": "Asociación de Artistas Aficionados (AAA)",
+    "distrito": "Cercado de Lima",
+    "ciudad": "Lima",
+    "duracion_min": 80,
+    "edad_minima": null,
+    "horario_texto": "Vie y sáb 8 p. m., dom 7 p. m.",
+    "temporada": {
+      "inicio": "2026-10-02",
+      "fin": "2026-10-11"
+    },
+    "precio_desde": null,
+    "imagen": "https://aaalima.pe/wp-content/uploads/2026/09/KAMIKAZE-768x1024.jpg"
+  }
+]
