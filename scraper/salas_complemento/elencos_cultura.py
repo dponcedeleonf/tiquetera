@@ -20,7 +20,7 @@ for m in meses:
 out = []
 for u, ev in eventos.items():
     t = texto(bajar(u))
-    cuerpo = t.split("Compañía de Ballet de Trujillo\nEventos\nContacto\n", 1)[-1]
+    cuerpo = t[t.rfind("Eventos\nContacto\n") + len("Eventos\nContacto\n"):]
     cuerpo = cuerpo.split("¡Más cerca de ti!")[0]
     lineas = cuerpo.splitlines()
     ev.update(url=u, titulo=lineas[0] if lineas else None, texto=cuerpo[:3000])
