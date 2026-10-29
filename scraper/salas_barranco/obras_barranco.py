@@ -426,7 +426,12 @@ def main():
     cat = json.load(open(RAIZ / 'data' / 'catalogo.json'))
     salas_cat = {s['slug']: s['nombre'] for s in cat['salas']}
     existentes = {}
+    # unir.py ya lee data/extraido/salas_barranco.json: se ignoran las obras del catálogo cuyas fuentes
+    # salen todas de este mismo archivo (si no, la comparación se encontraría a sí misma).
+    propias = {o['url'] for o in OBRAS}
     for o in cat['obras']:
+        if all(f.get('url') in propias for f in o.get('fuentes', [])):
+            continue
         for s in o.get('salas') or [o['sala']]:
             existentes.setdefault(salas_cat.get(s, s).lower(), set()).add(norm_titulo(o['titulo']))
     # "Roble de Barranco" y "El Roble De Barranco" son el mismo local en el catálogo

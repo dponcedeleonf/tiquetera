@@ -2147,7 +2147,7 @@
     "teatro",
     "danza"
    ],
-   "sinopsis": "Con teatro y danza, una joven conversa con el público sobre su vocación mientras un sistema intenta encajarla como pieza productiva a punto de test vocacional.",
+   "sinopsis": "Con teatro y danza, una joven conversa con el público sobre su vocación mientras un sistema, test vocacional de por medio, intenta convertirla en una pieza productiva más.",
    "sala": "teatro-juanita-tarnawiecki-ex-mocha-grana",
    "salas": [
     "teatro-juanita-tarnawiecki-ex-mocha-grana"
@@ -2778,9 +2778,9 @@
     "indie pop"
    ],
    "sinopsis": "Primera fecha en el Perú de la banda de indie pop Tipling Rock.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -2798,7 +2798,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/tipling-rock-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": "https://www.passline.com/eventos/tipling-rock-en-lima"
     }
    ],
@@ -3009,9 +3009,9 @@
     "trap"
    ],
    "sinopsis": "El chileno Kidd Voodoo trajo la gira de su disco Euforia, entre el trap y el pop alternativo.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -3029,7 +3029,7 @@
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/kidd-voodoo",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": "https://teleticket.com.pe/kidd-voodoo"
     }
    ],
@@ -3418,9 +3418,9 @@
     "urbano"
    ],
    "sinopsis": "Debut en Lima de Six Sex, que presenta su álbum ULTRA.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -3438,7 +3438,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/six-sex-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -3656,9 +3656,9 @@
     "balada"
    ],
    "sinopsis": "Tercera edición de esta noche de baladas del rock peruano, con Mar de Copas y Pelo Madueño a la cabeza.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -3676,7 +3676,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/rock-n-love-vol-3-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": "https://www.digitalticket.pe/event/rock-n-love-vol-3"
     }
    ],
@@ -4325,9 +4325,9 @@
     "urbano"
    ],
    "sinopsis": "Dos noches de Jaze con un show que alterna momentos intensos, pasajes acústicos y freestyle.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -4345,7 +4345,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/jaze-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": "https://www.joinnus.com/events/concerts/lima-jaze-lima-29-de-octubre-76657"
     }
    ],
@@ -8468,9 +8468,9 @@
     "postpunk"
    ],
    "sinopsis": "Noche dedicada a la música oscura, con la banda británica Gene Loves Jezebel como figura principal y tres bandas invitadas de Perú y Chile. También habrá sesiones de DJ.",
-   "sala": "centro-de-convenciones-kantaro",
+   "sala": "teatro-kantaro",
    "salas": [
-    "centro-de-convenciones-kantaro"
+    "teatro-kantaro"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/c1b2fda1-d3d0-46ef-a130-85a49799da86-icono-del-evento.png",
@@ -8488,7 +8488,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/ouija-fest-gene-loves-jezebel-invitados-venta-general",
-     "sala": "centro-de-convenciones-kantaro",
+     "sala": "teatro-kantaro",
      "url_compra": null
     }
    ],
@@ -9650,9 +9650,9 @@
     "urbano"
    ],
    "sinopsis": "Primera visita a Lima de la rapera argentina, que presenta su álbum Mataderos.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -9670,7 +9670,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/saramalacara-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -10359,9 +10359,9 @@
     "rock"
    ],
    "sinopsis": "El cantautor argentino repasa las canciones que marcaron su carrera.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -10379,7 +10379,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/coti-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -12253,9 +12253,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "el-roble-de-barranco",
+   "sala": "roble-de-barranco",
    "salas": [
-    "el-roble-de-barranco"
+    "roble-de-barranco"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/lqm003_md.jpg",
@@ -12285,14 +12285,14 @@
        "precio_max": 32.6
       }
      ],
-     "sala": "el-roble-de-barranco"
+     "sala": "roble-de-barranco"
     }
    ],
    "fuentes": [
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/evento/tentacion-el-tributo-mas-grande-a-jose-luis-perales-el-roble-de-barranco",
-     "sala": "el-roble-de-barranco",
+     "sala": "roble-de-barranco",
      "url_compra": null
     }
    ],
@@ -13008,9 +13008,9 @@
     "pop"
    ],
    "sinopsis": "La agrupación colombiana vuelve a Lima con un show apto para menores acompañados.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -13028,7 +13028,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/timo-en-lima-2026-2/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": "https://www.joinnus.com/events/concerts/lima-tim-en-lima-76127"
     }
    ],
@@ -13359,9 +13359,9 @@
     "rock"
    ],
    "sinopsis": "Primera presentación en Lima de la banda estadounidense, dentro del ciclo Indiegentes 2026.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -13379,7 +13379,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/the-lemon-twigs-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -13750,9 +13750,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "centro-de-convenciones-maracana",
+   "sala": "c-c-maracana",
    "salas": [
-    "centro-de-convenciones-maracana"
+    "c-c-maracana"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/aee003v2_md.jpg",
@@ -13782,14 +13782,14 @@
        "precio_max": 70.0
       }
      ],
-     "sala": "centro-de-convenciones-maracana"
+     "sala": "c-c-maracana"
     }
    ],
    "fuentes": [
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/evento/grandes-voces-en-el-maracana-cc-maracana",
-     "sala": "centro-de-convenciones-maracana",
+     "sala": "c-c-maracana",
      "url_compra": null
     }
    ],
@@ -13988,9 +13988,9 @@
     "heavy metal"
    ],
    "sinopsis": "La banda española de heavy metal vuelve a Lima con su gira \"Un viaje épico\", con la banda peruana Armagedón como invitada.",
-   "sala": "centro-de-convenciones-kantaro",
+   "sala": "teatro-kantaro",
    "salas": [
-    "centro-de-convenciones-kantaro"
+    "teatro-kantaro"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/c2b8db08-aba7-4b8d-a49e-0e65ac27d718-cono-del-evento-3.png",
@@ -14008,7 +14008,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/tierra-santa-venta-general",
-     "sala": "centro-de-convenciones-kantaro",
+     "sala": "teatro-kantaro",
      "url_compra": null
     }
    ],
@@ -14350,9 +14350,9 @@
     "post-punk"
    ],
    "sinopsis": "La banda británica de rock gótico y post-punk se presenta por primera vez en Lima, dentro de su gira por Sudamérica por sus cuarenta años de trayectoria. El concierto forma parte del aniversario de la productora Tumbas Eternas.",
-   "sala": "centro-de-convenciones-kantaro",
+   "sala": "teatro-kantaro",
    "salas": [
-    "centro-de-convenciones-kantaro"
+    "teatro-kantaro"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/db131f8f-d047-4282-b860-9c4a4fecb5e2-icono-del-evento.jpg",
@@ -14370,7 +14370,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/ghost-dance-en-lima",
-     "sala": "centro-de-convenciones-kantaro",
+     "sala": "teatro-kantaro",
      "url_compra": null
     }
    ],
@@ -15383,9 +15383,9 @@
     "pop rock"
    ],
    "sinopsis": "La banda mexicana de pop rock celebra tres décadas de carrera con un concierto en Barranco.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/7c89aaa4-3a44-4736-b65b-8883006eb3e1-icono-del-evento.jpg",
@@ -15403,7 +15403,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/concierto-elefante-30-aniversario-tour-venta-general",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -19047,9 +19047,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "centro-de-convenciones-festiva",
+   "sala": "c-c-festiva",
    "salas": [
-    "centro-de-convenciones-festiva"
+    "c-c-festiva"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/otr017_md.jpg",
@@ -19074,14 +19074,14 @@
        "precio_max": 169.0
       }
      ],
-     "sala": "centro-de-convenciones-festiva"
+     "sala": "c-c-festiva"
     }
    ],
    "fuentes": [
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/evento/2-minutos-en-lima-cc-festiva",
-     "sala": "centro-de-convenciones-festiva",
+     "sala": "c-c-festiva",
      "url_compra": null
     }
    ],
@@ -19454,9 +19454,9 @@
     "indie pop"
    ],
    "sinopsis": "La banda alemana de indie pop regresa a Lima como parte de su gira latinoamericana. Presentará su sencillo más reciente junto a sus canciones más conocidas.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/3e0bf20c-e05a-41d8-aed1-bd3e5ee6333c-icono-del-evento.png",
@@ -19474,7 +19474,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/giant-rooks-home",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -19490,9 +19490,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/bop001_md.jpg",
@@ -19527,14 +19527,14 @@
        "precio_max": 237.0
       }
      ],
-     "sala": "teatro-barranco"
+     "sala": "centro-de-convenciones-barranco"
     }
    ],
    "fuentes": [
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/evento/40-anios-pateando-piedras-miguel-tapia-los-prisioneros-centro-de-convenciones-barranco",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -19951,9 +19951,9 @@
     "pop"
    ],
    "sinopsis": "El dúo venezolano de productores y compositores trae su gira a Lima.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -19971,7 +19971,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/lagos-en-lima-2026/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -20794,9 +20794,9 @@
     "cumbia"
    ],
    "sinopsis": "La artista argentina de música urbana debuta en Lima con un concierto que mezcla RKT, cumbia y trap. Una noche para el público joven.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/d06d065f-71e2-4b90-9130-c6c45df0e425-icono-del-evento.png",
@@ -20814,7 +20814,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/la-joaqui",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -21544,9 +21544,9 @@
     "power metal"
    ],
    "sinopsis": "Primera visita a Lima de la banda japonesa de power metal.",
-   "sala": "teatro-barranco",
+   "sala": "centro-de-convenciones-barranco",
    "salas": [
-    "teatro-barranco"
+    "centro-de-convenciones-barranco"
    ],
    "ciudad": "Lima",
    "imagen": null,
@@ -21564,7 +21564,7 @@
     {
      "fuente": "prensa",
      "url": "https://conciertosperu.com.pe/galneryus-en-lima-2027/",
-     "sala": "teatro-barranco",
+     "sala": "centro-de-convenciones-barranco",
      "url_compra": null
     }
    ],
@@ -22322,9 +22322,9 @@
     "metal progresivo"
    ],
    "sinopsis": "La banda sueca de metal progresivo llega a Lima con su sonido envolvente y una puesta en escena potente.",
-   "sala": "centro-de-convenciones-kantaro",
+   "sala": "teatro-kantaro",
    "salas": [
-    "centro-de-convenciones-kantaro"
+    "teatro-kantaro"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/0ab8c9b6-c712-4d4d-b612-f1e66cf5f4f4-icono-del-evento.png",
@@ -22342,7 +22342,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/soen-venta-general",
-     "sala": "centro-de-convenciones-kantaro",
+     "sala": "teatro-kantaro",
      "url_compra": null
     }
    ],
@@ -22361,9 +22361,9 @@
     "power metal"
    ],
    "sinopsis": "La banda sueca de power metal celebra los treinta años de su primer disco con un repertorio de himnos que no tocaba hace tiempo. Una noche de heavy metal clásico en Lima.",
-   "sala": "centro-de-convenciones-kantaro",
+   "sala": "teatro-kantaro",
    "salas": [
-    "centro-de-convenciones-kantaro"
+    "teatro-kantaro"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.getcrowder.com/images/46a446ea-2882-430d-9e4c-f32df7424353-icono-del-evento-hammerfall.jpg",
@@ -22381,7 +22381,7 @@
     {
      "fuente": "ticketmaster",
      "url": "https://www.ticketmaster.pe/event/hammerfall-glory-to-the-brave-n-hymns",
-     "sala": "centro-de-convenciones-kantaro",
+     "sala": "teatro-kantaro",
      "url_compra": null
     }
    ],
@@ -23332,9 +23332,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "centro-de-convenciones-maracana",
+   "sala": "c-c-maracana",
    "salas": [
-    "centro-de-convenciones-maracana"
+    "c-c-maracana"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/cml003_rs.jpg",
@@ -23352,7 +23352,7 @@
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/fiesta-peru-la-penita",
-     "sala": "centro-de-convenciones-maracana",
+     "sala": "c-c-maracana",
      "url_compra": null
     }
    ],
@@ -24053,9 +24053,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "centro-de-convenciones-maracana",
+   "sala": "c-c-maracana",
    "salas": [
-    "centro-de-convenciones-maracana"
+    "c-c-maracana"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/cml012_rs.jpg",
@@ -24073,7 +24073,7 @@
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/la-noche-de-la-rockola-y-el-romance",
-     "sala": "centro-de-convenciones-maracana",
+     "sala": "c-c-maracana",
      "url_compra": null
     }
    ],
@@ -24257,9 +24257,9 @@
    "tipo": "concierto",
    "generos": [],
    "sinopsis": null,
-   "sala": "centro-de-convenciones-maracana",
+   "sala": "c-c-maracana",
    "salas": [
-    "centro-de-convenciones-maracana"
+    "c-c-maracana"
    ],
    "ciudad": "Lima",
    "imagen": "https://cdn.teleticket.com.pe/images/eventos/cml010_rs.jpg",
@@ -24277,7 +24277,7 @@
     {
      "fuente": "teleticket",
      "url": "https://teleticket.com.pe/nochedeplancha-maquinadeltiempo-2026",
-     "sala": "centro-de-convenciones-maracana",
+     "sala": "c-c-maracana",
      "url_compra": null
     }
    ],
@@ -25245,6 +25245,21 @@
    "nombre": "Centro de Convenciones Bianca",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Almirante Miguel Grau 135, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Local de eventos con mesas y consumo mínimo que programa casi cada semana conciertos de baladas, criollo, cumbia y música andina, almuerzos show y comedias de figuras de TV.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Teleticket",
+    "Joinnus",
+    "Ticketmaster"
+   ],
+   "coordenadas": {
+    "lat": -12.1507204,
+    "lng": -77.0205044
+   },
    "obras": [
     "yo-fui-candidato",
     "magic-men-australia",
@@ -25275,50 +25290,22 @@
    ]
   },
   {
-   "slug": "teatro-barranco",
-   "nombre": "Teatro Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "direccion": "Av. Almirante Miguel Grau 701, Barranco",
-   "tipo": "independiente",
-   "aforo_aprox": null,
-   "descripcion_corta": "Sala barranquina con comedias, cabaret y montajes de pequeño formato; su ciclo 'Tercera Llamada' programa obras emergentes.",
-   "web": null,
-   "instagram": "https://www.instagram.com/teatro.barranco/",
-   "ticketera": [
-    "Teleticket"
-   ],
-   "coordenadas": null,
-   "obras": [
-    "los-rocosaurios-y-el-misterio-de-rocolandia",
-    "elefante-30-aniversario-tour",
-    "giant-rooks",
-    "la-joaqui",
-    "el-ritmo-del-dolor",
-    "los-chismes-de-las-mujeres",
-    "mamma-mia-la-fiesta",
-    "mesa-tomada-2-0",
-    "kortas-octubre",
-    "rodeados-de-amor",
-    "kidd-voodoo-euforia-world-tour",
-    "tipling-rock-america-latina-tour-2026",
-    "six-sex-ultra",
-    "rock-n-love-vol-3",
-    "jaze-qnept-tour-ii",
-    "saramalacara-mataderos-world-tour",
-    "coti",
-    "tim",
-    "the-lemon-twigs",
-    "lagos-tour-2026",
-    "galneryus",
-    "40-anos-pateando-piedras-miguel-tapia-los-prisioneros"
-   ]
-  },
-  {
    "slug": "la-noche-de-barranco",
    "nombre": "La Noche de Barranco",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Pasaje Sánchez Carrión 199, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Bar histórico del Boulevard con sala de conciertos aparte; programa varias noches por semana a bandas de rock, pop independiente, criollo y fusión.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Joinnus",
+    "Passline",
+    "WhatsApp"
+   ],
+   "coordenadas": null,
    "obras": [
     "perros-friends",
     "campo-de-almas-un-adios",
@@ -25499,6 +25486,43 @@
    ]
   },
   {
+   "slug": "centro-de-convenciones-barranco",
+   "nombre": "Centro de Convenciones Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "direccion": "Av. República de Panamá 220, Barranco",
+   "tipo": "comercial",
+   "aforo_aprox": null,
+   "descripcion_corta": "Recinto de conciertos y eventos de formato mediano, con dos pisos de pie y zona VIP; recibe sobre todo giras internacionales de pop, urbano, rock e indie.",
+   "web": "https://ccbarranco.com/",
+   "instagram": "https://www.instagram.com/ccbarranco/",
+   "ticketera": [
+    "Joinnus",
+    "Teleticket",
+    "Ticketmaster",
+    "Passline",
+    "Digital Ticket"
+   ],
+   "coordenadas": null,
+   "obras": [
+    "elefante-30-aniversario-tour",
+    "giant-rooks",
+    "la-joaqui",
+    "kidd-voodoo-euforia-world-tour",
+    "tipling-rock-america-latina-tour-2026",
+    "six-sex-ultra",
+    "rock-n-love-vol-3",
+    "jaze-qnept-tour-ii",
+    "saramalacara-mataderos-world-tour",
+    "coti",
+    "tim",
+    "the-lemon-twigs",
+    "lagos-tour-2026",
+    "galneryus",
+    "40-anos-pateando-piedras-miguel-tapia-los-prisioneros"
+   ]
+  },
+  {
    "slug": "teatro-canout",
    "nombre": "Teatro Canout",
    "distrito": "Miraflores",
@@ -25600,6 +25624,34 @@
    ]
   },
   {
+   "slug": "teatro-barranco",
+   "nombre": "Teatro Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "direccion": "Av. Almirante Miguel Grau 701, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Sala barranquina con comedias, cabaret y montajes de pequeño formato; su ciclo Kortas reúne obras breves de creadores emergentes.",
+   "web": null,
+   "instagram": "https://www.instagram.com/teatro.barranco/",
+   "ticketera": [
+    "Passline",
+    "Teleticket",
+    "Joinnus",
+    "WhatsApp"
+   ],
+   "coordenadas": null,
+   "obras": [
+    "los-rocosaurios-y-el-misterio-de-rocolandia",
+    "el-ritmo-del-dolor",
+    "los-chismes-de-las-mujeres",
+    "mamma-mia-la-fiesta",
+    "mesa-tomada-2-0",
+    "kortas-octubre",
+    "rodeados-de-amor"
+   ]
+  },
+  {
    "slug": "teatro-municipal-de-lima",
    "nombre": "Teatro Municipal de Lima",
    "distrito": "Cercado de Lima",
@@ -25626,21 +25678,6 @@
     "el-lago-de-los-cisnes",
     "romeo-y-julieta",
     "svetlana-smolina-recital-de-piano"
-   ]
-  },
-  {
-   "slug": "centro-de-convenciones-kantaro",
-   "nombre": "Centro de Convenciones Kantaro",
-   "distrito": "Cercado de Lima",
-   "ciudad": "Lima",
-   "obras": [
-    "alcest",
-    "dying-fetus",
-    "ghost-dance",
-    "hammerfall-glory-to-the-brave-hymns",
-    "ouija-fest",
-    "soen",
-    "tierra-santa-un-viaje-epico"
    ]
   },
   {
@@ -25773,19 +25810,6 @@
    ]
   },
   {
-   "slug": "centro-de-convenciones-maracana",
-   "nombre": "Centro de Convenciones Maracaná",
-   "distrito": "Jesús María",
-   "ciudad": "Lima",
-   "obras": [
-    "voces-de-oro",
-    "fiesta-peru-la-penita",
-    "gala-de-campeones-en-el-maracana",
-    "noche-de-plancha-maquina-del-tiempo-2026",
-    "la-noche-de-la-rockola-y-el-romance"
-   ]
-  },
-  {
    "slug": "teatro-municipal-del-cusco",
    "nombre": "Teatro Municipal del Cusco",
    "distrito": "Cusco",
@@ -25826,19 +25850,6 @@
    ]
   },
   {
-   "slug": "centro-de-convenciones-festiva",
-   "nombre": "Centro de Convenciones Festiva",
-   "distrito": "Cercado de Lima",
-   "ciudad": "Lima",
-   "obras": [
-    "blaze-bayley",
-    "narcosis",
-    "insulini-los-espanta-suegras-2026",
-    "easykid-en-lima-2026",
-    "2-minutos-en-lima"
-   ]
-  },
-  {
    "slug": "estadio-nacional",
    "nombre": "Estadio Nacional",
    "distrito": "Cercado de Lima",
@@ -25862,6 +25873,19 @@
     "haunted-superclub-dia-2-adam-beyer",
     "haunted-superclub-carl-cox-y-guy-j",
     "gorillaz"
+   ]
+  },
+  {
+   "slug": "teatro-kantaro",
+   "nombre": "Teatro Kantaro",
+   "distrito": "Cercado de Lima",
+   "ciudad": "Lima",
+   "obras": [
+    "ghost-dance",
+    "hammerfall-glory-to-the-brave-hymns",
+    "ouija-fest",
+    "soen",
+    "tierra-santa-un-viaje-epico"
    ]
   },
   {
@@ -25894,6 +25918,17 @@
    "nombre": "La Casa Roja",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Francisco Bolognesi 296, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Casona que funciona como espacio de conciertos independientes, fiestas de colectivos y, desde noviembre de 2026, teatro inmersivo de terror.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Joinnus",
+    "WhatsApp"
+   ],
+   "coordenadas": null,
    "obras": [
     "peru-oculto-un-viaje-ancestral-hacia-lo-desconocido",
     "oney1",
@@ -25907,6 +25942,17 @@
    "nombre": "Sala Osma",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Pedro de Osma 203, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Sala de conciertos chica dedicada a bandas peruanas de rock e indie, con lanzamientos de discos casi todos los jueves.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Joinnus",
+    "WhatsApp"
+   ],
+   "coordenadas": null,
    "obras": [
     "fragil-serranio",
     "marzenit-rabia",
@@ -26036,6 +26082,18 @@
    ]
   },
   {
+   "slug": "centro-de-convenciones-festiva",
+   "nombre": "Centro de Convenciones Festiva",
+   "distrito": "Cercado de Lima",
+   "ciudad": "Lima",
+   "obras": [
+    "blaze-bayley",
+    "narcosis",
+    "insulini-los-espanta-suegras-2026",
+    "easykid-en-lima-2026"
+   ]
+  },
+  {
    "slug": "anfiteatro-del-parque-de-la-exposicion",
    "nombre": "Anfiteatro del Parque de la Exposición",
    "distrito": "Cercado de Lima",
@@ -26064,6 +26122,18 @@
    "nombre": "Centro Cultural La Candelaria",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Bolognesi 292, Barranco",
+   "tipo": "comercial",
+   "aforo_aprox": null,
+   "descripcion_corta": "Restaurante espectáculo de folclore peruano con elenco de danzas de costa, sierra y selva y orquesta en vivo, con tardes y noches de show varios días a la semana.",
+   "web": "https://lacandelariaperu.com/",
+   "instagram": "https://www.instagram.com/lacandelariaperu/",
+   "ticketera": [
+    "Ticketmaster",
+    "WhatsApp",
+    "correo"
+   ],
+   "coordenadas": null,
    "obras": [
     "celebra-el-dia-de-la-cancion-criolla",
     "esplendor-la-esencia-de-folkshow",
@@ -26102,11 +26172,36 @@
    "nombre": "Aforo Barranco",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Almirante Miguel Grau 264, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Bar y sala de conciertos que también acoge stand-up y teatro inmersivo; en 2026 recibió giras pequeñas de pop y urbano.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Teleticket",
+    "Passline",
+    "Boletía",
+    "WhatsApp"
+   ],
+   "coordenadas": null,
    "obras": [
     "terapia-blanquiazvl",
     "giru-mad-fleiva-mad-fleiva-tour",
     "dimitri-y-las-brujas",
     "gupers-music-fest"
+   ]
+  },
+  {
+   "slug": "c-c-maracana",
+   "nombre": "C.C. Maracana",
+   "distrito": "Jesus Maria",
+   "ciudad": "Lima",
+   "obras": [
+    "fiesta-peru-la-penita",
+    "gala-de-campeones-en-el-maracana",
+    "noche-de-plancha-maquina-del-tiempo-2026",
+    "la-noche-de-la-rockola-y-el-romance"
    ]
   },
   {
@@ -26176,6 +26271,27 @@
     "los-tres-chanchitos-y-el-lobo-feroz",
     "las-eternas",
     "pinocho"
+   ]
+  },
+  {
+   "slug": "roble-de-barranco",
+   "nombre": "Roble de Barranco",
+   "distrito": "Barranco",
+   "ciudad": "Lima",
+   "direccion": "Pasaje Sánchez Carrión 147 (Boulevard de Barranco), Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Restobar del Boulevard de Barranco que programa almuerzos show criollos, tributos y unipersonales de humor.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": null,
+   "obras": [
+    "ni-toxica-ni-mensa-sin-filtro-2-a-temporada",
+    "feliz-dia-de-la-cancion-criolla-con-los-kipus",
+    "tentacion-el-tributo-mas-grande-a-jose-luis-perales"
    ]
   },
   {
@@ -26275,6 +26391,16 @@
    "nombre": "Sala Quilla",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Francisco Bolognesi 397, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Sala pequeña de teatro de autor y experiencias inmersivas, activa desde al menos octubre de 2025.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Joinnus"
+   ],
+   "coordenadas": null,
    "obras": [
     "barba-sangre",
     "la-caida",
@@ -26297,6 +26423,16 @@
    "nombre": "Capital Restobar",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Almirante Miguel Grau 680, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Restobar que funciona como teatro bar: temporadas de comedias musicales y de enredo producidas por La X Productora.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": null,
    "obras": [
     "el-adivino-una-comedia-terrorifica",
     "electro-showck-la-comedia-de-alto-voltaje"
@@ -26366,16 +26502,6 @@
    ]
   },
   {
-   "slug": "roble-de-barranco",
-   "nombre": "Roble de Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "obras": [
-    "ni-toxica-ni-mensa-sin-filtro-2-a-temporada",
-    "feliz-dia-de-la-cancion-criolla-con-los-kipus"
-   ]
-  },
-  {
    "slug": "auditorio-del-colegio-andino",
    "nombre": "Auditorio del Colegio Andino",
    "distrito": null,
@@ -26383,6 +26509,16 @@
    "obras": [
     "el-cascanueces-russian-classical-ballet",
     "la-casa-de-timoteo-huancayo"
+   ]
+  },
+  {
+   "slug": "centro-de-convenciones-kantaro",
+   "nombre": "Centro de Convenciones Kantaro",
+   "distrito": "Cercado de Lima",
+   "ciudad": "Lima",
+   "obras": [
+    "alcest",
+    "dying-fetus"
    ]
   },
   {
@@ -26510,6 +26646,20 @@
    "nombre": "El Dragón de Barranco",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Calle Nicolás de Piérola 168, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Bar cultural de música en vivo (jazz, electrónica, cumbia psicodélica) que, con el ciclo Escena Dragón, también programa temporadas de teatro breve.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Joinnus",
+    "WhatsApp"
+   ],
+   "coordenadas": {
+    "lat": -12.1413838,
+    "lng": -77.0208977
+   },
    "obras": [
     "con-ketchup-antes-de-parir",
     "space-cake"
@@ -26520,6 +26670,19 @@
    "nombre": "Sargento Pimienta",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Francisco Bolognesi 757, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Bar rockero fundado en 1975 y luego trasladado a Barranco; referente del rock peruano que hoy recibe bandas locales y giras argentinas.",
+   "web": "https://www.sargentopimienta.com.pe/",
+   "instagram": "https://www.instagram.com/sargentpimienta/",
+   "ticketera": [
+    "Joinnus"
+   ],
+   "coordenadas": {
+    "lat": -12.1437993,
+    "lng": -77.0186685
+   },
    "obras": [
     "onda-vaga-amuletos-de-cristal",
     "el-plan-de-la-mariposa"
@@ -26622,6 +26785,15 @@
    },
    "obras": [
     "la-cabana"
+   ]
+  },
+  {
+   "slug": "centro-de-convenciones-maracana",
+   "nombre": "Centro de Convenciones Maracaná",
+   "distrito": "Jesús María",
+   "ciudad": "Lima",
+   "obras": [
+    "voces-de-oro"
    ]
   },
   {
@@ -27056,10 +27228,12 @@
    "direccion": "Av. José Balta 170, Barranco",
    "tipo": "independiente",
    "aforo_aprox": null,
-   "descripcion_corta": "Pequeña sala de cámara en Barranco, reabierta en 2025; programa teatro contemporáneo de producciones independientes como Yestoquelotro.",
+   "descripcion_corta": "Pequeña sala de cámara en Barranco, reabierta en 2025; programa teatro contemporáneo de producciones independientes como Yestoquelotro y Pánico Escénico.",
    "web": null,
    "instagram": "https://www.instagram.com/cineteatroirracional/",
-   "ticketera": [],
+   "ticketera": [
+    "Joinnus"
+   ],
    "coordenadas": {
     "lat": -12.14258,
     "lng": -77.01705
@@ -27073,6 +27247,20 @@
    "nombre": "Teatro Esencia",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Almirante Miguel Grau 069-A, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": 38,
+   "descripcion_corta": "Teatro de bolsillo ligado a la Escuela de Teatro Musical Esencia (ETME); presenta musicales, teatro infantil y montajes íntimos.",
+   "web": null,
+   "instagram": "https://www.instagram.com/etmesencia/",
+   "ticketera": [
+    "Joinnus",
+    "Passline"
+   ],
+   "coordenadas": {
+    "lat": -12.1518507,
+    "lng": -77.0200353
+   },
    "obras": [
     "hansel-y-gretel-donde-cantan-los-recuerdos"
    ]
@@ -27082,6 +27270,16 @@
    "nombre": "PayaCasa",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Francisco Bolognesi 920, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Espacio pequeño que presenta comedia de clown; en noviembre de 2026 programa la segunda temporada de \"Entre clases\".",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "WhatsApp"
+   ],
+   "coordenadas": null,
    "obras": [
     "entre-clases-segunda-temporada"
    ]
@@ -27091,6 +27289,16 @@
    "nombre": "Casa Bulbo",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Av. Francisco Bolognesi 660, Barranco",
+   "tipo": "independiente",
+   "aforo_aprox": null,
+   "descripcion_corta": "Espacio cultural pequeño con ciclos de teatro breve y performance (como \"Noche de Creadoras\") y algunos conciertos.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "WhatsApp"
+   ],
+   "coordenadas": null,
    "obras": [
     "miedo-a-volar"
    ]
@@ -27100,6 +27308,16 @@
    "nombre": "Barranco Bar",
    "distrito": "Barranco",
    "ciudad": "Lima",
+   "direccion": "Plaza Butters 291, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Bar de Barranco con noches de salsa y orquestas en vivo, con zonas de mesas y boxes.",
+   "web": null,
+   "instagram": null,
+   "ticketera": [
+    "Viapase"
+   ],
+   "coordenadas": null,
    "obras": [
     "gian-marco-bajo-la-manga"
    ]
@@ -27210,15 +27428,6 @@
    "ciudad": "Lima",
    "obras": [
     "temporada-de-abono-2026"
-   ]
-  },
-  {
-   "slug": "el-roble-de-barranco",
-   "nombre": "El Roble De Barranco",
-   "distrito": "Barranco",
-   "ciudad": "Lima",
-   "obras": [
-    "tentacion-el-tributo-mas-grande-a-jose-luis-perales"
    ]
   },
   {
@@ -27408,6 +27617,15 @@
    "ciudad": "Arequipa",
    "obras": [
     "rp-sessions-volumen-iii-arequipa-mar-de-copas-trece-baladas-no-recomendable"
+   ]
+  },
+  {
+   "slug": "c-c-festiva",
+   "nombre": "C.C. Festiva",
+   "distrito": "Lima",
+   "ciudad": "Lima",
+   "obras": [
+    "2-minutos-en-lima"
    ]
   },
   {
@@ -35051,6 +35269,117 @@
    "confianza": "media",
    "estado": "cerrada",
    "notas": "Chiclayo no tiene teatro municipal. En 2024 la municipalidad encabezó una comisión para restaurarlo; en la visita se constató el robo de casi todas las butacas. Los espectáculos de gira van a auditorios de colegios y universidades privadas o al Teatro Moline."
+  },
+  {
+   "nombre": "La Posada del Mirador",
+   "alias": [
+    "Posada del Mirador",
+    "LA POSADA DEL MIRADOR - BARRANCO - LIMA"
+   ],
+   "ciudad": "Lima",
+   "distrito": "Barranco",
+   "direccion": "Calle La Ermita 104, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Bar junto al Puente de los Suspiros donde se hacen noches de stand-up y han debutado varios comediantes jóvenes.",
+   "web": null,
+   "instagram": null,
+   "url_cartelera": null,
+   "ticketera": [
+    "Teleticket"
+   ],
+   "coordenadas": {
+    "lat": -12.1495453,
+    "lng": -77.0234137
+   },
+   "fuente": [
+    "https://teleticket.com.pe/evento/2pa2-sin-censura-la-posada-del-mirador",
+    "https://teleticket.com.pe/evento/la-historia-que-no-se-sube-show-de-comedia-diego-gupioc-la-posada-del-mirador",
+    "https://www.escenaliberada.com/diego-gupioc-presenta-fuera-de-control/",
+    "https://nominatim.openstreetmap.org/"
+   ],
+   "confianza": "media",
+   "estado": "incierto",
+   "notas": "Shows de stand-up en Teleticket hasta febrero de 2026 (consumo mínimo S/ 35-40). No se hallaron funciones en sep-nov 2026, por eso estado \"incierto\" para la programación escénica."
+  },
+  {
+   "nombre": "Peña Don Porfirio",
+   "alias": [
+    "Don Porfirio"
+   ],
+   "ciudad": "Lima",
+   "distrito": "Barranco",
+   "direccion": "Jr. Manuel Segura 115, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Peña criolla familiar que abre los viernes por la noche con música en vivo; en fechas como el Día de la Canción Criolla abre también otros días.",
+   "web": null,
+   "instagram": "https://www.instagram.com/donporfirio.oficial/",
+   "url_cartelera": null,
+   "ticketera": [
+    "reserva directa"
+   ],
+   "coordenadas": null,
+   "fuente": [
+    "https://elcomercio.pe/somos/dia-del-padre-regalos-ideas-celebra-el-dia-de-papa-en-una-pena-con-esta-ruta-noticia/",
+    "https://gestion.pe/tendencias/estilos/con-guitarra-y-cajon-propuestas-de-penas-limenas-en-el-dia-de-la-cancion-criolla-musica-peruana-estilos-danzas-marinera-noticia/"
+   ],
+   "confianza": "media",
+   "estado": "activa",
+   "notas": "Viernes desde las 8:30 p. m. (Somos, jun. 2026). Reservas con pago adelantado, que suelen agotarse con días de anticipación. No publica cartelera: difunde por Instagram."
+  },
+  {
+   "nombre": "Peña La Oficina",
+   "alias": [
+    "La Oficina de Barranco",
+    "La Oficina"
+   ],
+   "ciudad": "Lima",
+   "distrito": "Barranco",
+   "direccion": "Calle Enrique Barrón 441, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": 80,
+   "descripcion_corta": "Peña criolla y afroperuana con noches de música y baile los fines de semana; de día funciona como restaurante.",
+   "web": null,
+   "instagram": "https://www.instagram.com/laoficinadebarranco/",
+   "url_cartelera": null,
+   "ticketera": [
+    "reserva directa"
+   ],
+   "coordenadas": null,
+   "fuente": [
+    "https://elcomercio.pe/somos/dia-del-padre-regalos-ideas-celebra-el-dia-de-papa-en-una-pena-con-esta-ruta-noticia/",
+    "https://gestion.pe/tendencias/estilos/con-guitarra-y-cajon-propuestas-de-penas-limenas-en-el-dia-de-la-cancion-criolla-musica-peruana-estilos-danzas-marinera-noticia/"
+   ],
+   "confianza": "media",
+   "estado": "activa",
+   "notas": "Noches de peña vie y sáb 9:30 p. m.-1:30 a. m. (Somos, jun. 2026). Aforo cercano a 80 personas según Gestión (2024). No publica cartelera: difunde por Instagram."
+  },
+  {
+   "nombre": "La Peña del Carajo",
+   "alias": [
+    "Del Carajo",
+    "Peña del Carajo"
+   ],
+   "ciudad": "Lima",
+   "distrito": "Barranco",
+   "direccion": "Calle Catalino Miranda 158, Barranco",
+   "tipo": "bar/club",
+   "aforo_aprox": null,
+   "descripcion_corta": "Peña con más de 25 años dedicada a la música criolla, con jaranas de fin de semana por la tarde.",
+   "web": null,
+   "instagram": "https://www.instagram.com/delcarajoperu/",
+   "url_cartelera": null,
+   "ticketera": [
+    "reserva directa"
+   ],
+   "coordenadas": null,
+   "fuente": [
+    "https://elcomercio.pe/somos/dia-del-padre-regalos-ideas-celebra-el-dia-de-papa-en-una-pena-con-esta-ruta-noticia/"
+   ],
+   "confianza": "media",
+   "estado": "activa",
+   "notas": "Sáb y dom de 1 a 6 p. m. (Somos, jun. 2026). No publica cartelera: difunde por Instagram."
   }
  ]
 }

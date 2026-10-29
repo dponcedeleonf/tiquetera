@@ -19,11 +19,20 @@ def slug(texto):
     return re.sub(r"[^a-z0-9]+", "-", texto).strip("-")
 
 
+# Nombres distintos de un mismo lugar que la clave no alcanza a unir.
+MISMA_SALA = {"centro-de-convenciones-bianca": "bianca"}
+
+
 def clave_sala(nombre):
-    """Clave tolerante: 'TEATRO PERUANO JAPONES' y 'Teatro Peruano Japonés' dan lo mismo."""
+    """Clave tolerante: 'TEATRO PERUANO JAPONES' y 'Teatro Peruano Japonés' dan lo mismo.
+
+    No se quita "Centro de Convenciones": "Centro de Convenciones Barranco" y "Teatro Barranco"
+    son lugares distintos.
+    """
     s = slug(nombre)
-    s = re.sub(r"^(teatro|auditorio|centro-cultural|centro-de-convenciones|c-c|cc)-", "", s)
-    return s
+    s = re.sub(r"^(el|la)-", "", s)
+    s = re.sub(r"^(teatro|auditorio|centro-cultural|c-c|cc)-", "", s)
+    return MISMA_SALA.get(s, s)
 
 
 def clave_persona(nombre):
@@ -51,9 +60,13 @@ def cargar_salas_investigadas():
         if ruta.exists():
             salas += json.load(open(ruta))
     indice = {}
+    # Primero los alias y después los nombres oficiales, para que un alias ambiguo
+    # ("CC Barranco") nunca le gane al nombre de otra sala ("Teatro Barranco").
     for s in salas:
-        for nombre in [s["nombre"], *(s.get("alias") or [])]:
-            indice[clave_sala(nombre)] = s
+        for nombre in s.get("alias") or []:
+            indice.setdefault(clave_sala(nombre), s)
+    for s in salas:
+        indice[clave_sala(s["nombre"])] = s
     return indice, salas
 
 

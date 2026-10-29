@@ -1,0 +1,672 @@
+[
+ {
+  "nombre": "Teatro Barranco",
+  "alias": [
+   "TEATRO BARRANCO",
+   "TEATRO BARRANCO - BARRANCO - LIMA",
+   "Teatro Barranco 2.0",
+   "Teatro de Barranco",
+   "Teatro Barranco S.A.C."
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Almirante Miguel Grau 701, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Sala barranquina con comedias, cabaret y montajes de pequeño formato; su ciclo Kortas reúne obras breves de creadores emergentes.",
+  "web": null,
+  "instagram": "https://www.instagram.com/teatro.barranco/",
+  "url_cartelera": "https://www.passline.com/productora/teatro-barranco-755463861",
+  "ticketera": [
+   "Passline",
+   "Teleticket",
+   "Joinnus",
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://www.passline.com/productora/teatro-barranco-755463861",
+   "https://www.passline.com/sitio-evento/rodeados-de-amor-568357",
+   "https://puroteatro.pe/teatro-en-barranco",
+   "https://diariocorreo.pe/cultura/mesa-tomada-20-llega-al-teatro-barranco-con-amores-rupturas-y-enredos-noticia/",
+   "https://diariouno.pe/2026/10/24/obra-dirigida-por-martin-velasquez-marvelat-vuelve-al-teatro-barranco/",
+   "https://www.instagram.com/teatro.barranco/"
+  ],
+  "confianza": "alta",
+  "estado": "activa",
+  "notas": "Completado: ticketera (la propia sala vende por Passline como productora \"Teatro Barranco S.A.C.\"; otras obras usan Joinnus, Teleticket o WhatsApp) y url_cartelera = su listado de Passline. El buscador indexa una web teatrobarranco.pe (\"Inicio - Teatro Barranco\"), pero no resolvió desde esta sesión: queda sin confirmar y no se pone en \"web\". Ojo: en catalogo.json, conciertos del Centro de Convenciones Barranco (Av. República de Panamá 220: Elefante, Giant Rooks, La Joaqui, Miguel Tapia) quedaron asignados por error a esta sala."
+ },
+ {
+  "nombre": "Teatro Racional",
+  "alias": [
+   "Cine Teatro irRacional",
+   "Teatro Racional Barranco",
+   "Teatro irRacional"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. José Balta 170, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Pequeña sala de cámara en Barranco, reabierta en 2025; programa teatro contemporáneo de producciones independientes como Yestoquelotro y Pánico Escénico.",
+  "web": null,
+  "instagram": "https://www.instagram.com/cineteatroirracional/",
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus"
+  ],
+  "coordenadas": {
+   "lat": -12.14258,
+   "lng": -77.01705
+  },
+  "fuente": [
+   "https://puroteatro.pe/obra-teatral/sofia-y-el-dano-que-habitamos",
+   "https://diariocorreo.pe/cultura/trampolin-regresa-a-barranco-con-cuatro-funciones-en-el-teatro-racional-noticia/",
+   "https://diariocorreo.pe/cultura/los-cuatro-letras-david-carrillo-estrena-comedia-dramatica-sobre-amistad-y-memoria-en-barranco-noticia/",
+   "https://www.instagram.com/cineteatroirracional/",
+   "https://nominatim.openstreetmap.org/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Completado: ticketera (Joinnus, según la ficha de \"Sofía y el daño que habitamos\" en Puro Teatro) y actividad 2026 (Los Cuatro Letras en junio, Trampolín en agosto, Sofía y el daño que habitamos en noviembre). Dirección dudosa: Puro Teatro dice \"Avenida Balta 170\" y Diario Correo (ago. 2026) \"Balta 123\"."
+ },
+ {
+  "nombre": "Centro de Convenciones Bianca",
+  "alias": [
+   "C.C. Bianca",
+   "CC Bianca",
+   "C.C. BIANCA - BARRANCO - LIMA",
+   "Bianca",
+   "CENTRO DE CONVENCIONES BIANCA - BARRANCO - LIMA"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Almirante Miguel Grau 135, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Local de eventos con mesas y consumo mínimo que programa casi cada semana conciertos de baladas, criollo, cumbia y música andina, almuerzos show y comedias de figuras de TV.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Teleticket",
+   "Joinnus",
+   "Ticketmaster"
+  ],
+  "coordenadas": {
+   "lat": -12.1507204,
+   "lng": -77.0205044
+  },
+  "fuente": [
+   "https://teleticket.com.pe/evento/ellas-en-concierto-en-bianca-cc-bianca",
+   "https://teleticket.com.pe/sebuscamaridocamaafuera-bianca2026",
+   "https://elcomercio.pe/luces/teatro/laura-huarcayo-y-carlos-vilchez-debutan-en-el-teatro-con-la-comedia-cero-migajeros-ultimas-noticia/",
+   "https://limatimes.pe/agenda-cultural/2026/10/29/diosdado-gaitan-llega-con-su-canto-andino-a-barranco/",
+   "https://www.ticketmaster.pe/event/manuel-donayre-tradicion-y-sabor-venta-general",
+   "https://nominatim.openstreetmap.org/"
+  ],
+  "confianza": "alta",
+  "estado": "activa",
+  "notas": "Consumo mínimo habitual de S/ 40 por persona, mesas numeradas y compartidas. Tiene varios niveles (2do y 3er piso, boxes, palcos). Ticketmaster da la dirección solo como \"Av. Almte. Miguel Grau\". Sin web ni Instagram verificados."
+ },
+ {
+  "nombre": "Centro de Convenciones Barranco",
+  "alias": [
+   "CC Barranco",
+   "CCB",
+   "Centro de Convenciones de Barranco",
+   "CENTRO DE CONVENCIONES BARRANCO - BARRANCO - LIMA",
+   "Barranco Arena"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. República de Panamá 220, Barranco",
+  "tipo": "comercial",
+  "aforo_aprox": null,
+  "descripcion_corta": "Recinto de conciertos y eventos de formato mediano, con dos pisos de pie y zona VIP; recibe sobre todo giras internacionales de pop, urbano, rock e indie.",
+  "web": "https://ccbarranco.com/",
+  "instagram": "https://www.instagram.com/ccbarranco/",
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus",
+   "Teleticket",
+   "Ticketmaster",
+   "Passline",
+   "Digital Ticket"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://ccbarranco.com/",
+   "https://conciertosperu.com.pe/ccb-centro-de-convenciones-barranco/",
+   "https://teleticket.com.pe/kidd-voodoo",
+   "https://www.ticketmaster.pe/event/giant-rooks-home",
+   "https://www.instagram.com/ccbarranco/"
+  ],
+  "confianza": "alta",
+  "estado": "activa",
+  "notas": "Su web es comercial (alquiler de espacios: Salón 1, Salón 2, Terraza, Backstage) y no publica cartelera (\"No hay eventos registrados\"); la programación la anuncian las productoras de cada concierto. Aforo no publicado. \"Barranco Arena\" aparece como alias en Conciertos Perú (sin confirmar que sea el mismo local). En catalogo.json varios de sus conciertos quedaron asignados por error a \"Teatro Barranco\"."
+ },
+ {
+  "nombre": "Centro Cultural La Candelaria",
+  "alias": [
+   "La Candelaria",
+   "La Candelaria Perú",
+   "Centro Cultural La Candelaria - Barranco"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Bolognesi 292, Barranco",
+  "tipo": "comercial",
+  "aforo_aprox": null,
+  "descripcion_corta": "Restaurante espectáculo de folclore peruano con elenco de danzas de costa, sierra y selva y orquesta en vivo, con tardes y noches de show varios días a la semana.",
+  "web": "https://lacandelariaperu.com/",
+  "instagram": "https://www.instagram.com/lacandelariaperu/",
+  "url_cartelera": "https://lacandelariaperu.com/espectaculos/",
+  "ticketera": [
+   "Ticketmaster",
+   "WhatsApp",
+   "correo"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://lacandelariaperu.com/espectaculos/",
+   "https://lacandelariaperu.com/contacto/",
+   "https://www.ticketmaster.pe/event/noches-de-folklore---jueves-viernes-y-sabados-en-la-candelaria-2026-venta-general"
+  ],
+  "confianza": "alta",
+  "estado": "activa",
+  "notas": "Horarios de show según su web: tardes sáb y dom 1-6 p. m.; noches jue 7 p. m.-12 a. m., vie y sáb 8 p. m.-2 a. m. Reservas por WhatsApp (+51 919 291 818) y reservas@lacandelariaperu.com. También dicta talleres de danza."
+ },
+ {
+  "nombre": "Capital Restobar",
+  "alias": [
+   "Capital RESTOBAR",
+   "Capital Restobar Barranco",
+   "Capital RESTOBAR - BARRANCO - LIMA"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Almirante Miguel Grau 680, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Restobar que funciona como teatro bar: temporadas de comedias musicales y de enredo producidas por La X Productora.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Teleticket"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://teleticket.com.pe/evento/el-adivino%E2%80%93-una-comedia-terrorifica-capital-restobar",
+   "https://teleticket.com.pe/evento/electro-showck-%E2%80%93-la-comedia-de-alto-voltaje-capital-restobar"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Programación continua de La X Productora en 2026 (Electro Showck sep-oct, El adivino oct-nov). Sin web ni redes verificadas."
+ },
+ {
+  "nombre": "Roble de Barranco",
+  "alias": [
+   "El Roble de Barranco",
+   "EL ROBLE DE BARRANCO - BARRANCO - LIMA",
+   "ROBLE DE BARRANCO - BARRANCO - LIMA",
+   "El Roble"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Pasaje Sánchez Carrión 147 (Boulevard de Barranco), Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Restobar del Boulevard de Barranco que programa almuerzos show criollos, tributos y unipersonales de humor.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Teleticket"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://teleticket.com.pe/evento/feliz-dia-de-la-cancion-criolla-con-los-kipus-el-roble-de-barranco",
+   "https://teleticket.com.pe/evento/ni-toxica-ni-mensa-sin-filtro-2da-temporada-roble-de-barranco-"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "En catalogo.json aparece duplicado como \"Roble de Barranco\" y \"El Roble De Barranco\": es el mismo local. Dirección: Teleticket da Psje. Sánchez Carrión 147 en una página y Sánchez Carrión 173 en otra. Consumo mínimo S/ 35 en almuerzos show."
+ },
+ {
+  "nombre": "Aforo Barranco",
+  "alias": [
+   "Aforo",
+   "Aforo Bar",
+   "Centro Cultural Aforo",
+   "Aforo de Barranco",
+   "AFORO BARRANCO - BARRANCO - LIMA"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Almirante Miguel Grau 264, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Bar y sala de conciertos que también acoge stand-up y teatro inmersivo; en 2026 recibió giras pequeñas de pop y urbano.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Teleticket",
+   "Passline",
+   "Boletía",
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://www.gatoencerrado.net/el-1-de-octubre-se-estrena-terapia-blanquiazvl-en-barranco/",
+   "https://conciertosperu.com.pe/dimitri-y-las-brujas-en-lima-2026/",
+   "https://conciertosperu.com.pe/giru-mad-fleiva-en-lima-2026/",
+   "https://teleticket.com.pe/evento/gupers-music-fest",
+   "https://diariocorreo.pe/miscelanea/la-gupipollada-gupi-organiza-pollada-show-con-comedia-yunza-y-banda-en-vivo-en-barranco-noticia/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Gato Encerrado lo llama \"Centro Cultural Aforo\". Usa varias ticketeras según el productor, incluida Boletía. Sin web ni Instagram verificados."
+ },
+ {
+  "nombre": "La Noche de Barranco",
+  "alias": [
+   "La Noche",
+   "Bar La Noche de Barranco"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Pasaje Sánchez Carrión 199, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Bar histórico del Boulevard con sala de conciertos aparte; programa varias noches por semana a bandas de rock, pop independiente, criollo y fusión.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus",
+   "Passline",
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://conciertosperu.com.pe/local/la-noche-de-barranco/",
+   "https://www.passline.com/venue/la-noche-de-barranco",
+   "https://diariocorreo.pe/espectaculos/black-sugar-y-anen-reggae-se-unen-en-funky-kingston-con-concierto-en-barranco-noticia/"
+  ],
+  "confianza": "alta",
+  "estado": "activa",
+  "notas": "Uno de los espacios con más fechas de Barranco (22 conciertos entre el 17-09 y fin de noviembre de 2026). Cada banda vende por su cuenta: Joinnus, Passline, Yape/Plin o WhatsApp. Su web (lanochedebarranco.com) no respondió; no se verificó Instagram."
+ },
+ {
+  "nombre": "Sargento Pimienta",
+  "alias": [
+   "Sargento Pimienta de Barranco",
+   "Sargento Pimienta Rock Bar",
+   "El Sargento"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Francisco Bolognesi 757, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Bar rockero fundado en 1975 y luego trasladado a Barranco; referente del rock peruano que hoy recibe bandas locales y giras argentinas.",
+  "web": "https://www.sargentopimienta.com.pe/",
+  "instagram": "https://www.instagram.com/sargentpimienta/",
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus"
+  ],
+  "coordenadas": {
+   "lat": -12.1437993,
+   "lng": -77.0186685
+  },
+  "fuente": [
+   "https://www.sargentopimienta.com.pe/historia/",
+   "https://conciertosperu.com.pe/onda-vaga-amuletos-de-cristal-lima-2026/",
+   "https://nominatim.openstreetmap.org/"
+  ],
+  "confianza": "alta",
+  "estado": "activa",
+  "notas": "Su web remite la agenda a eventos de Facebook (en la práctica difunde por redes). Dirección tomada de OpenStreetMap; la web no la publica."
+ },
+ {
+  "nombre": "El Dragón de Barranco",
+  "alias": [
+   "El Dragón",
+   "Dragón de Barranco",
+   "Escena Dragón"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Calle Nicolás de Piérola 168, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Bar cultural de música en vivo (jazz, electrónica, cumbia psicodélica) que, con el ciclo Escena Dragón, también programa temporadas de teatro breve.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus",
+   "WhatsApp"
+  ],
+  "coordenadas": {
+   "lat": -12.1413838,
+   "lng": -77.0208977
+  },
+  "fuente": [
+   "https://puroteatro.pe/obra-teatral/con-ketchup-antes-de-parir",
+   "https://conciertosperu.com.pe/space-cake-en-el-dragon-de-barranco-2026/",
+   "https://diariocorreo.pe/espectaculos/hit-la-rosa-regresa-a-los-escenarios-con-un-concierto-en-dragon-de-barranco-noticia/",
+   "https://nominatim.openstreetmap.org/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Temporada teatral \"Escena Dragón\" (producción general Fátima Producciones) con tres obras breves; la entrada da acceso a las tres e incluye una bebida. Solo se halló fecha para \"(Con ketchup) Antes de parir\"; las otras dos (\"¡No aplaudas!\" de Angie Orihuela y \"¡Lleve su huayruro, casera!\" de Bruno Timarchi Ynoñán) no tienen fechas publicadas."
+ },
+ {
+  "nombre": "La Casa Roja",
+  "alias": [
+   "La Casa Roja de Barranco",
+   "Casa Roja"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Francisco Bolognesi 296, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Casona que funciona como espacio de conciertos independientes, fiestas de colectivos y, desde noviembre de 2026, teatro inmersivo de terror.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus",
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://conciertosperu.com.pe/oney1-en-lima-2026/",
+   "https://conciertosperu.com.pe/bqestia-soundsystem-10-anos/",
+   "https://limatimes.pe/agenda-cultural/2026/10/26/teatro-en-barranco-peru-oculto-un-viaje-ancestral-hacia-lo-desconocido/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Algunas fiestas venden por mensaje directo en Instagram. Sin web ni redes propias verificadas."
+ },
+ {
+  "nombre": "Casa Bulbo",
+  "alias": [
+   "Casa Bulbo Barranco"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Francisco Bolognesi 660, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Espacio cultural pequeño con ciclos de teatro breve y performance (como \"Noche de Creadoras\") y algunos conciertos.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://limatimes.pe/agenda-cultural/2026/10/08/esta-semana-estrenan-la-obra-miedo-a-volar-en-casa-bulbo-de-barranco/",
+   "https://diariocorreo.pe/cultura/las-cunadas-comedia-sobre-una-boda-caotica-llega-a-casa-bulbo-en-barranco-noticia/",
+   "https://diariocorreo.pe/cultura/velas-al-mar-llega-a-casa-bulbo-en-barranco-noticia/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Programación teatral en abril, mayo y octubre de 2026; entradas solo por WhatsApp. Sin web ni redes verificadas."
+ },
+ {
+  "nombre": "Sala Osma",
+  "alias": [
+   "Sala Osma Barranco"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Pedro de Osma 203, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Sala de conciertos chica dedicada a bandas peruanas de rock e indie, con lanzamientos de discos casi todos los jueves.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus",
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://conciertosperu.com.pe/wan-en-sala-osma-2026/",
+   "https://conciertosperu.com.pe/marzenit-rabia-sala-osma-2026/",
+   "https://conciertosperu.com.pe/fragil-en-sala-osma-2026/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Algunos conciertos son gratuitos con registro previo. Sin web ni redes verificadas."
+ },
+ {
+  "nombre": "Barranco Bar",
+  "alias": [],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Plaza Butters 291, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Bar de Barranco con noches de salsa y orquestas en vivo, con zonas de mesas y boxes.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Viapase"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://conciertosperu.com.pe/gian-marco-en-barranco-bar-2026/",
+   "https://www.infobae.com/peru/2026/10/28/gian-marco-llevara-su-nueva-etapa-salsera-a-tres-escenarios-ineditos-de-lima-en-noviembre/"
+  ],
+  "confianza": "baja",
+  "estado": "activa",
+  "notas": "Solo se encontró un evento (Gian Marco, 8-11-2026). OpenStreetMap ubica un \"Barranco Bar\" en la Av. Jorge Chávez, lo que no coincide con Plaza Butters 291: no se ponen coordenadas. No se confirmó programación regular."
+ },
+ {
+  "nombre": "Sala Quilla",
+  "alias": [
+   "Quilla"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Francisco Bolognesi 397, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Sala pequeña de teatro de autor y experiencias inmersivas, activa desde al menos octubre de 2025.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://puroteatro.pe/obra-teatral/barba-sangre",
+   "https://puroteatro.pe/obra-teatral/la-caida",
+   "https://diariocorreo.pe/cultura/reset-el-espectaculo-inmersivo-protagonizado-por-patricia-barreto-que-fusiona-arte-tecnologia-y-emocion-noticia/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Tres obras en cartel entre fines de octubre y noviembre de 2026. Sin web ni redes verificadas; la difusión llega por Puro Teatro y Joinnus."
+ },
+ {
+  "nombre": "Teatro Esencia",
+  "alias": [
+   "Espacio Teatro Esencia",
+   "Esencia de Barranco",
+   "Teatro Esencia de Barranco"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Almirante Miguel Grau 069-A, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": 38,
+  "descripcion_corta": "Teatro de bolsillo ligado a la Escuela de Teatro Musical Esencia (ETME); presenta musicales, teatro infantil y montajes íntimos.",
+  "web": null,
+  "instagram": "https://www.instagram.com/etmesencia/",
+  "url_cartelera": null,
+  "ticketera": [
+   "Joinnus",
+   "Passline"
+  ],
+  "coordenadas": {
+   "lat": -12.1518507,
+   "lng": -77.0200353
+  },
+  "fuente": [
+   "https://puroteatro.pe/obra-teatral/hansel-y-gretel-donde-cantan-los-recuerdos",
+   "https://larepublica.pe/cultural/2024/01/09/la-cita-perfecta-un-paseo-por-nuestros-anhelos-inseguridades-y-deseos-carolyn-tolentino-kay-productora-etme-escuela-de-teatro-musical-esencia-teatro-esencia-433863",
+   "https://peru21.pe/cultura/obra-de-teatro-fe-de-ratas-se-estrena-en-esencia-de-barranco/",
+   "https://nominatim.openstreetmap.org/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Aforo de 38 personas según La República (2024). Instagram citado en esa nota: @etmesencia (de la escuela). OpenStreetMap usa el número 071. Peru21 reseñó \"Fe de ratas\" (feb. 2026) vendida por Passline; no se pudo abrir la nota para verificarlo."
+ },
+ {
+  "nombre": "PayaCasa",
+  "alias": [],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Av. Francisco Bolognesi 920, Barranco",
+  "tipo": "independiente",
+  "aforo_aprox": null,
+  "descripcion_corta": "Espacio pequeño que presenta comedia de clown; en noviembre de 2026 programa la segunda temporada de \"Entre clases\".",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "WhatsApp"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://puroteatro.pe/obra-teatral/entre-clases-segunda-temporada"
+  ],
+  "confianza": "baja",
+  "estado": "activa",
+  "notas": "Solo una fuente (Puro Teatro). No se confirmó si es una sala permanente o una casa que alquila su espacio. Sin web ni redes verificadas."
+ },
+ {
+  "nombre": "La Posada del Mirador",
+  "alias": [
+   "Posada del Mirador",
+   "LA POSADA DEL MIRADOR - BARRANCO - LIMA"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Calle La Ermita 104, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Bar junto al Puente de los Suspiros donde se hacen noches de stand-up y han debutado varios comediantes jóvenes.",
+  "web": null,
+  "instagram": null,
+  "url_cartelera": null,
+  "ticketera": [
+   "Teleticket"
+  ],
+  "coordenadas": {
+   "lat": -12.1495453,
+   "lng": -77.0234137
+  },
+  "fuente": [
+   "https://teleticket.com.pe/evento/2pa2-sin-censura-la-posada-del-mirador",
+   "https://teleticket.com.pe/evento/la-historia-que-no-se-sube-show-de-comedia-diego-gupioc-la-posada-del-mirador",
+   "https://www.escenaliberada.com/diego-gupioc-presenta-fuera-de-control/",
+   "https://nominatim.openstreetmap.org/"
+  ],
+  "confianza": "media",
+  "estado": "incierto",
+  "notas": "Shows de stand-up en Teleticket hasta febrero de 2026 (consumo mínimo S/ 35-40). No se hallaron funciones en sep-nov 2026, por eso estado \"incierto\" para la programación escénica."
+ },
+ {
+  "nombre": "Peña Don Porfirio",
+  "alias": [
+   "Don Porfirio"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Jr. Manuel Segura 115, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Peña criolla familiar que abre los viernes por la noche con música en vivo; en fechas como el Día de la Canción Criolla abre también otros días.",
+  "web": null,
+  "instagram": "https://www.instagram.com/donporfirio.oficial/",
+  "url_cartelera": null,
+  "ticketera": [
+   "reserva directa"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://elcomercio.pe/somos/dia-del-padre-regalos-ideas-celebra-el-dia-de-papa-en-una-pena-con-esta-ruta-noticia/",
+   "https://gestion.pe/tendencias/estilos/con-guitarra-y-cajon-propuestas-de-penas-limenas-en-el-dia-de-la-cancion-criolla-musica-peruana-estilos-danzas-marinera-noticia/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Viernes desde las 8:30 p. m. (Somos, jun. 2026). Reservas con pago adelantado, que suelen agotarse con días de anticipación. No publica cartelera: difunde por Instagram."
+ },
+ {
+  "nombre": "Peña La Oficina",
+  "alias": [
+   "La Oficina de Barranco",
+   "La Oficina"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Calle Enrique Barrón 441, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": 80,
+  "descripcion_corta": "Peña criolla y afroperuana con noches de música y baile los fines de semana; de día funciona como restaurante.",
+  "web": null,
+  "instagram": "https://www.instagram.com/laoficinadebarranco/",
+  "url_cartelera": null,
+  "ticketera": [
+   "reserva directa"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://elcomercio.pe/somos/dia-del-padre-regalos-ideas-celebra-el-dia-de-papa-en-una-pena-con-esta-ruta-noticia/",
+   "https://gestion.pe/tendencias/estilos/con-guitarra-y-cajon-propuestas-de-penas-limenas-en-el-dia-de-la-cancion-criolla-musica-peruana-estilos-danzas-marinera-noticia/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Noches de peña vie y sáb 9:30 p. m.-1:30 a. m. (Somos, jun. 2026). Aforo cercano a 80 personas según Gestión (2024). No publica cartelera: difunde por Instagram."
+ },
+ {
+  "nombre": "La Peña del Carajo",
+  "alias": [
+   "Del Carajo",
+   "Peña del Carajo"
+  ],
+  "ciudad": "Lima",
+  "distrito": "Barranco",
+  "direccion": "Calle Catalino Miranda 158, Barranco",
+  "tipo": "bar/club",
+  "aforo_aprox": null,
+  "descripcion_corta": "Peña con más de 25 años dedicada a la música criolla, con jaranas de fin de semana por la tarde.",
+  "web": null,
+  "instagram": "https://www.instagram.com/delcarajoperu/",
+  "url_cartelera": null,
+  "ticketera": [
+   "reserva directa"
+  ],
+  "coordenadas": null,
+  "fuente": [
+   "https://elcomercio.pe/somos/dia-del-padre-regalos-ideas-celebra-el-dia-de-papa-en-una-pena-con-esta-ruta-noticia/"
+  ],
+  "confianza": "media",
+  "estado": "activa",
+  "notas": "Sáb y dom de 1 a 6 p. m. (Somos, jun. 2026). No publica cartelera: difunde por Instagram."
+ }
+]
