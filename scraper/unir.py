@@ -46,10 +46,10 @@ def imagenes():
 
 
 def cargar_salas_investigadas():
-    ruta = DATA / "salas.json"
-    if not ruta.exists():
-        return {}, []
-    salas = json.load(open(ruta))
+    salas = []
+    for ruta in (DATA / "salas.json", DATA / "salas_barranco.json"):
+        if ruta.exists():
+            salas += json.load(open(ruta))
     indice = {}
     for s in salas:
         for nombre in [s["nombre"], *(s.get("alias") or [])]:
@@ -189,8 +189,9 @@ def main():
             agregar_obra(x, ev)
 
     # Cartelera publicada en las webs de las propias salas (salas_web/) y la que completamos
-    # con agendas municipales, del Ministerio de Cultura y prensa (salas_complemento/).
-    for ruta in (DATA / "extraido" / "salas_web.json", DATA / "extraido" / "salas_complemento.json"):
+    # con agendas municipales, del Ministerio de Cultura y prensa (salas_complemento/, salas_barranco/).
+    for ruta in (DATA / "extraido" / "salas_web.json", DATA / "extraido" / "salas_complemento.json",
+                 DATA / "extraido" / "salas_barranco.json"):
         if not ruta.exists():
             continue
         for x in json.load(open(ruta)):
